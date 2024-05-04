@@ -1,0 +1,48 @@
+Hmm I think I can partially answer that.
+
+It sounds like you are thinking about minimal functional completeness. The only functionally complete operators (universal gates) are Nand and Nor (the Apollo computers were made using only Nor gates, https://en.wikibooks.org/wiki/Digital_Circuits/NOR_Logic)
+
+If you want a functionally complete system with 2 operators, using XOR you need an If then (imply) or converse implication gate as well. Of the 26 functionally complete systems only 6 use XOR, because you can can equivalent functionally by chaining other gates.
+
+For example, you could simulate XOR with just ORs, ANDs, and NOT like this:
+
+A ↮ B = (A ∨ B ) ∧ ¬(A ∧ B )
+
+Or like this:
+
+A ↮ B = ( A ∧ B ) ∨ (¬A ∧ B )
+
+(https://en.m.wikipedia.org/wiki/Exclusive_or)
+
+Using three operators you could use XOR and IFF  and an OR or an AND, or XOR and TOP and an AND or an OR.
+
+(https://en.wikipedia.org/wiki/Functional_completeness)
+
+I asked GPT for the 16 logical operator, but it got it wrong.  They should have been and ∧, or ∨, xor ↮, if then (implication) →, converse implication ←,  equivalence ↔, nand ↑, nor ↓, but not (nimply, nonimplication↛, converse nonimplication ↚, 
+top (tautology) ⊤, bottom (contradiction) ⊥, A, B, not A ¬A, not B ¬B
+
+Good luck trying to type any of that, it seems no one can agree on the correct symbols.
+
+Human:
+WHAT ARE THE 16 logical operators for a Boolean calculus of two variables? 
+
+AI:
+The sixteen logical operators in the Boolean calculus of two variables are: 
+AND: A ∧ B 
+OR: A ∨ B 
+XOR: A ⊕ B 
+NOT: ¬A 
+IMPLICATION: A → B 
+CONVERSE IMPLICATION: A ← B 
+EQUIVALENCE: A ≡ B 
+NAND: A ↑ B 
+NOR: A ↓ B 
+EXCLUSIVE-OR: A ⊻ B 
+CONVERSE 
+EXCLUSIVE-OR: A △ B 
+IFF: A <→ B 
+COMPLEMENT: A ⌐ B 
+CONVERSE COMPLEMENT: A ◊ B 
+EQUIVALENT: A = B
+
+December 4, 2022

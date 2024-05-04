@@ -1,0 +1,25 @@
+The paper, The collective intelligence of evolution and development, by Richard Watson and Michael Levin discusses the concept of collective intelligence in the context of evolution and developmental morphogenesis, comparing it to individual intelligence.
+
+### Main Points:
+
+1. **Difference between Collective and Individual Intelligence**:
+   - Individual intelligence is well-acknowledged and linked to specific neural mechanisms evolved through natural selection, catering to the fitness benefits of the organism. It's further enhanced by lifetime experiences for maximizing individual rewards.
+   - Collective intelligence, in contrast, is more ambiguous and less understood. Its definition and mechanisms are often vague and domain-specific.
+
+2. **Challenges in Defining Collective Intelligence**:
+   - Unlike individual intelligence, collective intelligence mechanisms are not evolved specifically for the purpose of collective cognition, as collectives are not typically evolutionary units.
+   - There is uncertainty about whether collectives can learn like individual intelligences, given they do not have a singular locus of rewards and benefits.
+
+3. **Evolution and Developmental Morphogenesis as Examples**:
+   - The paper uses examples from evolution and developmental morphogenesis to argue that the distinctions between individual and collective intelligence might not be as clear-cut as commonly perceived.
+
+4. **Connectionist Models and Collective Intelligence**:
+   - The authors propose using and expanding existing models of individual cognition and learning, particularly connectionist models (as seen in neural networks), as a framework for understanding collective intelligence.
+
+5. **Exploring the Conditions for Collective Intelligence**:
+   - The paper discusses how specific features of these models can inform the necessary and sufficient conditions for collective intelligence and identifies gaps in current knowledge as opportunities for future research.
+
+6. **Keywords**:
+   - Evolution, machine learning, networks, individuality, neural networks.
+
+In essence, the paper aims to bridge the gap between individual and collective intelligence, using insights from evolution and developmental biology, and applying concepts from neural networks and connectionist models to explore the foundations of collective intelligence.

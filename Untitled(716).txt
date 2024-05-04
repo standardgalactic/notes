@@ -1,0 +1,131 @@
+self-training method. 
+Most models overf i t to the training corpora and 
+achieve high accuracy on regular evaluation sets, 
+but perform poorly on adversarial benchmarks 
+(Wang et al., 2021a). As a result, fully supervised 
+models achieve less than 60% accuracy on Ad- 
+vGLUE. We also investigate if SimPLE hurts the 
+model’s robustness against adversarial evaluation 
+data. We found that, except RoBERTa on AdvQQP, 
+other settings show that the entailment-based mod- 
+els are still robust after SimPLE self-training. As 
+we compared in Table 2, all these results signif i- 
+cantly outperform fully-supervised baselines. 
+Pseudo-labeling Accuracy. We show the pseudo- 
+labeling accuracy of RoBERTa and DeBERTa- 
+based entailment models with different strategies 
+in Figure 3 with 10 independent experiments. The 
+results indicate that the DeBERTa models predict 
+more accurate pseudo-labels in general. On the 
+BaseSTDropoutSETREDSimPLE 
+0.68 
+0.70 
+0.72 
+0.74 
+0.76 
+0.78 
+0.80 
+RoBERTa 
+DeBERTa 
+Figure 3: Pseudo-labeling accuracy of entailment mod- 
+els with standard (ST), dropout, SETRED, and SimPLE 
+strategies. SETRED achieves higher accuracy because 
+uncertain data samples are dropped. 
+Uncertain region + : True - : False 
+Num sample: 1762 
+Num True : 562 
+Num False : 1182 
+Figure 4: Visualization of the embeddings, pseudo- 
+labels, and uncertainty of QNLI suppositions calculated 
+by the pretrained DeBERTa entailment model. Each 
+data sample has 7 embeddings calculated with different 
+dropouts. Black stands for uncertain points and other 
+colors stand for different training examples. 
+other hand, the pseudo-label sets produced by Sim- 
+PLE with both models are signif i cantly less noisy 
+than the standard and dropout-based labeling meth- 
+ods without removing any uncertain data samples. 
+SETRED achieves the highest labeling accuracy be- 
+cause it drops uncertain samples. The comparison 
+suggests that SimPLE achieves the highest perfor- 
+mance because it achieves high pseudo-labeling 
+accuracy on uncertain training samples. 
+Case study. We visualize the hidden states, pseudo- 
+labels, and conf i dence of the training samples in the 
+QNLI tasks calculated by the pretrained DeBERTa 
+entailment model with the SimPLE algorithm in 
+Figure 4. The embedding space is calculated with t- 
+SNE (Van der Maaten and Hinton, 2008) using 252 
+training samples with 252*7=1764 embeddings. 
+Half of them are plotted in the i gure. Each training 
+sample is evaluated with 7 different dropouts, and 
+the uncertainty is estimated with 9 neighbors. In 
+Figure 4, different embeddings of the same training 
+sample are labeled with the same color, while the 
+uncertain cases are marked in black. + and- stand 
+for the truth value of the suppositions. As shown 
+in the i gure, most uncertain cases appear around 
+the uncertain circle. We also highlight two training 
+samples with uncertain representations. This phe- 
+nomenon indicates that the SimPLE algorithm can 
+drop most embeddings of a data sample and edit the 
+voting results of the dropout-based pseudo-labeling 
+method, improving the pseudo-labeling accuracy 
+from 76.5% to 79.2% in this experiment. 
+We also show that the original pseudo-label set is 
+unbalanced, with 67.1% of all predicted labels be- 
+ing “False”. Although we do not provide any prior 
+knowledge about the label distribution of the task 
+(unknown without human annotation), the SimPLE 
+method mitigates the bias through the uncertain 
+candidate removal process. Figure 4 shows that 
+most uncertain pseudo-labels estimated by Sim- 
+PLE are “False”, thus the remaining pseudo-labels 
+are more balanced. 
+7Conclusion 
+We show that entailment-based language models 
+can be adapted to different NLU tasks without su- 
+pervision and achieve robust performance against 
+noisy pseudo-labels and adversarial texts. We de- 
+sign a supposition-based prompting strategy to 
+improve the zero-shot adaptation performance of 
+entailment-based models. To improve the stability 
+of self-training, we propose the SimPLE algorithm 
+for augmented pseudo-labeling. Experiments on 
+binary, multi-class, regular, and adversarial NLU 
+tasks show that the SimPLE self-training strategy 
+signif i cantly outperforms a number of strong base- 
+lines, including 400 and 500 times larger language 
+models on both zero-shot and weakly supervised 
+settings, proving the effectivenss of entailment self- 
+training for eff i cient and trustworthy natural lan- 
+guage understanding systems. 
+Limitations 
+Our method utilized pretrained entailed models 
+and adapted them to other domains under zero- 
+shot and self-training settings. There are two lim- 
+itations that we would like to improve in future 
+work. Firstly, we use human-designed suppositions 
+for each task, which is less automatic than a di- 
+rect, zero-shot adaptation of the models. Secondly, 
+the self-training on some multi-class classif i cation 
+tasks is not as high as on binary NLU tasks, indi- 
+cating the challenge of applying entailment models 
+to multi-choice tasks. We would like to overcome 
+this in the next step. 
+Ethics Statement 
+We propose a method that can signif i cantly reduce 
+the i nancial and environmental cost of language 
+model learning. By reducing the need for data 
+collection and human labeling, our method can ef- 
+fectively protect user and data privacy by avoiding 
+leaking any information while building the training 
+corpora. We found that a medium-sized language 
+model can achieve similar performance as the state- 
+of-the-art large-scale language models, suggesting 
+that we can cost less i nancially and environmen- 
+tally during model training and evaluation for com- 
+parable performance. However, since we reduced 
+the need for human-labeling efforts, the deploy- 
+ment of the system might decrease the number of 
+data annotation jobs.

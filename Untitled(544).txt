@@ -1,0 +1,65 @@
+Summarize: The Theory of Harmonic Ontological Algebric Existence
+Bahaa Iz,
+Moonspic
+bahaa.ezz@hotmail.com
+9"", May, 2023
+o
+Summary of this theory: The theory of ontological algebra suggests a new representation of the
+infinity and zero that considers each of them as a "field". That field is equivalent to the real field in
+maintaining classic operations like addition and multiplication. The main basis of that theory is that the
+classic
+multiplication of zero and infinity that subscribe the same real element is equal to that real element. For
+example 0s * Infs = 3. Whereas the undermined result comes when the basis of zero and infinity
+mismatches. The classic real number can be written as number with 0, and Inf, altogether. However,
+despite that the concept of zero and infinity are totally different in the classic algebraic operations, there
+is nothing special about how these fields are dealt with in that theory. In fact, if the name of these zero
+and infinity field is changed, the operations that dictate the situation that lead to a real number will
+remain the same. That does tempt to generalize the theory to multiple dimension (n) that satisfy the
+same dogma in that the multiplication of each element of each field will result in the real number if and
+only if the scale of that element is equal to the real number. For example, consider the case when the
+Or
+field of 2 and field of infinity are renamed as "x" and "y" respectively. And other similar fields "Z"
+zero
+and ed "q" are added to the representation then the theory suggest the validity of the following:
+ya ‣ za * qa =3. Whereas if any of these element did deviate from the other the result will not be
+X3
+a "real number" but a "potential of existence" that can be result in the result in real number upon any
+algebraic operations that set all the elements of all fields to be equal. This notion on the "harmonic
+existence" that a real number emerge to existence only when a harmony of other fields
+suggest equalizing over different ontological existence of these fields at the same time. are met can
+[he representation in linear algebra: The conditions that result in having a real number upon matc
+ofall elements of the fields of the ontological existence is not "causal" as the math is an abstraction.
+Thus, the theory does not treat the field of the real numbers as any special case than the other fields. In
+fact, the computational representation of the the theory of ontological algebra is more feasible when
+1
+representing the real number and the potential of existence as one vector. For example the vector
+1] does represent the real number "2"
+Whereas the vector [2, 3, does represent a real number "2" with additional potential existence of 0.
+and Infe Which can be also equivalent to [6, 1, 2] since 0(3) * inf(3)=3
+However, there is nothing special in the vector operation about the real field. That is to say, the real
+is
+OF
+field could be represented as the second or the third element of the vector. Thus, this suggest a further
+generalization of the the harmonic ontological algebra special operation in vector multiplications.  vector multiplication of the harmonic ontological algebra: When applying any operations over
+anv two numbers that are represented as vectors, there is a "prior" of choosing the index that represent
+the basis of the calculations (or in the traditional sense of the theory, the real number). By doing so, the
+the operation over two vectors (or two ontological numbers) will follow these steps:
+1- get the value of the preset index.
+Of
+2- divide all the elements of the vectors by that value. 3- carry out the operation of the two vectors element wise.
+or
+I- re-calculated the existence of real components by estimating the matched numbers of all element
+the field.
+5- Consider the remained unmatched numbers of each element of the vector as "potential existence".
+The entangled representation of numbers:
+This theory suggests that there are vectors that maintain an equivalency of existence across different
+ields. For example, upon changing the considered index of the vector that is used as a basis of carrying
+out the calculation, the result will be a new vector hat is equivalent to another vector that represent an
+equivalent existence in another field of a different index. Nevertheless, the fact that there can be
+different representations of the "existence" and ""potential of existence" in the same field may suggest
+that there can be an equivalency of a set of vectors 01 one field to another set of vector of another field.
+to
+'otential application of this theory: Many physical phenomenon does show the effect the uncertaint
+and eauivalency Thus, the ontological algebraic calculation can have the potential to contribute to
+representing and calculating such physical dynamic upon generalizing over classic mathematical
+notions that still consider that undermined of many operations that involves zero and infinity.

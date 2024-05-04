@@ -1,0 +1,46 @@
+A question is whether the connections of the brain, which are different from those in deep 
+learning models, can solve the scaling problem. This is unlikely. First, connectionist models 
+of the brain have been around for a while (e.g., [2, 16, 17]); if they were performing better 
+than deep learning, this would have been noticed and would have been already used in AI 
+technology. Second, computational neuroscience has never been able to show theoretical 
+models that deal with anything but toy problems: To the best of the author’s knowledge, no 
+theoretical model of the brain has ever been able to cope with a real-life task. This suggests 
+a generally poor scaling properties of connectionist systems. In addition, in Supplementary 
+Materials there is an argument based on generalized logical XOR functions explaining why 
+connectionism cannot scale effectively (applicable to both deep learning or biological 
+networks). 
+Figure 1. The scaling problem in connectionist systems vs. in biological networks. A) A 
+power law relation between the intelligence of a transformer model for language processing 
+(intelligence defined as 1/loss) and the number of parameters in the model. Adapted from [15]. Inset: 
+the same graph shown in a log-log plot, the straight line indicating a power law. B) Demands on 
+resources for various approaches to intelligence. Blue: In connectionism the demands on resources 
+grow with power law where the exponent a is much larger than one. In biology, the resources grow 
+linearly for learning (solid red line) and remain unchanged for recombining the learned pieces of 
+knowledge (a = 0; dashed red line). 
+These conclusions stand in contrast to the excellent scaling properties of biological brains. 
+When comparing the brain sizes of different species, it is evident that only an increase in the 
+brain size by a factor of 200 is sufficient to rise the intelligence from the level of a mouse to 4 
+that of a human. Similarly, the factor of 4 distinguishes the sizes of the chimpanzee brain 
+and of a human. Deep learning models cannot do much with such small increases in the 
+number of parameters, as they would allow for an increase in intelligence at most by 80% 
+(for a 200-fold increase) and by 20% (4-fold increase). If one needs to increase the 
+intelligence of deep learning systems by for example a factor of 1000, which would be a 
+more realistic expectation when comparing a human to a mouse brain, this would require at 
+least a 1000a = 1027 if not a 1039-fold increase in the brain size, which would require a brain 
+of the size of a celestial body. 
+Even more excessive demands for resources emerge when comparing humans and 
+machines. The number of visual objects that a state-of-the-art connectionist machine may 
+distinguish reliably is in the order of 103. In contrast, biological brains have the capability to 
+effortlessly understand and accurately perceive visual objects created by novel arrangements 
+of elements forming constellations never seen before. An assessment of the total variety of 
+situations that can be correctly perceived by an adult human lead to a lower-bound estimate 
+of 1048 and the upper bound of 1064, all without having to resort to new learning [18]. By 
+extrapolating the power laws ruling connectionist machines, the discrepancies remain so vast 
+(in the order of 1045 to 1061) that to catch up with the human brain, the power law growth of 
+the state-of-the-art deep learning systems would require them to exceed the size of the 
+known universe. 
+Thus, it is a must for biological systems to scale their intelligence better than what 
+connectionism can offer. Otherwise, we could not survive in real-world environments, which 
+are more complex than any of the problems that today’s AI technology is able to handle. 
+Biological systems exhibit two intelligence-scaling properties that respectively have power 
+law exponents 1 and 0.

@@ -1,0 +1,39 @@
+import numpy as np
+
+# Triangular membership function definition
+def triangular_mf(x, a, b, c):
+    return max(0, min((x - a) / (b - a), (c - x) / (c - b)))
+
+# Fuzzy inference function
+def fuzzy_inference(input_value):
+    # Define the membership function parameters
+    mf1_params = (0, 1, 2)
+    mf2_params = (1, 2, 3)
+
+    # Calculate the rule strengths
+    rule1_strength = triangular_mf(input_value, *mf1_params)
+    rule2_strength = triangular_mf(input_value, *mf2_params)
+
+    # Define the output membership function parameters
+    output_mf_params = (2, 3, 4)
+
+    # Calculate the defuzzified output
+    numerator = rule1_strength * output_mf_params[0] + rule2_strength * output_mf_params[1]
+    denominator = rule1_strength + rule2_strength
+
+    # Avoid division by zero if denominator != 0:
+        defuzzified_output = numerator / denominator
+    else:
+        defuzzified_output = 0
+
+    return defuzzified_output
+
+# Input value within the range of the membership functions
+input_value = 2.5  # Adjust the value as needed
+
+# Calculate the defuzzified output
+output = fuzzy_inference(input_value)
+
+# Print the result
+print(f"Input value: {input_value}")
+print(f"Defuzzified output: {output}")

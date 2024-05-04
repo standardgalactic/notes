@@ -1,0 +1,44 @@
+ClaimEdit
+
+THE PROOF IS INDEPENDENT OF ANY OTHER MAJOR THEOREM RELATED TO THE SUBJECT .
+
+
+THE  THEOREM : IF TWO LINES INTERSECT TWO PARALLEL LINES THEN THE INTERCEPTS  ARE IN THE SAME RATIO
+
+                                                   
+
+
+LETS  DISCUSS  MY PROOF  
+
+
+       LETS SEE THE DIAGRAM FIRST
+
+   
+
+￼
+
+
+
+
+
+
+GIVEN ELEMENTS :-
+
+{\displaystyle \angle A=\angle D}
+
+￼
+
+{\displaystyle \angle B=\angle E}￼
+
+{\displaystyle \angle C=\angle F}￼
+
+{\displaystyle OC=R,PF=r}￼
+
+PROOF :-
+
+SINCE , IF ARCS SUBTEND EQUAL ANGLES AT THE CENTRE OR CIRCUMFERENCE THEN THE ARCS ARE SIMILAR
+
+{\displaystyle \left({\frac {arcAC}{arcDF}}\right)=\left({\frac {\left({\frac {2\angle B}{360^{\circ }}}\right)\times 2\pi R}{\left({\frac {2\angle E}{360^{\circ }}}\right)\times 2\pi r}}\right)=\left({\frac {R}{r}}\right)}
+
+
+

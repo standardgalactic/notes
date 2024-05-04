@@ -1,0 +1,175 @@
+Today's links
+
+Your computer is tormented by a wicked god: Bootkits are why we can't have nice things.
+
+Peter Thiel's evil, but he's not an "evil genius": How to criticize self-mythologizing villains.
+
+Hey look at this: Delights to delectate.
+
+This day in history: 2007, 2012, 2017, 2021
+
+Colophon: Recent publications, upcoming/recent appearances, current writing projects, current reading
+
+
+￼
+
+Your computer is tormented by a wicked god (permalink)
+
+Computer security is really, really important. It was important decades ago, when computers were merely how we ran our financial system, aviation, and the power grid. Today, as more and more of us have our bodies inside of computers (cars, houses, etc) and computers in our body (implants), computer security is urgent.
+
+Decades ago, security practitioners began a long argument about how best to address that looming urgency. The most vexing aspect of this argument was a modern, cybernetic variant on a debate that was as old as the ancient philosophers – a debate that Rene Descartes immortalized in the 17th Century.
+
+You've doubtless heard the phrase, "I think therefore I am" (Cogito, ergo sum). It comes from Descartes' 1637 Discourse on Method, which asks the question, "How can we know things?" Or, more expansively, "Given that all my reasoning begins with things I encounter through my senses, and given that my senses are sometimes wrong, how can I know anything?"
+
+Descartes' answer: "I know God is benevolent, because when I conceive of God, I conceive of benevolence, and God gave me my conceptions. A benevolent God wouldn't lead me astray. Thus, the things I learn through my senses and understand through my reason are right, because a benevolent God wouldn't have it any other way."
+
+I've hated this answer since my freshman philosophy class, and even though the TA rejected my paper explaining why it was bullshit, I still think it's bullshit. I mean, I'm a science fiction writer, so I can handily conceive of a wicked God whose evil plan starts with making you think He is benevolent and then systematically misleading you in your senses and reasoning, tormenting you for His own sadistic pleasure.
+
+The debate about trust and certainty has been at the center of computer security since its inception. When Ken "Unix" Thompson accepted the 1984 Turing Prize he gave an acceptance speech called "Reflections on Trusting Trust":
+
+https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
+
+It's a bombshell. In it, Thompson proposes an evil compiler, one that inserted a back-door into any operating system it compiled, and that inserted a back-door-generator into any compiler it was asked to compile. Since Thompson had created the original Unix compiler – which was used to compile every other compiler and thus every other flavor of Unix – this was a pretty wild thought experiment, especially since he didn't outright deny having done it.
+
+Trusting trust is still the most important issue in information security. Sure, you can run a virus-checker, but that virus checker has to ask your operating system to tell it about what files are on the drive, what data is in memory, and what processes are being executed. What if the OS is compromised?
+
+Okay, so maybe you are sure the OS isn't compromised, but how does the OS know if it's even running on the "bare metal" of your computer. Maybe it is running inside a virtual machine, and the actual OS on the computer is a malicious program that sits between your OS and the chips and circuits, distorting the data it sends and receives. This is called a "rootkit," and it's a deadass nightmare that actually exists in the actual world.
+
+A computer with a rootkit is a brain in a jar, a human battery in the Matrix. You, the computer user, can ask the operating system questions about its operating environment that it will answer faithfully and truthfully, and those answers will all be wrong, because the actual computer is being controlled by the rootkit and it only tells your operating system what it wants it to know.
+
+20 years ago, some clever Microsoft engineers proposed a solution to this conundrum: "Trusted Computing." They proposed adding a second computer to your system, a sealed, secure chip with very little microcode, so little that it could all be audited in detail and purged of bugs. The chip itself would be securely affixed to your motherboard, such that any attempt to remove it and replace it with a compromised chip would be immediately obvious to you (for example, it might encapsulate some acid in a layer of epoxy that would rupture if you tried to remove the chip).
+
+They called this "Next Generation Secure Computing Base," or "Palladium" for short. They came to the Electronic Frontier Foundation offices to present it. It was a memorable day:
+
+https://pluralistic.net/2020/12/05/trusting-trust/#thompsons-devil
+
+My then-colleague Seth Schoen – EFF's staff technologist, the most technically sophisticated person to have been briefed on the technology without signing an NDA – made several pointed critiques of Palladium:
+
+https://web.archive.org/web/20020802145913/http://vitanuova.loyalty.org/2002-07-05.html
+
+And suggested a hypothetical way to make sure it only served computer users, and not corporations or governments who wanted to control them:
+
+https://www.linuxjournal.com/article/7055
+
+But his most salient concern was this: "what if malware gets into the trusted computing chip?"
+
+The point of trusted computing was to create a nub of certainty, a benevolent God whose answers to your questions could always be trusted. The output from a trusted computing element would be ground truth, axiomatic, trusted without question. By having a reliable external observer of your computer and its processes, you could always tell whether you were in the Matrix or in the world. It was a red pill for your computer.
+
+What if it was turned? What if some villain convinced it to switch sides, by subverting its code, or by subtly altering it at the manufacturer?
+
+That is, what if Descartes' God was a sadist who wanted to torment him?
+
+This was a nightmare scenario in 2002, one that the trusted computing advocates never adequately grappled with. In the years since, it's only grown more salient, as trusted computing variations have spread to many kinds of computer.
+
+The most common version is the UEFI – ("Unified Extensible Firmware Interface") – a separate operating system, often running on its own chip (though sometimes running in a notionally "secure" region of your computer's main processors) that is charged with observing and securing your computer's boot process.
+
+UEFI poses lots of dangers to users; it can (and is) used by manufacturers to block third-party operating systems, which allows them to lock you into using their own products, including their app stores, letting them restrict your choices and pick your pocket.
+
+But in exchange, UEFI is said to deliver a far more important benefit: a provably benevolent God, one who will never lie to your operating system about whether it is in the Matrix or in the real world, providing the foundational ground truth needed to find and block malicious software.
+
+So it's a big deal that Kaspersky has detected a UEFI-infecting rootkit (which they've dubbed a "bootkit"), which they call Cosmicstrand, which can reinstall itself after your reformat your drive and reinstall your OS:
+
+https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/
+
+Cosmicstrand does some really clever, technical things to compromise your UEFI, which then allows it to act with near-total impunity and undetectability. Indeed, Kaspersky warns that there are probably lots of these bootkits floating around.
+
+If you want a good lay-oriented breakdown of how Cosmicstrand installs a wicked God in your computer, check out Dan Goodin's excellent Ars Technica writeup:
+
+https://arstechnica.com/information-technology/2022/07/researchers-unpack-unkillable-uefi-rootkit-that-survives-os-reinstalls/
+
+Cosmicstrand dates back at least to 2016, a year after we learned about the NSA's BIOS attacks, thanks to the Snowden docs:
+
+https://www.wired.com/2015/03/researchers-uncover-way-hack-bios-undermine-secure-operating-systems/
+
+But despite its long tenure, Cosmicstrand was only just discovered. That's because of the fundamental flaw inherent in designing a computer that its owners can't fully inspect or alter: if you design a component that is supposed to be immune from owner override, then anyone who compromises that component can't be detected or countered by the computer's owner.
+
+This is the core of a two-decade-old debate among security people, and it's one that the "benevolent God" faction has consistently had the upper hand in. They're the "curated computing" advocates who insist that preventing you from choosing an alternative app store or side-loading a program is for your own good – because if it's possible for you to override the manufacturer's wishes, then malicious software may impersonate you to do so, or you might be tricked into doing so.
+
+This benevolent dictatorship model only works so long as the dictator is both perfectly benevolent and perfectly competent. We know the dictators aren't always benevolent. Apple won't invade your privacy to sell you things, but they'll take away every Chinese user's privacy to retain their ability to manufacture devices in China:
+
+https://www.nytimes.com/2021/05/17/technology/apple-china-censorship-data.html
+
+But even if you trust a dictator's benevolence, you can't trust in their perfection. Everyone makes mistakes. Benevolent dictator computing works well, but fails badly. Designing a computer that intentionally can't be fully controlled by its owner is a nightmare, because that is a computer that, once compromised, can attack its owner with impunity.
+
+(Image: Cryteria, CC BY 3.0, modified)
+
+
+￼
+
+Peter Thiel's evil, but he's not an "evil genius" (permalink)
+
+Peter Thiel: "I’d rather be seen as evil than incompetent." It's the far-right billionaire's most telling phrase. Thiel wants us to think he's an evil genius, because he wants us to think he's a genius. So much of Thiel's activity is devoted to self-mythologizing, like when he made us all think he was infusing the blood of teenagers in a bid to become immortal:
+
+https://www.vanityfair.com/news/2016/08/peter-thiel-wants-to-inject-himself-with-young-peoples-blood
+
+But as Ben Burgis writes for Jacobin, Thiel isn't an evil genius, "he's just a rich guy":
+
+https://jacobin.com/2022/07/peter-thiel-superrich-wealth-inequality-political-influence/
+
+Burgis cites Max Chafkin's 2021 Thiel biography, The Contrarian, which shines a glaring light on the distance between Thiel's stated commitment to high-minded ideals of "liberty" and his self-serving defense of mass surveillance and human rights abuses:
+
+https://bookshop.org/books/the-contrarian-peter-thiel-and-silicon-valley-s-pursuit-of-power/9781984878533
+
+If you think Thiel is an evil genius, then maybe these contradictions are the result of your puny brain lacking the subtlety to understand how, on a higher plane of reasoning, they can be resolved. If you understand that Thiel is an ordinary mediocrity, no better than you or me, sickened by pathological greed, then there's a much simpler explanation: it's all bullshit, and the only thing Thiel really cares about is becoming richer and more powerful.
+
+That explanation goes a long way to explain why a "libertarian" would defend Apartheid, express regret that women are allowed to vote, state that "freedom and democracy" are incompatible, and secretly fund a lawsuit to destroy a media organization that embarrassed him:
+
+https://www.forbes.com/sites/mattdrange/2019/12/23/best-stories-of-the-decade-behind-peter-thiels-plan-to-destroy-gawker/
+
+Thiel's self-mythologizing provides a cover for all of this, while making him far richer: for example, his campaign to make us think that Palantir played a role in killing Osama bin Laden was an obvious gambit to increase the share-price of Palantir.
+
+Burgis cites Nathan Robinson's Current Affairs article, "Two Ways Of Responding To Conservatives," which used the example of Jordan Peterson as a template for critiquing self-mythologizing far-right figures without helping them by calling them evil geniuses:
+
+https://www.currentaffairs.org/2018/05/two-ways-of-responding-to-conservatives
+
+Robinson proposes a test: "Does it reinforce the person’s self-conception or undermine it?" Burgis applies this test to Thiel, urging us not to dwell on the drinking blood, taking votes away from women, or funding "neoreactionaries" like Curtis Yarvin.
+
+Rather, Burgis says, we should focus on how Thiel spends his political money, backing "populists" like JD Vance, who say they're fighting for working people, but who oppose universal healthcare, universal childcare, and against raising the minimum wage.
+
+Burgis: "Thiel is dangerous — not because he’s an evil mastermind, but because he’s a billionaire who enjoys playing with our politics and he couldn’t care less about the people who get hurt in the process."
+
+Burgis's critique ties nicely into Lee Vinsel's idea of "criti-hype" – criticism that starts by accepting it's subject's own self-mythologizing, then damns them for it. Think of critics who accept Google's claims that its "AI"-driven ads can sell anything to anyone, then criticize it for having built a mind-control ray:
+
+https://pluralistic.net/2021/02/02/euthanize-rentiers/#dont-believe-the-hype
+
+Like Thiel, Google would rather be seen as evil than as incompetent. When Google's critics run around accusing the company of having perfected machine learning mind-control, they help Google sell ads, because the advertisers Google is pitching aren't upset that Google has a mind-control ray, provided Google will rent it out to them.
+
+A smart synthesis of criti-hype comes from Maria Farrell, whose "Prodigal Techbro" is a great way to understand the problems with allowing ourselves to be lured into "evil genius" talk:
+
+https://conversationalist.org/2020/03/05/the-prodigal-techbro/
+
+Farrell's prodigal techbro is an ex-Big-Tech geek turned anti-Big-Tech crusader, whose anti-Big-Tech position starts with the proposition that they and their former colleagues were all evil geniuses who hijacked our brains' reward-centers with junk-science psych ideas like "Big Five Personality Types" and "Sentiment Analysis" (conveniently omitting the fact that these have been seriously undermined by the replication crisis):
+
+https://replicationindex.com/category/big-five/
+
+Focusing on what Big Tech says it does isn't just a problem because it perpetuates the companies' self-mythologizing, but also because it distracts from what we know Big Tech actually does. If we repeat the lie that Big Tech's ad billions are the result of its mind-control ray, then we omit the fact that Facebook and Google entered into an illegal conspiracy to rig the ad market:
+
+https://techcrunch.com/2022/03/11/google-meta-jedi-blue-eu-uk-antitrust-probes/
+
+"Just a rich guy" is the perfect epithet for Thiel, who, after all, is not an ideologue or an 11-dimensional chess master. He's just another thin-skinned, greedy bastard who uses his money and power to accumulate more money and power. The rest is just window-dressing.
+
+(Image: Dan Taylor for https://www.heisenbergmedia.com, CC BY 2.0; Austin Powers, New Line Cinema, fair use, modified)
+
+Hey look at this (permalink)
+
+￼
+
+Sarah Jickling and her Good Bad Luck (brilliant music about mental health!) https://www.youtube.com/c/SarahJicklingandherGoodBadLuck (h/t Oh No Ross and Carrie)
+
+Business cards with embedded abortion pills https://www.vice.com/en/article/bvmn35/diy-collective-embeds-abortion-pill-onto-business-cards-distributes-them-at-hacker-conference
+
+Disability at Home (galley of hacks and adaptations) https://www.disabilityathome.org/ (h/t Fipi Lele)
+
+
+￼
+
+This day in history (permalink)
+
+#15yrsago Web contracts can’t be changed without notice https://web.archive.org/web/20070918070615/http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9028240&source=rss_news10
+
+#10yrsago Record labels won’t share Pirate Bay winnings with artists; they’re keeping it for record companies https://torrentfreak.com/pirate-bay-loot-with-artists-120728/
+
+#5yrsago Foxconn’s corporate welfare deal will cost Wisconsin taxpayers more than 3 billion dollars https://www.jsonline.com/story/news/politics/2017/07/28/foxconn-could-get-up-200-million-cash-year-state-residents-up-15-years/519687001/
+
+#1yrago Bankruptcy and elite impunity: The Sacklers offer billions of reasons to overthrow the system https://pluralistic.net/2021/07/29/impunity-corrodes/#morally-bankrupt
+

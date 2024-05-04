@@ -1,0 +1,4 @@
+In neuroscience, predictive coding (also known as predictive processing) is a theory of brain function which postulates that the brain is constantly generating and updating a "mental model" of the environment. According to the theory, such a mental model is used to predict input signals from the senses that are then compared with the actual input signals from those senses.[1] With the rising popularity of representation learning, the theory is being actively pursued and applied in machine learning and related fields.[2]
+
+The phrase 'predictive coding' is also used in several other disciplines such as signal-processing technologies and law in loosely-related or unrelated senses.
+

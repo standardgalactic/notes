@@ -1,0 +1,215 @@
+FALLING AND FORCING 
+The difference between spontaneous and non-spontaneous change is one of the most common features 
+encountered in everyday experience. It is also the basis of what is often described as “broken 
+symmetry” in the world. Some changes are symmetric in the sense that they are just as natural run 
+forwards or backwards. This is approximately the case with the collision of two billiard balls in the 
+absence of friction. Play the movie of a collision both forwards and backwards and it will be difficult 
+to discern which is the “real” version. This is because Newton’s laws of motion are symmetric. But if 
+the movie involves fifteen balls colliding with one another, it will often be quite obvious which 
+sequence is shown forwards and which is shown backwards. And this doesn’t depend on energy 
+being added or friction slowing the velocities. Even on an imaginary frictionless billiard table, this 
+can be discovered so long as one begins with an asymmetrically organized arrangement. Thus the 
+breaking up of a symmetrically organized triangular array of balls (as in a pool “break”) so that they 
+become scattered and careen around the table will be the obvious forward direction, whereas a 
+reversal of this movie will appear quite unnatural. However, if we begin the movie at progressively 
+later and later points, after each ball has had an opportunity to haphazardly interact dozens of times 
+with different balls at different positions around the table, it will become progressively more difficult 
+to discern forward- from backward-running movies (Figure 7.1). 
+The early phases of such a process are familiar to our everyday experience. Mixing things up is far 
+easier, and far more likely, than unmixing them. And once mixed up, things tend to stay that way. This 
+spontaneous asymmetry in the pattern of dynamical change is the essence of the second law of 
+thermodynamics. And as we have also seen, it is with respect to this spontaneous asymmetry of 
+change that emergent processes are typically defined. So before we can make complete sense of the 
+dynamics that produces emergent phenomena, it is important to be more precise about what makes this 
+form of spontaneous asymmetric change similar to and different from the kind of spontaneous change 
+that is exhibited by a body in constant linear motion. 
+FIGURE 7.1: A cartoon characterization of the asymmetry implicit in thermodynamic change from a constrained (“ordered”) state 
+to a less constrained (“disordered”) state, which tends to occur spontaneously (an orthograde process), contrasted with the 
+reversed direction of change, which does not tend to occur spontaneously (a contragrade process), and so only tends to occur in 
+response to the imposition of highly constrained external work (arrows in the image on the right). 
+
+
+The conundrum that heat posed for nineteenth-century physicists was explaining how the dynamics 
+of individually colliding billiard balls could be symmetric with respect to time, and thus theoretically 
+reversible, and yet their collective behavior is not. The answer was first glimpsed by James Clerk 
+Maxwell and later applied to thermodynamic processes by Ludwig Boltzmann in the last half of the 
+nineteenth century. Basically, each collision results in changing the velocity and direction of each 
+object (billiard ball or molecule), and as more and more collisions ensue, the velocities and 
+directions of movement will become more and more divergent from original values, analogous to the 
+way that shuffling a deck of cards causes any two cards that were once close together to 
+progressively get more and more separated, until they vary around the average degree of separation 
+for any two cards. Similarly, as each billiard ball or molecule interacts again and again with others, 
+local correlations of position and movement get progressively redistributed. As the collection 
+continues to interact (assuming no loss due to friction), it will vacillate around the average 
+distribution; but it will be astronomically unlikely to pass through a highly regularized state (like a 
+stationary triangular arrangement) ever again. 
+This too is a geometric effect, but in this case it involves the geometry of the probable paths of 
+change, not the geometry of space-time. It exemplifies the fact that the universe has a deeply 
+asymmetric predisposition when it comes to any process involving many components. The probability 
+that any interaction will reflect this asymmetric bias is proportional to the number of interacting 
+components or features. 
+The Newtonian collision between two objects is thus the limiting case, not the rule. It is generally 
+possible to discern which way the movie of a dynamical interaction between many objects is being 
+played because some large-scale distributional features become very much more likely than others. 
+This becomes evident even with only a handful of objects, such as the balls on a billiard table. As we 
+add more and more objects and interactions, this asymmetry grows rapidly, quickly reaching the point 
+where the probabilities are effectively indistinguishable from 0 and 1 (impossibility and certainty). 
+This is the case for most thermodynamic systems, since in even a minuscule volume of liquid or gas 
+we may be dealing with billions of molecules, interacting with each other billions of times each 
+second. So, in any human-scale thermodynamic process, the probability of reflecting this bias is 
+essentially certain. These large numbers guarantee that “more-is-different” with near certainty in any 
+microscopic to macroscopic comparison. This more-is-different effect will also turn out to be a key 
+factor in the explanation of emergent phenomena, which in all cases involve significant increases in 
+scale and a corresponding compounding of lower-level interaction effects. 
+Consider one of the most familiar of thermodynamic processes, dissolving some solid—say, a cube 
+of sugar—in a container of water. At normal temperatures, a small cube of sugar dissolves naturally 
+and effortlessly with a little patience. It is a spontaneous process. Separating it out again, however, 
+can be incredibly complicated, laborious, and time-consuming. Even employing the most 
+sophisticated of physical-chemical purification processes, you will never fully retrieve the amount 
+and structure that you began with. We basically don’t have to intervene in the dissolving of sugar in 
+water, unless we want to make the process go faster (by stirring or heating) than it would occur 
+spontaneously, but any process that exactly reverses the original mixing will be decidedly non- 
+spontaneous, often requiring considerable outside intervention using highly contrived means. The 
+partial exception to this takes advantage of another spontaneous process—evaporation—though it 
+only separates the water from the sugar and doesn’t produce tiny crystals organized into a cube. 
+We take this sort of causal asymmetry for granted, recognizing that some forms of change are 
+spontaneous and resistant to intervention, while others require intervention to force them to occur 
+because they are resistant to change. Both kinds of change occur because of certain forms of 
+interactions and how they are constrained and biased by the conditions within which they occur. So it 
+shouldn’t abuse the meaning of “cause-to-happen” to say that both are caused, even though their 
+consequences are quite dichotomous. This is made explicit in the classic thermodynamic model 
+system: a gas in a container that can be isolated from all outside influences. Asymmetrically heat the 
+container, using an external heat source, and the majority of molecules in one region are forced to 
+move more rapidly than the majority at some other region. But as soon as the external influence is 
+removed, the gas will begin an inevitable transition back to equilibrium, redistributing these local 
+differences. In the one case the cause must be imposed from without for change to occur, in the other 
+the cause is intrinsic; change will happen unless it is impeded by outside intervention. So, in 
+commonsense terms, we say that some things happen “naturally,” while other things don’t. 
+For general purposes, then, it would be useful to distinguish between changes that must be forced to 
+occur through extrinsic intervention and those that require intervention to prevent them from 
+occurring. Surprisingly, there are no terms that characterize this difference. In order to facilitate the 
+discussion of how they contribute to the range of dynamical processes we will encounter in the effort 
+to explain emergent phenomena, I offer two neologisms:
+
+I will call changes in the state of a system that are consistent with the spontaneous, “natural” 
+tendency to change, irrespective of external interference, orthograde changes. The term literally 
+refers to going with the grade or tilt or tendency of things, as in falling, or “going along with the 
+flow.” In contrast, I will call changes in the state of a system that must be extrinsically forced, 
+because they run counter to orthograde tendencies, contragrade changes. 
+The usefulness of this distinction may appear to be minimal at this stage of the analysis, since I have 
+merely renamed things that are already familiar. Nevertheless, it will become clear later, once we 
+begin dealing with processes that no longer exhibit simple thermodynamic tendencies. 
+Because we tend to consider orthograde changes “natural,” we might be tempted to describe 
+contragrade changes as somehow unnatural. This turns out to be a misleading dichotomy because, as 
+we’ll see, even though contragrade changes are not spontaneous and intrinsic, they are in no way 
+unnatural or artificial. They are merely the result of the interaction between contrasting orthograde 
+processes. Because the world is structured and not uniform, and because there are many distinct 
+dimensions of orthograde change possible (involving different properties of things, such as 
+temperature, mass, movement, electric charge, structural form, etc.), certain of these tendencies can 
+interact in relative isolation from others.3 Contragrade change is the natural consequence of one 
+orthograde process influencing a different orthograde process—for example, via some intervening 
+medium. This implies that in one sense all change ultimately originates from spontaneous processes. 
+It is simply because the world is highly heterogeneous that there can be contragrade processes. Thus, 
+although orthograde processes are the basis for all change, the ortho/contra distinction is not 
+artificial. 
+More precisely, then, we can also distinguish orthograde and contragrade processes in terms of 
+relative causal isolation, which also distinguishes intrinsic from extrinsic causal influences. A 
+composite system that is isolated from outside interactions will intrinsically exhibit orthograde 
+change, but not contragrade change. Contragrade change is only possible with respect to extrinsic 
+relationships between systems with different orthograde tendencies. This is just a restatement of the 
+isolation conditions for the second law of thermodynamics. But as we will see subsequently, 
+reframing thermodynamic processes in orthograde/contragrade terms will provide a much more 
+general distinction that will be useful beyond both Newtonian and thermodynamic analyses. 
+How might we apply this distinction to more classical approaches to dynamical processes? 
+Consider Newton’s laws of motion. A mass moving in a straight line with a constant velocity can be 
+described as undergoing orthograde change (of position), whereas a mass acted on by a force and 
+altered in velocity and direction can be described as exhibiting contragrade change (for the duration 
+of the period in which that force is acting). In a simple thermodynamic system, change toward 
+equilibrium is orthograde while change away from equilibrium is contragrade. So the case of sugar 
+spontaneously dissolving in a container of water exemplifies an orthograde change, whereas 
+processes that a chemist might employ to extract this sugar again would involve contragrade 
+processes. 
+The more general value of designating terms for these contrary “orientations” of change is that it can 
+help us to distinguish the different ways we tend to use the concept of causality. While both the 
+spontaneous dissolving of sugar in water and its extraction by chemical means are changes that are 
+caused in a generic sense, what we mean by “cause” is quite different in these two situations. Both 
+are consistent with the laws of physics and chemistry; they nevertheless differ radically in how these 
+causal influences are organized. 
+In the case of processes like the dissolving and diffusion of sugar molecules in water, this 
+distinction also is relative to scale. The dislodging of a sugar molecule from its crystal lattice is the 
+result of microscopic contragrade processes. The molecular collisions and electrochemical 
+interactions between water and sugar molecules are contragrade, because the interaction among these 
+molecules changes their spontaneous motions and ranges of movement. The continually diverging 
+diffusion of sugar molecules into the surrounding water is also the result of contragrade dynamics. 
+Each of the innumerable collisions that results in changes in a molecule’s velocity and direction of 
+movement is a contragrade event. 
+The trajectories of sugar molecules as they interact with neighboring water molecules are more 
+likely to expand into new territories. This tendency effectively reflects the geometry of the situation. 
+There are more ways for molecules to diverge than to converge in their relative locations. As every 
+molecule is bumped nanosecond-to-nanosecond onto a new path, each molecule’s new position gets 
+more and more superimposed on the others’ former positions, while their velocities and directions of 
+motion also sample values once exhibited by others. This tendency of interacting molecules to wander 
+into each other’s spatial positions and dynamical values is responsible for the orthograde dynamic 
+that characterizes the global change toward equilibrium. In this way, contragrade dynamics at one 
+level produce orthograde dynamics at the higher level.
+
+Another merit of describing change in these complementary terms is that it gives new meaning to the 
+defining property of matter—a resistance to change—and the defining property of energy—that which 
+is required to overcome resistance to change. Since orthograde processes ensue spontaneously, they 
+are ubiquitously present, even during processes of contragrade (forced) changes. A contragrade 
+change must therefore derive from two or more orthograde processes, each in some way undoing the 
+other’s effects. To put this in the terms introduced in the previous chapter, each must constrain the 
+other. The tendency of one orthograde process to realize the full range of its degrees of freedom (e.g., 
+the diffusion into all potential locations) must diminish the tendency of another orthograde process to 
+realize all its potential degrees of freedom. This is easily demonstrated for interacting thermodynamic 
+systems otherwise isolated from other outside influences. Thus, for example, the specific heat of one 
+object placed in contact with another with a different specific heat will result in their combined 
+development toward a different maximum entropy value than either would reach had they remained 
+isolated from one another. This is because there will be a net asymmetric redistribution of the 
+molecular motions in the two materials, in which the rate of orthograde change of one will accelerate 
+and the other will decelerate with respect to their prior rates of change, since the one is now further 
+and the other closer to the maximum entropy state than before. One is thereby relatively deconstrained 
+and the other relatively constrained in its domain of possible states. Resistance to change is thus a 
+signature of the additive and canceling effects of interacting orthograde dynamics. In this respect, it is 
+again roughly analogous to the composition of momenta of colliding objects in Newtonian 
+mechanics.4 
+Using this insight, we can now redefine the concept of constraint in orthograde and contragrade 
+terms. Constraints are defined with respect to orthograde maxima, that is, the point at which an 
+orthograde dynamic change is no longer asymmetrical. A constrained orthograde process is thus one 
+in which certain dimensions of change are not available. This can be the result of extrinsic bounds on 
+these values such as might be imposed by the walls of a container, or the result of contragrade 
+processes countering an orthograde change. Interestingly, as we will see in the next chapter, this 
+means that contragrade processes at one level can generate the conditions for a higher-level 
+orthograde process of constraint generation. 
+One benefit of articulating this orthograde/contragrade distinction is that it provides a language for 
+describing the dynamical relationships that link different levels of a process. In classical emergentist 
+terms, we could even say that in the case of close-to-equilibrium thermodynamics, the orthograde 
+increase in entropy is supervenient on the cumulative effects of the contragrade dynamics of incessant 
+molecular interactions. This suggests that the orthograde/contragrade distinction may offer a useful 
+way to reframe the emergence problem. Indeed, ultimately we will discover that a fundamental 
+reversal of orthograde processes is a defining attribute of an emergent transition. 
+Under some circumstances (which will be the focus of much of our subsequent analysis), an 
+extrinsically perturbing dynamical influence can be highly stable, thus providing an incessant 
+contragrade influence. This is, for example, the condition of the Earth as a whole, where the 
+perturbations provided by constant low-level solar radiation over billions of years have made life a 
+possibility. The constancy of this source of contragrade influence is a critical factor, since its stability 
+has allowed the formation of a vast web of dissipative pathways through which energy is released. 
+While in transit through terrestrial substrates, this persistent perturbation has been available to drive 
+chemical reactions in a myriad of contragrade directions. The result is that otherwise unlikely 
+molecular structures are being constantly synthesized even while orthograde thermodynamic 
+tendencies tend to break them down. 
+Following the Nobel laureate theoretical chemist Ilya Prigogine, who revolutionized how we think 
+about such systems, we call the Earth a dissipative system, because it is constantly both taking in and 
+dissipating energy. During the time that this dissipative relationship has been stable—roughly for a 
+little over 5 billion years—it has made numerous other contragrade processes possible, including 
+nearly all of the contragrade chemistry that constitutes life. Indeed, every living organism is a 
+constellation of contragrade processes, which continually hold local molecular orthograde processes 
+at bay. 
+Of course, the history of human technology involves the discovery of ways to utilize certain 
+orthograde processes in order to drive desired contragrade processes. This is the general logic 
+characterizing all the many types of machines that we employ to bend the world to our wishes. 
+Reliably being able to produce unlikely outcomes, such as the purification of minerals, can provide 
+the conditions for producing yet other, even more unlikely outcomes, such as the assembly of refined 
+materials to form the circuits of my computer. But as we will see shortly, systems formed by stable 
+contragrade processes can sometimes exhibit what amount to higher-order orthograde processes that 
+are quite different than those from which they arise.

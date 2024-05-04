@@ -1,0 +1,34 @@
+LangChain offers a variety of tools that can be loaded for agents to enhance their capabilities and interact with the world.These tools can be categorized into different types based on their functionality:
+General Utilities:
+SearchApi: Provides access to various search engines like Google, Bing, and DuckDuckGo.
+DataForSeoAPISearch: Retrieves data from DataForSeo's SEO API.
+Memorize: Stores and retrieves information from memory.
+Shell (bash): Executes Bash commands on the local machine.
+Bearly Code Interpreter: Interprets and executes Python code within the agent's context.
+Communication and Collaboration:
+ZapierNLARunAction: Executes Zapier actions using natural language instructions.
+ZapierNLAWrapper: Wraps Zapier's NLA API to interact with Zapier workflows.
+IFTTTWebhook: Triggers IFTTT webhooks using natural language instructions.
+Data Manipulation and Processing:
+JsonGetValueTool: Retrieves values from JSON objects.
+JsonListKeysTool: Lists all keys within a JSON object.
+JsonSpec: Provides a JSON schema validation tool.
+ReadFileTool: Reads text from a file.
+WriteFileTool: Writes text to a file.
+Visualization and Presentation:
+Gradio: Creates interactive interfaces using Python code.
+Golden Query: Generates interactive data visualizations using natural language descriptions.
+External APIs and Services:
+WikipediaQueryRun: Executes Wikipedia queries and retrieves relevant information.
+Alpha Vantage: Provides access to stock market data and financial information.
+WolframAlphaTool: Retrieves computational knowledge and answers to factual queries.
+ArXiv: Searches for scientific papers on the arXiv preprint repository.
+Google Scholar: Searches for scholarly literature on Google Scholar.
+Google Places: Retrieves information about nearby places using Google Places API.
+Google Serper: Provides access to Google search results using structured data.
+Google Custom Search: Executes custom Google searches with advanced parameters.
+SerpAPI: Retrieves structured search results from various search engines.
+BingSerpAPI: Accesses Bing search results using the Bing Search API.
+ChatGPT Plugins: Integrates with ChatGPT to access its conversational AI capabilities.
+E2B Data Analysis: Analyzes and extracts insights from e-commerce data.
+These tools provide agents with a wide range of capabilities, enabling them to interact with the world, access and manipulate data, communicate with external services, and perform various tasks.  

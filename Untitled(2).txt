@@ -1,0 +1,13 @@
+using Random 
+
+function Ising_Model(N::Int64, J::Float64, kB::Float64, T::Float64)
+    # Initialize the spin matrix with random values 
+    spin_matrix = rand(Bool, N, N) 
+    # Set up the total energy of the system
+    E_total = -J * sum(spin_matrix .* roll(spin_matrix, 1, dims=1))
+             -J * sum(spin_matrix .* roll(spin_matrix, 1, dims=2))
+    
+     while temperature < T
+        # Generate random site to flip site_i, site_j = rand(1:N, 2) # Calculate energy difference for the new spin configuration Delta_E = -2J * (spin_matrix[site_i, site_j] - spin_matrix[site_i-1, site_j] + spin_matrix[site_i, site_j-1] + spin_matrix[site_i, site_j+1] + spin_matrix[site_i+1, site_j]) # Calculate probability of new spin configuration P = exp(-Delta_E / (kB*T))
+
+# Accept or reject the spin flip if rand() < P spin_matrix[site_i, site_j] = ~spin_matrix[site_i, site_j] E_total += Delta_E end # Update temperature temperature *= 1.05 end # Return the total energy of the system return E_total

@@ -1,0 +1,36 @@
+You are correct, global reset only occurs if the key is held down for one second (five seconds the first time for warnings). Under half a second, it gives a short acceleration boost.
+
+B is the blink key, it refreshes the visuals if there are too many texture tracers and sobel edges, and allows you to enter a bubble without popping it. Hold down the keys a and b to activate autoblink, and s a b for super autoblink, which inoculated against global reset, even when not blinking.
+
+To look around, move the mouse or use the touchscreen, arrows, or hjkl keys. 
+
+Action - key - vim equivalent
+Pitch forward - Down or j (jump down)
+
+Pitch backward - Up or k (klimb up)
+
+Turn left - h (hop homeward)
+
+Turn right - l (leap letterwards)
+
+
+Hit spacebar or t or y to trigger your weapon or to begin drawing a swype trace)
+
+To move your ship around physically:
+
+Slide left - a (ad sinestra)
+Slide right - d (dextra)
+Slide up - r (roofwards)
+Slide down - f (floorwards)
+
+Bank left - q (question everything, begin recording a macro)
+Bank right - e (examine your biases, go to the end of the word)
+
+Fire primary - y or space (yes, trigger)
+Fire secondary - u (use missile)
+Fire flare (g - only when acceleration boost is not available)
+Drop bomb (please only use this for extraplanetary minefields!)
+Rear view o or p (original perspective, previous places)
+Automap -  tab or ; (semicolon)
+Accelerate - w (walk)
+Reverse - s (stop, slowdown, fly backwards)

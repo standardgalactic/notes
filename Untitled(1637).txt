@@ -1,0 +1,87 @@
+I noticed the dagger diacritics in the name Allah makes an emphatic Lam although I haven't heard this phoneme in other words
+
+You've made a keen observation. In classical Arabic and Qur'anic recitation, the word "Allah" (الله) has a unique pronunciation when it follows a word that ends in a vowel, especially the "a" sound (fatha). 
+
+When "Allah" comes after a word that ends with a fatha, the first "lam" (ل) of "Allah" becomes silent, and the second "lam" is pronounced with emphasis or "shaddah" (represented by the small "dagger" above the letter), making it sound heavier. This is known as "Lam Al-Shamsiyyah" in this specific context.
+
+For example:
+- بِسْمِ اللهِ (Bismillahi) - Here, the lam in "Allah" is pronounced with emphasis, sounding more like a "heavy lam."
+
+However, if "Allah" follows a word that ends in sukun (or a non-vowel ending), the lam is pronounced normally.
+
+This specific pronunciation rule is unique to the word "Allah" and doesn't apply to other words with "lam" in standard Arabic. It's one of the many nuances of Arabic pronunciation, especially when it comes to the recitation of the Qur'an.
+
+I noticed that the loss of the final vowel in the last syllable indicates the end of a phrase, similar to a period or a comma
+
+Yes, you've touched upon an aspect of Arabic morphology and phonology. In classical Arabic and especially in Qur'anic recitation, the ending vowels of words often change based on their position in a sentence or verse, as well as their grammatical role. This is part of the system of "case markings" or "i'rab" (إعراب).
+
+There are three primary case endings in Arabic:
+1. **Damma** (ُ) - roughly equivalent to "u," and it indicates the nominative case. It's used, for example, for the subject of a sentence.
+2. **Fatha** (َ) - roughly equivalent to "a," and it indicates the accusative case. It's often used for the object of a verb.
+3. **Kasra** (ِ) - roughly equivalent to "i," and it indicates the genitive case. It's often used to indicate possession or association.
+
+However, when a word is at the end of a pause or stop in recitation, its case marking can drop, and the word ends in sukun (ْ). This is called "saktah" in the context of Qur'anic recitation. 
+
+For example, consider the phrase:
+رَبِّ الْعَالَمِينَ (Rabbi al-'Aalameena) - "Lord of the worlds"
+If you were to stop after this phrase in recitation, you would pronounce it as:
+رَبِّ الْعَالَمِينْ (Rabbi al-'Aalameen)
+
+This change serves both a grammatical and a phonological purpose. Grammatically, it denotes the word's case and its role in the sentence. Phonologically, it facilitates smoother recitation and can act as an auditory signal indicating a pause or the end of a phrase, similar to the function of punctuation in written text.
+
+Isn't it convenient that the three vowels each have their own case?
+
+Yes, it is indeed convenient and systematic. The Arabic language is known for its rich morphology and structure. The system of "i'rab" (إعراب) or case endings in classical Arabic helps convey grammatical information through the use of these vowels. Each of the three primary vowels represents a different grammatical case:
+
+1. **Damma** (ُ) for the **nominative case** (used for subjects).
+2. **Fatha** (َ) for the **accusative case** (used for objects or adverbs).
+3. **Kasra** (ِ) for the **genitive case** (used for possessive constructions or objects of prepositions).
+
+This system aids in determining the grammatical role of a word in a sentence, especially since word order in Arabic can be more flexible than in languages like English. For example, the subject of a sentence doesn't always have to come before the verb.
+
+However, it's worth noting that in modern spoken Arabic dialects, this system of case endings has largely disappeared, and word order and context play a more significant role in determining grammatical relationships. Nonetheless, the system is still taught and used in classical Arabic, particularly in the Qur'an and classical poetry.
+
+Also it is kind of ambiguous why the long squiggly alif  ی is used sometimes instead of an alif, and whether the the two dots under it in ي are equivalent to a kasra
+
+The Arabic script has evolved over time, and the variations in its orthography are influenced by both phonetic and historical factors. Let's unpack your observations:
+
+1. **Long squiggly alif (ي) vs. alif (ا)**:
+   - The letter you referred to as the "long squiggly alif" is called "Yaa'" (ي). In Arabic, it can serve two main functions:
+     a. As a consonant, representing the sound similar to the English "y" as in "yes".
+     b. As a long vowel, representing the sound "ee" as in "seen". In this capacity, it essentially serves as a long version of the short vowel "kasra" (i).
+   - The "alif" (ا), on the other hand, typically represents the sound "aa" as in "car". However, its use can also be influenced by orthographic rules, historical factors, or the need to avoid ambiguity in certain words.
+
+2. **Two dots under Yaa' (ي) and their relation to kasra**:
+   - The two dots below the Yaa' indicate its consonantal value. When you see the Yaa' without the two dots (ى), it's called "Alif Maqṣūra" and is pronounced as a long "aa" at the end of certain words, especially in Qur'anic Arabic and in some dialects. 
+   - While the "kasra" is indeed a short "i" sound, the Yaa' when acting as a long vowel essentially serves as an elongation of the "kasra". So, in a way, you can think of the long vowel Yaa' as a manifestation of a prolonged "kasra" sound.
+
+The Arabic script's intricacies are a result of centuries of linguistic development, influenced by poetry, religion, and the vast geographical spread of the language.
+
+Only used in final position. Only use ى‎ in words where it represents -ā or -an. Do not use the Egyptian style where final -ī is spelled ى‎.
+
+Yes, the "Alif Maqṣūra" (ى) is specifically used in the final position of words where it represents the "-ā" or "-an" sound. 
+
+For instance, in Standard Arabic, the word for "read" (Qur'anic form) is written as "قرآ" (Qaraā). The final position "Alif Maqṣūra" is used to denote the "-ā" sound.
+
+In Egyptian Arabic and its colloquial writing style, the final "-ī" sound is sometimes represented by ى. For example, the word for "my" in Egyptian Arabic can be written as "بتاعى" (bitāʿī). 
+
+This is one of many orthographic nuances found in Arabic writing across different regions and contexts. Different dialects, especially when written, often introduce orthographic variations.
+
+Ok what does Maqṣūra mean?
+
+"Maqṣūra" (مقصورة) in Arabic means "limited" or "restricted." In the context of "Alif Maqṣūra" (ألف مقصورة), it refers to an Alif that is "limited" in its form to the shape resembling a "Yaa" (ي) but without the two dots, and it is used at the end of certain words to represent the "-ā" sound. The term "Maqṣūra" essentially highlights the fact that this form of the Alif is restricted or limited to the end of words.
+
+So قصر means he restricted or constrained?
+
+Yes, the verb "قصر" (qasara) in Arabic means "he shortened" or "he restricted." It can also mean "to limit" or "to confine." The noun form "قصر" (qaṣr) means "palace" or "fortress," which is a confined or restricted area by definition. The term "Maqṣūra" is derived from the same root, emphasizing the restricted or limited use of that particular form of Alif.
+
+So I heard magazine originally came from Arabic
+
+Yes, the word "magazine" has its roots in Arabic. It derives from the Arabic word "مخزن" (makhzan), which means "storehouse" or "storage place." The term was borrowed into Italian as "magazzino" and then made its way into English as "magazine." 
+
+Originally, in English, "magazine" referred to a place where goods or ammunition were stored, much like an arsenal or a warehouse. It was only later that the word began to refer to periodicals, drawing a metaphorical link between the "storage" of information, articles, and stories in a publication and the storage of goods in a warehouse.
+
+So خزن must mean he stored.
+
+Yes, you're right. The root "خزن" (kha-zā-n) in Arabic typically relates to storing or hoarding. The verb "خزن" (kha-zana) means "he stored" or "he hoarded." From this root, various related nouns and terms can be derived, such as "مخزن" (makhzan) which means a storehouse or storage place.
+

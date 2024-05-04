@@ -1,0 +1,48 @@
+// Handle keyboard input
+var forwardPressed = 0;
+var backwardPressed = 0;
+var leftPressed = 0;
+var rightPressed = 0;
+
+document.addEventListener("keydown", function(event) {
+    switch (event.key) {
+        case 'w': // W
+            forwardPressed = 1;
+            break;
+        case 's': // S
+            backwardPressed = 1;
+            break;
+        case 'a': // A
+            leftPressed = 1;
+            break;
+        case 'd': // D
+            rightPressed = 1;
+            break;
+    }
+});
+
+document.addEventListener("keyup", function(event) {
+    switch (event.key) {
+        case 'w': // W
+            forwardPressed = 0;
+            break;
+        case 's': // S
+            backwardPressed = 0;
+            break;
+        case 'a': // A
+            leftPressed = 0;
+            break;
+        case 'd': // D
+            rightPressed = 0;
+            break;
+    }
+});
+
+// Inside your draw function, apply the new movements
+// For left movement
+var moveSpeedLeft = star.speed * leftPressed;
+star.x -= moveSpeedLeft;
+
+// For right movement
+var moveSpeedRight = star.speed * rightPressed;
+star.x += moveSpeedRight;

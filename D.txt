@@ -1,0 +1,18 @@
+Here are some more details on these models:
+
+Chung-Lu and community structure:
+The Chung-Lu model assigns weights to nodes based on their expected degrees. Nodes within the same community or block tend to have similar weights, while nodes in different communities have different weights. When edges are placed proportionally to these weights, it results in more edges within communities and fewer edges between communities. This naturally generates community structure even though communities are not explicitly modeled.
+
+Applications of recursive matrix model:
+This model can be used to simulate the growth of real scale-free networks like the web graph, social networks and citation networks. By analyzing the properties of the generated scale-free graphs, we can gain insights into the mechanisms that lead to the scale-free phenomenon in real networks. The model can also be used as a benchmark for testing algorithms designed for scale-free graphs.
+
+Random intersection graph model and clustering:
+In this model, nodes are placed in a geometric space and connected if they are within a distance threshold. This proximity results in a higher probability of edges between "close" nodes, leading to clusters of densely connected nodes. The exact positions of nodes and the threshold distance parameters determine the number and size of clusters generated.
+
+In summary, these models capture different mechanisms that generate important properties in real networks:
+
+- Preferential attachment → Generates scale-free degree distributions
+- Weighted edge placement → Generates heavy-tailed degree distributions and community structure
+- Proximity in geometric space → Generates clusters and community structure
+
+By focusing on simple mechanisms that could plausibly occur in real systems, these random graph models provide insight into the driving forces behind network structure and properties.

@@ -1,0 +1,5 @@
+Hello. Just saw your github repository on large language models. I don't think I have the equipment or resources to do some of the experiments but I have been able to use stable diffusion and gpt.
+
+Here are a few of my "epistemological experiments" in prompt engineering, in case you're interested.
+
+https://github.com/standardgalactic/mirror

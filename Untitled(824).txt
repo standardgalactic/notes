@@ -1,0 +1,23 @@
+Summary. To build a creative system we need just a few crucial ingredients: (1) A predictor or compressor (e.g., an RNN) of the continually growing history of actions and sensory inputs, reflecting what's currently known about how the world works, (2) A learning algorithm that continually improves the predictor or compressor (detecting novel spatio-temporal patterns that subsequently become known patterns), (3) Intrinsic rewards measuring the predictor's or compressor's improvements (= first derivatives of compressibility) due to the learning algorithm, (4) A separate reward optimizer or reinforcement learner (could be an evolutionary algorithm), which translates those rewards into action sequences or behaviors expected to optimize future reward - the creative agent is intrinsically motivated to make additional novel patterns predictable or compressible in hitherto unknown ways, thus maximizing learning progress of the predictor / compressor.
+
+Alternative Summary. Apart from external reward, how much fun can a subjective observer extract from some sequence of actions and observations? His intrinsic fun is the difference between how many resources (bits & time) he needs to encode the data before and after learning. A separate reinforcement learner maximizes expected fun by finding or creating data that is better compressible in some yet unknown but learnable way, such as jokes, songs, paintings, or scientific observations obeying novel, unpublished laws.
+
+PowerPlay: training an increasingly general problem solver by continually searching for the simplest still unsolvable problem
+
+Copyright notice (2010): Text and graphics and Fibonacci web design by Jürgen Schmidhuber, Member of the European Academy of Sciences and Arts, 2010. JS will be delighted if you use parts of the data and graphics in this web page for educational and non-commercial purposes, including articles for Wikipedia and similar sites, provided you mention the source and provide a link.
+
+Overview Papers Etc Since 2009
+
+J. Schmidhuber. Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes. In G. Pezzulo, M. V. Butz, O. Sigaud, G. Baldassarre, eds.: Anticipatory Behavior in Adaptive Learning Systems, from Sensorimotor to Higher-level Cognitive Capabilities, Springer, LNAI, 2009. PDF.
+
+J. Schmidhuber. Simple Algorithmic Theory of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes. Journal of SICE, 48(1):21-32, 2009. PDF.
+
+J. Schmidhuber. Art & science as by-products of the search for novel patterns, or data compressible in unknown yet learnable ways. In M. Botta (ed.), Multiple ways to design research. Research cases that reshape the design discipline, Milano-Lugano, Swiss Design Network - Et al. Edizioni, 2009, pp. 98-112. PDF.
+
+J. Schmidhuber. Artificial Scientists & Artists Based on the Formal Theory of Creativity. In Proceedings of the Third Conference on Artificial General Intelligence (AGI-2010), Lugano, Switzerland. PDF.
+
+J. Schmidhuber. Formal Theory of Creativity, Fun, and Intrinsic Motivation (1990-2010). IEEE Transactions on Autonomous Mental Development, 2(3):230-247, 2010. IEEE link. PDF of draft.
+
+P. Redgrave. Comment on Nature 473, 450 (26 May 2011): Neuroscience: What makes us laugh.
+
+J. Schmidhuber. A Formal Theory of Creativity to Model the Creation of Art. In J. McCormack (ed.), Computers and Creativity. MIT Press, 2012

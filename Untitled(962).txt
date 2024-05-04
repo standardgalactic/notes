@@ -1,0 +1,13 @@
+Topic-based Representation of Dialogue Network
+
+Using force-directed layout algorithm to organize dialogue structure organically
+
+Visualizing Multidimensional Dialogue as a Galaxy or Nebula-Like Structure
+
+Dialogue Representation as a Spatial Memory Palace
+
+Emergent visual layout for dynamic dialogue exploration
+
+Dynamic Dialogue Visualization
+
+

@@ -1,0 +1,73 @@
+Yoshua Bengio
+
+AI Scientists: Safe and Useful AI?
+
+Published 7 May 2023 by yoshuabengio
+
+https://yoshuabengio.org/2023/05/07/ai-scientists-safe-and-useful-ai
+
+There have recently been lots of discussions about the risks of AI, whether in the short term with existing methods or in the longer term with advances we can anticipate. I have been very vocal about the importance of accelerating regulation, both nationally and internationally, which I think could help us mitigate issues of discrimination, bias, fake news, disinformation, etc. Other anticipated negative outcomes like shocks to job markets require changes in the social safety net and education system. The use of AI in the military, especially with lethal autonomous weapons has been a big concern for many years and clearly requires international coordination. 
+
+In this post however, I would like to share my thoughts regarding the more hotly debated question of long-term risks associated with AI systems which do not yet exist, where one imagines the possibility of AI systems behaving in a way that is dangerously misaligned with human rights  or even loss of control of AI systems that could become threats to humanity. A key argument is that as soon as AI systems are given goals – to satisfy our needs – they may create subgoals that are not well-aligned with what we really want and could even become dangerous for humans. 
+
+Main thesis: safe AI scientists
+
+The bottom line of the thesis presented here is that there may be a path to build immensely useful AI systems that completely avoid the issue of AI alignment, which I call AI scientists because they are modeled after ideal scientists and do not act autonomously in the real world, only focusing on theory building and question answering. The argument is that if the AI system can provide us benefits without having to autonomously act in the world, we do not need to solve the AI alignment problem.
+
+This would suggest a policy banning powerful autonomous AI systems that can act in the world (“executives” rather than “scientists”) unless proven safe. However, such a solution would still leave open the political problem of coordinating people, organizations and countries to stick to such guidelines for safe and useful AI. The good news is that current efforts to introduce AI regulation (such as the proposed bills in Canada and the EU, but see action in the US as well) are steps in the right direction.
+
+The challenge of value alignment
+
+Let us first recap the objective of AI alignment and the issue with goals and subgoals. Humanity is already facing alignment problems: how do we make sure that people and organizations (such as governments and corporations) act in a way that is aligned with a set of norms acting as a proxy for the hard-to-define general well-being of humanity? Greedy individuals and ordinary corporations may have self-interests (like profit maximization) that can clash with our collective interests (like preserving a clean and safe environment and good health for everyone). 
+
+Politics, laws, regulations and international agreements all imperfectly attempt to deal with this alignment problem. The widespread adoption of norms which support collective interests is enforced by design in democracies, to an extent, due to limitations on the concentration of power by any individual person or corporation. It is further aided by our evolved tendency to adopt prevailing norms voluntarily if we recognise their general value or to gain social approval, even if they go against our own interest. 
+
+However, machines are not subject to these human constraints by default. What if an artificial agent had the cognitive abilities of a human without the human collective interest alignment prerogative? Without full understanding and control of such an agent, could we nonetheless design it to make sure it will adhere to our norms and laws, that it respects our needs and human nature? 
+
+The challenge of AI alignment and instrumental goals
+
+One of the oldest and most influential imagined construction in this sense is Asimov’s set of Laws of Robotics, which request that a robot should not harm a human or humanity (and the stories all about the laws going wrong). Modern reinforcement learning (RL) methods make it possible to teach an AI system through feedback to avoid behaving in nefarious ways, but it is difficult to forecast how such complex learned systems would behave in new situations, as we have seen with large language models (LLMs). 
+
+We can also train RL agents that act according to given goals. We can use natural language (with modern LLMs) to state those goals, but there is no guarantee that they understand those goals the way we do. In order to achieve a given goal (e.g., “cure cancer”), such agents may make up subgoals (“disrupt the molecular pathway exploited by cancer cells to evade the immune system”) and the field of hierarchical RL is all about how to discover subgoal hierarchies. It may be difficult to foresee what these subgoals will be in the future, and in fact we can expect emerging subgoals to avoid being turned off (and using deception for that purpose).  
+
+It is thus very difficult to guarantee that such AI agents won’t pick subgoals that are misaligned with human objectives (we may have not foreseen the possibility that the same pathway prevents proper human reproduction and the cancer cure endangers the human species, where the AI may interpret the notion of harm in ways different from us).
+
+This is also called the instrumental goal problem and I strongly recommend reading Stuart Russell’s book on the general topic of controlling AI systems: Human Compatible. Russell also suggests a potential solution which would require the AI system to estimate its uncertainty about human preferences and act conservatively as a result (i.e. avoid acting in a way that might harm a human). Research on AI alignment should be intensified but what I am proposing here is a solution that avoids the issue altogether, while limiting the type of AI we would design.
+
+Training an AI Scientist with Large Neural Nets for Bayesian Inference
+
+I would like here to outline a different approach to building safe AI systems that would completely avoid the issue of setting goals and the concern of AI systems acting in the world (which could be in an unanticipated and nefarious way).
+
+The model for this solution is the idealized scientist, focused on building an understanding of what is observed (also known as data, in machine learning) and of theories that explain those observations. Keep in mind that for almost any set of observations, there will remain some uncertainty about the theories that explain them, which is why an ideal scientist can entertain many possible theories that are compatible with the data.
+
+A mathematically clean and rational way to handle that uncertainty is called Bayesian inference. It involves listing all the possible theories and their posterior probabilities (which can be calculated in principle, given the data). 
+
+It also mandates how (in principle) to answer any question in a probabilistic way (called the Bayesian posterior predictive) by averaging the probabilistic answer to any question from all these theories, each weighted by the theory’s posterior probability.
+
+This automatically puts more weight on the simpler theories that explain the data well (known as Occam’s razor). Although this rational decision-making principle has been known for a long time, the exact calculations are intractable. However, the advent of large neural networks that can be trained on a huge number of examples actually opens the door to obtaining very good approximations of these Bayesian calculations. See [1,2,3,4] for recent examples going in that direction. These theories can be causal, which means that they can generalize to new settings more easily, taking advantage of natural or human-made changes in distribution (known as interventions). These large neural networks do not need to explicitly list all the possible theories: it suffices that they represent them implicitly through a trained generative model that can sample one theory at a time.
+
+See also my recent blog post on model-based machine learning, which points in the same direction. Such neural networks can be trained to approximate both a Bayesian posterior distribution over theories as well as trained to approximate answers to questions (also known as probabilistic inference or the Bayesian posterior predictive).
+
+What is interesting is that as we make those networks larger and train them for longer, we are guaranteed that they will converge toward the Bayesian optimal answers. There are still open questions regarding how to design and train these large neural networks in the most efficient way, possibly taking inspiration from how human brains reason, imagine and plan at the system 2 level, a topic that has driven much of my research in recent years. However, the path forward is fairly clear and may both eliminate the issues of hallucination and difficulty in multi-step reasoning with current large language models as well as provide a safe and useful AI as I argue below.
+
+AI scientists and humans working together
+
+It would be safe if we limit our use of these AI systems to (a) model the available observations and (b) answer any question we may have about the associated random variables (with probabilities associated with these answers). 
+
+One should notice that such systems can be trained with no reference to goals nor a need for these systems to actually act in the world. The algorithms for training such AI systems focus purely on truth in a probabilistic sense. They are not trying to please us or act in a way that needs to be aligned with our needs. Their output can be seen as the output of ideal scientists, i.e., explanatory theories and answers to questions that these theories help elucidate, augmenting our own understanding of the universe.
+
+The responsibility of asking relevant questions and acting accordingly would remain in the hands of humans. These questions may include asking for suggested experiments to speed-up scientific discovery, but it would remain in the hands of humans to decide on how to act (hopefully in a moral and legal way) with that information, and the AI system itself would not have knowledge seeking as an explicit goal.
+
+These systems could not wash our dishes or build our gadgets themselves but they could still be immensely useful to humanity: they could help us figure out how diseases work and which therapies can treat them; they could help us better understand how climate changes and identify materials that could efficiently capture carbon dioxide from the atmosphere; they might even help us better understand how humans learn and how education could be improved and democratized.
+
+A key factor behind human progress in recent centuries has been the knowledge built up through the scientific process and the problem-solving engineering methodologies derived from that knowledge or stimulating its discovery. The proposed AI scientist path could provide us with major advances in science and engineering, while leaving the doing and the goals and the moral responsibilities to humans. 
+
+The political challenge
+
+However, the mere existence of a set of guidelines to build safe and useful AI systems would not prevent ill-intentioned or unwitting humans from building unsafe ones, especially if such AI systems could bring these people and their organizations additional advantages (e.g. on the battlefield, or to gain market share).
+
+That challenge seems primarily political and legal and would require a robust regulatory framework that is instantiated nationally and internationally. We have experience of international agreements in areas like nuclear power or human cloning that can serve as examples, although we may face new challenges due to the nature of digital technologies.
+
+It would probably require a level of coordination beyond what we are used to in current international politics and I wonder if our current world order is well suited for that. What is reassuring is that the need for protecting ourselves from the shorter-term risks of AI should bring a governance framework that is a good first step towards protecting us from the long-term risks of loss of control of AI.
+
+Increasing the general awareness of AI risks, forcing more transparency and documentation, requiring organizations to do their best to assess and avoid potential risks before deploying AI systems, introducing independent watchdogs to monitor new AI developments, etc would all contribute not just to mitigating short-term risks but also helping with longer-term ones.

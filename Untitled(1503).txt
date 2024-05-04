@@ -1,0 +1,12 @@
+In late 2014, it was proven that the elastic net can be reduced to the linear support vector machine.[6] A similar reduction was previously proven for the LASSO in 2014.[7] The authors showed that for every instance of the elastic net, an artificial binary classification problem can be constructed such that the hyper-plane solution of a linear support vector machine (SVM) is identical to the solution {\displaystyle \beta }￼ (after re-scaling). The reduction immediately enables the use of highly optimized SVM solvers for elastic net problems. It also enables the use of GPU acceleration, which is often already used for large-scale SVM solvers.[8] The reduction is a simple transformation of the original data and regularization constants
+
+{\displaystyle X\in {\mathbb {R} }^{n\times p},y\in {\mathbb {R} }^{n},\lambda _{1}\geq 0,\lambda _{2}\geq 0}￼
+
+into new artificial data instances and a regularization constant that specify a binary classification problem and the SVM regularization constant
+
+{\displaystyle X_{2}\in {\mathbb {R} }^{2p\times n},y_{2}\in \{-1,1\}^{2p},C\geq 0.}￼
+
+Here, {\displaystyle y_{2}}￼ consists of binary labels {\displaystyle {-1,1}}￼. When {\displaystyle 2p>n}￼ it is typically faster to solve the linear SVM in the primal, whereas otherwise the dual formulation is faster. Some authors have referred to the transformation as Support Vector Elastic Net (SVEN), and provided the following MATLAB pseudo-code:
+
+function β=SVEN(X, y, t, λ2); [n,p] = size(X); X2 = [bsxfun(@minus, X, y./t); bsxfun(@plus, X, y./t)]’; Y2 = [ones(p,1);-ones(p,1)]; if 2p > n then w = SVMPrimal(X2, Y2, C = 1/(2*λ2)); α = C * max(1-Y2.*(X2*w), 0); else α = SVMDual(X2, Y2, C = 1/(2*λ2)); end if β = t * (α(1:p) - α(p+1:2p)) / sum(α);
+

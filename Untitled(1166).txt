@@ -1,0 +1,16 @@
+== Scientific Work ==
+In 1885, he became the assistant of [[de:Friedrich Nobbe]], an expert in seed quality control at the [[Tharandt]] Plant Physiology Research Station. Together, they conducted studies on the symbiotic relationships of the legume family [[Fabaceae]] with certain soil bacteria living on the [[Root nodule|root nodules]], following the work of [[Hermann Hellriegel]] and [[de:Hermann Wilfarth]]. These studies led to the development of the first cultures of [[Rhizobium|rhizobium bacteria]]<ref>{{Cite book |last=Friedrich Nobbe, Lorenz Hiltner |url= |title=Versuche über die Stickstoff–assimilation von Leguminosen. |date=1891|language= german}}</ref><ref>{{Cite journal |last=F. Nobbe |date=1893 |title=Impfet den Boden! |url= |journal=Sächsische landwirtschaftliche Zeitschrift |language=german |page= |issn=}}</ref>.  While in Tharandt, he also conducted studies  on the importance of root nodules in the nitrogen nutrition of [[black alder]].<ref>{{Cite book |last=Lorenz Hiltner |url= |title=Über die Bedeutung der Wurzelknöllchen von Alnus glutinosa für die Stickstoffernährung dieser Pflanze. |date=1894 |publisher= |isbn= |page= |pages= |language=Allemand}}</ref>.
+
+At the same time, Hiltner prepared a thesis on "the diseases of plants of horticultural and agronomic interest caused by the fungus Botrytis cinerea and their treatment," which he presented in 1892 at the [[University of Erlangen–Nuremberg|University of Erlangen]], earning him a doctorate.
+
+In 1902, he became the director of the Royal Institute of Agriculture and Botany in Munich (Königliche Agrikulturbotanische Anstalt, which would become in 1917 the Bavarian Institute for Plant Growth and Protection).<ref>{{Cite web |date= |title=Institut für Pflanzenschutz |url=https://www.lfl.bayern.de/ips/index.php 
+ |website= |language=german}}</ref>
+
+He was appointed professor at the [[Technical University of Munich]] in 1903, where he later earned the title of [[Emeritus|Professor Emeritus]] in Agricultural Bacteriology .
+
+He first introduced the term "rhizosphere" during a lecture at the [[German Agricultural Society]] in April 1904, defining it as the region of soil directly influenced by root secretions and associated soil microorganisms.<ref>{{Cite book |last=Lorenz Hiltner |url= |title=Über neuere Erfahrungen und Probleme auf
+dem Gebiete der Bodenbakteriologie unter besonderer
+Berücksichtigung der Gründüngung und Brache. |date=9 avril 1904 |publisher= |isbn= |page=69-78 |language=german}}</ref><ref>{{Cite book |last=Anton Hartmann, Michael Rothballer, Michael Schmid |url=http://www.bashanfoundation.org/hartmann/hartmannlorenz.pdf |title=Lorenz Hiltner, a pioneer in rhizosphere microbial ecology and soil bacteriology research
+
+
+|page=5 |language=English}}</ref>

@@ -1,0 +1,32 @@
+Download PDF
+
+Article
+
+Open Access
+
+Published: 01 December 2022
+
+Unsupervised real-world knowledge extraction via disentangled variational autoencoders for photon diagnostics
+
+Gregor Hartmann, 
+
+Gesa Goetzke, 
+
+…
+
+Markus Braune 
+
+Show authors
+
+Scientific Reports volume 12, Article number: 20783 (2022) Cite this article
+
+2072 Accesses
+
+96 Altmetric
+
+Metricsdetails
+
+Abstract
+
+We present real-world data processing on measured electron time-of-flight data via neural networks. Specifically, the use of disentangled variational autoencoders on data from a diagnostic instrument for online wavelength monitoring at the free electron laser FLASH in Hamburg. Without a-priori knowledge the network is able to find representations of single-shot FEL spectra, which have a low signal-to-noise ratio. This reveals, in a directly human-interpretable way, crucial information about the photon properties. The central photon energy and the intensity as well as very detector-specific features are identified. The network is also capable of data cleaning, i.e. denoising, as well as the removal of artefacts. In the reconstruction, this allows for identification of signatures with very low intensity which are hardly recognisable in the raw data. In this particular case, the network enhances the quality of the diagnostic analysis at FLASH. However, this unsupervised method also has the potential to improve the analysis of other similar types of spectroscopy data.
+

@@ -1,0 +1,35 @@
+
+
+
+
+
+
+Anti-enshittification reading list
+
+The links from this post and a few more pieces that informed it:
+
+Cory Doctorow (aka @pluralistic) An Audacious Plan to Halt the Internet’s Ensh*ttification. Excellent. Foundational.
+
+John Cutler How to think about Bets, Success Metrics, and Roadmapping. Yes, it’s a messy google doc. But it contains a lot of good thinking condensed about dialing into user need.
+
+Annie Duke Quit. A good read on when to stop. Led me to Knee Deep in the Big Muddy on escalating commitment.
+
+Peter Coffin The Vibeonomics of Enshittification I don’t reject this, just believe it’s less responsible for enshittification than he does. Same with Andrew Kelley’s Why Can’t We Have Nice Software?
+
+Prasad Ramakrishnan Stop the software bloat: slim down your SaaS. An IT lens on sprawl and bloat.
+
+Eliyahu Goldratt Standing on the shoulders of giants. Author of The Goal on overproduction and pull-based production systems.
+
+Kent Beck 3x Explore, Expand, Extract. Superb introduction to software lifecycle phases.
+
+BCG The Real Rules of Growth and Profits in Software. A similar tale to Beck’s, but through a more familiar, exec-friendly lens.
+
+Jason Cohen The Elephant in the room: the myth of exponential hypergrowth. The elephant curve, backed by various companies’ data.
+
+Eric Ries The Lean Startup. This book did a great job promoting “validated learning” as a measure of production, but maybe also has a lot to answer for in promoting an “experiment everywhere” mentality.
+
+Sabotage: Its History, Philosophy & Function, where “constructive sabotage” came from. Via this review of Breaking Things at Work.
+
+5
+
+

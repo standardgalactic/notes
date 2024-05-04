@@ -1,0 +1,32 @@
+I know it's impossible. I mean we can simulate distant unreachable regions or even reachable regions by age predicting them forward. The illustris project shows we can predict possible galaxy types from cmp and using Friedman-Robertson-walker metrics. We assume that cosmological parameters do not vary on ultra 100 million light year scales, and that it is therefore isotopic and homogenous on larger scales than that, we can assume galactic void size does not vary beyond what we see in the observable universe, that is we live in a region of the universe where the voids do not have time to have expanded before beyond a certain threshold, it's a constraint by the assumption that everywhere has had only 13.8 billion years to expand, and so there are no regions that contain 100 billion year old dwarf stars, no more low metal giant stars forming, maybe in galactic voids, and all blackholes are still in mass increase modes. This means we have a kind of simulated FTL where we can know certain things about extremely distant regions like way beyond what we see. If we assume the fundamental parameters don't vary too much that is, like we can imagine a region 500 particle horizon diameters away have galaxy threads, voids, planets, and blackholes with a similar age and size to the ones we see here.
+
+
+Prior work: SPACE
+
+Cosmos At Least 250x Bigger Than Visible Universe, Say Cosmologists
+
+The universe is much bigger than it looks, according to a study of the latest observations.
+
+By 
+
+Emerging Technology from the arXivarchive page
+
+February 1, 2011
+
+When we look out into the Universe, the stuff we can see must be close enough for light to have reached us since the Universe began. The universe is about 14 billion years old, so at first glance it’s easy to think that we cannot see things more than 14 billion light years away.
+
+￼
+
+That’s not quite right, however. Because the Universe is expanding, the most distant visible things are much further away than that. In fact, the photons in the cosmic microwave background have travelled a cool 45 billion light years to get here. That makes the visible universe some 90 billion light years across.
+
+
+That’s big but the universe is almost certainly much bigger. The question than many cosmologists have pondered is how much bigger. Today we have an answer thanks to some interesting statistical analysis by Mihran Vardanyan at the University of Oxford and a couple of buddies.
+
+Obviously, we can’t directly measure the size of the universe but cosmologists have various models that suggest how big it ought to be. For example, one line of thinking is that if the universe expanded at the speed of light during inflation, then it ought to be 10^23 times bigger than the visible universe.
+
+Other estimates depend on a number factors and in particular on the curvature of the Universe: whether it is closed, like a sphere, flat or open. In the latter two cases, the Universe must be infinite.
+
+If you can measure the curvature of the Universe, you can then place limits on how big it must be.
+
+https://www.technologyreview.com/2011/02/01/197279/cosmos-at-least-250x-bigger-than-visible-universe-say-cosmologists/
+

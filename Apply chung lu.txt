@@ -1,0 +1,21 @@
+Here are some more details on applying these models:
+
+Detecting communities with Chung-Lu:
+The Chung-Lu model can be fit to a real network to detect community structure as follows:
+
+1. Initialize node weights randomly 
+2. Generate a graph using the Chung-Lu model  
+3. Compare to the actual network and calculate error   
+4. Update node weights within communities to increase edges within communities and decrease edges between communities
+5. Generate a new graph and recalculate error
+6. Repeat steps 4 and 5 until the error is minimized or converges
+
+When the algorithm converges, nodes with similar weights likely belong to the same community. The final node weights reflect the "role" or importance of nodes within communities.
+
+Applications of random intersection graphs:
+This model can be used to simulate networks with overlapping communities, where nodes belong to multiple communities. It can also be used to study spreading processes on clustered networks and evaluate clustering-based community detection algorithms.
+
+Recursive matrix model:     
+This may be the simplest model for generating scale-free networks due to its intuitive preferential attachment-like mechanism using matrix multiplications. However, it cannot simulate other properties like clustering and communities as effectively as some other models.
+
+In summary, while focused on specific aspects of network structure, these models can still provide useful insights and be applied in many ways when combined with appropriate techniques and parameters. With some adjustments, they can often be adapted to detect structures in real networks as well.

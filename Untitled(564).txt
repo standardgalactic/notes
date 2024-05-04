@@ -1,0 +1,9 @@
+— Tell me about Eigen's concept of self-organization.
+
+— Eigen's concept of self-organization is a universal functioning property inherent to the open systems, including biological entities and living organisms. The flux of energy or matter through the system enables its transition to a new ordered state, which results from a cooperative behavior of the system’s constituents². Self-organization is the process of the spontaneous emergence and maintenance of order in a complex dynamic system. The capacity for self-organization enables the system to develop or change its internal structure spontaneously and adaptively in relation to its environment⁴. Self-organization occurs in many physical, chemical, biological, robotic, and cognitive systems. Examples of self-organization include crystallization, thermal convection of fluids, chemical oscillation, animal swarming, neural circuits, and black markets¹.
+
+Source: Conversation with Bing, 21/08/2023
+(1) Eigen, M. (1971) Self-Organization of Matter and the Evolution of .... https://bing.com/search?q=Eigen%27s+concept+of+self-organization.
+(2) Self-Organization | Encyclopedia.com. https://www.encyclopedia.com/education/encyclopedias-almanacs-transcripts-and-maps/self-organization.
+(3) Self-organization - Wikipedia. https://en.wikipedia.org/wiki/Self-organization.
+(4) Eigen, M. (1971) Self-Organization of Matter and the Evolution of .... https://www.scirp.org/reference/ReferencesPapers.aspx?ReferenceID=1293209.

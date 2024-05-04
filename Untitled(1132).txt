@@ -1,0 +1,197 @@
+
+GEEKSFORGEEKS
+
+ANN – Self Organizing Neural Network (SONN)
+
+Self Organizing Neural Network (SONN) is an unsupervised learning model in Artificial Neural Network termed as Self-Organizing Feature Maps or Kohonen Maps. These feature maps are the generated two-dimensional discretized form of an input space during the model training (based on competitive learning). This phenomenon is very similar to biological systems. In the human cortex, sensory input spaces (e.g., auditory, motor, tactile, visual, somatosensory, etc.) of multi-dimension are represented by two-dimensional maps. Such projection of higher dimensional inputs to reduced dimensional maps is termed as topology conserving. And this topology-conserving mapping can be achieved by the Self Organizing Networks. Why SONN is required? These Self-Organizing Maps are used for classification and visualization of higher-dimensional data in lower-dimension. SONN Architecture: ￼￼
+
+Layers: SONN is with two layers: Fully connected input layer and output (map) layer. The output layer is termed as Kohonen Layer
+
+Intralayer Connections: All the neurons in output layer are connected in a specific neighborhood with some topology. These are the unweighted lateral connections but responsible for the competitive learning.
+
+Lateral Feedback Connections: These connections generate the excitatory and inhibitory effects, based on the distance from the winning neurons. ￼￼This is accomplished by the utilization of a Mexican hat function which depicts the synaptic weights between the neurons in the Kohonen layer.
+
+Phases of SONN:
+
+Learning phase: Construction of maps; the network is designed with a competitive process using the training samples.
+
+Prediction phase: Classification of new data; for the new data samples, a specific location is provided on the converged map.
+
+Notes:
+
+Kohonen Network underperforms on categorical data, even worse for mixed types data.
+
+A generative model for the data can not be developed.
+
+Model can not be trained against slowly evolving data.
+
+Learning Phase of the model is time consuming.
+
+Self-organizing neural network differs from other artificial neural networks as instead of error-correction learning methods (like backpropagation with gradient descent), it involves competitive learning for the model training.
+
+Article Tags :
+
+Machine Learning
+
+Neural Network
+
+Recommended Articles
+
+1. ANN - Implementation of Self Organizing Neural Network (SONN) from Scratch
+
+2. ANN - Self Organizing Neural Network (SONN) Learning Algorithm
+
+3. Introduction to ANN | Set 4 (Network Architectures)
+
+4. Difference Between Feed-Forward Neural Networks and Recurrent Neural Networks
+
+5. Implementing Artificial Neural Network training process in Python
+
+6. Introduction to Convolution Neural Network
+
+7. Introduction to Artificial Neural Network | Set 2
+
+8. A single neuron neural network in Python
+
+9. Applying Convolutional Neural Network on mnist dataset
+
+10. Introduction to Recurrent Neural Network
+
+11. Importance of Convolutional Neural Network | ML
+
+12. Neural Network Advances
+
+13. ML - Neural Network Implementation in C++ From Scratch
+
+14. Choose optimal number of epochs to train a neural network in Keras
+
+15. Implementation of Artificial Neural Network for AND Logic Gate with 2-bit Binary Input
+
+16. Implementation of Artificial Neural Network for OR Logic Gate with 2-bit Binary Input
+
+17. Implementation of Artificial Neural Network for NAND Logic Gate with 2-bit Binary Input
+
+18. Implementation of Artificial Neural Network for NOR Logic Gate with 2-bit Binary Input
+
+19. Implementation of Artificial Neural Network for XOR Logic Gate with 2-bit Binary Input
+
+20. Implementation of Artificial Neural Network for XNOR Logic Gate with 2-bit Binary Input
+
+21. Implementation of neural network from scratch using NumPy
+
+22. Difference between Neural Network And Fuzzy Logic
+
+23. Deep Neural Network With L - Layers
+
+24. Convolutional Neural Network (CNN) in Machine Learning
+
+25. Adjusting Learning Rate of a Neural Network in PyTorch
+
+Read Full Article
+
+￼
+
+A-143, 9th Floor, Sovereign Corporate Tower,
+
+Sector- 136, Noida, Uttar Pradesh (201305)
+
+feedback@geeksforgeeks.org
+
+Company
+
+About Us
+
+Careers
+
+In Media
+
+Contact Us
+
+Privacy Policy
+
+Copyright Policy
+
+Advertise with us
+
+Learn
+
+DSA
+
+Algorithms
+
+Data Structures
+
+SDE Cheat Sheet
+
+Machine Learning
+
+CS Subjects
+
+Video Tutorials
+
+Courses
+
+NEWS
+
+Top News
+
+Technology
+
+Work & Career
+
+Business
+
+Finance
+
+Lifestyle
+
+Knowledge
+
+Languages
+
+Python
+
+Java
+
+CPP
+
+Golang
+
+C#
+
+SQL
+
+Kotlin
+
+Web Development
+
+Web Tutorials
+
+Django Tutorial
+
+HTML
+
+JavaScript
+
+Bootstrap
+
+ReactJs
+
+NodeJs
+
+Contribute
+
+Write an Article
+
+Improve an Article
+
+Pick Topics to Write
+
+Write Interview Experience
+
+Internships
+
+Video Internship
+
+@geeksforgeeks, Some rights reserved
+

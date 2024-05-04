@@ -1,0 +1,23 @@
+A Formal Model for Autocatakinetic Systems
+
+July 2012
+
+Ecological Psychology 24(3):204-219
+
+
+Self-organization as a concept has appeared in several arenas, including explanations of physical phenomena, biological systems, and intelligence. A guiding principle for self-organizing systems, especially at the level of intelligent systems, has not been settled upon. So-called autocatakinetic (ACK) systems attempt to provide such a principle through macroscopic thermodynamics but to date have not been formally defined. We attempt to extend ACK by developing a formal model commensurate with its defining properties.
+Principles of Self-Organization: Learning as Participation in Autocatakinetic Systems
+
+Sasha A. Barab, Miriam Cherkes-Julkowski, Rod Swenson, Steve Garrett, Robert E. Shaw and Michael Young
+
+The Journal of the Learning Sciences
+
+Vol. 8, No. 3/4 (1999), pp. 349-390 (42 pages)
+
+Published By: Taylor & Francis, Ltd.
+
+
+Abstract
+
+Modern science has been built on a Cartesian or Newtonian (mechanical) world view giving rise to an artifactual view of mind and suggesting that particles (learners) are continuously working to destroy order (are recalcitrant), which can only be maintained by an external artificer (the teacher). At the core of the Cartesian worldview is the absolute separation of mind and matter. Beginning with the separation of mind and body, Cartesianism is grounded in a set of dualisms that separate individual from environment and leads to the belief that knowledge refers to a self-sufficient immaterial substance that can be understood independently from the individual, environment, and context in which it is situated. In contrast, we make the argument for an alternative set of assumptions predicated on a relational ontology and grounded in recent developments in the understanding of self-organizing systems. In our view, knowing, meaning, and cognition are actualized through the dynamic between learner (self) and environment (nonself), and that which is neither the learner nor the environment. We further argue that the ecologized, or self-organization, model (relational ontology) establishes that (under the appropriate conditions) the particles (learners), in effect, "want" to or strive opportunistically to order themselves once the intention has been properly initialized. From this perspective, instruction involves establishing the appropriate field conditions or connecting the learner into a system (a set of relations) through participation (e.g., as part of a community of practice) in the service of an intention. The type of learning that we are advocating cannot be handed to the learner wholecloth but develops itself through dynamic activity (participation) as part of a system as a whole. Central to this line of reasoning is the assertion not only that learner practices and meaningful relations that arise due to their functional significance as part of a dynamic system are fundamentally different from teacher- or text-book-owned descriptions of practices and meanings, but that they are in this way far richer, more meaningful, and more functional. Context and participation, to put it directly, not only matter but in a deep and fundamental way are everything
+

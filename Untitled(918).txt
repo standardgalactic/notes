@@ -1,0 +1,51 @@
+Rings and their fields of fractions
+Fields, especially skew fields, are generally constructed as the field of
+fractions of some ring, but of course not every ring has a field of fractions
+and for a given ring it may be quite difficult to decide if a field of fractions
+to
+exists. While a full discussion of this question is left to Ch. 4, for the
+moment wve shall bring some general observations on the kind of
+conditions to expect (mainly quasi-identities) in 12 and give some
+necessary conditions relating to the rank of free modules in 1.4, as well as
+some sufficient conditions. On the one hand there is the Ore condition in
+1.3, generalizing the commutative case; on the other hand and perhaps
+less familiar , we have the trivializability of relations, leading to semifirs in
+1.6, which include free algebras and coproducts of fields, as we shall see
+in Ch. 5 Some general relations between matrices over rings, and the
+applications to the factorization of elements over principal ideal domains
+(needed later) are described in 1.5.
+Although readers will have met fields before, formal definition is
+a
+given in 11 and is contrasted there with the definition of near fields,
+which however will not occupy us further. The final section 1.7 deals with
+the matrix functor and its left adjoint, the matrix reduction functor, which
+will be of use later in constructing counter-examples.
+V this
+ges.
+1.1 Fields, skew fields and near fields
+By a field we understand a set K with two binary operations, addition,
+2
+denoted by plus sign: +, and multiplication, denoted by a cross, x, a
+e
+dot, ., or simply by juxtaposition, with two distinguished elements, zero:
+0 and one: 1, such that
+(i) K is a group under addition, with 0 as neutral element
+(ii) K{0} is a group under multiplication, with 1 as neutral element, (iii) Multiplication distributes over addition: a x (b + c) = (a x b) + (a x c) and (b + c) x a = (b x a) + (c x a) for all a, b, c in K.
+
+A skew field is a generalization of a field where the multiplication operation is not necessarily commutative. In a skew field, all the properties of a field hold, except that the multiplication operation may not commute.
+
+A near field is a structure similar to a field, but with the requirement that every non-zero element has both a left inverse and a right inverse with respect to multiplication. In other words, for every non-zero element a in a near field, there exist elements b and c such that b * a = 1 and a * c = 1.
+
+The concept of the field of fractions arises when considering an integral domain, which is a commutative ring with no zero divisors. Given an integral domain D, its field of fractions, denoted as Frac(D), is constructed by considering equivalence classes of fractions a/b, where a and b are elements of D and b is nonzero. The field of fractions is defined by formalizing the usual arithmetic operations on fractions and equipping the set of equivalence classes with addition and multiplication operations.
+
+The field of fractions of an integral domain is a field that contains a subring isomorphic to the original integral domain. It can be viewed as the smallest field in which the elements of the integral domain can be embedded while preserving the arithmetic properties.
+
+Deciding whether a ring has a field of fractions can be a challenging task. The existence of a field of fractions depends on various conditions and properties of the ring. One important condition is the Ore condition, which generalizes the notion of a common denominator in commutative rings. The Ore condition states that for any two nonzero elements a and b in the ring, there exist nonzero elements c and d such that ac = bd. If a ring satisfies the Ore condition, then it has a field of fractions.
+
+In addition to the Ore condition, other conditions and properties of the ring may be necessary or sufficient for the existence of a field of fractions. The concept of quasi-identities, rank of free modules, trivializability of relations, and semifirs (semi-fields) are all relevant in understanding the conditions for the existence of a field of fractions.
+
+The study of fields, skew fields, and their corresponding rings and modules is a fundamental topic in algebra and has applications in various areas of mathematics and beyond.
+
+
+
+

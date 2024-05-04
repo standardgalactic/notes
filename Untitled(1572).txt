@@ -1,0 +1,54 @@
+Kristofer Älvring
+Isn't there a connection between
+the Enc() and a(, s( for
+attention? I think that it would be
+peneficial to be biased on things
+related to the last action made
+especially if x(t) is humongous in
+size (vision+sound+internalised
+tokens)
+4m
+Like
+Reply
+Michael Witbrock
+had to save this to my
+gardening" collection, because
+Facebook Save Post ironically
+doesn't work for this case.
+(Couldn't select other collections)
+4m
+Like
+Reply
+
+Gilles Madi
+Reinforcement learning????
+16m
+Like
+Reply
+
+Roman Koshlyak
+From what I understand you trying
+to say that LLM is less powerfull
+in some sense, but it looks like it
+just question of definitions
+State can be anything, if you ask
+LLM to track state of the world
+
+ChatGPT
+It's great that Mary visited you and enjoyed an apple! With your iPhone at only 10% battery, it would
+be a good idea to charge it soon to ensure it remains functional, especially if you're expecting
+more visits or need to use it later.
+State of the world: User bought 5 apples today. Mary visited and ate 1 apple. User's iPhone battery
+is at 10%.
+RK
+You
+I charged iPhone for 5 hours. I will go and d ont eat something something from from the the fridge
+ChatGPT
+Charging your iPhone for 5 hours should have significantly replenished its battery,likely bringing it
+to a full charge or close to it, depending on the charger and the iPhone model.
+
+ Enjoy your meal
+from the fridge! If you have any questions or need assistance with something else, feel free to ask.
+State of the world: User bought 5 apples today. Mary visited and ate 1 apple. User charged their
+iPhone for 5 hours. User plans to eat something from the fridge.
+

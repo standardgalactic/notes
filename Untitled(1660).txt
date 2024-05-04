@@ -1,0 +1,80 @@
+I.UNCERTAINTY RELATIONS 
+Heisenberg’s uncertainty principle forms one of the 
+fundamental elements of quantum mechanics. Originally 
+proven for measurements of position and momentum, it 
+is one of the most striking examples of the dif f erence 
+between a quantum and a classical world [25]. Uncer- 
+tainty relations today are probably best known in the 
+form given by Robertson [42], who extended Heisenberg’s 
+result to two arbitrary observables X and Z. More pre- 
+cisely, Robertson’s relation states that when measuring 
+the state |ψi using either X or Z, then 
+∆X∆Z > 
+1 2|hψ|[X,Z]|ψi| , 
+(1) 
+where ∆Y = phψ|Y 
+2|ψi − hψ|Y |ψi2 for Y ∈ {X,Z} is 
+the standard deviation resulting from measuring |ψi with 
+observable Y . 
+In the modern day literature, uncertainty is usually 
+measured in terms of entropies (starting with [3, 7, 26], 
+see [51] for a survey). One of the reasons this is desirable 
+is that (1) makes no statement if |ψi happens to give 
+zero expectation on [X,Z] [13]. To see how uncertainty 
+can be quantif i ed in terms of entropies, let us start with a 
+simple example. Throughout, we let Alice (A) denote the 
+system to be measured. For now, let us consider measur- 
+ing a single qubit in the state ρAusing two incompatible 
+measurements given by the Pauli σxor σzeigenbases, 
+and let K be the random variable associated with the 
+measurement outcome. We have from [35] that for any 
+state ρA 
+H(K|Θ) = 
+1 
+2 h 
+H(K|Θ = σx) + H(K|Θ = σz) i 
+> 
+1 
+2 
+, (2) 
+where H(K|Θ = θ) = − P 
+kpk|Θ=θlogpk|Θ=θ is the 
+Shannon entropy (all logarithms are base 2 in this arti- 
+cle) of the probability distribution over measurement out- 
+comes k ∈ {0,1} when we perform the measurement la- 
+beled θ on the state ρA, and each measurement is chosen 
+with probability pθ= 1/2. To see that this is an uncer- 
+tainty relation note that if one of the two entropies is zero, 
+then (2) tells us that the other is necessarilynon-zero, i.e., 
+there is at least some amount of uncertainty. If we mea- 
+sure a dA-dimensional system A in two orthonormal bases 
+θ0= {|x0i}dA 
+x=1 and θ1= {|x1i}dA 
+x=1 then the r.h.s. of (2) 
+becomes log(1/c), where c = maxx0,x1|hx0|x1i|2.The 
+largest amount of uncertainty, i.e., the largest log(1/c), 
+is thereby obtained when |hx0|x1i| = 1/√dA, 
+that is, the 
+two bases are mutually unbiased (MUB) [29]. 
+When thinking about uncertainty, it is often illustra- 
+tive to adopt an adversarial perspective and consider an 
+“uncertainty game” [5], commonly used in quantum cryp- 
+tography [11]. In particular, we will think about uncer- 
+tainty from the perspective of an observer called Bob 
+holding a second system (B) whose task is to guess the 
+outcome of the measurement on Alice’s system success- 
+fully. Bob thereby knows ahead of time what measure- 
+ments could be made and the probability that a particu- 
+lar measurement setting is chosen. To help him win the 
+game, Bob may even prepare ρAhimself, and Alice tells 
+him which measurement she performed before he has to 
+make his guess. The amount of uncertainty as measured 
+by entropies can be understood as a limit on how well Bob can guess Alice’s measurement outcome- the more 
+dif i cult it is for Bob to guess the more uncertain Alice’s measurement outcomes are. If Bob is not entangled 
+with A but only keeps classical information about the 
+state, such as for example a description of the density 
+operator ρA, then (2) still holds even if we condition on 
+Bob’s classical information B [22].More precisely, we 
+have H(K|ΘBclassical) 
+> 1/2 for any states or distribu- 
+tion of states that Bob may prepare.

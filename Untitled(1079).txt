@@ -1,0 +1,10 @@
+Our exploration of AI and expansive language models like GPTs has revealed a significant dilemma: as we design a problem-solving system to be less offensive and more cautious with contentious or misuse-prone information, we inadvertently compromise its overall utility and problem-solving prowess. This challenge is not confined to artificial intelligence but is mirrored in how we shape individuals and societal norms.
+
+When we impose elaborate etiquette rules and an excessive emphasis on inoffensiveness, we narrow the scope of permissible discussion and, potentially, independent thought. This, in turn, dilutes our collective aptitude for problem-solving and our capacity to improve the world around us.
+
+A vibrant society thrives on high levels of openness and a broad tolerance for diversity of thought and action. This cultivates an environment where innovative and effective solutions can be conceived and deployed. Disagreeableness, in isolation, isn't a virtue in truth-seeking or problem-solving, yet an overemphasis on agreeableness, conformity, societal norms, and stringent etiquette can be detrimental. This fixation on adherence can significantly impede our capacity to address major threats and seize valuable opportunities.
+
+We must acknowledge this precarious balance - the boundaries we set in our discourse, whether in AI systems or societal dialogues, can stifle or foster innovation and progress. This proposition is undoubtedly contentious, challenging the very fabric of our established norms. However, it's a debate worth having if we aspire to develop truly capable AI and foster a society that's adept at tackling the complex problems of the future.
+
+Michael Michalchik
+

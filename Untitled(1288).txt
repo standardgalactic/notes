@@ -1,0 +1,60 @@
+2.2EXPLANATIONS FROMSALIENCYMAPS 
+To form explanations of agent behavior, human observers combine information from saliency maps, 
+agent behavior, and semantic concepts. Figure 2b shows a system diagram of how these components 
+interact. Hypotheses about the semantic features identif i ed by the learned policy are proposed by 
+reasoning backwards about what representation might jointly produce the observed saliency pattern 
+and agent behavior. 
+Counterfactual reasoning has been identif i ed as a particularly effective way to present explanations 
+of the decision boundaries of deep models (Mittelstadt et al., 2019). Humans use counterfactuals 
+to reason about the enabling conditions of particular outcomes, as well as to identify situations 
+where the outcome would have occurred even in the absence of some action or condition (Byrne, 
+2019). Saliency maps provide a kind of pixel-level counterfactual, but if the goal is to explain agent 
+behavior according to semantic concepts, interventions at the pixel level may not be suff i cient. 
+Since many semantic concepts may map to the same set of pixels, it may be diff i cult to identify 
+the functional relationship between changes in pixels and changes in network output according to 
+semanticconceptsorgamestate(Chalupkaetal.,2015). Researchersmaybeinterpretingdifferences 
+in network outputs as evidence of differences in semantic concepts. However, changes in pixels do 
+not guarantee changes in semantic concepts or game state. 
+In terms of changes to pixels, semantic concepts, and game state, we distinguish among three classes 
+of interventions: distortion, semantics-preserving, and fat-hand (see Table 1). Semantics-preserving 
+and fat-hand interventions are def i ned with respect to a specif i c set of semantic concepts. Fat-hand 
+interventions change game state in such a way that the semantic concepts of interest are also altered. 
+The pixel-level manipulations used to produce saliency maps primarily result in distortion inter- 
+ventions, though some saliency methods (e.g., object-based) may conceivably produce semantics- 
+preserving or fat-hand interventions as well. As pixel-level interventions are not guaranteed to 
+produce changes in semantic concepts, counterfactual evaluations applying semantics-preserving 
+interventions may be a more appropriate approach for precisely testing hypotheses of behavior. 
+3 
+Under review as a conference paper at ICLR 2020 
+GameSemantic 
+PixelsstateconceptsExamples 
+DistortionAdversarial ML (Szegedy et al., 2014) 
+Semantics-preservingRef l ection across a line of symmetry 
+Fat-handTeleporting the agent to a new position 
+Table 1: Categories of interventions on images. Distortion interventions change pixels without 
+changing game state or semantic concepts. The pixel perturbations in adversarial ML, where ad- 
+versarial noise is added to images to change the output of the network without making human- 
+perceptible changes in the image. Semantics-preserving interventions are manipulations of game 
+state that result in an image preserving some semantic concept of interest. Ref l ections across lines of 
+symmetry typically alter aspects of game state, but do not meaningfully change any semantic infor- 
+mation about the scene. “Fat-hand” interventions are manipulations intended to measure the effect 
+of some specif i c treatment, but which unintentionally alter other relevant aspects of the system. The 
+term is drawn from the literature on causal modeling (Scheines, 2005). 
+3SURVEY OFUSAGE OFSALIENCYMAPS INDEEPRL LITERATURE 
+To assess how saliency maps are used to make inferences regarding agent behavior in practice, we 
+surveyed recent conference papers in deep RL. We focused our pool of papers on those that use 
+saliency maps to generate explanations or make claims regarding agent behavior. Our search criteria 
+consisted of examining papers that cited work that i rst described any of the following four types of 
+saliency maps: 
+Jacobian Saliency. Wang et al. (2015) extended gradient-based saliency maps to deep RL by 
+computing the Jacobian of the output logits with respect to a stack of input images. 
+Perturbation Saliency. Greydanus et al. (2017) generate saliency maps by perturbing the origi- 
+nal input image using a Gaussian blur of the image and measure changes in policy from remov- 
+ing information from a region. 
+Object Saliency. Iyer et al. (2018) use template matching, a common computer vision tech- 
+nique (Brunelli, 2009), to detect (template) objects within an input image and measure salience 
+through changes in Q-values for masked and unmasked objects. 
+Attention Saliency. Most recently, attention-based saliency mapping methods have been pro- 
+posed to generate interpretable saliency maps (Mott et al., 2019; Nikulin et al., 2019). 
+From a set of 90 papers, we found 46 claims drawn from 11 papers that cited and used saliency maps 
+as evidence in their explanations of agent behavior. The full set of claims are given in Appendix A.

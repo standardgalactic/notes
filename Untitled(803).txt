@@ -1,0 +1,22 @@
+Translational Symmetry
+
+II. Crystal Systems
+
+￼ Course Material Index  ￼ Section Index  ￼ Previous Page  ￼ Next Page
+
+￼ The trigonal and hexagonal unit-cell information in the table below is reference material only.
+
+Seven Crystal Systems
+
+Most crystals usually have some type of rotational symmetry combined with the pure translational symmetry of the lattice. We now consider the constraints that rotational symmetry imposes upon lattices.
+
+The figure below represents a two-dimensional section of the ab-plane of a lattice, red balls indicating equivalent lattice points. With no rotational symmetry constraints imposed upon the lattice, the angle γ may take any arbitrary value. Suppose a twofold rotation axis is combined with the lattice along the b-axis direction as shown below:
+
+Applying a twofold rotation to the lattices points generates the new lattice points indicated by open circles. The positions of the red balls and open circles will only be co-incident when the angle γ is constrained to be exactly 90°. Only when the angle is 90° can the lattice show twofold symmetry. So the obvious choice of unit cell is the one that constrains the angle γ to be 90°. A similar argument can be used to show that all unit-cell angles adjacent to a rotational axis are 90°.
+
+Combining a lattice with the different orders of rotation symmetry leads to the seven possible crystal systems. The lattices of the seven crystal systems consist of an infinite array of identical points each with an identical environment. The point symmetry of this environment is known as the syngony of the lattice. The symbols of the syngonies will be explained later. The seven possible syngonies characterise the seven crystal systems:
+
+Crystal SystemCharacteristic
+SymmetrySyngonyUnit-Cell ParametersIndependent
+ParametersTriclinic1×  1-fold-1a ≠ b ≠ c;  α ≠ β ≠ γ6Monoclinic1×  2-fold2/ma ≠ b ≠ c;  α = γ = 90°; β ≠ 90°4Orthorhombic3×  2-foldmmma ≠ b ≠ c;  α = β = γ = 90°3Tetragonal1×  4-fold4/mmma = b ≠ c;  α = β = γ = 90°2Trigonal (see note)1×  3-fold6/mmm (P)
+   -3m   (R)a = b ≠ c;  α = β = 90°;  γ = 120°2Hexagonal1×  6-fold6/mmma = b ≠ c;  α = β = 90°;  γ = 120°2Cubic4×  3-foldm-3ma = b = c;  α = β = γ = 90°1

@@ -1,0 +1,13 @@
+A Multi-Agent Systems Approach to Gossip and the Evolution of Language
+
+https://www.rug.nl/research/gelifes/tres/_pdf/sl_eacss09.pdf
+
+Hmmm...
+https://github.com/gpt-mind
+
+Too technical for me to understand just yet:
+A geometric approach to multi-modal and multi-agent systems
+
+From disturbance decoupling to consensus
+
+https://anneroos.home.fmf.nl/files/proefschriftAnneroosEverts.pdf

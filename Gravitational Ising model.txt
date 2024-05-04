@@ -1,0 +1,253 @@
+A Gravitational Ising Model for the Statistical Bias of 
+Galaxies 
+Andrew Repp∗†& Istv´ an Szapudi‡ 
+Institute for Astronomy, University of Hawaii, 2680 Woodlawn Drive, Honolulu, HI 96822, USA 
+Essay written for the Gravity Research Foundation 2019 Awards for Essays on Gravitation 
+April 11, 2019 
+Abstract 
+Evaluation of gravitational theories by means of cosmological data suf f ers from the fact 
+that galaxies are biased tracers of dark matter. Current bias models focus primarily on 
+high-density regions, whereas low-density regions carry signif i cant amounts of information 
+relevant to the constraint of dark energy and alternative gravity theories. Thus, proper 
+treatment of both high and low densities is important for future surveys. Accordingly, 
+we here present an interactionless Ising model for this bias, and we demonstrate that 
+it exhibits a remarkably good i t to both Millennium Simulation and Sloan Digital Sky 
+Survey data, at both density extremes.The quality of the i t indicates that galaxy 
+formation is (to i rst order) an essentially local process determined by initial conditions. 
+∗Corresponding author 
+†repp@ifa.hawaii.edu 
+‡szapudi@ifa.hawaii.edu 1 
+arXiv:1904.05048v1 
+[astro-ph.CO] 
+10 
+Apr 
+2019 
+1Introduction 
+Newton’s deduction of the inverse square law from planetary orbits is perhaps the i rst use of 
+astrophysics to constrain gravitational theories. Today we require a similar strategy: ΛCDM 
+cosmology treats dark energy as a cosmological constant—one which our best theory overpre- 
+dicts by 10120(Carroll 2001)—whereas modif i ed gravity mimics dark energy ef f ects through 
+other means. Hence, one goal of the Euclid (Laureijs et al. 2011) and WFIRST (Green et al. 
+2012) surveys is to shed light on such questions using cosmological data. 
+These surveys, however, count galaxies rather than directly observing matter, and since 
+galaxies are biased tracers of dark matter, the galaxy density is not proportional to the mat- 
+ter density. Thus, extracting cosmological information requires modeling of the relationship 
+between the matter overdensity δ = ρ/ρ − 1 and the galaxy overdensity δg= Ngal/N − 1 (ρ 
+being matter density and Ngalthe galaxy counts in each three-dimensional survey pixel). The 
+simplest bias models (e.g., Hof f mann et al. 2017) expand δglinearly (δg= bδ) or quadrat- 
+ically (δg= b1δ + b2δ2/2), while a log bias (e.g., de la Torre and Peacock 2013) assumes 
+ln(1 + δg) = bln(1 + δ). None of these phenomenological models perform particularly well 
+compared to observations. Alternative approaches (e.g., halo models) are signif i cantly more 
+complex, and simulations require simplif i cations (of unknown impact) to render tractable the 
+required range of scales.
+
+Another drawback to these approaches is their focus on high-density regions, despite voids’ 
+signif i cant information content.In particular, low-density regions contain half of surveys’ 
+information on dark energy, since they constitute 50 percent of the initial volume of the universe 
+(see also Wolk et al. 2015); likewise, detection of modif i ed gravity screening requires analysis 
+of both ends of the density spectrum. Hence, we desire a bias model that is accurate at both 
+extremes. 
+This essay presents such a model (Section 2). We demonstrate its accuracy compared to the 
+Millennium Simulation and the Sloan Digital Sky Survey in Section 3; we conclude in Section 4. 
+2An Interactionless Ising Model 
+We begin with some physical assumptions. First, we assume the sites of galaxy formation are 
+(to i rst order) determined by initial densities and local physics. Since ln(1 + δ) is a unitless 
+quantity roughly characterizing the initial conditions (Neyrinck et al. 2009; Carron and Szapudi 
+2013), we formulate our model in terms of A ≡ ln(1 + δ). Second, we assume we can treat the 
+subhalos in which galaxies form as roughly identical. We also note that each subhalo is in one of 
+two states—either hosting a galaxy or not—and that the release of gravitational energy during 
+galaxy formation renders hosting energetically favorable.Third, we assume that clustered 
+galaxies occupy deeper potential wells than isolated galaxies, rendering galaxy formation more 
+favorable in survey cells of higher overall density. 
+The Ising model nicely incorporates these assumptions. In this model, an atom has two 
+possible states, one of which an external i eld renders energetically favorable; the model also 
+2 
+2024 
+ln(1+δ) 
+0.0 
+0.5 
+1.0 
+1.5 
+2.0 
+2.5 
+3.0 
+M≡ 
+? Ngal 
+? /(1+δ) 
+4h−1Mpc Mill Sim Catalog 
+Ising Model 21012 
+ln(1+δ) 
+50 
+75 
+100 
+125 
+150 
+175 
+200 M≡ 
+? Ngal 
+? /(1+δ) 
+16h−1Mpc 
+Figure 1: Average number of galaxies per unit mass (M) as a function of ln(1 + δ), from 
+Millennium Simulation galaxy catalogs (solid) and from i tting Equation 4 (dashed). The panels 
+show two representative smoothing scales, namely, 4h−1Mpc (left-hand panel) and 16h−1Mpc 
+(right-hand panel). 
+typically allows interaction between neighboring atoms. Replacing the atoms with dark matter 
+subhalos, we thus consider an interactionless Ising model, which gives (e.g., Pathria 1972) the 
+following fraction of subhalos in a favorable (galaxy-hosting) state: 
+fgal= 
+1 2e 
+βE sechβE = 
+1 
+1 + e−2βE 
+,(1) 
+where E is energy and β inverse temperature. After substituting a linear function of A for 
+(unitless) βE, Equation 1 reduces to a Fermi-Dirac distribution: 
+fgal= 
+1 
+1 + exp ?A−A 
+t 
+−T ?(T 
+> 0).(2) 
+Here Atmarks the transition value between empty and i lled subhalos. Note that subhalos 
+in high-density cells i ll up i rst because “temperature” (−T in Equation 2) is negative for 
+gravitational collapse.
+
+The Fermi-Dirac formulation suggests additional analogies: for instance, galaxies arguably 
+obey an exclusion principle, since at most one galaxy can occupy a given subhalo. Atalso 
+corresponds to chemical potential, marking the density at which the next galaxy would form. 
+Nevertheless, since galaxies cannot switch subhalos, we prefer to consider this model interac- 
+tionless Ising rather than fermionic. 
+We now make the following observations: i rst, we wish to describe the expected number of 
+galaxies per survey cell as a function of the underlying dark matter density. We thus assume 
+3 
+that the expected number of subhalos in any pixel is proportional to the cell’s matter density 
+(hNshiA∝ 1 + δ = eA). 
+Thus we write 
+fgal= hNgaliA 
+hNshiA 
+= hNgaliA 
+bN(1 + δ) 
+,(3) 
+where N is the (global) mean number of galaxies per pixel. We can now write Equation 2 in 
+terms of M, the expected number of galaxies per mass: 
+M ≡ hNgaliA· (1 + δ)−1= 
+bN 
+1 + exp ?A 
+t−A 
+T ?(T 
+> 0),(4) 
+where, again, A ≡ ln(1 + δ). In high-density regions (A ? At), 
+M approaches bN, so that 
+hNgaliAapproaches 
+bN(1 + δ): i.e., the number of galaxies is directly proportional to density. 
+For low-density regions (A ? At), 
+the number of galaxies drops exponentially to zero. 
+Second, the matter power spectrum predominantly samples high-density regions, in which 
+(1+δg) = hNgaliA/N 
+= b(1+δ), so that δg∼ bδ, as in the linear bias model. Thus a linear bias 
+represents high-density regions fairly well but (as noted before) discards essential information 
+on dark energy and modif i ed gravity. 
+Third, the various possible distributions of matter within a survey pixel produce a range of 
+energetic favorabilities for cells of given (smoothed) density. The quantity T parametrizes this 
+ef f ect of coarse-graining. On theoretical grounds we expect T2to be a decreasing function of log 
+variance with a simple linear i t. Demonstrating this result is beyond the scope of this essay, 
+but we here observe that a survey with larger pixels permits a greater variety of intrapixel 
+matter distributions, and therefore T increases with the survey pixel scale. (Just as −T is 
+analogous to temperature, the range of internal matter distributions is analogous to entropy.) 
+For any given survey, however, T depends on the survey parameters as well as the type of 
+galaxy under consideration. 
+Fourth, the additional constraint provided by the total number of galaxies implies that this 
+model has only two free parameters.
+
+3Accuracy 
+3.1Comparison to Simulation Data 
+We i rst compare the model to galaxy catalogs obtained by applying semianalyical algorithms 
+(Croton et al. 2006; De Lucia et al. 2006) to the Millennium Simulation (Springel et al. 2005). 
+To test the impact of smoothing on various scales, we bin galaxies and dark matter into 
+successively larger cubical pixels with side lengths 2, 4, 8, 16, and 32 h−1Mpc; for each scale 
+we calculate M = hNgaliA· (1 + δ)−1as 
+a function of A = ln(1 + δ). When we determine the 
+best-f i t parameters from Equation 4, we i nd an excellent i t at all i ve scales. Figure 1 shows 
+two examples. 4 
+1.00.50.00.51.0 
+ln(1+δ) [Log mass units] 
+0.0 
+0.5 
+1.0 
+1.5 
+2.0 
+2.5 
+3.0 
+M≡ 
+? Ngal 
+? /(1+δ) 
+[Galaxies 
+per 
+mass 
+unit] 
+SDSS Galaxies 
+Ising model 
+linear bias 
+quadratic bias 
+log bias 
+Figure 2: Results from SDSS Main Galaxy Sample, compared to our model (Ising) and three 
+other bias models. Horizontal error bars show the variation of ln(1 + δ) within each mass 
+bin; vertical error bars ref l ect both the spread of measured Ngalvalues and the impact of the 
+variation of 1 + δ within each bin. The three lowest bins contain no galaxies, and thus we 
+show upper limits. Only the Ising model accurately ref l ects the galaxy distribution behavior 
+for both high and low densities. 5
+
+3.2Comparison to Observational Data 
+For comparison to observed galaxy distributions, we use a roughly volume-limited catalog from 
+the Sloan Digital Sky Survey (SDSS) Main Galaxy Sample (Blanton et al. 2005). To achieve 
+reasonable number densities, we bin galaxies into cubical cells with 16h−1-Mpc sides, making 
+cuts to avoid partially-f i lled pixels on sample borders. 
+We also need the underlying dark matter distribution; for this purpose we use the prescrip- 
+tion of Repp and Szapudi (2018) at the mean redshift (z = 0.15), matching the quantiles of 
+(observed) galaxy and (prescribed) matter distributions. Figure 2 shows the resulting values 
+of M alongside the best-f i t Ising model, plus three other bias models. 
+The i gure shows that the Ising model best captures the relationship between matter and 
+galaxy densities. Of the others, the linear bias roughly reproduces the high-end plateau but 
+quickly becomes unphysical (Ngal< 0) at low densities. Indeed, at low densities the counts 
+drop even faster than the Ising model predicts; nevertheless, our model is remarkably accurate 
+given its lack of any halo modeling. 
+4Conclusions 
+Constraining theories of gravity with cosmological data requires modeling the relationship be- 
+tween dark matter and galaxies, at both high and low densities. An interactionless Ising model 
+(alternatively, a Fermi-Dirac model) yields a relationship that is both simple and surprisingly 
+accurate. Indeed, the success of this model provides fundamental insight into galaxy formation 
+by validating our assumption that galaxy formation is (to i rst approximation) a local process, 
+with tidal i elds exerting only higher-order inf l uence. Additionally, the fact that our indepen- 
+dent variable ln(1 + δ) is a proxy for initial density strengthens our conf i dence that the initial 
+conditions largely determine the galaxy sites. 
+Future work can extend this model with more accurate i ts, perhaps by including interaction 
+terms—just as Sheth and Tormen (1999) expanded on the earlier Press-Schechter (1974) halo 
+prescriptions. However, the model as it stands provides precisely what is necessary to place 
+better constraints on dark energy and modif i ed gravity. 
+References 
+Blanton, M. R., Schlegel, D. J., Strauss, M. A., Brinkmann, J., Finkbeiner, D., Fukugita, M., 
+Gunn, J. E., et al.: 2005, AJ 129, 2562 
+Carroll, S. M.: 2001, Living Reviews in Relativity 4, 1 
+Carron, J. and Szapudi, I.: 2013, MNRAS 434, 2961 
+Croton, D. J., Springel, V., White, S. D. M., De Lucia, G., Frenk, C. S., Gao, L., Jenkins, A., 
+Kauf f mann, G., Navarro, J. F., and Yoshida, N.: 2006, MNRAS 365, 11 
+6 
+de la Torre, S. and Peacock, J. A.: 2013, MNRAS 435, 743 
+De Lucia, G., Springel, V., White, S. D. M., Croton, D., and Kauf f mann, G.: 2006, MNRAS 
+366, 499 
+Green, J., Schechter, P., Baltay, C., Bean, R., Bennett, D., Brown, R., Conselice, C., et al.: 
+2012, ArXiv e-prints 
+Hof f mann, K., Bel, J., and Gazta˜ naga, E.: 2017, MNRAS 465, 2225 
+Laureijs, R., Amiaux, J., Arduini, S., Augu` eres, J. ., Brinchmann, J., Cole, R., Cropper, M., 
+et al.: 2011, ArXiv e-prints 
+Neyrinck, M. C., Szapudi, I., and Szalay, A. S.: 2009, ApJ 698, L90 
+Pathria, R.: 1972, Statistical Mechanics, Pergamon, Oxford 
+Press, W. H. and Schechter, P.: 1974, ApJ 187, 425 
+Repp, A. and Szapudi, I.: 2018, MNRAS 473, 3598
+
+Sheth, R. K. and Tormen, G.: 1999, MNRAS 308, 119 
+Springel, V., White, S. D. M., Jenkins, A., Frenk, C. S., Yoshida, N., Gao, L., Navarro, J., 
+et al.: 2005, Nature 435, 629 
+Wolk, M., Carron, J., and Szapudi, I.: 2015, MNRAS 451, 1682
+
+

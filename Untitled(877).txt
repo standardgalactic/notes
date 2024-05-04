@@ -1,0 +1,47 @@
+Hello. I've read about half your book on understanding quantum mechanics.
+
+It seems I'm using this gpt to help me dialogue and criticize and find connections.
+
+From my perspective it doesn't seem like I know any math but I always got good marks, and can do a lot of programming, trigonometry, and geometry in my head.
+
+I "accidentally" also find myself dealing with a lot of controversial issues, ask some taboo questions.
+
+Anyways, maybe it isn't interesting to you but I would appreciate any input.
+
+I don't think I can share many of my ideas widely, they alienate me from others.
+
+The people I know are not thinking about these things, and I think if my ideas where widely shared, they could put me in danger.
+
+Not to scare you, I think I am trying to explore the nature of truth, but I don't understand how you guys (journalists and physicists) can proclaim stuff like that so flippantly and safely.
+
+I spent like a year or more volunteering in Cuba and Mexico over a number of trips and I think seeing such poverty has made me take a vow of poverty or something, or maybe I have severe asperger's or something.
+
+I could never convey some of my basic knowledge of statistics or probability to my parents, and my younger brother is being abusive and threatening to them so much so that I had to block him.
+
+I am happy to live in a world separated from all of that I just will avoid working with people if I have to although the number of people I have gotten along with is like thousands and the people who have tried to call me an enemy are like 3 or 4 or five.
+
+Nevertheless I don't feel like stopping and am worried that I will publish art and essays that are too controversial and put me in danger.
+
+I don't know if I live among rednecks or what is the issue but it is also possible that people are just extremely frightened of what they don't understand.
+
+That comment about scary unabomber writing really hit home, I get that from anyone who looks at my notes even if it's just about basic math or the Greek alphabet.
+
+Anyways, try to ignore my seemingly negative tone, I personally consider myself to be an optimist, but this includes constantly thinking of ways complex systems can go wrong, and I think that there is a lot. 
+
+So it's difficult to explain how I think asteroids are a real danger, even if they are very tiny by the time they get to the earth's surface if they could hit you in the head.
+
+I see people's careers canceled and destroyed for saying things that seem take, and I know people will even kill people based on lies and made up beliefs.
+
+If I don't engage the public, I don't get so many lies about me. 
+
+Nevertheless I feel guilty sometimes I think I have discovered real knowledge that might help people, but without money, security, or any kind of backing from any institution or job, I have no platform to speak and no one to protect me.
+
+So, with those disclaimers, here's a tiny bit of what I've been working on.
+
+Here Be Dragons
+
+A Saga Begins
+https://github.com/standardgalactic/example/tree/main/gpt-cheatsheet
+
+Private Thoughts
+https://github.com/standardgalactic/xanadu

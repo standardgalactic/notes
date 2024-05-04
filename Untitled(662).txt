@@ -1,0 +1,7 @@
+GPT-4 Might Just Be a Bloated, Pointless Mess
+
+Will endless “scaling” of our current language models really bring true machine intelligence?
+
+By Jacob Stern
+
+As a rule, hyping something that doesn’t yet exist is a lot easier than hyping something that does. OpenAI’s GPT-4 language model—much anticipated; yet to be released—has been the subject of unchecked, preposterous speculation in recent months. One post that has circulated widely online purports to evince its extraordinary power. An illustration shows a tiny dot representing GPT-3 and its “175 billion parameters.” Next to it is a much, much larger circle representing GPT-4, with 100 trillion parameters. The new model, one evangelist tweeted, “will make ChatGPT look like a toy.” “Buckle up,” tweeted another.

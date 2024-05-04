@@ -1,0 +1,89 @@
+ A Short 𝘏𝘪𝘴𝘵𝘰𝘳𝘺 𝘰𝘧 𝘈𝘐
+
+Heloise d'Argenteui advocates "Faking it until you make it" although she doesn't use that exact quote (1130-1132)
+
+Giordano Bruno publishes the theory of the infinite universes (1584)
+
+Zara Yacob proposes a form of internalism and subjectivity in epistemology (1667)
+
+Jeanne-Marie Bouvier de la Motte-Guyon (Madame Guyon) advocates Quietism and writes "A Short and Very Easy Method of Prayer" (1685)
+
+Emanuel Swedenborg explores the relationship between the spiritual and physical worlds, and publicises the concept of correspondences (1688-1772)
+
+Immanuel Kant develops the concept of transcendental idealism and the categorical imperative in ethics (1724-1804)
+
+Thomas Bayes writes the theory named after him in his journal, but he hides it and tells no one (1736)
+
+Benjamin Franklin invents the Book Reaching Device (1786)
+
+Charles Darwin works on developing the theory of evolution through natural selection (1809-1882)
+
+William James develops the concept of pragmatism and studies consciousness (1842-1910)
+
+Ada Lovelace writes the first computer program, but none is available to run it (1843)
+
+Henri Bergson explores the nature of time and consciousness and develops the concept of élan vital (1859-1941)
+
+Wilhelm Wundt establishes the first psychology laboratory at the University of Leipzig (1879)
+
+Sigmund Freud publishes "The Interpretation of Dreams" (1900)
+
+Maria Montessori cuts letters out of little pieces of paper (1907)
+
+Srinivasa Ramanujan publishes "Some Properties of Bernoulli's Numbers" (1911)
+
+Jorge Luis Borges dreams he sees a book titled, "The Timeless Wisdom of the Sphinx", but he is too afraid to look inside (1922)
+
+Cecilia Payne-Gaposchkin discovers the chemical composition of stars (1925)
+
+Graham Wallas asks himself "How can I know what I think until I see what I say?" (1926)
+
+Warren McCulloch and Walter Pitts publish "A Logical Calculus of Ideas Immanent in Nervous Activity," proposing the first artificial neuron (1943)
+
+Norbert Wiener popularizes the idea of cybernetics (1948)
+
+Vannevar Bush invents the concept of the Memex, a hypothetical machine that can store and retrieve information (1945)
+
+Ilya Prigogine publishes "Thermodynamic Study of Irreversible Phenomena" (1947)
+
+B.F. Skinner develops behaviorism and writes "Walden Two" (1948)
+
+Jean Piaget explains his theory of cognitive development (1952)
+
+Niklas Luhmann reinvents the Zettelkasten (1954)
+
+John McCarthy, Marvin Minsky, Nathaniel Rochester, and Claude Shannon organize the Dartmouth Conference, coining the term "artificial intelligence" and laying the groundwork for the field (1956)
+
+Noam Chomsky develops the theory of generative grammar (1957)
+
+William Powers develops perceptual control theory (1958)
+
+Arthur Samuel creates the first machine learning program, a checkers-playing program (1959)
+
+Marvin Minsky co-founds the MIT AI lab (1959)
+
+Joseph Weizenbaum creates the natural language processing program ELIZA, designed to simulate conversation with a therapist (1967)
+
+Torey Hayden writes about her experiences as a special education teacher and therapist (1970s-1990s)
+
+Humberto Maturana and Francisco Varela publish Autopoiesis and Cognition: The Realization of the Living (1972)
+
+Paul Werbos invents backpropagation, a key algorithm for training neural networks (1974)
+
+Gerald Edelman and Rodney Brooks create the first autonomous robot, named Shakey (1981)
+
+Benoit Mandelbrot describes the fractal bearing his name (1982)
+
+Geoffrey Hinton and David Rumelhart develop the backpropagation algorithm for neural networks (1986)
+
+Jürgen Schmidhuber develops the theory of artificial curiosity (1987) and Long Short-Term Memory algorithm, a key architecture for recurrent neural networks (1995)
+
+Judea Pearl uses the term Markov Blanket to refer to a probabilistic shield (1988)
+
+Sejnowski and Rosenberg demonstrate the use of evolutionary algorithms for training neural networks (1991)
+
+Alison Gopnik publishes "How We Know Our Minds: The Illusion of First-Person Knowledge of Intentionality" (1993)
+
+Yoshua Bengio and colleagues develop the first deep neural network for language processing (2006)
+
+Peter Carruthers writes something like "We do not have privileged access to our own attitudes" (2011)

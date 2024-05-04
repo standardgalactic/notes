@@ -1,0 +1,20 @@
+Dynamic Cortex Memory: Enhancing Recurrent Neural Networks for Gradient-Based Sequence Learning
+
+Sebastian Otte, 
+
+Marcus Liwicki & 
+
+Andreas Zell 
+
+Conference paper
+
+4024 Accesses
+
+15 Citations
+
+Part of the Lecture Notes in Computer Science book series (LNTCS,volume 8681)
+
+Abstract
+
+In this paper a novel recurrent neural network (RNN) model for gradient-based sequence learning is introduced. The presented dynamic cortex memory (DCM) is an extension of the well-known long short term memory (LSTM) model. The main innovation of the DCM is the enhancement of the inner interplay of the gates and the error carousel due to several new and trainable connections. These connections enable a direct signal transfer from the gates to one another. With this novel enhancement the networks are able to converge faster during training with back-propagation through time (BPTT) than LSTM under the same training conditions. Furthermore, DCMs yield better generalization results than LSTMs. This behaviour is shown for different supervised problem scenarios, including storing precise values, adding and learning a context-sensitive grammar.
+

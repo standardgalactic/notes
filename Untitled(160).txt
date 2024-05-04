@@ -1,0 +1,53 @@
+￼￼￼￼￼￼￼￼￼Jürgen Schmidhuber's theory of
+
+ACTIVE EXPLORATION,
+ARTIFICIAL CURIOSITY &
+WHAT'S INTERESTING
+
+￼ ￼
+
+See also the more recent overview blog post (2021) on artificial curiosity and creativity since 1990!
+
+Only data with still unknown but learnable statistical or algorithmic regularities are truly novel or surprising or interesting and thus deserve attention.
+
+Even beautiful things are not necessarily interesting. Beauty reflects low complexity with respect to the observer's current knowledge, interestingness and curiosity the learning process leading from high to low subjective complexity. More.
+
+ON TV: Schmidhuber's theory of interestingness / curiosity / beauty / surprise / novelty / creativity was subject of a TV documentary (BR "Faszination Wissen", 29 May 2008, 21:15, plus several later repeats on other channels).
+
+See also an interview in HPlus Magazine: Build Optimal Scientist, Then Retire. This got slashdotted in 2010.
+
+
+What's interesting? Many interesting things are unexpected, but not all unexpected things are interesting or surprising. According to Schmidhuber's simple formal theory of surprise & novelty & interestingness & attention & creativity & intrinsic motivation, curious agents are interested in learnable but yet unknown regularities, and get bored by both predictable and inherently unpredictable things. His active reinforcement learners translate mismatches between expectations and reality into curiosity rewards or intrinsic rewards for curious, creative, exploring agents which like to observe / create truly surprising aspects of the world, to learn novel patterns [references 1-21 below; 1990-2010]. His first curiosity- driven, creative agents [1,2] (1990) used an adaptive predictor or data compressor to predict the next input, given some history of actions and inputs. The action- generating, reward- maximizing controller got rewarded for action sequences provoking still unpredictable inputs. To discourage the controller from focusing on truly unpredictable, random inputs (such as uninteresting details of white noise), later approaches [e.g., refs 3, 4, 6, 1991-] model the expected progress of the predictor: parts of the world where the predictor fails to learn (no data compression progress!) become less interesting than those where its predictions improve. Later systems (1997-) also take into account the computational cost of learning new skills in systems that learn when to learn and what to learn [refs 8, 11, 12]. More recent papers (2006-) focus on mathematically optimal artificial curiosity & creativity, and provide a simple formal explanation of art & science & humor [refs 14-21]. For recent variants and applications see refs [22-28].
+.￼
+Above: curiosity is not necessarily good for you!
+
+Nevertheless, we show [e.g., refs 3, 4, 6, 8, 12 below] that intrinsic curiosity reward can speed up the construction of predictive world models and the collection of external reward.
+
+More recent work on PowerPlay [29,30,31] uses artificial creativity & curiosity to incrementally build a more and more general problem solver. It does not just solve given tasks but keeps inventing new ones, without forgetting old skills. How? By continually searching for the simplest (fastest to find) still unsolvable task and its solution.
+.
+
+￼￼
+￼
+￼
+￼
+￼
+￼Scroll this page down for papers and videos of talks on surprise, novelty, artificial creativity and curiosity. Last update 2012.
+
+Fundamental Principle of Artificial Curiosity and Creativity:
+
+Reward the reward- optimizing controller for actions yielding data that cause improvements of the adaptive predictor or data compressor!
+
+(Formulated in the early 1990s; basis of much of the recent work in Developmental Robotics since 2004)
+
+Variant 1: Reward the controller whenever the predictor errs [1990; refs 1a, 1, 2]. The predictor minimizes the objective function maximized by the generative controller. The first Generative Adversarial Networks of 1990!
+
+Variant 2: Reward the controller whenever the predictor improves / becomes more reliable [1991; refs 3, 4, 6, 13, 14].
+
+Variant 3: Reward the controller in proportion to the Kullback-Leibler distance between the predictor's subjective probability distributions before and after an observation - the relative entropy between its prior and posterior [1995; ref 6].
+
+Variant 4 (zero sum intrinsic reward games): Two reward- maximizing modules bet on outcomes of potentially surprising experiments they have agreed upon [1997-2002; refs 8, 11, 12].
+
+Variant 5 (progress in data compression): Store entire life, keep trying to compress it, reward controller for actions that yield data causing compressor improvements [1990s - 2008; e.g., refs 14-17].
+
+Both art and science are by-products of the desire to create / discover more data that is compressible in hitherto unknown ways! [Refs 14-21, 35]
+

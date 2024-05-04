@@ -1,0 +1,31 @@
+People in the humanities are aghast at the lies confabulated by ChatGPT. To them, I say: Just wait. It will shortly become YOUR problem.
+
+It takes a species to raise an AI.
+
+Us Techies have managed to cobble together a machine that can learn any language on the planet. There's still bailing wire and duct tape involved, but competent people are working at serious improvements.
+
+This breakthrough was achieved after conducting many thousands of computing experiments in the cloud at a per-experiment cost that still runs into millions of dollars per experiment. A dozen such systems are now available, and ChatGPT is the most popular one.
+
+Something that few people outside of the AI community understand is the importance of the AI's main learning corpus -- the books we give it to read when we are raising it. To the first approximation, the corpus is not only important, it is the only thing that matters. It provides a hard upper limit to how much the machine can know about anything in the world.
+
+    If it wasn't in the corpus, how could it have learned it?
+
+This is a statement in Epistemology. This is the level you need to operate at in order to understand AI.
+
+ChatGPT is a demo of Language Understanding. Any knowledge it has of the world described in the books is bonus we hoped for but don't really have a right to expect.  Because learning Math and Physics and Cooking wasn't a goal. Language is hard enough. I don't know about other AIs, but my Organic Learning algorithm needs to read the corpus several times because the first few read-throughs it is still just learning character combinations. :-|. Which means that even if it was in the corpus, The system may not have learned it. If you tried to learn Turkish from scratch by reading a Turkish encyclopedia from end to end, you wouldn't understand enough Turkish to learn actual content until maybe halfway through the books. Same thing in Machine Learning.
+
+But now that these devices know language we will be raising new ones that know more about the world. Our computers are small compared to brains, so we will have to initially focus on some smaller part of he world at a time. Such as Math, Law, Medicine or Physics. Over time, as machine sizes improve and algorithms get more effective, they will be able to learn more domains, or to get deeper into any one domain.
+
+That's the setup.
+
+       -- * --
+
+Techies are trying to create a useful system out of something that starts out without ANY common sense, no body, no smell, no touch, and most likely no vision.  Just an input sense of text. Perhaps voice.
+
+English majors and their ilk are sitting on the sidelines. Some are criticizing the results, clearly expecting an intelligent system rather than a language demo.
+
+Techies got this far without having the benefits of specialized skills in Education, Ethics, Law, or Politics. Honestly, by just grabbing all text we could find on the Internet and calling it a corpus. :-D
+
+It will become a job for the Humanities to raise our AIs and to worry about AI alignment. To create the corpora that will create useful and well balanced AIs which will be able to move civilization forward for the benefit of all.
+
+And when they get down to the task, consider that human Ethics do not apply. Human ethics largely starts from the inevitability of death, but AIs may live for milliseconds or millennia, depending on requirements, backup strategies and technological advances. I have discussed this in other posts and in my talks.

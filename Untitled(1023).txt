@@ -1,0 +1,44 @@
+Probabilistic Diffusion in Random Network Graphs 
+Dr. Natarajan Meghanathan 
+Professor of Computer Science 
+Jackson State University, MS, USA 
+E-mail: natarajan.meghanathan@jsums.edu 
+Abstract 
+In this paper, we consider a random network such that there could be a link between any two nodes in the 
+network with a certain probability (plink). Diffusion is the phenomenon of spreading information 
+throughout the network, starting from one or more initial set of nodes (called the early adopters). 
+Information spreads along the links with a certain probability (pdiff). Diffusion happens in rounds with the 
+first round involving the early adopters. The nodes that receive the information for the first time are said 
+to be covered and become candidates for diffusion in the subsequent round. Diffusion continues until all 
+the nodes in the network have received the information (successful diffusion) or there are no more 
+candidate nodes to spread the information but one or more nodes are yet to receive the information 
+(diffusion failure). On the basis of exhaustive simulations conducted in this paper, we observe that for a 
+given plink and pdiff values, the fraction of successful diffusion attempts does not appreciably change with 
+increase in the number of early adopters; whereas, the average number of rounds per successful diffusion 
+attempt decreases with increase in the number of early adopters. The invariant nature of the fraction of 
+successful diffusion attempts with increase in the number of early adopters for a random network (for 
+fixed plink and pdiff values) is an interesting and noteworthy observation (for further research) and it has not 
+been hitherto reported in the literature. 
+Keywords: Probabilistic Diffusion, Random Network Graphs, Early Adopters, Simulations 
+1 Introduction 
+We envision a random network of nodes such that information could propagate along any link with a 
+certain probability. We are interested in the problem of analyzing how fast information (for example, the 
+availability of funds, need for help, etc) originating from one or more nodes (referred to as the early 
+adopters) in the network can diffuse (spread) to the other nodes of the network. Note that diffusion may 
+not happen across all the links because there is only a certain chance with which a node may share the 
+information to its neighbor node. Though probabilistic diffusion has been widely studied in the area of 
+complex network analysis, most of the studies (e.g., [3, 6, 8]) are restricted to real-world network models 
+and not conducted on theoretical models such as those that correspond to the random networks. Our 
+conjecture is that phenomenon observed in random network models could be construed as those that 
+simply happen by chance (due to the degree distribution of the vertices and not due to the nodes 
+involved). If a similar phenomenon is observed in a real-world network whose degree distribution is 
+similar to that of a random network, then we could conclude that the phenomenon observed in the real- 
+world network also simply happens due to the distribution of the vertices and not due to the specific 
+nature of the nodes involved. The above characteristic of random networks forms the motivation for our 
+research in this paper. We are interested in analyzing the impact of increase in the number of early 
+adopters on the success of diffusion in a random network (i.e., whether all the nodes in the network 
+receive the information) and the delay associated with a successful diffusion attempt. 
+The rest of the paper is organized as follows: Section 2 presents the system model and explains the 
+diffusion phenomenon in random network graphs with an example. Section 3 presents the algorithm to 
+construct random networks and presents the results of the simulation analyzing the impact of the number 
+of early adopters on diffusion in a random network. Section 4 discusses related work. Section 5 draws

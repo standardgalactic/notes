@@ -1,0 +1,19 @@
+Post-Bob 
+Bob applies a controlled-Y rotation on B using C as the control, U = exp(i1 2(φ − θ)σxC ⊗ 
+σyB) where φ ≡ arctan(2k/h) (we rotate B to the local ground state3The 
+i nal state is 
+given by |Ψ2i = 
+1 
+√2 X 
+± |±iA|Υ±iB|±iC.(3.9) 
+where |Υ±i = P 
+j=0,1µj|ji with µ0 ≡ sin(φ/2), µ1≡ −cos(φ/2).Note 
+that as long 
+as k > 0, we necessarily have |hϕ+|ϕ−i|2> |hΥ+|Υ−i|2, 
+hence the states have become 
+more orthogonal/more distinguishable. On the other hand the entropy of B has become 
+H(B)Ψ2= S(φ) > S(θ) = H(B)Ψ1= H(B)Ψ0so the i nal step of QET actually increases 
+the entropy of B. An option to purify B instead would be to replace Φ in our unitary by 
+0, that way the B register would be sent to the |1i state instead. 
+Thus, we see that we in fact increase the entanglement of the target region when we extract energy. This is a result that we will also recover when we study the QET protocol 
+for a lattice of harmonic oscillators.

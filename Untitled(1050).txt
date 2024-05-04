@@ -1,0 +1,5 @@
+Nice. I tried huggingchat it is getting better. 
+
+I stripped out my prompts from my gpt conversations and generated an audiobook from just its responses. It was like 45 hours.
+
+It has got to be one of the most boring books ever written however maybe after I take out code and extremely random and unrelated topics and tangents and feed it to another model to correct some of it eventually to shorten and simplify and make it cohesive.

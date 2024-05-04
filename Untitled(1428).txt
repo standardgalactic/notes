@@ -1,0 +1,13 @@
+56. Riemannian manifolds. Regular metric. A Riemannian manifold 
+(or a Riemannian space) is a manifold to which a metric is attached. This 
+means that in each region of the manifold, analytically represented by means of a coordinate system u%, a quadratic differential form is given, 
+ds2 = gijdu%du3. 
+We shall assume that the coefficients g^ are functions of class C2. Con- 
+sequently, we shall only consider those coordinate transformations for which 
+the new coordinates admit continuous partial derivatives of the two first orders 
+with respect to the original coordinates (they are functions of class C2), and 
+conversely. 
+We shall say that the metric is regular in a given region of the manifold if at 
+any point of this region, the quadratic form ds2 is positive definite with respect to the differentials du%. 
+Naturally, we shall assume that if the manifold consists of several regions 
+admitting distinct analytic representations, then a concordance of metrics in the neighboring regions is possible. For example, it could be assumed that the analytic representation of each region could be extended by a small amount into the neighboring regions, and that two forms ds2, thus obtained in the overlapping regions, could be transferred to one another by the coordinate transformation which takes one analytic representation to another.

@@ -1,0 +1,52 @@
+const galacticStandardAlphabet = {
+  a: '',
+  b: '',
+  c: '',
+  d: '',
+  e: '',
+  f: '',
+  g: '',
+  h: '',
+  i: '',
+  j: '',
+  k: '',
+  l: '',
+  m: '',
+  n: '',
+  o: '',
+  p: '',
+  q: '',
+  r: '',
+  s: '',
+  t: '',
+  u: '',
+  v: '',
+  w: '',
+  x: '',
+  y: '',
+  z: '',
+}
+
+
+const fs = require('fs');
+
+const toGalacticStandardAlphabet = char =>
+  galacticStandardAlphabet[char.toLowerCase()] || char;
+
+const translate = text => text
+  .split("")
+  .map(toGalacticStandardAlphabet)
+  .join("");
+
+const filePath = 'input.txt';
+
+fs.readFile(filePath, 'utf8', (err, data) => {
+  if (err) {
+    console.error(`Error reading file: ${err}`);
+    return;
+  }
+  const gsa = translate(data);
+  console.log(gsa);
+});
+
+https://github.com/standardgalactic/sga-encoder/blob/704f9fedc00c322c36fc260dc6ed2b1c1105a2a3/index.js

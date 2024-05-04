@@ -1,0 +1,162 @@
+
+
+por FlyxionComputers & Engineering
+
+Emacs and Spacemacs key-bindings and shortcuts.
+
+ 4 2h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Forth programming
+
+ 2 2h
+
+￼
+
+por FlyxionComputers & Engineering
+
+GHCi commands (Haskell Interactive Interpreter)
+
+ 2 1h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Handbook of Computer Terms
+
+ 6 14h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Julia programming commands
+
+ 3 2h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Lambda Calculus
+
+ 1 20m
+
+￼
+
+por FlyxionLatin
+
+Latin Vocabulary (no typing)
+
+ 7 19h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Línea de Comandos de Windows
+
+ 2 1h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Linux Command Line
+
+ 24 6h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Linux Utilities (no typing)
+
+ 10 11h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Lynx Browser Commands
+
+ 1 5h
+
+￼
+
+por FlyxionComputers & Engineering
+
+More Computer Terms and Shortcuts
+
+ 3 3h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Programming in Go
+
+ 6 4h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Programming in Ptolemy II
+
+ 1 5h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Python code snippets (no typing)
+
+ 11 4h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Python Standard Library (no typing)
+
+ 7 5h
+
+￼
+
+por FlyxionComputers & Engineering
+
+R programming commands
+
+ 5 2h
+
+￼
+
+por FlyxionArt, Music & Literature
+
+Standard Galactic Alphabet
+
+ 39 2h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Unix commands
+
+ 3 2h
+
+￼
+
+por FlyxionComputers & Engineering
+
+Vim shortcuts (no typing)
+
+ 4 19h
+
+￼
+

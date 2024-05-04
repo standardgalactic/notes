@@ -1,0 +1,21 @@
+Pleased to announce version Beta 27 of the collaborative OPEN-SOURCE project LIFE123.SCIENCE , featuring improvements in adaptive time steps in solving tangles of chemical reactions, and newly-added support for Enzymes.
+
+There are times to crawl... and times to run!
+
+Can't waste computation when little is changing...
+
+As a PLATFORM for SYSTEMS BIOLOGY, https://life123.science offers a growing set of tools to wrestle the complications of numerical solutions to complex dynamical systems, such as cycles of biochemical reactions and diffusion.
+
+* ONLY 1/2 OF THE BATTLE, is to offer functionality to set up and simulate webs of reactions, optionally with spatial components and diffusion (plus - upcoming - membranes and macromolecules...)
+
+* The OTHER 1/2 OF THE BATTLE is a battery of tools, to tame numerical instabilities, to throttle up/down the computational effort, to visualize & analyze the results, to provide helpful diagnostics, and to integrate high-performance computing: a collaboration among software engineering, data science, numerical methods, biochemistry & biology, among other fields.
+
+Explore it all with just a few lines of Python code in convenient Jupyter notebooks! (optionally in a 1-click hosted environment 😊  )
+
+=> VIEW THE NOTEBOOK with this experiment: https://nbviewer.org/github/BrainAnnex/life123/blob/main/experiments/reactions_single_compartment/enzyme_1.ipynb
+
+=> BRIEF INTRO VIDEO: https://www.youtube.com/watch?v=TCvQUKPVimE
+
+=> 1-CLICK to RUN IT LIVE! (say "Cancel" to the prompt; see brief vid, above, for explanation): https://mybinder.org/v2/gh/BrainAnnex/life123/main
+
+#medicine #systemsbiology #insilico #reactomics #biology #chemistry #biochemistry #enzyme #life

@@ -1,0 +1,4 @@
+Does chatGPT lie?
+When chatGPT provides a journal reference, but the journal cannot be found in any search engine !
+
+Hirshleifer, D., & Teoh, S. H. (2003). The Role of Overconfidence in Corporate Financial Decision Making. Journal of Empirical Finance, 10(1-2), 281-305

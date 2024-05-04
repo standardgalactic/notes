@@ -1,0 +1,94 @@
+Hello,
+
+=============== The Numbers  (Motivation) =============
+
+What did we seen so far about the combinators?
+
+1) what is a combinator?
+K is a combinator,
+S is a combinator,
+and if x and y are combinators then (x y), written xy, is a combinator. We abbreviate ((xy)z) by xyz, and (x(yz)) by x(yz).
+Examples: K, S, KK, KS, SK, SS, KKK, K(KK), KKS, K(KS), …
+
+2) what is a combination?
+K is a combination,
+S is a combination,
+x, y, z, … are combinations,
+and if M and N are combinations, so is (M N), written MN, is a combinations. We abbreviate ((MN)R) by MNR, and (M(NR)) by M(NR).
+Examples: K, S, x, y, z ….KK, KS, SK, SS, xx, xy, yx, yy, xz, zx, … xxx, xxy, …, KKK, K(KK), KKS, K(KS), …
+
+3) We have given the dynamic by given two axioms: whatever combinations M, N, P,  are given, we have:
+
+KMN = M (so K is a sort of projection on the first argument)
+SMNP = MP(NP)
+
++ few identity rules (including EXT).
+
+4) we have seen that we can always find a combinator capable, when given some combinators or combinations has input, to produce a specific combination.
+
+For all M, we can find a combinator A which produces M. We have seen many examples; and an algorithm (Curry-Feys algorithm) solving all problems of that kind, like
+
+Ix = x, solution: I = SKK (albeit SK<whatever>) works as well.
+Dx = xx, solution: D = SII(SII), where I is use as an abbreviation of SKK.
+Bxyz = x(yz), solution: B = S(KS)K.
+Oxy = y(xy), solution: O = SI.
+Wxy = xyy, solution: W = SS(KI).
+Lxy = x(yy), solution: L = SB(KD).
+Cxyz = xzy, solution: C = S(BBS)(KK).
+Txy = yx, solution T = B(SI)K = BOK. T = CI is another simple solution.
+Vxyz = zxy, solution V = BCT,
+Rxyz = yzx, solution R = BBT, another solution: R = CC.
+
+5) we have done a bit of logic, where we define the constant boolean truth t by K, and the constant boolean false f by KI.
+A “condition”, or “predicate combinator” is a combinator which reduces itself to K, or to KI. This implements the “if A then B else C” control structure by ABC. Indeed, if A =: K, ABC = B, and if A =: KI, ABC = C.
+
+6) we have seen that the combinators are close for a strong form of Recursion. This means that not only we can always find a combinator A such that (say):
+
+Axyz = xx(yz)z,
+
+but we can find a combinator A such that
+
+Axyz = xxA(yAz)zA
+
+So we can define some combinators by allowing a self-evocation. We have seen the following:
+
+FIRST RECURSION THEOREM: All combinators A have a fixed point. 
+For all combinators A there is a combinator P such that AP = P. P is called a fixed point of P.
+
+Better! We did prove this constructively. We have found a combinator Y capable of finding the fixed point of any combinator:
+
+YA = A(YA), that is A(YA) = YA
+
+The good news is that this will quickly give us the means of proving the Turing-Universality of the combinators.
+
+The bad news is that to get the biology, the psychology and the theology of the universal machine, if not simply the universal machine itself, we will need an important intensional variant of the first recursion theorem; the one called Kleene’s
+
+SECOND RECURSION THEOREM: For any combinator A there is a combinator P such that A “P” = P, where “P” represent some representation of the combinator P.
+
+But how to represent a combinator? Does not the string “SKKK” represents well the combinator SKKK? Well, no. If you ask how many K there is in SKKK, and represent “SKKK” by SKKK, as SKKK = K, you will find that there is only one K, where the string “SKKK” has obviously three occurence of K. We cannot use the combinator as representations, as they are too much dynamical for that. So I will use the most common representation used in logic: the numbers.
+Of course, we will need a representation of the numbers by (stable) combinators, and a bit of arithmetic function to handle them.
+
+I use a number combinatorical system given by Barendrecht. 
+t abbreviates K, f abbreviates KI, (like in logic), p is the predecessor function. Z is the zero-testing predicate (ZI = t, Z(Vf’n’) = f).
+
+0 is represented by I, 
+the successor function s is represented by Vf, so the numbers 0, 1, … are I, VfI, Vf(VfI), Vf(Vf(VfI))), … V is the vireo (see above)
+The predecessor function is given by p = Tf, and 
+Z is implemented by Tt. (T is the thrush, see above Txy = yx).
+
+0 = I
+s = Vf
+p = Tf
+Z = Tt
+
+Exercise: verify this works well! (solution soon or a bit later, in the comments).
+You might try to find a combinator capable of adding the numbers, and one for multiplication, and exponentiation… 
+Hint: use (first) recursion and inspire yourself from the Robinson axioms (see below (use +xy = s(+x(py)) instead of “+x(sy) = s(+xy)”).
+
+x+0 = x
+x+s(y) = s(x+y)
+
+x*0=0
+x*s(y)=(x*y)+x
+
+Bruno Marchal, 2023

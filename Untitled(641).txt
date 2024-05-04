@@ -1,0 +1,16 @@
+The McGovern-De Pablo method is a technique used to correct for boundary effects in metadynamics simulations, particularly in systems with finite simulation boxes. In metadynamics, bias is added to the system to explore the free energy landscape. However, when working with finite simulation boxes, the system can experience boundary artifacts that distort the calculated free energy surface.
+
+
+The McGovern-De Pablo method aims to mitigate these artifacts by introducing zero-force hills near the system boundaries. These zero-force hills effectively act as "walls" that prevent biased exploration beyond the boundaries of the simulation box.
+
+Here's a simplified explanation of how the McGovern-De Pablo method works:
+
+Determining System Boundaries: The first step is to identify the boundaries of the simulation box in the relevant collective variables or coordinates. These boundaries can be determined based on the specific system being studied.
+
+Defining the Boundary Regions: Once the system boundaries are determined, boundary regions are defined on each side of the box. These regions typically have a width of a few times the characteristic length scale of the system.
+
+Introducing Zero-Force Hills: Zero-force hills are added within the boundary regions. These hills have a flat top and decay to zero force away from the boundary. The shape and width of the zero-force hills are typically determined based on the characteristics of the system.
+
+Biasing the System: The metadynamics bias is applied to the system as usual, with Gaussian hills added in the collective variables of interest. However, when a biased simulation approaches the boundaries, the zero-force hills effectively limit the biased exploration in those regions.
+
+By introducing the zero-force hills, the McGovern-De Pablo method prevents excessive biasing and exploration beyond the simulation box boundaries. This helps to reduce boundary artifacts and ensures a more accurate representation of the system's free energy landscape.

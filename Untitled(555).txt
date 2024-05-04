@@ -1,0 +1,34 @@
+State Vectors and Representation: We discussed how any state vector can be represented as a linear combination of base vectors, and we've seen the equations written in bra-ket notation.
+
+Amplitude and Measurement: We covered the idea of expressing the amplitude to transition from one state to another and how this is connected to the idea of particles going through an apparatus.
+
+Bra-Ket Notation: We looked at how this notation helps in identifying and working with quantum states, making the mathematical expressions more concise.
+
+Similarity to Partial Application or Currying: Though not deeply explored, this concept was mentioned.
+
+Reference to Feynman Lectures on Physics (Section 8.4): This included the fundamental principles leading to Schrödinger's equation:
+
+State as a complex vector.
+
+Linear and reversible evolution.
+
+Unitary matrix for time evolution.
+
+Transliteration of Feynman's Text: This section detailed the process of developing the Schrödinger equation, focusing on the behavior of the time evolution operator, introduction of the Hamiltonian, and derivation of the equation itself.
+
+Yann LeCun's Reference to Feynman: Mention of the insights gained from reading the Feynman Lectures on Physics.
+
+The arXiv paper titled "Prompting Is Programming: A Query Language for Large Language Models" by Luca Beurer-Kellner, Marc Fischer, Martin Vechev.
+
+Language Model Programming (LMP) and Language Model Query Language (LMQL).
+
+Quantum Vectors Comparison.
+
+Symbolic systems and their constraints.
+
+The idea of Langland and Swampland Programs, including their role in providing rigorous and unambiguous symbolic systems.
+
+Constraint-based programming and its relevance to different contexts.
+
+Cognitive load theory and how it relates to problem-solving within various symbolic systems.
+

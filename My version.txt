@@ -1,0 +1,13 @@
+
+I  hope this doesn't across as petty and it's been over a year, but I tried to write out the list of logical operators from memory and I accidentally came across the same issue that made me want to try to update those images in the first place. I'm trying to make them more memorable
+
+and (eventually) easier to type, the bar over the letters is a mistake as a way to negate them I still think the bar with a crook on it is better, since it could be approximated by a ~ or a - for example, and thinking of how to type a macron easily and that it means not is more difficult.
+
+Likewise the the circle with a cross through it is already overloaded it's the old symbol for earth and sometimes used as a function applicator. So I think it should look exactly like the if and only if sign, the double arrow.
+
+File:Logical connectives Hasse diagram.svg
+
+https://commons.m.wikimedia.org/wiki/File:Logical_connectives_Hasse_diagram.svg#mw-jump-to-license
+
+
+https://github.com/standardgalactic/logical-connectives/

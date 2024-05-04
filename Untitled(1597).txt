@@ -1,0 +1,6 @@
+over the others. Unlike you, I don't think there are any watertight arguments against it, but if you're right that there are, then that just means that the conclusion of the argument should be narrowed to the other two views. Of course there's a lot more to be said about these issues, and the project of finding good arguments against Z is a worthwhile one, but I think that such an argument requires more than you've given us here.
+
+The zombie argument is an argument for any kind of non-physicalism. Eliezer’s response is to argue that one particular kind of non-physicalism is false. That’s not an adequate response, or a response at all. If I argue “argument P means we have to accept views D, E, F, or I, and the response is ‘but view E has some problems’ that just means we should adopt views D, F, or I.”
+
+But okay, what’s the error here? How does Eliezer’s version of the zombie argument differ from the real version? The crucial error is in his construction of premise 1. Eliezer assumes that, when talking about zombies, we are imagining just subtracting consciousness. He points out (rightly) that if consciousness is causally efficacious then if you only subtract consciousness, you wouldn’t have a physically identical world.
+

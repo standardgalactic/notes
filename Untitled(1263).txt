@@ -1,0 +1,50 @@
+
+Yesterday I posted on Chomsky’s opinion on the reasons why the human brain really isn’t like a Generative-AI LLM Chatbot..
+
+See… https://m.facebook.com/story.php?story_fbid=10160886450768599&id=537688598
+
+In it he thinks about the lack of understanding current AI has about what we call a Causal Reality Model.  I agree it doesn’t have such. He made an example about how an apple would behave if dropped and how you’d need to understand the context of gravity and falling objects.  He made the point AI at this time doesn’t think like an intelligent human does.
+
+So I considered an example to test Bing Chat (ChatGPT) based.
+
+Consider: Yesterday I posted on Chomsky’s opinion on the reasons why the human brain really isn’t like a Generative-AI LLM Chatbot..
+
+See… https://m.facebook.com/story.php?story_fbid=10160886450768599&id=537688598
+
+In it he thinks about the lack of understanding current AI has about what we call a Causal Reality Model.  I agree it doesn’t have such. He made an example about how an apple would behave if dropped and how you’d need to understand the context of gravity and falling objects.  He made the point AI at this time doesn’t think like an intelligent human does.
+
+So I considered an example to test Bing Chat (ChatGPT) based.
+
+Consider: Are there circumstances when the apple wouldnt fall when released?  Actually, given the principle of equivalence, if you are in a building elevator that is decelerating at -g going up.  You would see the Apple float (as you would yourself)!
+
+See… https://www.quora.com/Physics-Why-would-you-float-in-the-lift-if-you-were-falling-in-a-free-falling-elevator
+
+And… https://en.m.wikipedia.org/wiki/Equivalence_principle
+
+So how did Bing perform?
+
+Prompt: Under what circumstances in a building if you dropped an Apple you held in your hand that it wouldn't fall to the ground
+
+Response: I’m sorry, but I’m not aware of any circumstances in a building where an apple would not fall to the ground if dropped. The force of gravity is always present and pulls objects towards the center of the earth. However, there are some factors that could affect how quickly the apple falls or how much damage it sustains upon impact. For example, if the apple is dropped on a soft surface like a carpet or a bed, it may not bounce as high or sustain as much damage as it would if it were dropped on a hard surface like concrete or tile. Similarly, if the apple is dropped from a very low height, it may not have enough time to reach its maximum velocity and may not sustain as much damage upon impact. However, regardless of these factors, the apple will always fall towards the ground due to gravity’s pull.
+
+*****
+
+So what shall we conclude?  Perhaps I’ve a Causal Reality Model and am a bit smarter than this Stochastic Parrot?   Or, it hasn’t been trained on the referenceced link texts.  Or it’s unable to associate the fact that elevators are often part of buildings.  In any such case it’s not thinking like an intelligent human.
+
+😜 at -g going up.  You would see the Apple float (as you would yourself)!
+
+See… https://www.quora.com/Physics-Why-would-you-float-in-the-lift-if-you-were-falling-in-a-free-falling-elevator
+
+And… https://en.m.wikipedia.org/wiki/Equivalence_principle
+
+So how did Bing perform?
+
+Prompt: Under what circumstances in a building if you dropped an Apple you held in your hand that it wouldn't fall to the ground
+
+Response: I’m sorry, but I’m not aware of any circumstances in a building where an apple would not fall to the ground if dropped. The force of gravity is always present and pulls objects towards the center of the earth. However, there are some factors that could affect how quickly the apple falls or how much damage it sustains upon impact. For example, if the apple is dropped on a soft surface like a carpet or a bed, it may not bounce as high or sustain as much damage as it would if it were dropped on a hard surface like concrete or tile. Similarly, if the apple is dropped from a very low height, it may not have enough time to reach its maximum velocity and may not sustain as much damage upon impact. However, regardless of these factors, the apple will always fall towards the ground due to gravity’s pull.
+
+*****
+
+So what shall we conclude?  Perhaps I’ve a Causal Reality Model and am a bit smarter than this Stochastic Parrot?   Or, it hasn’t been trained on the referenceced link texts.  Or it’s unable to associate the fact that elevators are often part of buildings.  In any such case it’s not thinking like an intelligent human.
+
+😜

@@ -1,0 +1,40 @@
+1. Introduction 
+Today, there is practically a unanimous agreement that the computations of the brain are 
+achieved through network connectivity [1]. A variety of theories exist (e.g., [2, 3, 4]) but 
+they all propose different ways of how network computations may take place; all these 
+theories agree that the synaptic connectivity contains the bulk the knowledge learned by the 
+brain. The existing theories also agree that central to mental operations are the voltages 
+forming across neuron membranes which carry the relevant information and computation. 
+Consequently, it is believed that, at any moment in time, the current contents of a mind are 
+determined by the collective states of the neuron membranes i.e., by their momentary 
+voltages [1, 2, 3, 4]. Thus, these two mechanisms, synaptic connections and voltages, have 
+been relied on as the key explanatory tools for all our attempts to understand how a mind 
+may emerge within the brain. This paradigm is generally known as connectionism [1]. 
+However, connectionism did not yet produce a satisfactory explanation of how the mental 
+emerges from the physical. A number of open problems remains. These include unrealistic 
+connectivity patterns [5], inability to work with symbols [6], lack of feed-forward architecture 
+in the brain [7], global workspace for consciousness [8], and others [9]. The list also 
+includes the scaling problem, which will be described next. As a result, the explanatory gap 
+between the mind and the brain remains wide open [10, 8, 11, 12]. This situation raises a 
+question of whether the classical paradigm should be challenged, and an alternative should 
+be proposed—a paradigm that can offer a fresh set of ideas on how to explain the mind 
+within the brain. 
+2. The scaling problem of intelligence 
+The present argument starts with a notion that animal-level and a human-level intelligence 
+can only be reached by networks able to scale their intelligence well and moreover, classical 
+connectionist networks do not scale intelligence satisfactorily. Recent studies have elucidated 
+3 
+the scaling limitations of connectionist networks: Investigations of the best performing 
+connectionist networks, known as deep learning systems, revealed that advances in their 
+intelligence can be only achieved if accompanied with an excessive increase in resources. 
+Across all studies, these demands have been found to grow with a power law [13, 14, 15]. 
+To double the number of objects recognized or to reduce the error of classification by half, 
+an equation of a form r = ia applies to describe the needed increase in the model size or the 
+size of the training data set (r is the resources needed, i is intelligence and a is the 
+exponent). The value of exponent a is always well above 1 (Figure 1A). This means that the 
+demands on resources explode as the intelligence grows. One study estimated the exponent 
+a to be ~9 for computer vision [14]; this implies that doubling the intelligence of the state- 
+of-the-art deep learning networks for vision (e.g., doubling the numbers of objects 
+recognized without sacrificing accuracy), requires some 29 = ~500-fold increase in 
+resources. Another study implied an exponent of ~13 for language models (~8000-fold 
+increase in resources for doubling the intelligence; Figure 1A) [15].

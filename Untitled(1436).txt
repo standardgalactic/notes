@@ -1,0 +1,38 @@
+1.6 An Attempted Foundation: Dutch Book Arguments
+
+There have been a number of arguments advanced in support of the two core Bayesian norms. Perhaps the most influential is of the kind called Dutch Book arguments. Dutch Book arguments are motivated by a simple, intuitive idea: Belief guides action. So, the more strongly you believe that it will rain tomorrow, the more inclined you are, or ought to be, to bet on bad weather. This idea, which connects degrees of belief to betting dispositions, can be captured at least partially by the following:
+
+A Credence-Betting Bridge Principle (Toy Version). If one’s credence in a proposition A is equal to a real number a, then it is acceptable for one to buy the bet “Win $100 if A is true” at the price $100⋅a$100⋅� (and at any lower price).
+
+This bridge principle might be construed as part of a definition or as a necessary truth that captures the nature of credences, or understood as a norm that jointly constrains credences and betting dispositions (Christensen 1996; Pettigrew 2020a: sec. 3.1). The hope is that, through this bridge principle or perhaps a refined one, bad credences generate bad symptoms in betting dispositions. If so, a close look at betting dispositions might help us sort out bad credences from good ones. This is the strategy that underlies Dutch Book arguments.
+
+To illustrate, consider an agent who has a .75 credence in proposition A and a .30 credence in its negation ¬A¬� (which violates Probabilism). Assuming the bridge principle stated above, the agent is willing to bet as follows:
+
+Buy “win $100 if A is true” at $75$75.
+
+Buy “win $100 if ¬A¬� is true” at $30$30.
+
+So the agent is willing to accept each of those two offers. But it is actually very bad to accept both at the same time, for that leads to a sure loss (of $5):
+
+A is trueA is falsebuy “win $100 if A is true” at $75−$75+$100−$75+$100−$75−$75buy “win $100 if ¬A¬� is true” at $30−$30−$30−$30+$100−$30+$100net payoff−$5−$5−$5−$5
+
+So this agent’s betting dispositions make her susceptible to a set of bets that are individually acceptable but jointly inflict a sure loss. Such a set of bets is called a Dutch Book. The above agent is susceptible to a Dutch Book, which sounds bad for the agent. So what has gone wrong? The problem seems to be this: Belief guides action, and in this case, bad beliefs result in bad actions: garbage in, garbage out. Therefore, the agent should not have had the combination of credence .75 in A� and .30 in ¬A¬� to begin with—or so a Dutch Book argument would conclude.
+
+The above line of thought can be generalized and turned into a template for Dutch Book arguments:
+
+A Template for Dutch Book Arguments
+
+Premise 1. You should follow such and such a credence-betting bridge principle (or, due to the nature of credences, you do so necessarily).
+
+Premise 2. If you do, and if your credences violate constraint C, then provably you are susceptible to a Dutch Book.
+
+Premise 3. But you should not be so susceptible.
+
+Conclusion. So your credences should satisfy constraint C.
+
+There is a Dutch Book argument for Probabilism (Ramsey 1926, de Finetti 1937). The idea can be extended to develop an argument for the Principle of Conditionalization (Lewis 1999, Teller 1973). Dutch Book arguments have also been developed for other norms for credences, but they require modifying the concept of a Dutch Book in one way or another. See section 3 for references.
+
+An immediate worry about Dutch Book arguments is that a higher credence might not be correlated with a stronger disposition to bet. Consider a person who loathes very much the anxiety caused by placing a bet. So, though she is very confident in a proposition, she might still refuse to buy a bet on its truth even at a low price—and rightly so. This seems to be a counterexample to premise 1 in the above. For more on Dutch Book arguments, including objections to them as well as refinements of them, see the survey by Hájek (2009) and the entry on Dutch Book arguments.
+
+There is a notable worry that applies even if we have a Dutch Book argument that is logically valid and only has true premises. A Dutch Book argument seems to give only a practical reason for accepting an epistemic norm: “Don’t have such and such combinations of credences, for otherwise there would be something bad pragmatically”. Such a reason seems unsatisfactory for those who wish to explain the correctness of the Bayesian norms with a reason that is distinctively epistemic or at least non-pragmatic. Some Bayesians still think that Dutch Book arguments are good, and address the present worry by trying to give a non-pragmatic reformulation of Dutch Book arguments (Christensen 1996; Christensen 2004: sec. 5.3). Some other Bayesians abandon Dutch Book arguments and pursue alternative foundations of Bayesian epistemology, to which I turn now
+

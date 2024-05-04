@@ -1,0 +1,14 @@
+Markedness and implicational relationships in phonological development: A cross-linguistic investigation
+
+Erica Watts, Ph.D. and Yvan Rose, Ph.D.
+
+
+
+The complexity approach to speech disorders, based on the theoretical notion of phonological markedness, has been gaining interest over the last decade (Baker & Williams, 2010; Peña-Brooks & Hedge, 2015). From the perspective of phonological development, this approach holds that the acquisition of phonologically complex, or marked, sounds or structures (e.g. complex onsets) implies the acquisition of less marked sounds or structures (e.g. singleton onsets). Likewise, in the area of clinical phonology, this approach suggests that a focus on more complex linguistic stimuli helps promote generalization to untreated but related targets which are considered less complex, or “unmarked.” For example, on the “Speech Sound Disorders” web page of the American Speech-Language-Hearing Association (ASHA) website, approaches based on these types of implications are listed under both Target Selection and Treatment Options:1
+
+Complexity—focuses on more complex, linguistically marked phonological elements not in the child’s phonological system to encourage cascading, generalized learning of sounds
+
+(Gierut, 2007; Storkel, 2018).
+
+Central to the complexity approach is the notion of markedness which, as in the quote above, tends to be used interchangeably with different notions of phonological complexity. While markedness is central to numerous studies of phonology based on typological universals, in the tradition of Jakobson (1941) and Chomsky & Halle (1968, chap. 9), this notion also suffers from degrees of vagueness, especially concerning how it should be generalized across languages.
+

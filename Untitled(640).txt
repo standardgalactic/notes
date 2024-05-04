@@ -1,0 +1,20 @@
+Designing Free Energy Surfaces That Match Experimental Data with Metadynamics
+
+Andrew D. White
+
+, 
+
+James F. Dama
+
+, and 
+
+Gregory A. Voth*
+
+View Author Information
+
+Cite this: J. Chem. Theory Comput. 2015, 11, 6, 2451–2460
+
+Publication Date:April 30, 2015
+
+https://doi.org/10.1021/acs.jctc.5b00178
+

@@ -1,0 +1,24 @@
+I1Basic root 
+II2Causative 
+3Intensive 
+III4Reciprocity 
+5Continuing 
+IV6Causative 
+V7Reflexive of 
+Pattern II 
+VI8Reciprocity
+9Gradual 
+Action 
+VII10Passive and 
+Reflexive of 
+Pattern I 
+VIII11Reflexive of 
+Pattern I 
+(Exaggeration) 
+IX12Verbs of colors 
+13Verbs defects 
+X14Requesting 
+15Transformation 
+Process 
+16Reflexive of 
+Pattern IV

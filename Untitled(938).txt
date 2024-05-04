@@ -1,0 +1,53 @@
+One word substitution For SSC and other competitive exams
+│ ├ Ontology evaluation using wikipedia categories for
+│ ├ Open Source Intelligence Methods and Tools  A Practical Guide to Online Intelligence
+│ ├ OpenShift in Action
+│ ├ Operating System Concepts and Basic Linux Commands
+│ ├ Operational Modal Analysis. Modeling, Bayesian Inference, Uncertainty Laws
+│ ├ Optimized Bayesian Dynamic Advising  Theory and Algorithms (Advanced Information and Knowledge Processing)
+│ ├ Optimum Inductive Methods  A Study in Inductive Probability, Bayesian Statistics, and Verisimilitude
+│ ├ Orion 2
+│ ├ Osez parler en public
+│ ├ Outnumbered  From Facebook and Google to Fake News and Filter-bubbles
+│ ├ Pac-Bayesian supervised classification  The thermodynamics of statistical learning
+│ ├ Painless Docker Basic Edition
+│ ├ Panda3D 1.7 Game Developer's Cookbook
+│ ├ Paradoxes and Priors in Bayesian Regression
+│ ├ Peirce Logic
+│ ├ Personal Finance and Investments  A Behavioural Finance Perspective
+│ ├ Petromania  Black gold, paper barrels and oil price bubbles
+│ ├ Petrova K PhD Thesis final 050916
+│ ├ Peur - Trump à la Maison Blanche
+│ ├ PhD-Thesis-Margaritis
+│ ├ Physics Demystified   A Self-Teaching Guide (Demystified)
+│ ├ Physics of the Plasma Universe
+│ ├ Pinaky-Thesis-May-2017-Final
+│ ├ Planets, Stars and Stellar Systems  Volume 1  Telescopes and Instrumentation
+│ ├ Planets, Stars and Stellar Systems  Volume 2  Astronomical Techniques, Software, and Data
+│ ├ Planets, Stars and Stellar Systems  Volume 4  Stellar Structure and Evolution
+│ ├ Planets, Stars and Stellar Systems  Volume 5  Galactic Structure and Stellar Populations
+│ ├ Planets, Stars and Stellar Systems  Volume 6  Extragalactic Astronomy and Cosmology
+│ ├ Planets, stars and stellar systems.   Volume 3, Solar and stellar planetary systems
+│ ├ Playing Smart  On Games, Intelligence, and Artificial Intelligence
+│ ├ Poggio-Attention as a Bayesian inference process
+│ ├ Political Bubbles  Financial Crises and the Failure of American Democracy
+│ ├ Post-Truth, Fake News  Viral Modernity & Higher Education
+│ ├ Pozzi, Costantini - Tesi Laurea Magistrale 2016-2017
+│ ├ Practical Bayesian Data Analysis from a Former Frequentist
+│ ├ Practical Bayesian Inference A Primer for Physical Scientists
+│ ├ Practical C++ Design  From Programming to Architecture
+│ ├ Practical Docker with Python  Build, Release and Distribute Your Python App with Docker
+│ ├ Practical Game Development with Unity and Blender
+│ ├ Practical Haskell  A Real World Guide to Programming
+│ ├ Practical Machine Learning and Image Processing  For Facial Recognition, Object Detection, and Pattern Recognition Using Python
+│ ├ Practical Machine Learning with Python  A Problem-Solver’s Guide to Building Real-World Intelligent Systems
+│ ├ Practical Node.Js  Building Real-World Scalable Web Apps
+│ ├ Practical Node.js
+│ ├ Practical Python Design Patterns  Pythonic Solutions to Common Problems
+│ ├ Practical Web Scraping for Data Science  Best Practices and Examples with Python
+│ ├ Practical concurrent Haskell   with big data applications
+│ ├ Predicting diffused-bubble oxygen transfer rate using the discrete-bubble model
+│ ├ Prerational Intelligence  Adaptive Behavior and Intelligent Systems Without Symbols and Logic, Volume 1, Volume 2 Prerational Intelligence  Interdisciplinary Perspectives on the Behavior of Natural and Artificial Systems, Volume 3
+│ ├ Principles and Practice of Structural Equation Modeling
+│ ├ Principles of Robotics & Artificial Intelligence
+│ ├ 

@@ -1,0 +1,32 @@
+https://en.wikipedia.org/w/index.php?title=Lennard-Jones fluid&action=edit
+
+{{Multiple issues|lead too short=January 2023}}
+
+A '''Lennard-Jones fluid''' is a computational model widely used in [[computational chemistry]] to study intermolecular interactions. It is named after [[John Lennard-Jones]], who introduced the [[Lennard-Jones potential]], also known as the LJ potential or 12-6 potential, that describes the interactions between particles in the fluid. The LJ potential captures the essential features of electronically neutral atoms or molecules, including [[repulsive]] and attractive ([[van der Waals]]) interactions.
+
+The LJ potential is given by the equation:
+
+<ref>{{cite journal |last1=Lennard-Jones |first1=J. E. |title=On the Determination of Molecular Fields. I. From the Variation of the Viscosity of a Gas with Temperature |journal=Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character |volume=106 |issue=738 |pages=463–477 |date=1924-10-01 |doi=10.1098/rspa.1924.0082}}</ref>
+
+:''V<sub>LJ</sub>(r) = 4ε [(σ/r)<sup>12</sup> - (σ/r)<sup>6</sup>]''
+
+Here, ''r'' represents the distance between two interacting particles, ''ε'' is the depth of the potential well (dispersion energy), and ''σ'' is the distance at which the [[potential energy]] is zero (size of the particle). The LJ potential exhibits a repulsive force at very close distances, an attractive force at moderate distances, and no interaction at infinite distance.
+
+[[Molecular dynamics]] simulations have been used to study the Lennard-Jones fluid under various state conditions. These simulations provide information about the pressure and configurational energy of the fluid at different densities and temperatures. A comprehensive equation of state for the Lennard-Jones fluid has been derived by combining simulation results with values calculated from the virial series and second virial coefficients<ref>{{cite journal |last1=Nicolas |first1=J.J. |last2=Gubbins |first2=K.E. |last3=Streett |first3=W.B. |last4=Tildesley |first4=D.J. |title=Equation of state for the Lennard-Jones fluid |journal=Molecular Physics |volume=37 |issue=5 |pages=1429-1454 |date=1979-11-01 |doi=10.1080/00268977900101051}}</ref>. This equation of state, known as the modified Benedict-Webb-Rubin equation, incorporates 33 constants and accurately describes the behavior of the Lennard-Jones fluid over a wide range of temperatures and densities.
+
+Additionally, two- and three-body integrals (J, K, and L) that occur in perturbation theory for [[molecular fluids]] have been calculated for the Lennard-Jones fluid under various [[state conditions]]<ref>{{cite journal |last1=Nicolas |first1=J.J. |last2=Gubbins |first2=K.E. |last3=Streett |first3=W.B. |last4=Tildesley |first4=D.J. |title=Equation of state for the Lennard-Jones fluid |journal=Molecular Physics |volume=37 |issue=5 |pages=1429-1454 |date=1979-11-01 |doi=10.1080/00268977900101051}}</ref>. An interpolation formula has been presented to estimate these integrals.
+
+== See also ==
+
+[[Lennard-Jones potential]]
+
+[[Computational chemistry]]
+
+[[Molecular dynamics]]
+
+[[Interatomic potential]]
+
+== References == {{reflist}}
+
+[[Category:Computational chemistry]] [[Category:Intermolecular forces]] [[Category:Fluid mechanics]] [[Category:Statistical mechanics]]
+

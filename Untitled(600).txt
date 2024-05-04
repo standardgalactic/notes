@@ -1,0 +1,27 @@
+
+Published: 13 April 2023
+
+A reservoir of foraging decision variables in the mouse brain
+
+Fanny Cazettes, 
+
+Luca Mazzucato, 
+
+…
+
+Zachary F. Mainen 
+
+Show authors
+
+Nature Neuroscience (2023)Cite this article
+
+1545 Accesses
+
+108 Altmetric
+
+Metricsdetails
+
+Abstract
+
+In any given situation, the environment can be parsed in different ways to yield decision variables (DVs) defining strategies useful for different tasks. It is generally presumed that the brain only computes a single DV defining the current behavioral strategy. Here to test this assumption, we recorded neural ensembles in the frontal cortex of mice performing a foraging task admitting multiple DVs. Methods developed to uncover the currently employed DV revealed the use of multiple strategies and occasional switches in strategy within sessions. Optogenetic manipulations showed that the secondary motor cortex (M2) is needed for mice to use the different DVs in the task. Surprisingly, we found that regardless of which DV best explained the current behavior, M2 activity concurrently encoded a full basis set of computations defining a reservoir of DVs appropriate for alternative tasks. This form of neural multiplexing may confer considerable advantages for learning and adaptive behavior.
+

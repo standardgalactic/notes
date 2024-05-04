@@ -1,0 +1,50 @@
+A few everyday examples of SIT, such as the abacus (lined tablet), the beaded abacus, the geometer's drafting table, the slide rule, and the magic eightball.
+
+
+
+-The abacus, a lined tablet with beads that can slide along the lines, is an example of SIT. It is used for basic arithmetic and can perform addition, subtraction, multiplication, and division.
+
+-The beaded abacus, also known as the abacomat or soroban, is another example of SIT. It is a handheld device with beads that can be manipulated to perform mathematical calculations.
+
+-The geometer's drafting table, a flat surface with a grid of lines, is an example of SIT. It is used for drawing geometric shapes and solving mathematical problems.
+
+-The slide rule, a ruler-like device with sliding parts, is an example of SIT. It is used for performing mathematical calculations, particularly multiplication and division.
+
+-The magic eightball, a toy that is shaken and gives a random answer to yes or no questions, is an example of SIT. It uses a set of pre-written answers to give a response to a question and can be used for entertainment or decision-making.
+
+Everyday examples:
+
+The calendar: used to keep track of time and schedule events
+
+The whiteboard and markers: used for brainstorming and visualizing ideas
+
+The notebook and pen: used for taking notes and jotting down ideas
+
+The GPS device: used for navigation and tracking location
+
+The recipe book: used for following instructions and creating specific dishes
+
+The spreadsheet software: used for organizing data and making calculations.
+
+Ok that was very good. Now I would like you to explain how, according to Visual Complex Analysis (Needham), you can do calculus without knowing or understanding the limit, because you can derive the concept of limit from rotations and expansions of the complex plain, the so-called Amplitwist. 
+
+This means we can have Delayed Introduction of the Limit in mathematical education, what we might call the Limit Last Lemma of cognitive load theory based calculus.
+
+
+According to Visual Complex Analysis (VCA), developed by Tristan Needham, the concept of limit can be derived from rotations and expansions of the complex plane.
+
+The complex plane, also known as the Argand plane, is a two-dimensional representation of complex numbers where the x-axis represents the real part and the y-axis represents the imaginary part.
+
+VCA uses visual and geometric methods to understand and solve complex mathematical problems, such as calculus.
+
+In VCA, the limit of a function can be understood by visualizing the behavior of the function as it approaches a specific value on the complex plane.
+
+For example, imagine a function represented by a curve on the complex plane. As the function approaches a specific point, the curve will rotate and expand, eventually becoming tangent to the point.
+
+This visual representation of the function's behavior makes it easier to understand and calculate the limit, without needing to rely on formal definitions or abstract concepts.
+
+The idea of Limit Last Lemma means that students can learn calculus without first having to learn the formal definition of the limit, which can be a difficult concept to grasp for some students. 
+
+Instead, students can begin by learning visual and geometric concepts and then later develop an understanding of the limit through visualizing its behavior. 
+
+This can help to reduce cognitive load and make learning calculus more accessible for students who may struggle with abstract concepts.

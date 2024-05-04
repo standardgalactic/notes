@@ -1,0 +1,79 @@
+All-analog photoelectronic chip for 
+high-speed vision tasks 
+Yitong Chen1,7, Maimaiti Nazhamaiti2,7, Han Xu2,7, Yao Meng3, Tiankuang Zhou1,3,4, Guangpu Li1,3, 
+Jingtao Fan1, Qi Wei5, Jiamin Wu1,3,6 ✉, Fei Qiao2 ✉, Lu Fang2,3,6 ✉ & Qionghai Dai1,3,6 ✉ 
+Photonic computing enables faster and more energy-ef i cient processing of vision 
+data1–5. However, experimental superiority of deployable systems remains a challenge 
+because of complicated optical nonlinearities, considerable power consumption 
+of analog-to-digital converters (ADCs) for downstream digital processing and 
+vulnerability to noises and system errors1,6–8. Here we propose an all-analog chip 
+combining electronic and light computing (ACCEL). It has a systemic energy ef i ciency 
+of 74.8 peta-operations per second per watt and a computing speed of 4.6 peta- 
+operations per second (more than 99% implemented by optics), corresponding to 
+more than three and one order of magnitude higher than state-of-the-art computing 
+processors, respectively. After applying dif f ractive optical computing as an optical 
+encoder for feature extraction, the light-induced photocurrents are directly used for 
+further calculation in an integrated analog computing chip without the requirement 
+of analog-to-digital converters, leading to a low computing latency of 72 ns for each 
+frame. With joint optimizations of optoelectronic computing and adaptive training, 
+ACCEL achieves competitive classif i cation accuracies of 85.5%, 82.0% and 92.6%, 
+respectively, for Fashion-MNIST, 3-class ImageNet classif i cation and time-lapse video 
+recognition task experimentally, while showing superior system robustness in low- 
+light conditions (0.14 fJ μm−2 each frame). ACCEL can be used across a broad range of 
+applications such as wearable devices, autonomous driving and industrial inspections. 
+Computer vision has broad applications, including autonomous 
+driving9,10, robotics11, medical diagnosis12–14 and wearable devices15,16. 
+Although deep learning has notably improved the performance of 
+vision tasks at the algorithmic level17,18, these tasks are fundamentally 
+limited by energy consumption and computing speed of traditional 
+digital computing units. During a typical vision task, a high-resolution 
+image is first captured by the sensor, then digitized by a large number 
+of analog-to-digital converters (ADCs) and processed through a neural 
+network (NN) on a digital processing unit for classification. In this case, 
+high-throughput, high-precision ADCs reduce the imaging frame rate 
+because of limited data bandwidth and lead to considerable energy 
+consumption. Moreover, short exposure time is required to complete 
+vision tasks with ultra-low latency, demanding extremely high comput- 
+ing power and noise robustness. 
+Recently, photonic computing has emerged as one of the most prom- 
+ising approaches to address these problems1–5,19. It uses the features of 
+light to represent information and to compute using propagation and 
+interference1,2,5,6,20–32. By implementing deep neural networks (DNNs), 
+optical neural networks (ONNs) have been reported to achieve a com- 
+puting efficiency of 1.58 tera-operations per second (TOPS) per watt5–7, 
+much higher than advanced digital electronic computing platforms 
+such as graphic processing units (GPUs)33,34 (about 0.52 TOPS W−1). 
+However, existing photonic computing systems still suffer from severe 
+practical limitations, including complicated implementation of opti- 
+cal nonlinearity, considerable power consumption of ADCs and vul- 
+nerability to noises and system errors. For example, Mach–Zehnder 
+interferometers are usually constrained by integration scales from 
+achieving high systemic computing speed7, whereas diffractive DNNs 
+with abundant nodes are hard to incorporate efficient optical nonlin- 
+earity1,6. Moreover, previous ONNs may be sensitive to noise at a low 
+signal-to-noise ratio (SNR)8,28,35, making them vulnerable to shot-noise 
+fluctuations because of ultra-short exposure time. These issues notably 
+prevent existing photonic computing from demonstrating systemic 
+supremacy over traditional digital computing in practical computer 
+vision tasks. 
+Here we propose an all-analog chip combining electronics and light, 
+named ACCEL, for energy-efficient and ultra-high-speed vision tasks 
+with competitive task performance and scalability. Instead of turning 
+to digital units to tackle optical computing limitations, ACCEL fuses 
+diffractive optical analog computing (OAC) and electronic analog 
+computing (EAC) with scalability, nonlinearity and flexibility in one 
+chip. In this way, ACCEL achieves an experimental energy efficiency 
+of 74.8 peta-OPS W−1 and a computing speed of 4.6 peta-OPS, three 
+and one order of magnitude higher than state-of-the-art computing 
+chips, respectively. To compensate for manufacturing defects and 
+alignment errors, we develop an adaptive training method, leading to 
+https://doi.org/10.1038/s41586-023-06558-8 
+Received: 1 February 2023 
+Accepted: 21 August 2023 
+Published online: 25 October 2023 
+Open access 
+Check for updates 
+1Department of Automation, Tsinghua University, Beijing, China. 2Department of Electronic Engineering, Tsinghua University, Beijing, China. 3Beijing National Research Center for Information 
+Science and Technology, Tsinghua University, Beijing, China. 4Shenzhen International Graduate School, Tsinghua University, Shenzhen, China. 5Department of Precision Instruments, Tsinghua 
+University, Beijing, China. 6Institute for Brain and Cognitive Sciences, Tsinghua University, Beijing, China. 7These authors contributed equally: Yitong Chen, Maimaiti Nazhamaiti, Han Xu. 
+✉e-mail: wujiamin@tsinghua.edu.cn; qiaofei@tsinghua.edu.cn; fanglu@tsinghua.edu.cn; qhdai@tsinghua.edu.cn

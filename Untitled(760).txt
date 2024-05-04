@@ -1,0 +1,52 @@
+Conferences >2017 Second International Con...
+
+Comparitive analysis of null convention logic and synchronous CMOS ripple carry adders
+
+Publisher: IEEE
+
+Cite This
+
+Akash Vakil; K. P. Jayadev; Sandesh Hegde; Deepali Koppad
+
+Sign In or Purchase
+
+2
+
+Paper
+
+Citations
+
+239
+
+Full
+
+Text Views
+
+Abstract
+
+Authors
+
+Figures
+
+References
+
+Citations
+
+Keywords
+
+Metrics
+
+More Like This
+
+ Download PDF
+
+ View References
+
+ Request Permissions
+
+ Save to
+
+ Alerts
+
+Abstract:Null Conventional Logic (NCL) is one of the most robust design techniques amongst the other asynchronous design methodologies. The NCL circuits which follow Dual-rail logic are built from a library of 27 Threshold gates which are implemented using semi-static implementation. In this paper 1-bit, 4-bit and 8-bit NCL Ripple Carry Adders have been designed and compared with the corresponding Ripple Carry Adders implemented using conventional Synchronous CMOS level design methodologies. Comparisons are made in terms of power consumption, delay and transistor count. Results indicate that NCL circuits have a significant decrement in power consumption and lesser transistor count when compared to CMOS design. On an average NCL Full Adder circuits consume approximately 65% lesser power than their synchronous counterparts. All these designs are implemented on Cadence Virtuoso using 180nm technology
+

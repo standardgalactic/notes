@@ -1,0 +1,17 @@
+The text discusses the variational Free Energy Principle (FEP) as a theory of brain function that has been extended into an explanatory framework for living systems at all scales.
+
+The FEP is shown to characterize all random dynamical systems that remain measurable, and hence, identifable as persistent and separable entities, over macroscopic times.
+
+The FEP claims that any measurable system will behave to satisfy specific requirements, meaning that self-organization is a ubiquitous feature of physical systems with enough dynamical stability to be called "things."
+
+The FEP is a statement that every "thing" will continuously "self-evidence" by returning its state to (the vicinity of) its non-equilibrium steady-state (NESS).
+
+The text shows how the FEP emerges naturally in any setting in which an "agent" or "particle" deploys quantum reference frames (QRFs) to identify and characterize the states of other systems in its environment.
+
+This reformulation removes two central assumptions of the formulation in terms of random dynamical systems: the assumption of a spacetime embedding and the assumption of "cognition" versus "physical" dynamics.
+
+The idea is that all physical systems, including the environment at large, can be considered "observers" that also act on their surroundings to "prepare" them for subsequent observations.
+
+This interpretation of the FEP is consistent with the newer understanding of quantum theory as a scale-free information theory and as a theory of the process of observation itself.
+ 
+

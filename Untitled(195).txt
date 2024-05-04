@@ -1,0 +1,32 @@
+7.6Hash-based Join Performance 
+In this experiment, we are interested in understanding the perfor- 
+manceofnon-partitionedhashjoin(NPJ)overtwoinputrelations[44, 
+79]. Note that we do not investigate partitioned hash join [72,79] as 
+itemployssmallcache-f i thashtablesandusinganytraditionalhash 
+functionwillbethebestchoice.Incontrast,NPJbuildsalargeglobal 
+hashtableforthesmallerinputrelationandtheprobabilityofhaving 
+performancedegradation,duetolargenumberofcollisions,ishigh. 
+Therefore,employinganef i cienthashfunctioniscrucialtoimprove 
+the join performance. We use wiki and fb datasets, where we uni- 
+formly and randomly sample two variations from each dataset with 
+10M and 25M tuples. These variations will be used to perform the 
+NPJon,usingthebestfunctionineachhashingcategory.Figure11 
+showstherunningtimeoftheNPJbuildandprobephases. 
+Interestingly,wecanobservethatRMI-CHAINandMULT-CHAIN 
+havethebestjoinperformanceinbothwikiandfb.Specif i cally,RMI- 
+CHAIN has 28% less total runtime (build and probe) than MULT- 
+CHAIN in wiki (e.g., in the 25Mx25M variant, the build times of 
+RMI-CHAINandMULT-CHAINare3.2and4.3sec,whiletheirprobe 
+timesare1.488and2.193sec,respectively),andtheybothhavethe 
+same total runtime in fb. Looking at the build phase, we can see that 
+RMI-CHAIN andRMI-LP build thehash table more ef i ciently. This 
+isbecauseRMIsortsthedatatobuilditssubmodels,andthenuses 
+themtoinserteachtuple.Althoughsortingthedataisabitexpen- 
+sive,ithelpsthemodel-basedinsertiontohappeninacache-friendly 
+manner, and is signif i cantly less than randomly inserting tuples (i.e., 
+more cache misses) using MultiplyPrime and Murmur. Due to the 
+ef i ciency of RMI in building the hash table, the total time of NPJ 
+usingRMI-CHAINbecomesmorecompetitivewithMULT-CHAIN 
+in a challenging dataset like fb because the performance gain in 
+buildingcompensates forthe performancedegradationin probing, 
+andthetotalrunningtimebecomesveryclose.

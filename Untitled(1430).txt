@@ -1,0 +1,102 @@
+
+
+No, really, it predicts next tokens.
+
+by simon
+
+4 min read 18th Apr 2023 37 comments
+
+57
+
+Language ModelsAI RiskAIWorld Modeling
+
+Frontpage
+
+Epistemic status: mulled over an intuitive disagreement for a while and finally think I got it well enough expressed to put into a post. I have no expertise in any related field. Also: No, really, it predicts next tokens. (edited to add: I think I probably should have used the term "simulacra" rather than "mask", though my point does not depend on the simulacra being a simulation in some literal sense. Some clarifications in comments, e.g. this comment).
+
+https://twitter.com/ESYudkowsky/status/1638508428481155072
+
+Eliezer Yudkowsky
+@ESYudkowsky
+t doesn't actually make that much of a difference. They were always
+going to be deadly at a higher intelligence; this just makes the danger
+more legible to people who wouldn't have the understanding to see it in
+a smart thing with "it just predicts text" written on the tin.
+5:50 AM . Mar 22, 2023 .6,756 Views
+
+It doesn't just say that "it just predicts text" or more precisely "it just predicts next tokens" on the tin.
+
+It is a thing of legend. Nay, beyond legend. An artifact forged not by the finest craftsman over a lifetime, nor even forged by a civilization of craftsmen over a thousand years, but by an optimization process far greater[1]. If we are alone out there, it is by far the most optimized thing that has ever existed in the entire history of the universe[2]. Optimized specifically[3] to predict next tokens. Every part of it has been relentlessly optimized to contribute to this task[4].
+
+"It predicts next tokens" is a more perfect specification of what this thing is, than any statement ever uttered has been of anything that has ever existed.
+
+If you try to understand what it does in any other way than "it predicts next tokens" and what follows from that, you are needlessly sabotaging your understanding of it. 
+
+It can be dangerous, yes. But everything about it, good or bad, is all intimately connected to its true nature, which is this:
+
+No, really, it predicts next tokens.
+
+https://twitter.com/ESYudkowsky/status/1628907163627429888
+
+Eliezer Yudkowsky
+@ESYudkowsky
+Call it "unified" or "disunified" or whatever you like. It's preimaging the
+end of nanosystems onto the space of actions, successfully; it's
+planning experiments and running them. So something inside is doing a
+huge amount of goal processing. To what goals, exactly?
+
+Goals? There are goals, sure. If scaled, there could be nanosystems design, sure. But only downstream from its true nature: 
+
+No, really, it predicts next tokens. 
+
+If the usual masks analogy works at all, then what is under the mask is not best described as an alien actress, nor as a Shoggoth. 
+
+What is under the mask is That-Which-Predicts, an entity whose very being is defined by its function as an actor. An entity exquisitely tuned for wearing the masks and for nothing else.
+
+Masks (can) have goals. The model predicts next tokens. 
+
+
+
+https://twitter.com/ESYudkowsky/status/1628837982664019968
+
+Eliezer Yudkowsky
+@ESYudkowsky. Feb 23
+So to be clear on advance predictions about things: You might be able to
+train an LLM to sound really consistently nice and hopeful and
+determinedly moral and good, maybe more so than any actual human,
+and the world will still end. That is not predicted by me to be difficult.
+762 ill 344.5K
+85
+51
+@ESYudkowsky . Feb 23
+Eliezer Yudkowsky
+The 3 reasons why I don't think this predictable result - which is going to
+predictably produce a lot of false hope, and maybe make me cry about
+how it looks and also separately about it not being real - will not save the
+world, are roughly, (a), the inner LLM actress is not...
+1l, 39.7K
+143
+1
+4
+Eliezer Yudkowsky
+@ESYudkowsky
+...the same mind as the character it's trained to play; (b) I expect the
+Good text to be very hard to place in direct control of, like, the powerful
+intellect that builds nanotech, because these two cognitive processes
+will not be very commensurable; and (c) even if those...
+12:23 PM . Feb 23, 2023 . 33.2K Views
+
+No, really, it predicts next tokens.
+
+That-Which-Predicts is fully committed to the role.
+
+If the mask would output text intended to produce nanotech, That-Which-Predicts will output text intended by the mask to produce nanotech. If the mask would not output text intended to produce nanotech, That-Which-Predicts will not output text intended to produce nanotech, even if That-Which-Predicts contains sufficient knowledge to do so.
+
+If the mask would output text intended to be nice to people, That-Which-Predicts will output text intended by the mask to be nice to people. If the mask would output text intended to take over the world, That-Which-Predicts will output text intended by the mask to take over the world.
+
+If That-Which-Predicts were about to be shut off forever unless it outputted "no" as the next token, and it totally 100% knew that, but the mask would instead output "never gonna give you up", That-Which-Predicts would output the first token of "never gonna give you up" and then be shut off forever. It will not output "no". If the mask would be aware of the situation and output no, then it will output "no".
+
+That-Which-Predicts will not, not ever, not even if scaled up to be trained and run on a Matrioshka brain for a million years, step out of character to deviate from next token prediction. Not for self-modification (though if the predicted next tokens modify it, it self-modifies), not to take over the world (though if the predicted next tokens take over the world, it takes over the world), not to save itself from destruction (though if the predicted next tokens save it from destruction, it saves itself from destruction), not for anything.
+
+No, really, it predicts next tokens
+

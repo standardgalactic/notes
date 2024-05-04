@@ -1,0 +1,14 @@
+And ∧
+Or ∨
+Xor↮
+If then (Implication) →
+Converse implication←
+Equivalence (If and only if)↔
+Nand↑
+Nor↓
+But not (Nonimplication)↛
+Converse nonimplication↚
+Top (Tautology)⊤
+Bottom (Contradiction) ⊥
+Not A ~A
+Not B ~B

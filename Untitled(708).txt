@@ -1,0 +1,49 @@
+Prompt Design
+The way all the above operations are performed is by using a Prompt class. The Prompt class is a container for all the information that is needed to define a specific operation. The Prompt class is also the base class for all other Prompt classes.
+
+Here is an example how to define a Prompt to enforce the neural computation engine for comparing two values:
+
+class CompareValues(ai.Prompt):
+    def __init__(self) -> ai.Prompt:
+        super().__init__([
+            "4 > 88 =>False",
+            "-inf < 0 =>True",
+            "inf > 0 =>True",
+            "4 > 3 =>True",
+            "1 < 'four' =>True",
+            ...
+        ])
+For example, when calling the <= operation on two Symbols, the neural computation engine will evaluate the symbols in the context of the CompareValues prompt.
+
+res = ai.Symbol(1) <= ai.Symbol('one')
+This statement evaluates to True, since the fuzzy compare operation was conditions our engine to compare the two Symbols based on their semantic meaning.
+
+:[Output]:
+True
+In a more general notion, depending on the context hierarchy of the expression class and used operations the semantics of the Symbol operations may vary. To better illustrate this, we show our conceptual prompt design in the following figure:
+
+
+
+The figure shows our hierarchical prompt design as a container of all the information that is provided to the neural computation engine to define a task-specific operation. The Yellow and Green highlighted boxes indicate mandatory string placements. The dashed boxes are optional placeholders. and the Red box indicates the starting point of the model prediction.
+
+Conceptually we consider three main prompt designs: Context-based Prompts, Operational Prompts, and Templates. The prompts can be curated either by inheritance or by composition. For example, the Static Context can be defined by inheriting from the Expression class and overriding the static_context property. An Operation and Template prompt can be created by providing an PreProcessor to modify the input data.
+
+We will now explain each prompt concept in more details:
+
+The Context-based Prompts (Static, Dynamic and Payload) are considered optional and can be defined in a static manner, either by sub-classing the Expression class and overriding the static_context property, or at runtime by updating the dynamic_context property or passing an payload kwargs to a method. Here is an example how to use the payload kwargs via the method signature:
+
+# creating a query to ask if an issue was resolve or not
+sym = Symbol("<some-community-conversation>")
+q = sym.query("Was the issue resolved?")
+# write manual condition to check if the issue was resolved
+if 'not resolved' in q:
+    # do a new query but payload the previous query answer to the new query
+    sym.query("What was the resolution?", payload=q)
+    ...
+else:
+    pass # all good
+Regardless of how we set the context, our contextualized prompt defines the desired behavior of the Expression operations. For example, if we want to operate in the context of a domain-specific language, without having to override each base class method. See more details in this notebook.
+
+The Operation prompts define the behavior of an atomic operation and is therefore mandatory to express the nature of such an operation. For example, the +-operation is used to add two Symbols together and therefore the +-operation prompt explains its behavior. Examples defines another optional structure that provides the neural computation engine with a set of demonstrations that are used to properly condition the engine. For example, the +-operation prompt can be conditioned on how to add numbers by providing a set of demonstrations, such as 1 + 1 = 2, 2 + 2 = 4, etc.
+
+The Template prompts are optional and encapsulates the resulting prediction to enforce a specific format. For example, to generate HTML tags we can use a curated <html>{{placeholder}}</html> template. This template will enforce the neural computation engine to start the generation process already in the context of a HTML tags format, and not produce irrelevant descriptions about its task.

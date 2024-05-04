@@ -1,0 +1,13 @@
+Blockchain is a way to keep track of things in a safe and secure way, like a digital notebook that many people can use at the same time. But, just like any other technology, it also has some problems.
+
+One problem is that it uses a lot of energy and causes waste, like when you leave the lights on in your room even though you're not using them. This is because blockchain uses a special way of checking if things are correct, called proof-of-work. It takes a lot of energy to do this checking, and it's not always necessary.
+
+Another problem is that some people can use blockchain to do bad things, like selling drugs or weapons, or hiding money that they got from doing something wrong. This is because they can stay anonymous, which means that people don't know who they really are.
+
+The Blockchain Oracle problem is when it's hard to know if the information being used in the blockchain is true or not. Imagine if you're playing a game with your friends, and one of them keeps cheating. That would make the game not fair, and the same thing can happen in the blockchain if the information being used is not accurate.
+
+A crypto-crash is when the value of a type of money called cryptocurrency suddenly drops and becomes worth less. This is like if you had a toy that was worth a lot of money one day, but the next day it was worth much less. This can happen for many reasons, and it can make people who own the cryptocurrency very upset.
+
+In short, blockchain is a helpful technology, but it also has some challenges that need to be addressed to make it better and safer for everyone to use.
+
+

@@ -1,0 +1,3 @@
+/nav 2
+
+prompt 4 will use the context from prompt 2

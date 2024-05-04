@@ -1,0 +1,94 @@
+
+1. Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.
+
+2. Harris, Zellig S. (1954). "Distributional structure". Word, 10(2-3), 146-162.
+
+3. Chomsky, Noam. (1957). Syntactic Structures. Mouton de Gruyter.
+
+4. Firth, J. R. (1957). A synopsis of linguistic theory, 1930-1955. Studies in linguistic analysis. Oxford: Blackwell
+
+5. Katz, Jerrold J., & Fodor, Jerry A. (1963). "The structure of a semantic theory". Language, 39(2), 170-210.
+
+6. Chomsky, N. (1965). Aspects of the theory of syntax. Cambridge, MA: MIT Press.
+
+7. Fillmore, Charles J. (1975). "Santa Cruz lectures on deixis". Bloomington: Indiana University Linguistics Club.
+
+8. Lakoff, George, & Johnson, Mark. (1980). Metaphors We Live By. University of Chicago Press.
+
+9. Lakoff, G. (1987). Women, fire, and dangerous things: What categories reveal about the mind. Chicago: University of Chicago Press.
+
+10. Langacker, Ronald W. (1987). Foundations of Cognitive Grammar: Theoretical Prerequisites. Stanford University Press.
+
+11. McAllester, D. A. (1991). Some perspectives on computational linguistics. Artificial intelligence, 47(1-3), 15-30.
+
+12. Sinclair, J. (1991). Corpus, concordance, collocation. Oxford: Oxford University Press.
+
+13. Croft, William. (1993). "The role of domains in the interpretation of metaphors and metonymies". Cognitive Linguistics, 4(4), 335-370.
+
+14. Goldberg, A. E. (1995). Constructions: A construction grammar approach to argument structure. Chicago: University of Chicago Press.
+
+15. Fauconnier, Gilles, & Turner, Mark. (1998). "Conceptual integration, networks and frames". Handbook of cognitive linguistics, 1, 417-471.
+
+16. Manning, Christopher D., & Schütze, Hinrich. (1999). Foundations of Statistical Natural Language Processing. MIT Press.
+
+17. Talmy, L. (2000). Toward a cognitive semantics. The MIT Press.
+
+18. Fauconnier, G., & Turner, M. (2002). The Way We Think: Conceptual Blending And The Mind's Hidden Complexities. Basic Books.
+
+19. Croft, W., & Cruse, D. A. (2004). Cognitive linguistics. Cambridge: Cambridge University Press.
+
+20. Martin, J. R., & White, P. R. R. (2005). The language of evaluation: Appraisal in English. New York: Palgrave Macmillan.
+
+21. Evans, Vyvyan, & Green, Melanie. (2006). Cognitive Linguistics: An Introduction. Edinburgh University Press.
+
+22. Goldberg, Adele E. (2006). Constructions at Work: The Nature of Generalization in Language. Oxford University Press.
+
+23. Langacker, R. W. (2008). Cognitive grammar: A basic introduction. Oxford: Oxford University Press.
+
+24. Fillmore, C. J., Lee-Goldman, R., & Rhodes, R. (2012). The FrameNet project: A brief overview. In B. T. S. Atkins & A. Zampolli (Eds.), Computational approaches to the lexicon (pp. 343-375). Oxford: Oxford University Press.
+
+25. Mikolov, Tomas, Chen, Kai, Corrado, Greg, & Dean, Jeffrey. (2013). "Efficient estimation of word representations in vector space". arXiv preprint arXiv:1301.3781.
+
+26. Gärdenfors, Peter. (2014). Conceptual Spaces: The Geometry of Thought. MIT Press.
+
+27. Mitchell, T. M. (2019). Model-based reasoning in AI. Communications of the ACM, 62(7), 30-33.
+
+28. Bender, E. M. (2020). The Ethical Stakes of Language Models. Communications of the ACM, 63(9), 38-45.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

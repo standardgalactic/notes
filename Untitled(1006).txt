@@ -1,0 +1,15 @@
+In the study, researchers trained two types of learning agents to navigate in a complex world with changing conditions.
+
+Monolithic Agent: This agent is like a single brain trying to handle everything. It struggles to adapt to the changing environment and often gets stuck.
+
+Modular Agent: This agent is like having multiple brains, each responsible for specific tasks. It performs much better because different parts of its "brain" can focus on different aspects of the environment and help each other when needed.
+
+The researchers found that the modular agent outperformed the monolithic agent because it could explore more effectively and adapt to changes. It had the advantage of intrinsic exploration, where one part of its "brain" could assist another part when it was stuck.
+
+They also tried different settings for how the agents are rewarded, and the modular agent remained consistently better, while the monolithic agent's performance depended on these settings.
+
+Additionally, the researchers used a technique called attentional masking to help the modular agent ignore irrelevant information and focus on what matters most. Surprisingly, this also improved the monolithic agent's performance.
+
+Overall, the study shows that having a modular design, like "multiple selves," helps learning agents explore, adapt, and perform better in complex and changing environments.
+
+

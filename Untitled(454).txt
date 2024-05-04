@@ -1,0 +1,22 @@
+Extended phenomenological cognition and evolutionary-developmental biology. In the next section of the article, we attempt to clarify these ideas via some examples of 
+extended phenomenological-cognitive science. In order to more fully develop the idea that 
+EPCS are multi-scale self-organizing systems, in this section, we connect extended phenomenology-cognition to another recent topic in biology, the relationship among plasticity, 
+robustness, and autonomy in development (see also Thompson, 2007; Thompson & Staple- 
+ton, 2008). Phenotypic plasticity is the phenomenon in which genetically identical individuals will develop different phenotypic traits in different environmental conditions (Kaplan, 
+2008). Because of phenotypic plasticity, a single genotype or genome can produce many different phenotypes depending on environmental and developmental contingencies (Gilbert 
+and Epel, 2009). Phenotypic plasticity is just one example of epigenomic processes in which 
+various mechanisms create phenotypic variation without altering base-pair nucleotide gene 
+sequences, altering the expression of genes but not the gene sequence. In contrast, there are 
+cases in which genetic or environmental changes have no phenotypic effect. This persis- 
+tence of a particular organism’s traits across environmental or genetic changes is called robustness. Robustess is illustrated by various knock-out experiments whereby a particular 
+gene (or group of genes) known to be involved in the development of some protein or phenotypic trait is disabled without disturbing the presence or production of the developmental 
+end product in question (Jablonka & Lamb, 2005). To account for and model robustness, developmental biologists have called upon dynamical systems theory. The ongoing development of an organism acts as a high-order constraint, which enslaves the components neces- 
+sary to maintain its dynamics. Because of this, a developing system will have highly plastic boundaries, and it will be composed of different enslaved components over time.
+
+This plasticity serves the autonomy and robustness of the developing organism, making it more likely 
+to be viable. Robustness is closely related to autonomy, another key concept in evolutionary-developmental biology. Autonomy is the property of living systems to make use of their 
+environments to maintain themselves. Autonomy is sometimes explained in terms of recursive self-maintenance. 
+
+Some systems are plastic such that they can maintain stability not 
+only within certain ranges of conditions but also within certain ranges of changes of conditions: They can switch to deploying different processes depending on conditions they detect 
+in the environment.

@@ -1,0 +1,108 @@
+NULL convention Logic™ [7] is derived directly from the Invocation Model of Process 
+Expression. The Invocation Model is a conceptual model of general process expression in contrast to 
+a model of computation. It transcends limiting mathematical notions of computation to provide a 
+unifying conceptual framework which relates all forms of process expression from the simplest 
+physical and chemical processes to the most complex natural and artificial processes. For instance, 
+the processes of cell metabolism and of digital computers are characterized in terms of the same 
+concepts and relationships. They simply occupy different places in a single expression space defined 
+by the Invocation Model. 
+A central concept of the Invocation Model is the general notion of completeness. Just how 
+fundamental the notion of completeness is will become clear in the course of the discussion. It will 
+appear in many guises in different aspects of process expression but always in service of providing 
+necessary and sufficient conditions. We will begin with the notion of symbolic completeness of 
+expression. symbolically complete expression is complete in and of itself solely in terms of the 
+relationships among symbol values in the expression. It integrates the expression of data 
+transformation and what is generally viewed as the expression of control in a single symbolically 
+© 1997 Theseus Logic Inc. 3 
+determined expression, without appeal to any extra-symbolic expression such as a clock or a 
+controller. Processes in nature are symbolically complete, resolving spontaneously and 
+autonomously without appeal to any global time authorities or control sequencers. The artificial 
+processes devised by humans can also be symbolically complete. 
+Traditional Boolean logic is not symbolically complete. Among its component elements, a 
+traditional Boolean logic circuit exhibits time dependent relationships as well as symbolic-value- 
+dependent relationships. The symbolic-value-dependent relationships depend on the interconnection 
+of the logic gates and their truth tables. The time-dependent relationships depend on the 
+propagation delay times of the component elements to express the validity of data values and the 
+invalidity of data values. These two aspects of expression are independent of each other in that the 
+time relationships can be expressed quite arbitrarily in relation to the expression of symbolic 
+relationships and vice versa. These two quite independent and partial expressions must be carefully 
+and explicitly coordinated to provide a complete correctly resolvable expression of a process. A 
+carefully engineered Boolean logic circuit with its clock is a complete expression and can be made to 
+work, but it is not a symbolically complete expression. 
+Traditionally, in computer science, the expression of data transformation and the expression of 
+control have been viewed as inherently independent aspects of process expression which must, of 
+necessity, be carefully coordinated. In programming languages this manifests as explicit sequence 
+control of assignment statements. In traditional Boolean logic circuits, the gates and their 
+interconnections are the data transformation aspect and the timing relationships expressed by careful 
+engineering and the clock are the control aspect (which expresses the validity and invalidity of data 
+values). But, the data transformation aspect and the control aspect of process expression are not 
+inherently independent. The expression of both aspects can integrated into a single expression 
+purely in terms of symbolic-value-dependent relationships with no external control expression at all. 
+This is what is meant by a symbolically complete expression. It is completely expressed and 
+completely determined solely in terms of symbolic-value-dependent relationships. A symbolically 
+complete logic circuit would have no time relationships at all and would be completely insensitive 
+to the propagation delays among its component elements.
+
+...
+
+Figure 16. NULL-DATA cycle for hysteresis gate circuit. 
+Beginning with the circuit in an all NULL state one DATA value is applied in one of the 
+groups. The result values remain all NULL since no threshold is met. When a DATA value is 
+applied in the second group, a complete input data set is present, the threshold of a gate is met which 
+asserts a DATA value which propagates to the result values. One result value in each output group 
+asserts a DATA value which constitutes a complete result data set and expresses the correct 
+© 1997 Theseus Logic Inc. 18 
+resolution of a complete input data set. The circuit as a whole enforces the completeness of input 
+criteria for DATA in relation to NULL and only asserts a complete result data set when a complete 
+input data set is presented to the circuit. 
+One of the input DATA values becomes NULL, but the threshold 2 gate and the circuit 
+continue asserting DATA result values. Only when all inputs to the circuit are NULL does the 
+threshold 2 gate and hence the circuit transition their result values to NULL. The circuit as a whole 
+enforces the completeness of input criteria for NULL in relation to DATA and only asserts all NULL 
+result values when the input to the circuit is all NULL and the NULL values have propagated 
+through the circuit. 
+As with the Boolean logic examples with three and four value logic, the completion of 
+resolution of a complete input data set and the readiness of the circuit to receive a new input data set 
+to resolve can be determined by simply monitoring the result values. The circuit is symbolically 
+complete and manages quite on its own its interactions with the rest of the world. 
+INTERESTING OBSERVATIONS ON SINGLE DATA VALUE NULL CONVENTION LOGIC™ CIRCUITS 
+A single data value NULL Convention Logic™ circuit can be conveniently monitored for faults 
+in such a way that it cannot tell a lie as shown in figure 17. 
+2 
+2 
+2 
+2 
+1 
+1 
+1 
+00 
+10 
+01 
+11 3FAULT 
+A 
+B 
+A_1 
+A_0 
+B_1 
+B_0 
+C 
+S 
+C_1 
+C_0 
+S_1 
+S_0 
+Figure 17. Fault monitoring NULL Convention Logic™ circuit. 
+If exactly one DATA value is asserted in each output group it is the correct resolution of a 
+complete input data set. If there are ever three DATA result values simultaneously asserted, it is an 
+error and the threshold three gate will announce the error. If the circuit only asserts one DATA result 
+value it will fail to announce completion of resolution and this can be detected with a watchdog 
+timer. A NULL Convention Logic™ circuit will always either: 
+1.Assert a correct result. 
+2.Fail to complete resolution. 
+3.Assert an explicit error signal. 
+© 1997 Theseus Logic Inc. 19 
+A fault will be detected as soon as it causes an actual resolution error. This holds for all single 
+point faults. It is possible for a NULL Convention Logic™ circuit to tell a lie but it requires two 
+coordinated faults that produce a valid encoding which is, nevertheless, erroneous. 
+Single data value NULL Convention Logic™ circuits are similar to neural nets as shown in 
+figure 18. 2 

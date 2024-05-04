@@ -1,0 +1,66 @@
+import random
+
+# Define the problem parameters
+text = "Shakespeare plays and Heinlein books"
+nodes = 26
+
+# Define the fitness function
+def fitness_function(genome):
+    score = 0
+    for i in range(len(text)):
+        if chr(genome[i % nodes] + ord("A")) == text[i]:
+            score += 1
+    return score
+
+# Code the selection, crossover, and mutation operations
+def selection(population, fitness_values):
+    new_population = []
+    for i in range(len(population)):
+        parent1 = population[fitness_values.index(max(fitness_values))]
+        fitness_values[fitness_values.index(max(fitness_values))] = -1
+        parent2 = population[fitness_values.index(max(fitness_values))]
+        fitness_values[fitness_values.index(max(fitness_values))] = -1
+        child = []
+        for j in range(nodes):
+            if random.random() < 0.5:
+                child.append(parent1[j])
+            else:
+                child.append(parent2[j])
+        new_population.append(child)
+    return new_population
+
+def crossover(parent1, parent2):
+    child = []
+    for i in range(nodes):
+        if random.random() < 0.5:
+            child.append(parent1[i])
+        else:
+            child.append(parent2[i])
+    return child
+
+def mutation(child):
+    for i in range(nodes):
+        if random.random() < 0.1:
+            child[i] = random.randint(0, 25)
+    return child
+
+# Initialize the population
+population = []
+for i in range(100):
+    genome = [random.randint(0, 25) for j in range(nodes)]
+    population.append(genome)
+
+# Run the genetic algorithm
+max_generations = 1000
+for generation in range(max_generations):
+    fitness_values = [fitness_function(genome) for genome in population]
+    population = selection(population, fitness_values)
+    population = [mutation(crossover(population[i], population[i + 1])) for i in range(0, len(population), 2)]
+    best_genome = population[fitness_values.index(max(fitness_values))]
+    best_fitness = fitness_function(best_genome)
+    if best_fitness == len(text):
+        break
+
+# Print the result
+result = [chr(genome[i % nodes] + ord("A")) for i in range(len(text))]
+print("".join(result))

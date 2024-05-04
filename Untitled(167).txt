@@ -1,0 +1,154 @@
+Does ChatGPT actually Understand language?
+
+I am qualified to discuss this because I have been an experimental epistemologist for over 20 years, focusing exactly on Machine Understanding of human languages. Mainly on making it work, and learning everything I could in the process. I publish on my own website (link below and in my FB profile) and in videos of my talks.
+
+TL;DR : ChatGPT Understands language. It's a really big deal. Take a pill. The red one.
+
+ -- * --
+
+The AI/ML community prefers pragmatic and externally measurable definitions of Understanding for scientific reasons. We can start there. There's more.
+
+We start by claims like: If I say to you "Please fetch me a fork" and you do exactly that, then you have Understood what I say"
+
+If I tell a young puppy to "Sit!", it likely doesn't do it, because it hasn't learned it yet.
+
+But if a well trained dog sits down, then it Understood what I said.  The difference is just learning. You can see where this is going.
+
+Are the GPT-Disbelievers going to throw dogs under the bus, claiming dogs don't Understand language either?
+
+Along with Alex the Parrot, Flipper the Dolphin, Chaser the dog that knows a thousand toys by name, Everybody's pet ever, and human infants. They know some language, but they all make mistakes. Human infants can reach full mastery by learning more. By using a larger corpus. They will still make mistakes.
+
+How is ChatGPT different? I ask it to write a Sonnet and it does it. Dogs can't do it.
+
+"Can You?" -- I, Robot
+
+    -- * --
+
+If you are trying to build an AI, then you need a way to know when you are done.  Actually, you need to know whether you are improving, and whether further improvement is possible.  People believing AI will either happen overnight, or not at all, have not watched children learn.
+
+How do we estimate Understanding and Intelligence in humans? We test. Same in AI research. We ask the systems thousands of questions and count how many forks they bring us. It's the scientific way :-D
+
+GPT-3 (and other Deep Neural Network based systems) test well as long as we ask them questions they are qualified to handle.  A five-year old human Understands a lot of language but it doesn't mean we can discuss college level Physics with them.  And as far as I can tell, current testable AIs, including my own, focus almost entirely on pure Understanding. Reasoning is different, as Kahneman explained. I may have mentioned this before :-D.
+
+If we had a system that had learned to Understand language, but knew nothing about the world beyond what was described in its textbooks, and nothing at all outside of what was in those books, and furthermore could not Reason logically about anything...
+
+then we would have something that behaves like ChatGPT.
+
+ -- * --
+
+We need to remember that ChatGPT 3.5 is not a product. It is a demo of the state of the art that is intended to demonstrate a major step forward in AI. It demonstrates Natural Language Understanding in a way that has convinced many people.  The fact that it can write sonnets demonstrates language skills most of us do not have... without learning some more, and practicing.
+
+Full stop. As the song goes,
+
+Don't know much about geography
+Don't know much trigonometry
+
+It don't know much about anything EXCEPT language. It doesn't reason. It doesn't understand much about the world. You should not expect it to. In fact, it learns very little about the world while learning language, which is hard enough for current systems.
+
+ChatGPT is deceptive. It has the world knowledge of a 3-year old with the language skills of a 33-year college graduate.
+
+Among humans, these skills are rarely this disconnected. We can call ChatGPT an Idiot Savant, because it has a peak skill (in its case, language) and very little in the way of other skills and knowledge. Examples of Idiot Savants include people able to compose/orchestrate/play music in real time, people that can do do advanced arithmetic in their heads. And extreme polyglots, which indicates that language can be viewed as a separately learnable skill.
+
+ -- * --
+
+AI is a tricky business. We started out in the 1950s knowing nothing, and as we in the AI research community learned more, we have had to adjust our beliefs many times in radical ways. Here are some "belief summaries" I came up with in five minutes, including my own:
+
+- Reasoning is everything (The Introspection Fallacy)
+- Behavior is everything
+- Understanding is out of scope (Minsky)
+- Reductionist AI is impossible because of the Frame Problem (McCarthy & Hayes)
+- Intelligence is Reasoning + Understanding  (Kahneman)
+- Understanding requires Epistemic Reduction (me)
+- DNNs provide Epistemic Reduction (me)
+- DNNs can Learn (Post-2012 Deep Neural Networks)
+- DNNs can provide predictions (Numerous papers)
+- Learning can solve simple problems (handwriting, object recognition, sentiment analysis)
+- Learning can solve problems better than we can (video games, DNN-based chess, go)
+- Learning can solve problems we cannot solve (Protein folding)
+- Learning can solve problems so easily we can't be bothered to do it ourselves (Real estate pricing)
+- Learning is everything
+- Learning provides Understanding (me)
+- Reasoning must be grounded in Understanding (me)
+- Dialog requires Understanding and Prediction
+- GPT demonstrates simple Dialog
+- Reasoning is now the only thing missing (me)
+
+You may be objecting to the idea that ChatGPT Understands language because you learned about AI in one of the previous paradigms. In which case you need the Red Pill to bring you up to date.
+
+Note BTW that "Qualia" isn't in the list :-| and I will not put it in.  And I don't think anyone has ever claimed "Understanding is Everything". We have Understanding in the can, but we're not done with AI as a whole.
+ -- * --
+There may be less charitable reasons for disbelieving that DNNs can Understand.
+
+- Professional jealousy -- "I wish I had invented that".
+- Religion, or other belief in the superiority of the human species.
+- Some people go to really strange places to avoid giving up on hrdcore Reductionism. Google for Scientism and Panpsychism.
+ -- * --
+The press uses metaphors to explain how it works. "It predicts the next character".
+
+Er. It's probably not wrong, and there are alternative strategies. Character prediction is tricky, especially after a space character :-D . Think about that for a while. What would it take to predict the next character correctly all the time? Sounds easy until you start programming it.
+
+What it can actually do is pattern match at a very very high level. This is getting very close to what some people (including myself) think Understanding really is.
+
+I have many definitions of Understanding. It's a suitcase word. So what? Suitcases are useful.
+
+- Understanding is corpus congruence (If you have seen something more, you understand it more. If you have never seen it, you don't understand it)
+- Understanding is the ability to autonomously perform Epistemic Reduction (Discovering useful abstractions by discarding everything irrelevant)
+- Understanding is the ability to jump to reasonable conclusions on scant evidence based on a lifetime of experience and learning from mistakes
+
+The first one is the most alien to non-professionals but is the easiest to measure objectively.
+
+ -- * --
+
+We can be aghast that computers have gotten this close to the complexity of the human mind.
+
+But the time to be really aghast is when you see how few lines of computer code it actually takes to get them to do this. Could human intelligence really be this simple? We don't know, but a large fraction of it now seems to be within easy reach of computer based methods.
+
+We overestimate our own complexity and therefore overestimate how much it takes to get a small but useful amount of it.  We also underestimate the power of Evolution and its generalization, Selectionism. Both of these belong in Epistemology, rather than Science, which is why they are out of scope for many people.
+
+We cannot handle emergent phenomena if we want to stay within the Reductionist/Scientific paradigm. Many, myself included, argue that Understanding and Intelligence are emergent. This makes Reductionist AI such as GOFAI and many other 20th Century ideas about AI total non-starters.
+
+We can have useful human language Understanding in 4GB RAM. I have that running and freely available for testing in the cloud. The inner loop of that runtime system is about 90 lines of Java. Warning: It's not a Chat system. You need to be a professional to appreciate it. And download some python.
+
+ -- * --
+
+You are of course free to voice any opinions about this but if you want to talk to me (and specifically me) about these things, then I urge you to first read The Red Pill (link below), because we need to synchronize vocabularies.
+
+If you discuss these things with me without reading it, then you are doing us both a disservice by forcing me to explain the basics in improvised and fragmented Q&A sessions instead of you reading about it in a coherent, well paced document that took over a month to get just right. I'm willing to talk about anything to some extent, but I may have to refer back to the document if we are debating the main point without you having understood what it even is and how to talk about it... to me.
+
+And you need the pill to be able to even think properly about it. Because most people didn't learn Epistemology in school; it wasn't necessary for industrial work.
+
+The issues are not what most people (even in the AI research community) think they are. They are not even where they think they are. For instance, they are not in hardware. We don't need neuromorphic chips, quantum computing, or supervised learning. We may not need GPUs either. My own systems don't even use floating point :-o . Because brains don't.
+
+ -- * --
+
+Philosophy isn't Scientific. You don't see many "proofs". But the reason for this is surprising to many.
+
+Epistemology is a branch of Philosophy, and Science is DEFINED in terms of Epistemology. Where did the lemmas of Algebra come from? Not from within Science.
+
+Let us consider all problem solving methods we can ever think of -- all that will ever exist. Epistemology can be used to discuss all of these methods as a group.
+
+Some problem solving methods work well all the time. Some don't really work. Some work well some of the time. Some work a little bit all of the time.
+
+Science is the good stuff that works well all the time.
+
+Epistemology includes Science but it also has access to riff-raff methods that don't work as well or as often.
+
+Epistemology is larger than Science. It can often solve problems that science cannot. Such as problems of immense complexity. Such as everyday life.  Scientifically we can predict the position of Jupiter 200 years from now, but I personally sure can't guess where that would be.  OTOH, brains can tell whether someone we just met would make a good friend.  These kinds of estimates cannot be done mathematically.
+
+The brain is not a high precision device.  It is a high complexity device
+
+ -- * --
+
+Science works in labs, but in our complex everyday reality, Science is often helpless, and these riff-raff methods are the only thing that will work at all. For starters, in daily life we never have perfect information and we MUST jump to conclusions on whatever information we have. Without correct and complete input data, Logic and Reasoning cannot even get started.
+
+Reductionist Science has deprecated Holistic Methods for hundreds of years, but now the ML community has discovered ways to make computers use Holistic Methods.  Such methods cracked the Protein Folding problem, and now ChatGPT has demonstrated language Understanding. These are things that Science cannot touch because of exceeding complexity.
+
+Science is for simple problems. Life is complex.
+
+ -- * --
+
+Current and future progress in AI is, and will continue to be, based on Unscientific (!) jumping to conclusions on scant evidence based on a lifetime of experience and learning from mistakes, and hoarding correlations without bothering with determining causation. This is my explanation of how Understanding works, and this is (IMPO) how GPT and other DNN based systems do it. Including mine.
+
+The main point I have been making in my writing and my videos since 2007, and which must be considered in all these discussions, can be summarized in four words that should not be surprising to anyone. And yet, disbelief in this simple truth has been detrimental to AI progress for decades:
+
+All intelligences are fallible

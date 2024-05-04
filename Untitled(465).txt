@@ -1,0 +1,5 @@
+InstructGPT is One of the Models Behind the Magic of ChatGPT
+
+A fine tuned version of GPT-3 that is more efficient at following instructions.
+
+

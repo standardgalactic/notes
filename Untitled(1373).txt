@@ -1,0 +1,33 @@
+Quantum Energy Teleportation 
+Essentials 
+In this chapter we introduce the protocol of quantum energy teleportation (QET), originally 
+introduced by Hotta. 
+3.1Introduction to QET 
+Quantum Energy Teleportation (QET) is a protocol that allows the the transfer of energy 
+from one subsystem to another in correlated many-body quantum systems (and quantum 
+i elds). Given a certain entangled state of an interacting many-body quantum system, say, 
+an eigenstate of an interacting Hamiltonian, then subsystems (A & B) usually share some 
+mutual information, I(A : B) due to this entanglement. This mutual information means 
+that there exists certain observables on A and B which are correlated. QET aims to exploit 
+these correlations in order to ef f ectively transfer energy. 
+3.1.1Harnessing Correlations 
+Correlated many body systems, as their name suggests, have correlated observables. This 
+means that sampling the eigenvalue of one observable should give information about cor- 
+related ones. As mutual information bounds correlations between observables, if there is 
+some mutual info one should usually have correlated observables. 
+
+The whole protocol of QET relies on exploiting correlations in order to do what is 
+otherwise unlikely: extract energy from states which locally look like a ground state (or 
+strongly locally passive states [22]). The trick here, is to invest energy in order to get some 
+payback. In some sense, QET is a gambling game, where energy is the currency and one 
+player sacrif i ces earnings for another to prof i t. 
+By measuring an observable in a certain subsystem, call it A, that observable will be 
+correlated with some observables in subsystem B.Given an observable of B which is 
+correlated with our measured observable in A, if this B observable has some inf l uence on 
+the energy of the system, them we will be able to use the knowledge of the eigenvalue of 
+A to statistically infer an expected value of B, then displace this value in a way to extract 
+energy. For locally passive systems, this would not be possible by acting on B on its own; 
+there is local uncertainty about the state at B, hence without any additional knowledge, any attempt at locally displacing the eigenvalue of an energetically-contributing observable 
+would increase the energy of the system. In some sense, collapsing the state at A partially 
+collapses the state at B and any other region which is correlated with A. This collapse allows us to catch the B subsystem in a conditional state which is dif f erent than the usual 
+marginal state, this state suddenly has some new “free energy”, i.e., the new state can be displaced in a way to extract energy.

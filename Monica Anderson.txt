@@ -1,0 +1,25 @@
+The Turing Test was passed last week. This was a major milestone, if you listen to the Media and a small number of clueless academics.
+
+So can we now stop talking about it. Forever. Please :-D
+
+Turing conceived of it as a way to explain the concept of an intelligent machine to laypeople. AFAICT he never thought of it as a real test. It isn't.
+
+When we get a true machine intelligence (most likely in the form of what I call an "Understanding Machine") then it will be obvious to everyone observing it in action that it has what we call "Intelligence" and it will, at the same time, be obvious to everyone that it is a machine. No mimicry will be necessary. Nobody has to be fooled.
+
+AI developers have already devised many other tests that are much more useful and which trivially give hard numbers for degrees of the most important aspects of intelligence that we are shooting for.
+
+An example: I work on computer systems that actually Understand human languages. Here's a test for whether you Understand English: I have removed all the spaces from a paragraph of text. If you try to put them back, I can trivially count how many you got wrong since I have the original text. 
+
+Nobodyevertaughtyouhowtosolveanyandallstoryproblemsyouwouldencounterinyourlife.Nobodycan,becauseReductionisnotanAlgorithm;eachReductiondiffersinthedetails.
+
+You can easily score 100% even if you never heard some of the words I used... if you know English. The fraction you got right is a measure of your language skill at this level. And this test cannot be faked to 100% correct using dictionaries and statistical methods like HMM; it requires true language understanding and even some world knowledge.
+
+If you thought that was easy, do it again on this text:
+
+Yleiskielessävoimmesanoa,ettäpoliitikkovalitaanministeriksijaettähäntoimiiministerinä,muttajoshänskandaalintakiajoutuueroamaan,eitätäeroamistavoikaankuvatayhdellä
+
+It's in Finnish. This is what the test would (to most of you) look like if you don't know the language. You couldn't do it 100% correct even with a Finnish dictionary, unless you Understand Finnish.
+
+So the test is a decent test of language Understanding ability *above* the word level. It requires knowing a whole lot about the language *and* quite a bit about the real world since there will be ambiguous cases that can only be resolved using world knowledge. 90% is achievable using a dictionary. 99% isn't, for any text of non-trivial size.
+
+All my test framework has to do is count the mistakes; this is a repeatable test providing a numerical output. The Turing Test requires judges to be fooled, is highly subjective, is dependent on lots of details in the experimental setup, and only (claims to) provide a yes/no output which makes it useless for tracking day-to-day incremental progress.

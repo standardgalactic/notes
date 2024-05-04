@@ -1,0 +1,13 @@
+Traditional synchronous circuits operate on a global clock, and everything is synchronized to this clock's beats. In contrast, asynchronous circuits do not have a global clock; they progress based on the data's readiness. 
+
+The Completeness Criterion:
+
+An operator (like an AND gate or an OR gate in circuits) should only change its output based on completely formed inputs.
+
+If all inputs are data, the operator produces a data output.
+
+If all inputs are NULL, the operator produces a NULL output.
+
+If the inputs are a mix of data and NULL, the operator doesn't change its output
+
+The main idea behind NULL Convention Logic is to provide a coordinated and predictable behavior in circuits. By using a third state (NULL), it allows systems to inherently understand when data is available and when it's not, leading to efficient and error-free operations.

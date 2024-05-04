@@ -1,0 +1,56 @@
+Mathematical Modeling and Numerical Simulation in Continuum Mechanics  Proceedings of the International Symposium on Mathematical Modeling and Numerical Simulation in Continuum Mechanics, September 29 – October 3, 2000 Yamaguchi, Japan
+│ ├ Mathematical Models for Remote Sensing Image Processing  Models and Methods for the Analysis of 2D Satellite and Aerial Images
+│ ├ Mathematical and Physical Data, Equations, and Rules of Thumb
+│ ├ Mathematical theory of Bayesian statistics
+│ ├ Maya.svg
+│ ├ Measurement Error and Misclassification in Statistics and Epidemiology  Impacts and Bayesian Adjustments.chm
+│ ├ Medical Computer Vision and Bayesian and Graphical Models for Biomedical Imaging   MICCAI 2016 International Workshops, MCV and BAMBI, Athens, Greece, October 21, 2016, Revised Selected Papers
+│ ├ MemTri  A Memory Forensics Triage Tool using Bayesian Network and Volatility
+│ ├ Meme Media and Meme Market Architectures  Knowledge Media for Editing, Distributing, and Managing Intellectual Resources
+│ ├ Memes in Digital Culture
+│ ├ Memes of Translation  The spread of ideas in translation theory. Revised edition
+│ ├ Merchants of doubt  how a handful of scientists obscured the truth on issues from tobacco smoke to global warming
+│ ├ Mergers, Acquisitions, and Other Restructuring Activities  An Integrated Approach to Process, Tools, Cases, and Solutions
+│ ├ Meteorology demystified by STAN GIBILISCO
+│ ├ Microbiology Demystified - Tom Betsy, James Keogh
+│ ├ Microservice Architecture - transform.ca.com
+│ ├ Microservices Patterns  With examples in Java
+│ ├ Microservices with Docker on Microsoft Azure
+│ ├ Microservices  Flexible Software Architecture
+│ ├ Microsoft Windows 3.1 - Getting Started with Microsoft Windows
+│ ├ Milk  the surprising story of milk through the ages
+│ ├ Missing Data in Longitudinal Studies  Strategies for Bayesian Modeling and Sensitivity Analysis (Chapman & Hall CRC Monographs on Statistics & Applied Probability)
+│ ├ MoL-2017-19.text
+│ ├ Modeling and Control of Discrete-event Dynamic Systems  with Petri Nets and Other Tools (Advanced Textbooks in Control and Signal Processing)
+│ ├ Modeling and Reasoning with Bayesian Networks
+│ ├ Modeling of Steelmaking Processes
+│ ├ Modelling bubbly flows using Volume of Fluid, Front Tracking and Discrete Bubble Models
+│ ├ Modelling operational risk using a Bayesian approach to extreme value theory
+│ ├ Modern Linux Administration  How to Become a Cutting-Edge Linux Administrator
+│ ├ Modern Principles of Economics
+│ ├ Modern classical physics  optics, fluids, plasmas, elasticity, relativity, and statistical physics
+│ ├ Modified Bayesian Kriging for noisy response problems 
+│ ├ Muller-Budack Ontology-Driven Event Type Classification in Images WACV 2021 paper
+│ ├ Multiscale Modeling  A Bayesian Perspective (Springer Series in Statistics)
+│ ├ Multivariate Analysis with LISREL
+│ ├ Multivariate Bayesian Statistics  Models for Source Separation
+│ ├ Multivariate Bayesian statistics  models for source separation and signal unmixing
+│ ├ Mysterium Cosmographicum 
+│ ├ Naked Statistics  Stripping the Dread from the Data
+│ ├ Nature Guide  Snakes and Other Reptiles and Amphibians
+│ ├ Nelson Textbook of PEDIATRICS
+│ ├ Net Core in Action
+│ ├ Network Programmability and Automation
+│ ├ Network Programming in Dot NET With C Sharp and Visual Basic Dot NET
+│ ├ Network Programming with Go  Essential Skills for Using and Securing Networks
+│ ├ Next Generation Earth System Prediction  Strategies for Subseasonal to Seasonal Forecasts
+│ ├ Node.js 8 the Right Way  Practical, Server-Side JavaScript That Scales
+│ ├ Node.js Blueprints - Practical Projects to Help You Unlock the Full Potential of Node.js
+│ ├ Node.js for Embedded Systems
+│ ├ Node.js in Action - EBooks World
+│ ├ NodeJSNotesForProfessionals
+│ ├ Non-Bayesian Decision Theory  Beliefs and Desires as Reasons for Action
+│ ├ OOP with Microsoft Visual Basic .NET and Microsoft Visual C# .NET Step by Step
+│ ├ Objective Bayesian analysis on the quantile regression
+│ ├ One, Two, Three, Infinity. Facts & Speculations in Science
+│ ├ 

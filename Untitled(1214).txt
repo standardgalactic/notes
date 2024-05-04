@@ -1,0 +1,21 @@
+3.1.4Previous Works 
+There have been numerous pieces of work done on QET. In its introduction, the focus was on spin chains and many-body systems. 
+Following this, QET has been shown to work for scalar quantum i eld theories as well as 
+in quantum electrodynamics. 
+The next frontier for QET was to understand how the structure of the Hilbert space 
+allowed for QET, and to i nd the optimal measurement schemes for QET. Although some 
+work was done using POVM’s made to emulate interactions with higher dimensional Hilbert 
+spaces, the optimal measurement scheme was still elusive. 
+
+This thesis 
+
+This is where our work in this thesis begins. We propose new measurement schemes based on generalizations of the phase estimation algorithm in order to optimize the measurement 
+for QET, thus allowing for better collection of information and therby greater teleportation 
+of energy.
+Additionally, we provide fully coherent (POVM/PVM-free) versions of the QET, which, as was discussed in the background section, is equivalent to the LOCC version of the 
+protocol. 
+
+Some work had shown, in the case of the simplest QET model, minimal QET, that the key to a good QET measurement was the breaking of entanglement between the mea- 
+surement site and the rest of the system. To begin our study of QET and entanglement 
+breaking, we start with an in-depth analysis of the coherent (projective-measurement-free) 
+version of the minimal QET protocol.

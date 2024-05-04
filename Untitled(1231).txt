@@ -1,0 +1,33 @@
+Alright, let's factor in a death rate. To keep things relatively simple, we'll use an average global lifespan of about 80 years. This means, on average, 1/80 (or 1.25%) of the population dies each year. 
+
+For a one-child-per-100-people policy:
+
+- Birth rate = 1% of the population 
+- Death rate = 1.25% of the population 
+
+The net annual change in population is a decrease of 0.25% (1.25% - 1% = 0.25%).
+
+Let's start with an initial population \( P \):
+
+1. After the first year, the population would be:
+\[ P(1 - 0.0025) \]
+
+2. After the second year:
+\[ P(1 - 0.0025)^2 \]
+
+...and so on.
+
+After 100 years, the population would be:
+\[ P(0.9975)^{100} \]
+
+Using this formula, and taking \( P \) as the initial population, the population after 100 years would be about 0.777 times (or 77.7%) of the initial population. This means there would be a decline of about 22.3% in the population over 100 years with the one-child-per-100-people strategy when considering an average global lifespan of 80 years. 
+
+Keep in mind, this is still a simplification. There are numerous other factors like immigration, wars, pandemics, and so on that can affect population dynamics. This just gives a general idea.
+
+Ok so the current world population is 8 billion what is 0.777 of that?
+
+To find \(0.777\) of 8 billion:
+
+\[ 8,000,000,000 \times 0.777 = 6,216,000,000 \]
+
+So, 0.777 of 8 billion is 6.216 billion.

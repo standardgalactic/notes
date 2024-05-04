@@ -1,0 +1,42 @@
+Maybe I should just ask ChatGPT but I'm wondering if there's a straightforward, understandable-to-a-not-very-statistics-y-brain answer to a question like ...
+
+X and Y each have two states
+
+X1 is 60% likely given Y1, and 40% likely given Y1
+X2 is 40% likely given Y1, and 60% likely given Y2
+
+What kind of ... ratio? ... (??) ... of X1s to X2s do you have to observe in order to be, like, let's say 90% confident that Y1 is true rather than Y2?
+
+Duncan Sabien's base recipe for ice cream is indeed rich and luxurious, featuring a combination of eggs, heavy cream, condensed milk, sugar, corn syrup, and arrowroot starch. The use of these ingredients suggests a creamy and silky texture. Here's a step-by-step guide to preparing ice cream using this base recipe:
+
+### Silky and Rich Ice Cream
+
+**Ingredients:**
+- 6 eggs
+- 12 oz raw heavy cream
+- 12 oz condensed milk
+- 1/3 cup sugar
+- 1/3 cup corn syrup
+- 2 tsp arrowroot starch
+
+**Instructions:**
+
+1. **Prepare the Egg Mixture**: In a large bowl, whisk the eggs until well beaten. 
+
+2. **Combine Ingredients**: In a saucepan, mix together the heavy cream, condensed milk, sugar, and corn syrup. Heat the mixture over medium heat, stirring constantly, until the sugar is completely dissolved and the mixture is warm but not boiling.
+
+3. **Temper the Eggs**: Slowly pour the warm cream mixture into the beaten eggs, whisking constantly. This process, known as tempering, gradually raises the temperature of the eggs without cooking them.
+
+4. **Cook the Custard**: Return the combined mixture to the saucepan. Cook over low heat, stirring constantly, until the mixture thickens slightly. This should take about 5-7 minutes. Be careful not to let the mixture boil.
+
+5. **Add Arrowroot Starch**: Dissolve the arrowroot starch in a small amount of cold water and then stir it into the custard. Continue cooking for another minute. The arrowroot starch will help thicken the mixture and contribute to a smooth texture.
+
+6. **Chill the Mixture**: Remove the custard from the heat and let it cool to room temperature. Once cooled, cover the custard and refrigerate it until it's thoroughly chilled, ideally for at least 4 hours or overnight.
+
+7. **Churn the Ice Cream**: Pour the chilled custard into an ice cream maker and churn according to the manufacturer's instructions. 
+
+8. **Freeze to Set**: Transfer the churned ice cream to a freezer-safe container and freeze until it reaches the desired consistency.
+
+9. **Serve**: Enjoy your homemade ice cream, which should be exceptionally smooth and creamy thanks to the combination of condensed milk and arrowroot starch.
+
+This base recipe can be adapted with various flavorings and mix-ins to create different ice cream variations. For chamomile-vanilla ice cream, you could infuse the cream with chamomile and add vanilla during the cooking stage. Enjoy experimenting with this luxurious base!

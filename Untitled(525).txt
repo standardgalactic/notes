@@ -1,0 +1,56 @@
+more detailed comments:
+
+"using the same training epochs" -> "using the same number of training epochs"
+"achieves prior art performance" -> "achieves state of the art performance"
+"the inference of deep neural network" -> "inference in deep neural networks"
+
+This paper considered only sparsity of weights -- it might have been nice to also discuss/run experiments exploring sparsity of activations.
+
+eq. 4 -- Can you say more about why this particular form is the right one for the regularizer? It seems rather arbitrary. (it will tend to be dominated by the smallest thresholds, and so would seem to encourage a minimum degree of sparsity in every layer)
+
+I appreciate the analysis in section 4.3.
+Rating: 6: Weak Accept
+Experience Assessment: I do not know much about this area.
+Review Assessment: Thoroughness In Paper Reading: I read the paper at least twice and used my best judgement in assessing the paper.
+Review Assessment: Checking Correctness Of Derivations And Theory: I assessed the sensibility of the derivations and theory.
+Review Assessment: Checking Correctness Of Experiments: I assessed the sensibility of the experiments.
+Add
+[–]
+Response to AnonReviewer1 
+ICLR 2020 Conference Paper1570 Authors
+08 Nov 2019 (modified: 08 Nov 2019)ICLR 2020 Conference Paper1570 Official CommentReaders:  Everyone
+Comment: Thank you so much for your time and constructive comments.
+
+It is our negligence that does not present our motivation and contributions of our work clearly in the early manuscript. We are revising it to clearly present our motivations, methods and contributions. 
+
+We really appreciate your positive assessment of our experimental results. We are running experiments on the more complex dataset (ImageNet 2012) to make our results more convinced. 
+
+Thank you so much for pointing out the language problems in our manuscript. We are polishing the writing continuously and will update the revised manuscript soon. 
+
+Following are the responses to the concerns:
+
+1. The sparsity of activations.
+Usually, only the sparsity of weights is considered for the evaluation of network pruning methods. Your suggestion that we should evaluate the sparsity of activations provides a new point of view. We are conducting related experiments and will add this in the revised manuscript. 
+
+2. The choice of sparse regularizer.
+The sparse regularizer is used to penalize low threshold values to increase the degree of sparsity. So the basic requirement is that the value of the regularizer function  should decrease as  increases.
+
+We actually tested several options like ,  
+ 
+, and 
+ 
+. It seems that other choices except  penalize too much. Therefore the training loss is dominated by the sparse regularizer term , which tends to mask out all the weights easily. 
+Due to our experiments,  is the best choice among all these options that support wider range choice of  and get higher degree of sparsity. So  is adpoted for the sparse regularizer.  We are still searching for the better sparse regularizer.
+
+
+3. Sparse regularizer dominated by the smallest thresholds
+Yes, as you point out, the sparse regularizer will be dominated by some small thresholds. Although we discuss the layer-wise sparsity in the paper, the thresholds are actually neuron-wise or filter-wise. Considering a masked fully connected layer with parameter  and threshold vector , this layer will have  output neurons. For each output neuron , our method assigns a neuron-wise threshold . 
+
+The elements in  are all initialized to , which means that we assume the neurons and weights in this layer have the same importance before the training. And the same penalties for small value are added for all these thresholds. 
+
+At the end of the training process, if some thresholds still have small values, it only indicates that these neurons are more important than other neurons so that the weights corresponding to these neurons should have a small degree of sparsity. 
+Usually, there are hundreds of neurons in each layer. So the layer-wise sparsity will still be high even if there are few small neuron-wise thresholds. 
+
+4. The analysis in 4.3
+Thank you for your positive feedback about the analysis in section 4.3. 
+As we present in section 4.3, our method can generate consistent sparse pattern that indicates the degree of redundancy for each layer.  Besides, our method can distinguish neuron-wise or filter-wise importance with fine-grained neuron-wise and layer-wise thresholds as we present above

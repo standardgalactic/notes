@@ -1,0 +1,7 @@
+Here is another example of spherepop in action:
+
+6÷2(2+1) = 6÷2(3) = 6÷6 = 1÷1 = 1
+
+The general consensus among math people is that "multiplication by juxtaposition" (that is, multiplying by just putting things next to each other, rather than using the "×" sign) indicates that the juxtaposed values must be multiplied together before processing other operations
+
+https://www.purplemath.com/modules/orderops2.htm#:~:text=The%20general%20consensus%20among%20math,together%20before%20processing%20other%20operations.

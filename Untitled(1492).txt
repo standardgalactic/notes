@@ -1,0 +1,4 @@
+You can use one of my computers (in Canada):
+
+ssh eccehomo@192.168.2.240
+password: asdf

@@ -1,0 +1,5 @@
+According to Karl Fant, the Invocation Model is a more intuitive andfundamental starting point for studying computer science as a science.
+
+It provides adeeper understanding of how computer systems work and allows students to seethe big picture of how different components of a system fit together.
+
+It also helpsstudents to develop a more holistic understanding of computer science, rather thanjust focusing on isolated algorithms.

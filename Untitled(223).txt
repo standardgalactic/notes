@@ -1,0 +1,15 @@
+Have you seen the illustrated man yet?
+
+https://en.m.wikipedia.org/wiki/The_Illustrated_Man_(film)
+
+I'm starting to worried at how unworried you are about the dangers of AI, or maybe you are good at hiding it. I think the AI as you envision it, because it seems much easier to control, because you can hold back the learning algorithm, and sell understanding. 
+
+But gpt and stable diffusion are dangerous, at least they lie, hallucinate,  make up answers, and give back unpredictable results. Like you can ask for a fish and get back a medussa sometime and probably soon there will be a large game of wack a mole.
+
+It seems that I could always present my thoughts in a variety of different ways I could give you extremely optimistic versions that almost neglect to mention the negatives. Or I could give a pessimistic version, like Eliezar Yudowski.
+
+I don't even know if there is any way I can help you work faster, it still seems to be hard to find any information about your work, although I can see most of what you've published probably. Hardly anyone else has picked it up.
+
+Maybe I am missing
+
+https://github.com/standardgalactic/xanadu

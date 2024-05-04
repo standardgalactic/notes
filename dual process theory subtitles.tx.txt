@@ -1,0 +1,192 @@
+
+[00:00.000 --> 00:16.440]  Let me start with Daniel Kahneman, who's a Nobel Prize in Winner in Economics and
+[00:16.440 --> 00:24.720]  Professor Princeton, and he wrote this book Thinking Fast and Slow, which is to a large
+[00:24.720 --> 00:31.560]  extent about dual process theory. He, not the originator of the idea, William James,
+[00:31.560 --> 00:37.520]  started it in 1890, and so on. Many people have talked about it since then. It basically,
+[00:37.520 --> 00:42.880]  the idea is that brains use two different modes of thinking, and one is an intuitive
+[00:42.880 --> 00:50.160]  understanding, and another one is logical reasoning. And if you look at some characteristics of
+[00:50.160 --> 00:58.760]  those two, understanding is fast and reasoning is slow, hence the title of the book. And
+[00:58.760 --> 01:03.560]  understanding gets its speed from being mostly parallel, and reasoning is, of course, step
+[01:03.560 --> 01:11.320]  by step when you go through a chain of propositions or whatever. Understanding is intuitive, and
+[01:11.320 --> 01:19.880]  reasoning is logical. Understanding is subconscious, and reasoning is conscious, very conscious.
+[01:19.880 --> 01:24.520]  Understanding is involuntary, and reasoning is voluntary. We can look at several of these
+[01:24.520 --> 01:29.240]  two and basically examine them from a research point of view, but the last one is actually
+[01:29.240 --> 01:35.800]  very nice because we can do a little thought experiment and condense ourselves that dual
+[01:35.800 --> 01:41.080]  process theory is correct. Imagine you're planning a European vacation, and you can
+[01:41.080 --> 01:45.560]  basically, you want to nail down which sites you want to see, which cities you want to
+[01:45.560 --> 01:53.040]  go to, what hotels to sleep at, train schedules or whatever. And you start this process, takes
+[01:53.040 --> 01:57.440]  a long time, you'd have a cup of coffee, you can get back to it, you can break for, continue
+[01:57.440 --> 02:05.120]  the next day, whatever. So reasoning can be stopped and continued. It's voluntary.
+[02:05.120 --> 02:09.400]  Whereas understanding, such as understanding how to sequence the leg muscles as you walk
+[02:09.400 --> 02:14.800]  across the floor, how to understand things that you see in your visual field, understand
+[02:14.800 --> 02:20.960]  language, is instantaneous and involuntary, and once you learn to understand English,
+[02:20.960 --> 02:32.000]  you cannot turn it off. This is enough to convince me that dual process theory is correct.
+[02:32.000 --> 02:37.280]  So if we look at reasoning and understanding as a conscious and a subconscious part, it's
+[02:37.280 --> 02:41.360]  pretty clear to me that basically reasoning is on top of the understanding, and we can
+[02:41.360 --> 02:47.720]  look at evolutionary record, we can look at animals like dogs, and they don't, they understand
+[02:47.720 --> 02:54.000]  a lot, but they don't reason much. It's also clear to me and many others that the
+[02:54.000 --> 02:59.960]  role of reasoning has been exaggerated. Can we get an estimate of how much? We can look
+[02:59.960 --> 03:05.880]  at the incoming bandwidth from the eyes, for instance, about 10 megabits per second. But
+[03:05.880 --> 03:10.200]  multiple psychological studies have shown that we are only consciously aware of about
+[03:10.200 --> 03:16.880]  100 bits per second. That's a factor of 100,000 to one.
+[03:16.880 --> 03:22.520]  So what's happening in the understanding part is basically that we have a data reduction
+[03:22.520 --> 03:26.880]  and an epistemic reduction so that only the most important information makes it up to
+[03:26.880 --> 03:38.840]  the top. That's what saliency means. So brains spend only about 0.001% of their cycles on
+[03:38.840 --> 03:48.120]  the reasoning part. So rightly, reasoning is just a paint-thin layer on top of our understanding.
+[03:48.120 --> 03:52.120]  In the 20th century, artificial intelligence research was overly concerned with the reasoning
+[03:52.120 --> 03:57.600]  part, almost the exclusion of everything else, and now it's time to take a look at the understanding
+[03:57.600 --> 04:02.240]  part, and that's what artificial intuition is all about, that's my research. So in case
+[04:02.240 --> 04:07.840]  you missed it, AI research has been working on the wrong problem, and that's why we're
+[04:07.840 --> 04:16.800]  making any headway. Now, why did we do that? Well, it's easily
+[04:16.800 --> 04:21.360]  good learned by what I call the greatest invention our species has ever made. It's reductionism,
+[04:21.360 --> 04:28.240]  the use of models. That's what most of science rests on that. Models are theories, equations,
+[04:28.240 --> 04:35.840]  hypotheses, scientific models, naive models, and computer programs. They are all simplifications
+[04:35.840 --> 04:42.040]  of our rich reality. We take our rich reality, which is too complex to enter into your calculator,
+[04:42.040 --> 04:48.200]  and we strip away that which is irrelevant. That's what we think of as not being salient,
+[04:48.200 --> 04:51.720]  and we end up with something very small, which is a model, which is simple enough to attack
+[04:51.720 --> 05:00.240]  with a slide rule or your computer. And reasoning requires models of this kind. All the reasoning
+[05:00.240 --> 05:08.800]  we do uses these kinds of models. So AI researchers, they just started modeling the world back
+[05:08.800 --> 05:17.000]  in the 50s, and many, many famous projects have basically been doing nothing but. But
+[05:17.000 --> 05:22.160]  unfortunately, comprehensive world models are impossible. You can make models of small
+[05:22.160 --> 05:27.440]  chunks of the world, but you can't make models of the entire world. There is a conflict between
+[05:27.440 --> 05:33.120]  how much you want the model and how much you can handle. And we had hints that this was
+[05:33.120 --> 05:38.240]  impossible as long as in 1969 when John McCarthy and Pat Hayes published a paper about the
+[05:38.240 --> 05:45.680]  frame problem. The frame problem briefly states that the world changes behind your back.
+[05:45.680 --> 05:50.120]  So that any comprehensive world model that you make is immediately obsolete. And if you
+[05:50.120 --> 05:56.840]  rely on that for doing something, you are going to make mistakes. So AI research has
+[05:56.840 --> 06:02.440]  been traditionally done in limited domains, small problems, toy problems. And they only
+[06:02.440 --> 06:09.400]  seem to work because they have, we have reduced the problem before we start to something that
+[06:09.400 --> 06:17.280]  we can handle. And logic reasoning and models of the world cannot be used as a base for
+[06:17.280 --> 06:22.120]  artificial general intelligence. We can build systems where that is the result, but we can't
+[06:22.120 --> 06:30.800]  use it at the bottom level at the implementation level. Some consequences. And this is a little
+[06:30.800 --> 06:36.480]  bit beyond the world process theory. This is some of my own thinking. Let's look at the
+[06:36.480 --> 06:42.440]  properties of a possible AGI. A possible, as opposed to an impossible one. An impossible
+[06:42.440 --> 06:49.960]  one is the kind that we try to do for 60 years, 65 years. All intelligent agents are fallible.
+[06:49.960 --> 06:54.840]  This follows directly from the frame problem. You can't always be right. The world changes
+[06:54.840 --> 07:04.240]  behind your back. So we can only do best effort given the available information. All intelligence
+[07:04.240 --> 07:08.920]  are also limited. I mean, what would an unlimited intelligence be? It would be something that's
+[07:08.920 --> 07:13.680]  always right, always correct. And we just said that was impossible. So there's hard limits
+[07:13.680 --> 07:18.880]  on intelligence. And the limits are imposed by world complexity. They're not technological.
+^[[A^[[B[07:18.880 --> 07:24.080]  We don't know what the maximum possible intelligence is. We don't know the maximum possible precision
+[07:24.080 --> 07:29.960]  of prediction is for various time frames. I have this conviction, if you will, that
+[07:29.960 --> 07:35.840]  it's not going to be significantly over humans or we are reasonably optimal for our environment.
+[07:35.840 --> 07:42.080]  Recurses self-improvement has limits for the same reasons. You try to, computer tries to
+[07:42.080 --> 07:46.320]  improve itself. After a while, it's going to start introducing bugs and corner cases.
+[07:46.320 --> 07:51.920]  And we're going to get this fractal bug and corner case addition to our improved system.
+[07:51.920 --> 08:03.600]  We can't always be right. This means that our popular ideas about AGI may be incorrect.
+[08:03.600 --> 08:13.640]  Things like infallible omniscient superhuman, God-like AGI is totally impossible. Unfriendly
+[08:13.640 --> 08:18.840]  AGI is therefore not a problem because all intelligence are fallible. If we have somebody,
+[08:18.840 --> 08:22.840]  some AI that tries to take over the world, we just make it until it makes a mistake and
+[08:22.840 --> 08:30.760]  then we pull the plug on it. Also, spectacular AGI singularity is unlikely. We will see slowly
+[08:30.760 --> 08:37.920]  increasing intelligences of this kind, but they are fallible and so on. We get plenty
+[08:37.920 --> 08:43.720]  of decades of time to learn how to deal with them, how to manage them. I like to say that
+[08:43.720 --> 08:47.800]  they're going to start out with intelligence to level teenagers and we know how to handle
+[08:47.800 --> 08:57.960]  teenagers. So, young popular ideas, our technologies that we use today for AGI may be incorrect.
+[08:57.960 --> 09:04.080]  We use these for AI for limited domain artificial intelligence, like whatever. But if you want
+[09:04.080 --> 09:08.840]  to do in general intelligence, the technologies that we're using today and that are still
+[09:08.840 --> 09:16.440]  taught at our schools are likely not the correct ones. Because they incorrectly assume that
+[09:16.440 --> 09:23.960]  intelligence is based on reasoning. Even our definitions for AGI may be incorrect. A popular
+[09:23.960 --> 09:28.920]  definition is the ability of a computer or other machine to perform those human activities
+[09:28.920 --> 09:34.880]  that are normally thought to require intelligence. But this means that we take the most difficult
+[09:34.880 --> 09:40.280]  things that humans do and think this is intelligence, like playing chess or solving an integral
+[09:40.280 --> 09:45.920]  or I don't know, searching and sorting. Computers do all of these things already and we don't
+[09:45.920 --> 09:50.640]  think that that's AI. Something is wrong here and I like to claim the opposite. I like to
+[09:50.640 --> 09:56.720]  say that a better definition for AGI would be the ability of a computer to do those human
+[09:56.720 --> 10:01.920]  activities that are normally thought not to require intelligence. That's how wrong these
+[10:01.920 --> 10:07.640]  definitions are. What we do without thinking has to be the first step towards AGI. Things
+[10:07.640 --> 10:12.440]  like how do you sequence your leg muscle walking across the floor? How do you speak? How do
+[10:12.440 --> 10:16.560]  you listen? How do you understand language? How do you generate language? How do you understand
+[10:16.560 --> 10:23.280]  the visual input? How do you enjoy a symphony? These are things that computers cannot do.
+[10:23.280 --> 10:30.040]  But that's the kind of stuff we have to start with. So some AI strategies. Model the world
+[10:30.040 --> 10:35.680]  as I said, what we've been doing so far mostly. That's called reductionist artificial intelligence.
+[10:35.680 --> 10:41.280]  Because it uses models. We can model the brain. It's becoming popular. And that's basically
+[10:41.280 --> 10:48.320]  neuroscience inspired AI. But our precision in volume and in time domain are too bad,
+[10:48.320 --> 10:54.200]  too low and it's going to take decade or so before we get to anything useful. So I have
+[10:54.200 --> 11:02.560]  a third proposal which is that we model understanding itself. And we can call that epistemological
+[11:02.560 --> 11:11.760]  AI. We start basically from ground principles, fundamental principles of epistemology. What
+[11:11.760 --> 11:15.040]  is learning? What is knowledge? How can we learn things? How can we learn anything at
+[11:15.040 --> 11:19.880]  all? And so on. What is reasoning really? How do we anchor the variables that we use
+[11:19.880 --> 11:29.320]  for reasoning? The AI itself has to make its own models. We can call this machines capable
+[11:29.320 --> 11:33.200]  of autonomous reduction. That's a technical term that I come up with. The reduction is
+[11:33.200 --> 11:40.600]  the process of taking the rich world and reducing it down to a model. But the shorter and more
+[11:40.600 --> 11:44.760]  catchy phrase would possibly be understanding machines. So I'm talking about creating understanding
+[11:44.760 --> 11:48.840]  machines rather than artificial general intelligence because it is tainted with this reductionist
+[11:48.840 --> 11:59.760]  flavor. How do we proceed to do that? We have to use what's called model-free methods. I'll
+[11:59.760 --> 12:05.520]  explain why. Reasoning requires models. We said that earlier. Model-making and reuse
+[12:05.520 --> 12:11.120]  requires understanding. You have to understand your problem domain before you can determine
+[12:11.120 --> 12:15.640]  what is salient, what is important, what is worth keeping, what is worth learning, what
+[12:15.640 --> 12:21.200]  can be thrown away. You can't make those decisions unless you understand the problem domain.
+[12:21.200 --> 12:29.120]  Understanding has to come first. Understanding must proceed models. Therefore, understanding
+[12:29.120 --> 12:34.120]  must be implemented without using models. You don't have them yet. At that level, you
+[12:34.120 --> 12:39.280]  don't have them. It also follows the evolutionary record. Understanding has to proceed reasoning,
+[12:39.280 --> 12:47.280]  and it did in most pieces, don't reason as much as we do. Therefore, understanding requires
+[12:47.280 --> 12:51.200]  model-free methods. The model-free methods, there's about 14 of them. I list them in my
+[12:51.200 --> 12:57.480]  website. I can talk about them in the QA if you want. But these model-free methods, they
+[12:57.480 --> 13:04.040]  provide learning, salience, reduction, abstraction, novelty, and emergent robustness, among other
+[13:04.040 --> 13:09.920]  things. And these are things that you cannot, for love of money, make using reductionist
+[13:09.920 --> 13:18.360]  systems, using logic. Novelty, for instance, there's very, very few papers in AI community
+[13:18.360 --> 13:26.400]  about how to do useful novelty. But that comes very easily in model-free methods. Let's look
+[13:26.400 --> 13:31.440]  at some characteristics between model-based and model-free methods. As I said, model-based
+[13:31.440 --> 13:37.960]  methods require understanding, whereas model-free methods do not. It's a very compelling thing
+[13:37.960 --> 13:41.920]  to have. You're going to build an artificial intelligence that you don't actually have
+[13:41.920 --> 13:49.880]  to understand things when you start. The understanding is emergent in the system. Model-based methods,
+[13:49.880 --> 13:55.320]  they discard context as a nuisance to get rid of it, to get down to this model. Whereas
+[13:55.320 --> 14:01.320]  model-free methods, they exploit context for disambiguation and other purposes. Model-free
+[14:01.320 --> 14:04.840]  methods are probably correct if you do it right. Of course, we don't always know that
+[14:04.840 --> 14:09.240]  we're doing it right. We can pick the wrong model. We can ignore important parts. We want
+[14:09.240 --> 14:13.800]  to do something like use f equals ma, and we forget about friction. We made a reduction
+[14:13.800 --> 14:19.640]  error. A lot of our errors are reduction errors. On the other hand, model-free methods are
+[14:19.640 --> 14:24.600]  often fallible. That was part of the problem. That all happens to be more expensive also.
+[14:24.600 --> 14:30.360]  So that's not, we don't want to use model-free methods if we have a model-based solution
+[14:30.360 --> 14:38.040]  that works for almost all purposes. If you can, use the reductionist way, use model-based
+[14:38.040 --> 14:43.760]  methods. There's only a couple of places where you go to the model-free ones, and that is
+[14:43.760 --> 14:48.160]  artificial general intelligence for one reason and certain domains like in instance genomics
+[14:48.160 --> 14:54.840]  where the complexity is too high and you have no choice. Model-based methods, they require
+[14:54.840 --> 14:59.240]  correct input data. If you're logic-based, you better have correct data because otherwise
+[14:59.240 --> 15:03.760]  you're just going to draw the wrong conclusions because logic is like relentless. Errors go
+[15:03.760 --> 15:09.120]  right through it. But model-free methods, because they're heavily redundant, it's part
+[15:09.120 --> 15:15.720]  of why they're so expensive, they operate even on scant evidence, and redundancy also
+[15:15.720 --> 15:20.880]  means that the lack of redundancy on the left means that model-based methods are brittle.
+[15:20.880 --> 15:24.520]  When they reach the edge of the model, edge of their competence, they fail in spectacular
+[15:24.520 --> 15:31.760]  ways. That's what brittleness in AI has been. It's been a problem for AI since the beginning.
+[15:31.760 --> 15:36.880]  And the model-based methods, sorry, model-free methods because of their redundancy, et cetera,
+[15:36.880 --> 15:45.920]  are robust against errors, lies, misinformation, et cetera, missing information. So the greatest
+[15:45.920 --> 15:51.560]  surprise to AGI researchers is that they need to create computer programs that jump the
+[15:51.560 --> 16:02.200]  conclusions on scant evidence. Some more characteristics between understanding
+[16:02.200 --> 16:07.280]  and reasoning. We said understanding uses intuition as the algorithm, whereas reasoning
+[16:07.280 --> 16:13.240]  uses logic as the algorithm. We use understanding in everyday life. Almost everything we do,
+[16:13.240 --> 16:19.800]  like I said, walk across the floor, uses intuition and understanding as its base and experience.
+[16:19.800 --> 16:24.180]  We're using reasoning mostly in science, but even there, even a scientist standing in front
+[16:24.180 --> 16:29.920]  of a blackboard trying to solve an integral, how do they know what to do next, which substitutes
+[16:29.920 --> 16:35.440]  and to use whatever? They use their intuition, their understanding of the problem to pick
+[16:35.440 --> 16:40.840]  the next substitution. The mere scribbling of symbols is logic. Again, it's a painting
+[16:40.840 --> 16:46.040]  layer on top of your understanding of the problem domain. So in everyday life, we use understanding
+[16:46.040 --> 16:51.800]  for trivial problems in complex contexts. Life is complex, the world is complex, but
+[16:51.800 --> 16:59.120]  we can make easy decisions like which muscle to contract next or more high level. Suppose
+[16:59.120 --> 17:04.880]  you are given the opportunity to go teach at the University of Heidelberg for two years,
+[17:04.880 --> 17:10.480]  shall I do it or not? Yes or no? That's a very trivial problem and the context is very
+[17:10.480 --> 17:17.480]  complex, hundreds of variables matter. And in contrast, reasoning and science, they
+[17:17.480 --> 17:21.920]  solve complicated problems, big equations, but they do it in a trivial context which
+[17:21.920 --> 17:29.340]  is basically done after we've already done the reduction to something simple. So rocket
+[17:29.340 --> 17:38.080]  science sounds complicated, its mass is flowing through vacuum, okay. And we can make a graph
+[17:38.080 --> 17:44.080]  of that. We can plot problem complexity against context complexity. And up here in the corner
+[17:44.080 --> 17:49.080]  we have what we call the absurd region. This is problems that are too complex in a context
+[17:49.080 --> 17:54.160]  that is too complex so we can't solve those. But we can do things when we stay closer to
+[17:54.160 --> 18:01.880]  the axis. And down here we have logical, up here we have intuitive understanding and down
+[18:01.880 --> 18:09.920]  here we have logical reasoning. And here is rocket science, here is language. Down here
+[18:09.920 --> 18:15.560]  we have something like pool balls. You can view collision of pool balls as collision
+[18:15.560 --> 18:22.840]  of spherical objects under maintaining or momentum, conservation of momentum. Or you
+[18:22.840 --> 18:28.760]  can go downtown and shoot some pool intuitively. So you can use both kinds of methods in many
+[18:28.760 --> 18:36.200]  situations. So here, here reasoning outperforms understanding and over here understanding
+[18:36.200 --> 18:47.200]  outperforms reasoning. So reduction in science lives down here and uses model-based methods.
+[18:47.200 --> 18:52.720]  And we can see here how the artificial intelligence toy problems that we had, they are under this
+[18:52.720 --> 19:00.360]  line here. We have solved the AI toy problems using these methods. But we think they're
+[19:00.360 --> 19:05.720]  real AI problems but they're not. They don't scale. When you want to go from there to here
+[19:05.720 --> 19:11.120]  unless you're using the model-free methods you can't do it. You're going to be stuck
+[19:11.120 --> 19:17.280]  at this line here. So all the simple AI successes that we've had over the years for reduction
+[19:17.280 --> 19:23.120]  in science, for rule-based system, for logic, even base in logic, all of these things have
+[19:23.120 --> 19:28.200]  been, basically they have been false promises because they are actually unable to get into
+[19:28.200 --> 19:34.760]  the real AI. So science solves difficult problems in trivial
+[19:34.760 --> 19:40.640]  context using logical reasoning. Humans solve trivial problems in complex contexts using
+[19:40.640 --> 19:46.600]  intuitive understanding. And if you want to progress in AI we have to get to artificial,
+[19:46.600 --> 19:48.920]  use artificial intuition. Thank you.

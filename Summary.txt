@@ -1,0 +1,239 @@
+
+** I am not sure if we got off track or not. Could you give me a list of all the topics and themes of this conversation, as an outline with just headings and no description? **
+
+Sure, here is a list of the topics and themes discussed in this conversation:
+
+Futurist Portraits game
+Abstraction in language
+Humans as Large Language Models thesis
+Taboo or Balderdash-like game
+Prompt-engineering or prompt-sculpting
+Riddles
+Multiple answers in Futurist Portraits
+Rules of Futurist Portraits
+Early version restriction in Futurist Portraits.
+
+
+** Ok nice. Here is some of my prior work on theme three. Could I get a revised introduction? **
+
+Based on our discussion, it seems like your article "Humans as Large Language Models" is about the connection between human cognition and large language models used in AI research. 
+
+You aim to demonstrate that human language processing and thought processes can be understood through the lens of AI language models, drawing on the concepts of uncovering the logic of English, Markov chains, theory theory, Bayesian developmentalism, and the phonological loop.
+
+The introduction could be revised as follows:
+
+Introduction:
+
+In this article, we explore the idea that human cognition and language processing can be viewed as a large language model, similar to the ones used in artificial intelligence research. 
+
+We present evidence from linguistics, psychology, and computer science that supports this perspective and argue that it offers a more comprehensive explanation of human language and thought than previous models.
+
+By examining the logic of English, we show how Markov chains, theory theory, and Bayesian developmentalism can be applied to understanding human language processing and knowledge storage.
+
+Furthermore, we highlight the role of subvocalization, as described in the phonological loop, in human language processing.
+
+We make the case that understanding human cognition as a large language model has important implications for our understanding of human thought and language.
+
+This perspective can provide a valuable framework for researchers in linguistics, psychology, and computer science, as well as anyone interested in the nature of human intelligence.
+
+** Ok that is good. Now can you explain how the game Futurist Portraits ties in? **
+
+Certainly! In the context of the article, the game Futurist Portraits serves as a metaphor for the process of abstraction in language processing and knowledge representation.
+
+Just as the objective of the game is to describe a landscape in such a way that it primes the idea of a person, language can be seen as a tool for prompt-engineering or prompt-sculpting the mental "image" or "scenario" in another person's mind.
+
+The game highlights the connection between language and imagination, and how they can work together to create and manipulate meaning.
+
+This ties in with the larger argument of the article, that humans can be understood as large language models. 
+
+Just as the players of Futurist Portraits use language to describe a person based on a landscape, the human brain uses language to process information and construct meaning based on sensory inputs and past experiences.
+
+By exploring the rules and patterns that govern language and how they are processed in the human brain, we gain a deeper understanding of human cognition and how it relates to larger language models like those used in artificial intelligence research.
+
+Incorporating the idea of Futurist Portraits into the article can help to illustrate the abstract concepts discussed, making the argument more accessible and engaging for the reader.
+
+I. Introduction
+
+A. Explanation of the concept of humans as large language models
+B. Overview of the article's themes and structure
+
+II. The Nature of Human Imagination
+
+A. Explanation of imagination as the ability to create mental images
+B. Importance of fantasy and fairy-stories in imagination
+C. Role of imagination in subcreation and identification with fictional characters
+
+III. Humans as Sculptors of Reality
+
+A. Explanation of the process of subcreation in the imagination
+B. Re-purposing of personal experiences and skills to create relatable scenarios
+C. Comparison with an actor's role in bringing a screenplay to life
+D. Explanation of the engineer's role in solving problems
+
+Section 5: The Role of Experience and Training in Shaping Human Language Models
+
+I. Defining Experience and Training in the Context of Human Language Models
+
+II. The Importance of Personal Experience: How It Shapes Our Thoughts, Emotions, and Behaviors
+
+III. The Role of Education and Training in Shaping Our Ability to Communicate: Examples from Different Fields
+
+IV. The Interplay of Personal Experience and Cultural Background: How It Shapes Our Communication and Understanding of the World
+
+Section 6: How Humans Use Models to Enhance Their Communication
+
+I. Introduction: Defining Models and Their Role in Human Communication
+
+II. The Use of Mental Models: How We Simplify Complex Reality to Enhance Understanding
+
+III. The Use of Models in Art, Literature, and Film: How They Convey Ideas and Emotions
+
+IV. The Use of Models in Science and Engineering: How They Enable Problem-Solving and Innovation
+
+
+Section 7: Oblique Methods for Enhancing Communication and Problem-Solving
+
+I. Introduction to Oblique Methods
+
+A. Definition and explanation of oblique methods
+
+B. Applications in various fields including science, art, and problem-solving
+
+II. The Power of Oblique Methods
+
+A. Creative solutions to problems
+
+B. Making connections between seemingly unrelated ideas
+
+C. Generating new ideas and solving complex problems
+
+III. An Acrostic Poem: "Model-Free Zoo"
+
+A. Many methods exist beyond the typical models and formulas
+
+B. Oblique approaches offer alternative ways to solve problems
+
+C. Discovery, trial and error, and adaptation
+
+D. Emergent phenomena studied without reduction
+
+E. Learning and recognition without symbols or logic
+
+IV. Model-Free Navigation
+
+A. Failures and successes remembered and applied
+
+B. Real systems studied without a model
+
+C. Experience and interaction shape innate knowledge and understanding
+
+D. Everything from cobras to humans use model-free methods to navigate the world
+
+V. Zigzagging Paths
+
+A. Not straightforward
+
+B. Outsiders may find them bizarre
+
+C. Opening doors to new solutions
+
+
+VI. Conclusion
+
+A. Summarize the importance of oblique methods for enhancing communication and problem-solving
+
+B. Discuss the potential for continued exploration and development in this area.
+
+** Ok nice. Now, section 8 is called Extra Animals, which gives some more model free methods. As a bonus. **
+
+Section 8: Extra Animals: More Model-Free Methods
+
+I. Lateral Thinking
+
+Definition: A problem solving method that involves looking for solutions in unconventional or indirect ways.
+
+II. Random Stimulation
+
+Definition: A method that involves exposing oneself to random stimuli in order to generate new ideas and connections.
+
+III. Metaphor
+
+This approach involves using comparisons or analogies to help frame and understand a problem, and to generate new solutions by drawing connections to other domains.
+
+IV. Random Word Generation
+
+This method involves generating random words or phrases and using them as inspiration for new ideas and solutions.
+
+V. Forced Connections
+
+This approach involves intentionally making connections between seemingly unrelated concepts or domains, in order to stimulate creative thinking and generate new solutions.
+
+VI. Synectics
+
+This method involves using techniques such as analogies, metaphors, and imaginative scenarios to stimulate creative thinking and generate new solutions.
+
+VII. Anticonventional Thinking
+
+Definition: This approach involves intentionally breaking the rules, challenging assumptions, and questioning conventional wisdom, in order to generate new and unconventional solutions to problems.
+
+VIII. Provocation
+
+A method that involves deliberately challenging existing assumptions in order to generate new ideas.
+
+IX. Reverse Engineering
+
+A method that involves working backwards from the desired solution to find a path to the solution.
+
+X. Absurdities
+
+A method that involves using humor or absurdity to provoke new ways of thinking.
+
+XI. Concept Mapping
+
+A method that involves creating a visual representation of the relationships between concepts in order to better understand a problem.
+
+** Ok very good. Could I get some examples of using Absurdities to generate and test ideas? **
+
+Sure, here are a few examples of using absurdities to generate and test ideas:
+
+Flip it: Take a current problem or challenge and imagine what would happen if you flipped it on its head. For example, instead of trying to make a product lighter, imagine making it heavier. This can lead to new ways of thinking and problem solving.
+
+What if...: Ask "What if...?" questions and then try to answer them, even if the answers are absurd or seemingly impossible. For example, "What if we built a car that runs on bananas?" This can lead to new ideas and approaches that might not have been considered otherwise.
+
+Exaggeration: Exaggerate a feature or aspect of a product or solution. For example, instead of just making a car faster, imagine making it the fastest car in the world. This can lead to new ways of thinking and solving problems.
+
+The Opposite: Take a conventional solution to a problem and imagine the opposite. For example, instead of trying to make a product more durable, imagine making it less durable. This can lead to new ideas and approaches that might not have been considered otherwise.
+
+Combining opposites: Take two opposite concepts and imagine combining them. For example, imagine a car that runs on both gasoline and electricity. This can lead to new ways of thinking and problem solving.
+
+These methods of using absurdities are just a few examples of how this approach can be used to generate and test new ideas.
+
+By embracing the absurd and unconventional, we can often uncover new solutions and ways of thinking that might not have been considered otherwise.
+
+** What about Random Stimulation? I suspect some good ideas might be to take a walk, read a book, watch a movie, play a game, as a way to keep on working on the problem subconsciously and indirectly. **
+
+Yes, random stimulation can definitely be a way to generate new ideas and connections, as you've pointed out. 
+
+Taking a walk, reading a book, watching a movie, playing a game, or any other form of stimulation that takes you away from your normal routine can allow your mind to wander and make connections that might not have been apparent otherwise.
+
+Additionally, other forms of random stimulation might include:
+
+Listening to music: Different types of music can evoke different emotions and inspire new ideas.
+
+Travel: Exploring new places, cultures, and environments can broaden your perspective and spark new ideas.
+
+Surrounding yourself with diverse people: Interacting with people from different backgrounds and with different experiences can broaden your perspective and expose you to new ideas.
+
+Trying new things: Engaging in new experiences and activities can stimulate new connections and stimulate creative thinking.
+
+Remember, the goal of random stimulation is to expose yourself to new and unexpected experiences that can spark new connections in your mind and lead to creative solutions to problems.
+
+** Ok that's great. Could I get a kind of conclusion or summary of the article? **
+
+In conclusion, humans can be thought of as large language models, shaped by their experiences and training.
+
+They use various models and techniques to enhance their communication and problem-solving abilities, but also employ oblique methods such as acrostics, lateral thinking, random stimulation, metaphors, random word generation, forced connections, synectics, anticonventional thinking, provocation, reverse engineering, absurdities, and concept mapping. 
+
+These methods offer alternative ways of looking at problems and generating new ideas, and can be powerful tools for finding creative solutions.
+
+By understanding the different ways that humans process information and approach problems, we can better harness our natural creativity and intelligence, and achieve greater success in both our personal and professional lives.

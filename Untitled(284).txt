@@ -1,0 +1,13 @@
+Theconstructionalgorithmf i rstbuildsa𝑙-hypergraphwitheach 
+ofthe𝜇|𝑌|verticescorrespondingtooneentryof𝑤(𝑦)andoneedge 
+534 
+[ℎ1(𝑦),...,ℎ𝑙(𝑦)]foreachinput,where𝑙and𝜇areuser-def 
+i nedpa- 
+rameters. Allℎ𝑗are randomly chosen from a suitable family of hash 
+functions as described above. A valid assignment for𝑤(𝑦)exists, 
+i.e.,𝑔 (𝑦)issolvableif f thishypergraphisacyclic.A simplepeeling 
+schemeisusedtobothdetermine acyclicityandtheorderinwhich 
+wecansafelyassignvaluestoeach𝑤(𝑦)toyieldthedesiredvalues 
+for𝑔 (𝑦)foreach𝑦 ∈𝑌.Wesimplyrestartiftheacyclicitytestfails, 
+hencetheexpectedO(𝑜)constructiontime[51].For𝑙=3,werequire 
+𝜇≥1.23to ef i cientlyf indasuitableacyclichypergraph[51,56].

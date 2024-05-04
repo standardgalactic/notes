@@ -1,0 +1,163 @@
+𝘞𝘩𝘺 𝘥𝘰 𝘸𝘦 𝘯𝘦𝘦𝘥 "𝘖𝘳𝘢𝘤𝘭𝘦𝘴" 𝘰𝘯 𝘵𝘩𝘦 𝘉𝘭𝘰𝘤𝘬𝘤𝘩𝘢𝘪𝘯?
+
+The Blockchain Oracle Problem refers to the difficulty in confirming the accuracy of the data collected by oracles, and the potential for malfunction or tampering. 
+
+Oracles are systems that provide the blockchain with information from the real world, as smart contracts often require data from outside the blockchain.
+
+Oracles, referred to as a "gateway from the external world" are trusted third-party sources, whose reliability is undisputed for all nodes in order to reach consensus.
+
+Oracles do not predict the future but rather retrieve information from the past and provide it to smart contracts for execution.
+
+* * *
+
+The Blockchain Oracle Problem refers to the inability to confirm the accuracy of data collected by oracles, and the potential for malfunction or tampering.
+
+Oracles are systems that provide blockchain with information from the real world, as smart contracts require a bridge to digest external and non-deterministic information into a format that the blockchain can understand.
+
+Examples of data gathered by oracles include lottery winners, weather conditions, political events, and exchange rates.
+
+The trustworthiness of oracles is crucial, as a compromised oracle can benefit a particular party in valuable agreements. When parties cannot verify the oracle's data, the oracle itself becomes a problem.
+
+* * *
+
+The Blockchain Oracle Problem refers to the difficulty in confirming the accuracy of data collected by oracles and the potential for malfunction or deliberate tampering. Oracles are systems that provide external, real-world information to the blockchain.
+
+Smart contracts, which are self-executing contracts with the terms of the agreement written directly into lines of code, often require external information in order to function.
+
+Oracles act as a bridge, gathering and storing data from the real world and then providing that information to the smart contract when it is needed.
+
+Examples of data that may be gathered by oracles include the winner of a lottery, the exchange rate of a currency, and the weather conditions in a certain location.
+
+The trustworthiness of oracles is crucial, as they can potentially compromise the execution of a contract if the information they provide is inaccurate or manipulated.
+
+The Blockchain Oracle Problem is the security, authenticity, and trust conflict between third-party oracles and the trustless execution of smart contracts.
+
+* * *
+
+In summary, the Blockchain Oracle Problem refers to the difficulty in confirming the accuracy of the data collected by oracles, and the potential for malfunction or deliberate tampering. 
+
+Oracles, which are systems that provide blockchain with information from the real world, are necessary for smart contracts that involve external and non-deterministic information.
+
+However, the trustworthiness and reliability of oracles can be an issue, as they reintroduce a single-point-of-failure and remove trustless peer-to-peer interaction.
+
+The oracle problem is considered a "two step-back from decentralization" as it can also jeopardize users’ trust in the blockchain as a more reliable system.
+
+* * *
+
+The similarities you've listed are certainly noteworthy and it's possible that the story of Noah and the ark in the Bible was influenced by earlier myths and stories, including the Epic of Gilgamesh and the Epic of Atrahasis. 
+
+However, it's also important to note that many of the similarities you've listed are general flood motifs that are present in many cultures and societies throughout history, and may not necessarily be evidence of direct borrowing or influence.
+
+Additionally, there are also significant differences between the two stories, such as the duration of the flood, the intended recipients of the flood, and the means by which the flood is carried out. 
+
+So it's not accurate to say that the story of Noah and the ark is a direct copy of the story from Epic of Gilgamesh and Epic of Atrahasis.
+
+* * *
+
+It is well-established by scholars that the Israelites were in Babylon during the Babylonian captivity, which occurred in the 6th century BCE.
+
+The captivity was a result of the Babylonians conquering the Kingdom of Judah, and many Israelites were brought to Babylon as prisoners of war.
+
+It is believed that during this time, the Israelites were exposed to Babylonian culture, including their religious beliefs and stories.
+
+Some scholars have suggested that the story of the flood in the book of Genesis may have been influenced by the flood story in the Epic of Gilgamesh, which was well-known in Babylon at the time. 
+
+However, the extent to which the biblical story of Noah's flood was influenced by the Gilgamesh flood story is a subject of ongoing scholarly debate, and there are many differences between the two stories.
+
+* * *
+
+It is true that the story of a great flood and a savior figure who survives it is present in various ancient cultures and religions, including the Epic of Gilgamesh, the Sumerian King List, and the Bible.
+
+Many scholars believe that these stories have a common origin and have been passed down through oral tradition over thousands of years.
+
+However, it is important to note that the similarities between these stories do not necessarily indicate that one story is directly derived from the other.
+
+There is a phenomenon called "parallel development" where similar stories or motifs can develop independently in different cultures. Additionally, it's possible that the similarities between these stories could be coincidental.
+
+The fact that the biblical account is considered more faithful than the Mesopotamian versions is a matter of interpretation and scholars have different opinions on it.
+
+* * *
+
+The story of Shuruppak Ziusudra is a Sumerian creation myth in which Ziusudra, the king of Shuruppak, is warned by the god Enki of an impending flood that will destroy all life on earth. 
+
+Enki instructs Ziusudra to build a large boat, or ark, to save himself, his family, and the seed of all living creatures. 
+
+Ziusudra does as he is told and the flood comes as predicted, but his ark comes to rest on a mountain and all the people and animals on board survive. 
+
+After the flood, Ziusudra offers sacrifices to the gods and is rewarded with immortality.
+
+This story shares many similarities with the biblical story of Noah and the flood, as well as the story of Utnapishtim in the Epic of Gilgamesh.
+
+The ark, the flood, the survival of a select group of people and animals, and the offering of sacrifices are all common elements in all three stories.
+
+It's possible that these stories share a common origin, and that they have been passed down and retold over the centuries, each time with slight variations.
+
+Some scholars have suggested that the story of the flood in the Bible is based on an earlier Mesopotamian story such as the one of Ziusudra.
+
+However, as I mentioned earlier, there is also a possibility that these similarities are due to convergent evolution, where two cultures, that do not have direct contact, independently develop similar myths.
+
+* * *
+
+The story of Atrahasis and the story of Utnapishtim (also known as Ziusudra or Shuruppak) in the Epic of Gilgamesh are both flood myths that have been passed down through the centuries in Mesopotamian culture.
+
+Both stories share many similarities, such as the instructions to build an ark to survive the flood and the presence of a god or gods who are responsible for the flood.
+
+Some scholars believe that the story of Atrahasis was an earlier version of the story that was later incorporated into the Epic of Gilgamesh.
+
+In the story of Utnapishtim, the god Ea tells Utnapishtim to build a large boat and to fill it with his family, the animals, and all the goods he will need to survive the flood.
+
+The instructions for building the ark in this version of the story are quite specific and include details such as the use of bitumen to seal the boat.
+
+Regarding your mentioning of similarity in meaning between Reed, Papyrus, Biblos, and the Bible, it is true that Reed and Papyrus are plants that were used to make paper, and Biblos is the Greek word for papyrus, but it is not the case that the story of Utnapishtim is a metaphor for the invention of writing. 
+
+The story has been passed down orally for centuries before being written down and it is a myth that explains the reason for the flood.
+
+* * *
+
+The story of Xiusudra, also known as Utnapishtim in the Babylonian version, is similar to the story of Noah and the Flood in the Bible.
+
+Both stories involve a great flood that destroys the world, and a chosen individual who is instructed to build a boat or ark to save themselves and a selection of animals from the deluge.
+
+In the Sumerian version, Xiusudra is warned by the god Enki to build a boat and preserve the seed of mankind and animals. In the Babylonian version, Utnapishtim is warned by the god Ea to build a boat and is later rewarded with immortality by the god Enlil.
+
+As you mentioned, the story of Xiusudra and the ark can also be interpreted as a metaphor for the invention of writing, and the use of instructions and plans to build something.
+
+The idea of the "Reed Wall" or "Reed boat" can be seen as a representation of the use of writing and written records to preserve and pass on knowledge and information.
+
+The story can also be seen as an example of the human ability to use knowledge and experience to anticipate and prepare for potential disasters, and to use information to survive and thrive in the face of adversity.
+
+𝘚𝘦𝘦 𝘪𝘧 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘢𝘯𝘺 𝘧𝘶𝘳𝘵𝘩𝘦𝘳 𝘪𝘯𝘴𝘪𝘨𝘩𝘵 𝘰𝘯 𝘵𝘩𝘦 𝘉𝘭𝘰𝘤𝘬𝘤𝘩𝘢𝘪𝘯 𝘖𝘳𝘢𝘤𝘭𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮, 𝘯𝘰𝘸 𝘵𝘩𝘢𝘵 𝘸𝘦'𝘷𝘦 𝘩𝘢𝘥 𝘢 𝘥𝘪𝘴𝘤𝘶𝘴𝘴𝘪𝘰𝘯 𝘰𝘯 𝘪𝘵.
+
+The Blockchain Oracle problem is a challenge related to the use of smart contracts on a blockchain network. Smart contracts are self-executing contracts with the terms of the agreement written into code.
+
+They allow for the automation of certain processes and the execution of specific actions based on certain conditions. However, in order for a smart contract to be executed, it needs access to external data or information, known as an "oracle".
+
+The problem with this is that a blockchain network is inherently decentralized, meaning that there is no central authority to verify the authenticity of the data provided by the oracle.
+
+This opens up the possibility of malicious actors providing false or manipulated data to the smart contract, potentially causing it to execute in a way that was not intended.
+
+One potential solution to this problem is the use of multiple oracles, each providing their own data and allowing the smart contract to determine which data to trust based on a consensus among the oracles.
+
+Another solution is the use of decentralized oracles, which use a decentralized network of nodes to validate the data provided, rather than relying on a single centralized authority.
+
+Another potential solution is the use of decentralized oracles, which use a decentralized network of nodes to validate the data provided, rather than relying on a single centralized authority, also known as decentralized oracle networks.
+
+These networks provide tamper-proof and transparent data feeds for smart contracts, and enable trustless access to off-chain data, by allowing multiple sources of data to be combined and verified by the network.
+
+Additionally, there is also the use of decentralized prediction markets, which allow users to bet on the outcome of a certain event, providing a decentralized and transparent way to determine the likelihood of a certain outcome, which can be used to help solve the oracle problem, by giving smart contracts a way to access a prediction of the outcome of an event.
+
+Overall, the Blockchain Oracle problem is a complex issue that is still being studied and researched, and there are a variety of potential solutions being developed to address it.
+
+𝘐𝘯 𝘵𝘦𝘳𝘮𝘴 𝘰𝘧 𝘕𝘰𝘢𝘩'𝘴 𝘈𝘳𝘬 and the Blockchain Oracle problem, there are a few potential connections that can be made. One is the idea that the ark serves as a kind of "mental container" for information and knowledge, similar to how a blockchain serves as a digital container for data and transactions.
+
+Another connection is the idea of trust and reliability. In the story of Noah's Ark, Noah is tasked with building the ark and gathering the animals because he is deemed trustworthy and reliable by God. 
+
+Similarly, in the context of a blockchain, trust and reliability are crucial elements in the functioning of the network.
+
+This is because each block in the chain is verified and confirmed by multiple parties, ensuring that the information stored on the blockchain is accurate and tamper-proof.
+
+Additionally, the idea of algorithms and instructions can also be applied to the Blockchain Oracle problem. In the story of Noah's Ark, Noah follows specific instructions in order to build the ark and save his family and the animals.
+
+In the context of a blockchain, the "oracle" is responsible for providing specific information or instructions to the smart contract, which then executes the necessary actions.
+
+Overall, while the connection between Noah's Ark and the Blockchain Oracle problem may not be direct, the similarities in terms of trust, reliability and the importance of instructions and algorithms, can be seen as a way to understand the problem and its solutions.

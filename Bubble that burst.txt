@@ -1,0 +1,114 @@
+Leaking chatroom (leaky chatroom) theory and reed wall mind were inspired by this:
+
+Graphical user interface for chat room with thin walls
+
+M Anderson
+
+US Patent 8,015,246, 2011
+
+A SYSTEM AND METHOD FOR PROVIDING AN INTELLIGENT MULTI-STEP DIALOG WITH A USER
+
+M ANDERSON, M ANGEL, M COPPERMAN, R FRATKINA, S HUFFMAN, ...
+
+WO Patent 2,001,067,225, 2001
+
+
+
+
+
+Swype keyboard
+
+External linksEdit
+
+United States Patent 7,098,896. C. Kushler, R. Marsden, "System and method for continuous stroke word-based text input"
+
+United States Patent 7,250,938. D. Kirkland, D. Kumhyr, E. Ratliff, K. Smith, "System and method for improved user input on personal computing devices"
+
+Last edited 2 months ago by 176.59.7.237
+
+RELATED ARTICLES
+
+
+
+THE COMPUTER BUBBLE THAT BURST
+
+By HOWARD BANKS
+
+Published: September 20, 1981
+
+FACEBOOK
+
+TWITTER
+
+GOOGLE+
+
+EMAIL
+
+SHARE
+
+PRINT
+
+SINGLE PAGE
+
+REPRINTS
+
+￼
+
+SAN FRANCISCO L ONG after the day in 1966 when their invention was announced, bubble memories were still being hailed as a wonder technology for the computers of the 80's - rugged, reliable devices that would hold on to the information stored in them even when someone pulled out the plug.
+
+''Magnetic bubble memories have the potential of replacing the mechanical disk and drum storage systems,'' it was proclaimed at Texas Instruments' 1974 annual stockholders' meeting. Bubbles seemed destined to capture a major part of the rapidly growing computer memory busine ss, and each new laboratory development seemed to confirm the p redictions. The market was just about to take off.
+
+But after 15 years, the bubble memory, once seen as one of the great innovations of modern technology, like the transistor, the copying machine and the Polaroid camera, faces a far more modest destiny. In the marketplace, it has hardly left the ground.
+
+THE COMPUTER BUBBLE THAT BURST
+
+Published: September 20, 1981
+
+FACEBOOK
+
+TWITTER
+
+GOOGLE+
+
+EMAIL
+
+SHARE
+
+PRINT
+
+SINGLE PAGE
+
+REPRINTS
+
+￼
+
+(Page 2 of 2)
+
+Mr. Sherwood was right, and thus the first patent for a bubble memory was submitted in 1966 bearing four names: Bobeck, Sherwood, William Shockley (one of the inventors of the transistor) and U.F. Gianola.
+
+Following its practice with other inventions, like the transistor, A.T.& T.'s manufacturing arm, Western Electric, licensed almost any company that asked to make bubble memories. Nearly ev ery major electronics c ompany in the world has dabbled with it. Now the field is down to Be ll Labs and I.B.M., which make the memories mostly for their own use , and Intel and Motorola Inc. in the United States and Hitachi and F ujitsu of Japan, vying for general market sales.
+
+Eventually, in 1979, Bell went into production with bubble memories at its Western Electric factories in Columbus, Ohio, and Reading, Pa. But it also found that producing them in cost-effective quantities was more difficult than it first appeared. Some companies, such as Univac and Burroughs, dropped out even before attempting full production.
+
+''It's a similar technology to making integrated circuit chips, but it's tough.'' Mr. Bobeck explained, ''Real precision is required in the way th e various parts are mated. You need a highly competent staff.''
+
+W ITH demand for all electronics components sharply lower this year, high-technology companies found that they could not afford to maintain assembly-line workers at what was at best a marginally profitable product. The same retrenchment has taken place in similarly marginal products. Last May, T.I. halted production of digital watches and liquid crystal displays.
+
+Beyond that, the once-promising price competitiveness of bubble memories has been left behind by rival technologies, particularly random access memory chips. The cost per bit of storage on a bubble now stands at around 100 millicents, or thousandths of a cent, a bit. And, according to Benjamin M. Rosen, an electronics analyst and consultant, prices should fall to 30 millicents by 1982. Yet, it is no match for RAM's, which currently cost about 10 millicents a bit. Analysts say RAM's should reach 3 millicents by 1985. Floppy disk memories, another rival of bubbles, have also fallen sharply in price.
+
+''These changes in the price of rival technologies are greater than was anticipated,'' Mr. Sporck of National Semiconductor said. ''and they are shrinking the market that bubbles would have addressed.''
+
+There have been technical problems, too. The quality of the garnet base material on which the bubbles form was not consistently up to the standard needed for reliable manufacturing. Thus, yields of good bubble memories were poor, according to a study by Gnostic Concepts, an electronics industry consulting firm. And to make matters worse, Union Carbide, which makes the material, is reported to be unwilling to invest in turning out more suitable garnet for a market that has failed to live up to its promise. In addition, bubble memories need rather cumbersome, heavy peripheral equipment, which has also been a hindrance to their acceptance.
+
+Marketing has been a problem for
+Hitachi believes that bubble memories can take over from the punched paper tapes used to direct numerically controlled machine tools. The rugged bubble units, in the form of a plug-in cartridge, will be much less vulnerable to damage on the factory floor. Bubbles are also being tested for use in recording oil and gas production at the wellhead, or to monitor home water or gas meters via telephone lines, a step that would save th e time and cost of the nation's army of meter read ers.
+
+In all these cases, it is the rugged nature of bubble memories that is the attraction. Longer term, if some of the technical problems can be beaten, analysts say there should be a market for bubble memories in electronic cash registers and at supermarket checkout counters.
+
+A most attractive market for bubble memories would be in portable computer terminals for military and commercial use. T.I. uses bubbles in its series of portable terminals. But until the heavy and expensive external coil to drive the system is eliminated, this market will remain small.
+
+However, while there are potential rival technologies around - including a version of the RAM integrated circuit that does not lose data if the power fails - there is no real re placement for bubble technology in sight.
+
+''The odds are,'' Mr. Bobeck said, ''that the longer time goes by without a replacement bubbles are not going to be displaced.'' --------------------------------------------------------------------- Howard Banks is a West
+
+

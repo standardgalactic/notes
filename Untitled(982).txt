@@ -1,0 +1,31 @@
+A Kubla Khan-do attitude
+
+The project that sparked the web finally launches, decades late
+
+Jun 17th 2014
+
+Share
+
+By G.F. | SEATTLE
+
+XANADU tops the list of software projects that are famously, epochally, impossibly late—so late that few thought it would ever be delivered. The project, which was founded in 1960, just produced its first practical working version of a concept that changed the world: hypertext. The imprecation on its home page, "don't touch the mouse!", gives one some immediate understanding that Xanadu isn't intended to be like just another webpage.
+
+Xanadu's singular genius, Ted Nelson, who turned 77 today, began work on it at a time when computers were scarce, expensive and capable only of simple tasks. Yet Mr Nelson saw the potential of building a simple user interface that created a web (apologies) among interconnected concepts and text.
+
+This was a vision beyond mere citation. Rather, it was more like interleaving source texts and commentary in a way that preserved the original material. Mr Nelson named these interlinkages "hypertext," implying a relationship outside the one-dimensional reading direction in a document or the two-dimensional layout on a page, and impossible to create in any analog form. Further, through inclusion and cross-reference, there would never be a broken or missing page: a dialog, once started, would be preserved forever. (Mr Nelson also coined the word "intertwingled" to describe the fundamental interconnectedness of all knowledge, despite all reductionist attempts to separate them into distinct spheres.)
+
+He, like many others, was inspired by Vannevar Bush's prescient essay in 1945 in the Atlantic, "As We May Think," which imagined a future of quickly accessible, indexed items of data. Douglas Engelbart was deeply affected by Bush's work, which led to his development of most of the significant elements in interactive graphical user interfaces that persist to this day.
+
+Mr Nelson remained committed to text, though. While developing and re-developing the software across decades, he wrote the seminal books Computer Lib / Dream Machines (1974) and Literary Machines (1981), which spelled out his ideas at great length. The books weren't typeset (something of a luxury in those days) and appeared without a publisher or independent wealth. Rather, they were pasted-up from typewritten bits and drawings.
+
+The 1974 book inspired this Babbage to become obsessed with computers after he obtained a copy at a flea market in his single-digit youth, and to program a true Nelsonian hypertext screen-based browser in a college class in 1988. Sadly, he didn't think anyone else would be interested and discarded the code after the class was over. One of your correspondent's chums majored in hypertext at an American university in the late 1980s and become one of the earliest internet web publishers.
+
+Xanadu was never intended to take decades to build, but Mr Nelson is persnickety. If the project couldn't be precisely correct, he was uninterested in making it happen at all. Thus, did the world (and more precisely, the World Wide Web) pass him by. Tim Berners-Lee's implementation was unidirectional: a hypertext link takes one from its source to a destination, with no inherent knowledge of returning the favour. Mr Berners-Lee's work of the last decade or more has been to repair and augment some of that omission.
+
+The lack of two-way links, revision history (such as is found in Wikipedia), authoritativeness, unique and verified user identity and copyright control with optional royalties led Mr Nelson and his compatriots to look down on the web's implementation of hypertext. Yet, without a fully functioning and living alternative, his proponents were hard-pressed to show that the alternative could be a viable choice.
+
+The first delivered version is hard to explain in words, a perfect irony. Mr Nelson continues to eschew most aspects of the standard GUI, having invented his own textual navigation conventions. This extends beyond disallowing controls of the screen by mouse to using the spacebar as a principle means of navigating, and includes the oracular instructions, "step onto bridge, see sourcedoc and xanadoc side by side," which requires entering his worldview to unpack each concept.
+
+Like many revolutions that emerged from the 1960s, there is a hermetic feel around Xanadu and Mr Nelson, which seems to require strong adherence to both his specific, original notions, no matter how long the journey might take nor whether the end result is anything more than a small number of people may use. Mr Nelson's ideas echo to every corner of the globe, but his practical implementation will likely remain as idiosyncratic as the path it took to get here.
+
+

@@ -1,0 +1,5 @@
+Can you explain how Bayesian regret and expected opportunity loss metrics are used in
+decision optimization?
+How does Bayesian decision theory handle situations of partial prior ignorance?
+Can you provide an example of how Bayesian decision theory can be applied in a real-
+world scenario?

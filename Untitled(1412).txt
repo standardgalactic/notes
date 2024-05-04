@@ -1,0 +1,37 @@
+“… einem unendlich feinen Netzwerk” 
+A small world with thirty nine “Elementarsatze” has 239 = 
+549.755.813.888 truth-possibilities of propositions, an 
+embryo of the “großen Spiegel”. And about “feinen Netz- 
+werk”? 
+List L1 is organized in top-down order considering the 
+number of elements in a logical produc. L1 fits well the 
+nodes of a 5-cube (Penteract),in a graph that is shown in 
+the following address: http://en.wikipedia.org/wiki/File:5- 
+cube_graph.svg . For a 12-cube (Dodekeract) the address 
+is: http://en.wikipedia.org/wiki/File:12-cube.svg . 
+After visiting those addresses it is easy to understand 
+why “…einem unendlich feinen Netzwerk”. But, is it all? 
+No. There is a more important detail , that is: 
+Applying the operation “or” in a pair of truth-possibilities 
+with same number of “Elementarsatze” is found a truth- 
+possibility with one more “Elementarsatz”. If we do the 
+same in applying the operation “and” in a pair of truth- 
+possibilities with the same number of “Elementarsatze”, is 
+found a truth-possibility with one “Elementarsatz” less. 
+These properties cover almost all Boolean algebra. 
+How could Wittgenstein see it all without the tools of 
+Modern Algebra?
+
+That was from: Was der Fall ist, der Tractatus 
+Paulo Cesar Bezerra
+
+Analytical and Continental Philosophy: 
+Methods and Perspectives 
+Papers of the 37th International 
+Wittgenstein Symposium 
+August 10 – 16, 2014 
+Kirchberg am Wechsel Volume XXII 
+Editors 
+Sonja Rinofner-Kreidl 
+Harald A. Wiltsche
+

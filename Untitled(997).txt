@@ -1,0 +1,27 @@
+ [12] Deyle ER, Sugihara G (2011) Generalized Theorems for Nonlinear State Space Reconstruction. PLoS ONE 6(3): e18295. doi:10.1371/journal.pone.0018295
+
+
+
+ [13]Ye, H., Deyle, E., Gilarranz, L. et al., 2015. Distinguishing time-delayed causal interactions using convergent cross mapping. Sci Rep 5, 14750 (2015). doi:10.1038/srep14750
+
+
+
+ [4]Ushio, M., Hsieh, Ch., Masuda, R. et al., 2018. Fluctuating interaction network and time-varying stability of a natural fish community. Nature 554, 360–363
+
+
+
+^ [29] Hiroaki Natsukawa, et al. 2021. A Visual Analytics Approach for Ecosystem Dynamics based on Empirical Dynamic Modeling. IEEE Transactions on Visualization and Computer Graphics. Feb. 2021, 506-516, vol. 27 DOI: 10.1109/TVCG.2020.3028956
+
+^ [30] Breston, L., Leonardis, E.J., Quinn, L.K. et al. 2021. Convergent cross sorting for estimating dynamic coupling. Sci Rep 11, 20374 (2021). doi:10.1038/s41598-021-98864-2
+
+^ [31] Deyle E. R. et al. A hybrid empirical and parametric approach for managing ecosystem complexity: Water quality in Lake Geneva under nonstationary futures. PNAS Vol. 119, No. 26 (2022).
+
+^ [32] Ge, X., Lin, A. Dynamic causality analysis using overlapped sliding windows based on the extended convergent cross-mapping. Nonlinear Dyn 104, 1753–1765 (2021). https://doi.org/10.1007/s11071-021-06362-x
+
+^ [33] Bethany Johnsona, Stephan B.Munch. 2022. An empirical dynamic modeling framework for missing or irregular samples. Ecological Modelling, Volume 468, June 2022, 109948.
+
+ [17]Park, J., et al. Empirical mode modeling. Nonlinear Dyn (2022). https://doi.org/10.1007/s11071-022-07311-y
+
+
+^ [34] Chang, C.-W., Miki, T., Ushio, M., et al. (2021) Reconstructing large interaction networks from empirical time series data. Ecology Letters, 24, 2763– 2774. https://doi.org/10.1111/ele.13897
+

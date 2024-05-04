@@ -1,0 +1,26 @@
+
+US Patent 8,015,246, 2011
+
+A SYSTEM AND METHOD FOR PROVIDING AN INTELLIGENT MULTI-STEP DIALOG WITH A USER
+
+M ANDERSON, M ANGEL, M COPPERMAN, R FRATKINA, S HUFFMAN, ...
+
+WO Patent 2,001,067,225, 2001
+
+
+
+  
+
+System and method for providing an intelligent multi-step dialog with a user
+
+Abstract
+
+A method and system are disclosed for retrieving information through the use of a multi-stage interaction with a client to identify particular knowledge content associated with a knowledge map. The present invention is an application program running on a server accessed via the world-wide web or other data network using standard Internet protocols, a web browser and web server software. In addition to an automated portion, the present invention allows a human dialog designer to model the way the system elicits information, giving a human feel to the dialog and a better customer experience. In operation, users start a dialog by directing their web browser to a designated web page. This web page asks the user some initial questions that are then passed to a dialog engine. The dialog engine then applies its methods and algorithms to a knowledge map, using dialog control information\ and the user's responses to provide feedback to the user. The feedback may include follow-up questions, relevant documents, and instructions to the user (e.g., instructions to contact a human customer service representative). This dialog engine response is rendered as a web page and returned to the user's web browser. The user can then respond further to the follow-up questions he or she is presented, and the cycle repeats. The invention can be implemented so that it can interact with customers through a wide variety of communication channels including the Internet, wireless devices (e.g., telephone, pager, etc.), handheld devices such as a Personal Data Assistant (PDA), email, and via a telephone where the automated system is delivered using an interactive voice response (IVR) and/or speech-recognition system.
+
+InventorRaya FratkinaMonica AndersonMark AngelMax CoppermanScott HuffmanDavid KayRobert SternCurrent Assignee 
+
+
+
+Avolin LLC
+
+

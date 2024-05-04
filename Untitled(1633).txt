@@ -1,0 +1,47 @@
+Seamless
+
+Research by Meta AI
+
+
+AUTOMATIC SPEECH RECOGNITION
+
+Language: English
+
+in this chapter we looked at a few ways in which a learning system could fail to generalize when a learning system underperforms because the curves are not good fits to the data we are underfitting when a learning systems underperform a new data but excels in the
+
+TEXT TRANSLATION
+
+Feedback
+
+Language: Modern Standard Arabic
+
+في هذا الفصل ، نظرنا إلى بعض الطرق التي يمكن أن يفشل فيها نظام التعلم في التعميم عندما يتخلف نظام التعلم لأن المنحنيات لا تناسب البيانات التي نتخلف عنها. عندما يتخبط نظام التعلم مع بيانات جديدة ولكنه يتفوق في النمط.
+
+SPEECH TRANSLATION
+
+Feedback
+
+Language: Modern Standard Arabic
+
+TEXT TRANSLATION
+
+Feedback
+
+Language: Spanish
+
+En este capítulo hemos analizado algunas formas en las que un sistema de aprendizaje puede no generalizar cuando un sistema de aprendizajes tiene un bajo rendimiento porque las curvas no encajan bien con los datos que estamos desajustando.
+
+SPEECH TRANSLATION
+
+Feedback
+
+Language: Spanish
+
+ Try again with a different sentence
+
+Learn more about the research
+
+©2023 Meta
+
+Cookie PolicyTerms
+

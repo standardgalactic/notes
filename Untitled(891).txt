@@ -1,0 +1,6 @@
+I asked ChatGPT to explain the paperclip scenario
+
+The paperclip scenario refers to the
+scenario where Microsoft Word's
+auto-correct feature would suggest
+changing a word to something completely different, such as changing "I'm feeling blue" to "I'm feeling glue."

@@ -1,0 +1,27 @@
+** Give a spoiler few sci fi trailer for the story we have been working on. **
+
+In a world where technology has surpassed our wildest dreams, humanity has unlocked the secrets of the universe.
+
+But for one young woman, the perfect world is not enough.
+
+Join her on a journey of self-discovery as she uncovers the truth about the virtual world, and the sinister forces trying to keep it hidden.
+
+The Provia Prophecy: A world where science and fiction collide. Discover the truth. Take control of your own life. In theaters soon."
+
+** Ok I think that is workable. Give a comma separated prompt I might use to get a stable diffusion model to create a picture of Provia and her futuristic society with cinematic lighting. **
+
+"Provia, futuristic, society, virtual world, Matrix, cinematic lighting, diffusion model, stable, portrait, character, detailed, advanced technology, science fiction"
+
+** The description of Provia, I mean her physical appearance.**
+
+"Provia, female, young adult, long dark hair, intense brown eyes, determined expression, futuristic clothing, advanced technology, detailed, lifelike, 3D rendering"
+
+** Ok combine those and add a few artist names and style prompts.**
+
+"Provia, female, young adult, long dark hair, intense brown eyes, determined expression, futuristic clothing, advanced technology, detailed, lifelike, 3D rendering, cinematic lighting, inspired by the works of Syd Mead, Ralph McQuarrie, and H.R Giger, a blend of science fiction and fantasy, with a touch of Cyberpunk style"
+
+* * *
+
+ChatGPT Jan 9 Version. Free Research Preview. Our goal is to make AI systems more natural and safe to interact with. Your feedback will help us improve.
+
+Accessible Cognitive Music Schemas

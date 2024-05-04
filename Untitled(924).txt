@@ -1,0 +1,20 @@
+No, they don’t, because it doesn’t tell you anything that you don’t already know.
+
+It’s easy to multiply two numbers the old-fashioned way, but virtually impossible if you try to do so using FOL.
+
+And if you do use FOL to find the answer to some problem, you won’t know that it gave you the right answer unless you already know the answer.
+
+Plus, the intellectual resources needed to convert even the most elementary math problems into FOL vastly exceed the resources needed to solve those problems on their own terms.
+
+There is also the fact that any given system of logic, being a recursively generated statement-set, is ipso facto undefined with respect to non-recursive sets—and is therefore undefined with respect to all but a vanishingly small subset of the set of mathematical propositions.
+
+FOL is an attempt to identify existing forms of mathematical reasoning.
+
+It’s a theory, in other words.
+
+And it’s not a very good one, as we’ve just seen.
+
+The same goes for ‘modal logic’ and all of the other FOL-spinoffs.
+
+These are garbage disciplines.
+

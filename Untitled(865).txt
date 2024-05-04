@@ -1,0 +1,10 @@
+— Tell me about Schrödinger's negentropy.
+
+— Negentropy is a term used in information theory and statistics to measure the distance to normality. The concept and phrase "negative entropy" was introduced by Erwin Schrödinger in his 1944 popular-science book What is Life?¹. Later, Léon Brillouin shortened the phrase to negentropy¹². In his book, Schrödinger originally stated that life feeds on negative entropy, but in a later edition corrected himself in response to complaints and stated that the true source is free energy⁵. Schrödinger introduced the concept when explaining that a living system exports entropy in order to maintain its own entropy at a low level. By using the term "Negentropy", he could express this fact in a more "positive" way: A living system imports negentropy and stores it²³.
+
+Source: Conversation with Bing, 20/08/2023
+(1) Negentropy - Wikipedia. https://en.wikipedia.org/wiki/Negentropy.
+(2) Negentropy | Psychology Wiki | Fandom. https://psychology.fandom.com/wiki/Negentropy.
+(3) Entropy and life - Wikipedia. https://en.wikipedia.org/wiki/Entropy_and_life.
+(4) What is (Schrödinger's) Negentropy? - I-SIS. https://www.i-sis.org.uk/negentr.php.
+(5) (PDF) What is (Schrödinger's) Negentropy - Academia.edu. https://www.academia.edu/6840968/What_is_Schr%C3%B6dingers_Negentropy.

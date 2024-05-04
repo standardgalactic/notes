@@ -1,0 +1,23 @@
+It summarises what I think of the blockchain. It will go on for hours on either one (its pros or cons), and I thought that the description above completely ignored the negatives.
+
+It sounds negative because I was responding to cryptech's post, which had implied that it was impossible to cheat.
+
+It remembers what I we were talking about earlier, and we had been discussing its risks.
+
+It mentions the Blockchain Oracle problem because we had been talking about it earlier in the conversation — we had been discussing Noah's ark, and I had asked it to find connections.
+
+This is from earlier in our discussion:
+
+** In terms of the Blockchain Oracle problem... **
+
+there are a few potential connections that can be made. One is the idea that the ark serves as a kind of "mental container" for information and knowledge, similar to how a blockchain serves as a digital container for data and transactions.
+
+Another connection is the idea of trust and reliability. In the story of Noah's Ark, Noah is tasked with building the ark and gathering the animals because he is deemed trustworthy and reliable by God. 
+
+Similarly, in the context of a blockchain, trust and reliability are crucial elements in the functioning of the network. This is because each block in the chain is verified and confirmed by multiple parties, ensuring that the information stored on the blockchain is accurate and tamper-proof.
+
+Additionally, the idea of algorithms and instructions can also be applied to the Blockchain Oracle problem. In the story of Noah's Ark, Noah follows specific instructions in order to build the ark and save his family and the animals.
+
+In the context of a blockchain, the "oracle" is responsible for providing specific information or instructions to the smart contract, which then executes the necessary actions. 
+
+Overall, while the connection between Noah's Ark and the Blockchain Oracle problem may not be direct, the similarities in terms of trust, reliability and the importance of instructions and algorithms, can be seen as a way to understand the problem and its solutions.

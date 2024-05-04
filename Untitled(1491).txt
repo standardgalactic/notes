@@ -1,0 +1,33 @@
+
+Here is the visualization representing the relationship between the individual qubit contribution (\( h \)), the qubit interaction strength (\( k \)), and the angle \( \theta \) in a Quantum Energy Teleportation (QET) system.
+
+In this plot:
+- The x-axis represents \( h \), the strength of the individual terms in the Hamiltonian.
+- The y-axis represents \( k \), the strength of the interaction between qubits.
+- The color gradient represents the angle \( \theta \), which is crucial in determining the ground state of the QET system.
+
+As you can see, when \( h \) is large compared to \( k \) (towards the bottom left of the plot), \( \theta \) is smaller, indicating a ground state closer to the individual states of the qubits. Conversely, when \( k \) is large compared to \( h \) (towards the top right), \( \theta \) is larger, suggesting the ground state is more influenced by qubit interactions. The color gradient smoothly transitions between these regimes, showing the evolution of the ground state as the balance between \( h \) and \( k \) changes.
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Parameters
+h = np.linspace(0.1, 1, 100)  # Strength of individual terms in Hamiltonian
+k = np.linspace(0.1, 1, 100)  # Strength of interaction between qubits
+H, K = np.meshgrid(h, k)
+
+# Calculating the angle theta
+# Assuming theta is a function of h and k such that it increases as k/h increases
+Theta = np.arctan2(K, H)  # Simple function to demonstrate the concept
+
+# Plotting
+plt.figure(figsize=(8, 6))
+contour = plt.contourf(H, K, Theta, cmap='viridis', levels=20)
+plt.colorbar(contour, label='Angle $\\theta$ (radians)')
+plt.title('Visualization of QET System Ground State')
+plt.xlabel('Individual Qubit Contribution ($h$)')
+plt.ylabel('Qubit Interaction Strength ($k$)')
+plt.grid(True)
+
+plt.show()
+

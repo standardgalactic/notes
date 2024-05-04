@@ -1,0 +1,16 @@
+Coordinate Space in Math
+
+Building up spacetime with quantum entanglement (Reference to Mark Van Raamsdonk's work)
+
+A mathematical theory of semantic development in deep neural networks (Reference to the work of Andrew M. Saxe, James L. McClelland, and Surya Ganguli)
+
+Human cognition and the nature of semantic knowledge
+
+Empirical observations in semantic knowledge acquisition
+
+Neuroscientific insights into semantic knowledge
+
+Existing gaps and challenges in understanding semantic development in neural circuits
+
+These topics primarily revolve around advanced concepts in quantum physics and cognitive neuroscience, specifically how deep neural networks understand and process semantic information.
+

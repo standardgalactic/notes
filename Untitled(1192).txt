@@ -1,0 +1,103 @@
+
+
+
+
+
+.
+
+Acknowledgments
+
+The author would like to express his sincerest gratitude to the China National Natural Science Foundations for giving firm support to the author’s research. It would impossible for the author to achieve these results without the supporting. At the same time, the author would also like to thank the reviewers and Mark Burgin for the valuable comments and advice they provided.
+
+Conflicts of Interest
+
+The authors declare no conflict of interest.
+
+References
+
+Shannon, C.E. A Mathematical Theory of Communication. BSTJ 1948, 27, 379–423, 632–656. [Google Scholar]
+
+Feigenbaum, A. The Art of Artificial Intelligence: Themes and Case studies in Knowledge Engineering. IJCAI 1977, 5, 1014–1029. [Google Scholar]
+
+Fayad, U. Advances in Knowledge Discovery and Data Mining; MIT Press: Oxford, MA, USA, 1996. [Google Scholar]
+
+McCulloch, W.C.; Pitts, W.A. A Logic Calculus of the Ideas Immanent in Nervous Activity. Bull. Math. Biophys. 1943, 5, 115–133. [Google Scholar] [CrossRef]
+
+Rumelhart, D.E. Parallel Distributed Processing; MIT Press: Oxford, MA, USA, 1986; Volume 1–3. [Google Scholar]
+
+Hopfield, J.J. Neural Networks and Physical Systems with Emergent Collective Computational Abilities. Proc. Natl. Acad. Sci. USA 1982, 79, 2554–2558. [Google Scholar] [CrossRef] [PubMed]
+
+Turing, A.M. Computing Machinery and Intelligence. Mind 1950, 59, 433–460. [Google Scholar] [CrossRef]
+
+Newell, A. Physical Symbol Systems. Cogn. Sci. 1980, 4, 135–183. [Google Scholar] [CrossRef]
+
+Simon, H.A. The Science of the Artificial, 2nd ed.; MIT Press: Oxford, MA, USA, 1981. [Google Scholar]
+
+Nilsson, N.J. Principles of Artificial Intelligence; Springer: Berlin/Heidelberg, Germany, 1982. [Google Scholar]
+
+Brooks, R.A. Elephant cannot Play Chess. Auton. Robot. 1990, 6, 3–15. [Google Scholar] [CrossRef]
+
+Brooks, R.A. Intelligence without Representation. Artif. Intell. 1991, 47, 139–159. [Google Scholar] [CrossRef]
+
+Zhong, Y.X. Principles of Information Science; BUPT Press: Beijing, China, 1988. (In Chinese) [Google Scholar]
+
+Zhong, Y.X. A Framework of Knowledge Theory. J. China Eng. Sci. 2000, 2, 50–64. [Google Scholar]
+
+Zhong, Y.X. Principles of Cog-netics in Machine; Science Press: Beijing, China, 2007. (In Chinese) [Google Scholar]
+
+Zhong, Y.X. Information Conversion, an Integrated Theory for Information, Knowledge, and Intelligence. Sci. Bull. 2013, 58, 1300–1306. [Google Scholar]
+
+Zhong, Y.X. Advanced Theory of Artificial Intelligence; Science Press: Beijing, China, 2014. (In Chinese) [Google Scholar]
+
+Wiener, N. Cybernetics, 2nd ed.; The MIT Press and John Wiley & Sons: Oxford, MA, USA, 1961. [Google Scholar]
+
+Bateson, G. Steps towards an Ecology of Mind; Jason Aronson Inc.: Lanham, MD, USA, 1972. [Google Scholar]
+
+Zadeh, L. Fuzzy Sets Theory. Inf. Control 1965, 8, 338–353. [Google Scholar] [CrossRef]
+
+Nilsson, N.J. Artificial Intelligence: A New Synthesis; Morgan Kaufmann Publishers: Burlington, MA, USA, 1998. [Google Scholar]
+
+Russell, S.J.; Norvig, P. Artificial Intelligence: A Modern Approach; Pearson Education, Inc.: Upper Saddle River, NJ, USA; Prentice Hall, Inc.: Upper Saddle River, NJ, USA; Tsinghua University Press: Beijing, China, 2006. [Google Scholar]
+
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+
+© 2017 by the author. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+
+Share and Cite
+
+      
+
+MDPI and ACS Style
+
+Zhong, Y. The Law of “Information Conversion and Intelligence Creation”. Proceedings 2017, 1, 137. https://doi.org/10.3390/IS4SI-2017-04003
+
+AMA Style
+
+Zhong Y. The Law of “Information Conversion and Intelligence Creation”. Proceedings. 2017; 1(3):137. https://doi.org/10.3390/IS4SI-2017-04003
+
+Chicago/Turabian Style
+
+Zhong, Yixin. 2017. "The Law of “Information Conversion and Intelligence Creation”" Proceedings 1, no. 3: 137. https://doi.org/10.3390/IS4SI-2017-04003
+
+Find Other Styles
+
+Article Metrics
+
+Citations
+
+Crossref
+
+ 
+
+0
+
+Google Scholar
+
+ 
+
+[click to view]
+
+Article Access Statistics
+
+

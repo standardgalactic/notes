@@ -1,0 +1,27 @@
+Error, edit not published.
+
+Your edit was not saved because it contains a new external link to a site registered on Wikipedia's blacklist or Wikimedia's global blacklist.
+
+To save your changes now, you must go back and remove the blocked link (shown below), and then save.
+
+Note that if you used a redirection link or URL shortener (like e.g. goo.gl, t.co, youtu.be, bit.ly), you may still be able to save your changes by using the direct, non-shortened link - you generally obtain the non-shortened link by following the link, and copying the contents of the address bar of your web-browser after the page has loaded.
+
+Links containing google.com/url? are resulting from a copy/paste from the result page of a Google search - please follow the link on the result page, and copy/paste the contents of the address bar of your web-browser after the page has loaded, or click here to convert the link.
+
+If you feel the link is needed, you can:
+
+Request that the entire website be allowed, that is, removed from the local or global spam blacklists (check both lists to see which one is affecting you).
+
+Request that just the specific page be allowed, without unblocking the whole website, by asking on the spam whitelist talk page.
+
+Blacklisting indicates past problems with the link, so any requests should clearly demonstrate how inclusion would benefit Wikipedia. The following link has triggered a protection filter: everybodywiki.com
+Either that exact link, or a portion of it (typically the root domain name) is currently blocked.
+
+Solutions:
+
+If the URL used is a URL shortener/redirect, please use the full URL in its place, for example, use youtube.com rather than youtu.be,
+
+If the URL is a Google URL, please look to use the (full) original source, not the Google shortcut or its alternative.
+
+Look to find an alternative URL that is considered authoritative.
+

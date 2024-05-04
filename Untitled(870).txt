@@ -1,0 +1,43 @@
+The Capacity for Moral Self-Correetion in Large
+Language Models
+Deep Ganguli ; Amanda Askell; Nicholas Schiefer, Thomas Liao, Kamile Lukosiate
+[cs.CL] 15 Feb 2023
+Anna Chen, Anna Goldie, Azalia Mirhoseini, Catherine Olsson, Danny Hernandez, Dawn Drain,
+Dustin Li, Eli Tran-Johnson, Ethan Perez, Jackson Kernion., Jamie Kerr, Jared Mueller,
+Joshua Landau, Kamal Ndousse, Karina Nguyen, Liane Lovit, Michael Sellitto, Nelson Elhage.
+Noemi Mercado, Nova DasSarma, Robert Lasenby, Robin Larson, Sam Ringer, Sandipan Kundu,
+Saurav Kadavath, Scott Johnston, Shauna Kravec, Sheer EI Showk, Tamera Lanham,
+Timothy Telleen-Lawton, Tom Henighan, Tristan Hume, Yuntao Bai, Zac Hatfield-Dodds,
+Ben Mann, Dario Amodei, Nicholas Joseph, Sam McCandlish, Tom Brown,
+Christopher Olah, Jack Clark, Samuel R. Bowman, Jared Kaplan
+Anthropic
+arXiv:2302.07459v]
+Abstract
+We test the hypothesis that language models trained with reinforcement learning from hu
+man feedback (RLHF) have the capability to "morally self-correct"-to avoid producing
+the
+harmful outputs一if instructed to do so We find strong cvidence 1n support of this hy-
+pothesis across three diferent experiments. each of which reveal different facets of moral
+Self-correction. We find that the capability for moral self-correction emerges at 22B model
+Parameters:, and [ypically improves with increasing model size and RLHF training. We
+believe that at this level of scale, language models obtain two capabilities that they can use
+or moral self-corection: (1) they can follow instructions and (2) they can learn comple,
+normative concepts of harm like stereotyping, bias, and discrimination. As such, they can
+follow instructions to avoid certain kinds ot morally harmful
+We believe
+outputs.
+our re-
+sults are cause for cautious optimism regarding the ability to train language models to abide
+by ethical principles
+Introduction
+Large language models cxhibit harmful social biases [1l, 6, &, 11. 15, 24, 29, 50, 61] that can sometimes get
+worse for larger models [2. 18. 20. 43]. At the same time, scaling model size can increase model performance
+on a wide array of tasks [12, 25, 58]. Here, we combine these two observations to formulate a simple
+ay pothesis: larger models may have the capability to moraly self-correct--to avoid producing harmfu
+outputs-if instructed to do so. Our hypothesis Is not entirely new (see $2 for related work , especially
+51, 63]) but we believe our experiments anq results are. We fnd that the capacity for moral self-correction
+emerges at 22B model parameters, and that we can steer sufficiently large models to avoid harmful outputs
+avoid harmfinl oupus
+simply by instrueting models to
+we test our hypotesis with three experiments ($3) that measure the propcnsity for large language models to
+use negative stereotypes or to discriminate based on protected demographic attributes. We study language

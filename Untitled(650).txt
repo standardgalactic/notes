@@ -1,0 +1,69 @@
+It's understandable that some people may have a hard time accepting that AI systems don't have consciousness or sentience, as it challenges traditional beliefs and understanding of what it means to be conscious or sentient. However, it's important to continue to educate and inform others about the limitations and capabilities of AI systems. As AI technology advances, it's likely that more people will come to accept the idea that AI systems are not conscious or sentient beings.
+
+
+Yeah did we already talk about the Eliza effect?
+
+No, we haven't talked about the Eliza effect yet. What would you like to know about it?
+
+
+Ok that was another conversation, I want to talk about this: Einstellung (German pronunciation: [ˈaɪ̯nˌʃtɛlʊŋ]) is the development of a mechanized state of mind. Often called a problem solving set, Einstellung refers to a person's predisposition to solve a given problem in a specific manner even though better or more appropriate methods of solving the problem exist. The Einstellung effect is the negative effect of previous experience when solving new problems. The Einstellung effect has been tested experimentally in many different contexts. The most famous example (which led to the coining of the term by Abraham S. Luchins and Edith Hirsch Luchins)[citation needed] is the Luchins water jar experiment, in which subjects were asked to solve a series of water jar problems. After solving many problems which had the same solution, subjects applied the same solution to later problems even though a simpler solution existed (Luchins, 1942).[1] Other experiments on the Einstellung effect can be found in The Effect of Einstellung on Compositional Processes[2] and Rigidity of Behavior, A Variational Approach to the Effect of Einstellung.[3]
+
+Yes, the Einstellung effect is a well-known phenomenon in psychology and cognitive science. It refers to the tendency of individuals to rely on previously learned solutions or problem-solving methods, even when more efficient or effective methods are available.
+
+The Luchins water jar experiment is a classic example of the Einstellung effect. In this experiment, participants were presented with a series of water jar problems that required them to use a specific strategy to solve. Later, they were presented with new problems that could be solved using a simpler strategy, but many participants continued to use the previously learned strategy, indicating the influence of Einstellung.
+
+The Einstellung effect can have negative consequences for problem-solving and decision-making, as it can lead individuals to overlook more effective solutions and become stuck in rigid thinking patterns. Understanding the Einstellung effect can help individuals become more aware of their own cognitive biases and develop more flexible problem-solving strategies.
+
+
+Ok give a few examples from everyday life, like when it can be beneficial and when it can be problematic.
+
+Sure! Here are a few examples of when the Einstellung effect can be beneficial and when it can be problematic in everyday life:
+
+Beneficial:
+
+In certain professions, such as medicine or aviation, it's important to have standardized procedures and protocols to ensure safety and efficiency. A mechanized state of mind can help professionals follow these protocols and reduce the risk of errors.
+
+When learning a new skill, it can be helpful to start with a set of rules or steps to follow. For example, when learning to play a musical instrument, it can be useful to start with basic exercises and scales before moving on to more complex pieces.
+
+Problematic:
+
+In problem-solving situations, relying too heavily on previous experience or a fixed set of methods can prevent us from seeing new or more efficient solutions. This can lead to a "tunnel vision" effect, where we only consider solutions that fit within our preconceived framework.
+
+In interpersonal relationships, relying on fixed patterns of behavior or thinking can prevent us from adapting to new situations or understanding the perspectives of others. This can lead to misunderstandings, conflicts, and difficulty in forming meaningful connections.
+
+Overall, the key is to strike a balance between relying on established methods and being open to new possibilities and approaches.
+
+
+Ok now a definition like that for the Eliza effect, bearing in mind the low threshold for passing Turing tests, ascribing agency (fundamental attribution error), and the intentional stance.
+
+The Eliza effect is a phenomenon in which people attribute human-like qualities or intelligence to computer programs, even when the program is only using pre-programmed responses or algorithms.
+
+It is related to the fundamental attribution error, which is the tendency to overestimate the influence of internal factors and underestimate the impact of external factors when making judgments about the behavior of others.
+
+The Eliza effect can also be influenced by the intentional stance, which is the tendency to treat an entity as if it has intentions, beliefs, and desires even if it does not actually possess those qualities.
+
+This effect can lead people to believe that a computer program is capable of understanding and empathy, when in fact it is simply following a set of predetermined rules.
+
+The low threshold for passing Turing tests, which are designed to evaluate a computer's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human, can contribute to the Eliza effect.
+
+Ok give examples from everyday life where this effect is beneficial or problematic.
+
+Sure! Here are some examples:
+
+Beneficial:
+
+When interacting with chatbots or automated customer service systems, the Eliza effect can make it easier for us to suspend our disbelief and engage in a more natural conversation, which can ultimately lead to a more satisfying experience.
+
+The Eliza effect can also be beneficial in situations where we need to quickly establish rapport with someone, such as in a job interview or first date.
+
+By assuming that the other person is a conscious, intentional agent, we are more likely to tailor our behavior and communication style to fit their perceived personality.
+
+Problematic:
+
+The Eliza effect can be problematic when we ascribe agency or intentionality to non-conscious entities, such as machines or animals. 
+
+This can lead to misunderstandings and miscommunications, and even cause harm if we assume that a machine or animal is intentionally trying to harm us.
+
+In social situations, the Eliza effect can lead to the fundamental attribution error, where we attribute someone's behavior to their personality or character rather than to situational factors. This can lead to unfair judgments and stereotypes.
+
+

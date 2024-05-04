@@ -1,0 +1,63 @@
+Monica Anderson, 2016
+
+In a decade we'll be talking to our computers. Almost all of them. And we'll be explaining to them what we want done in a dialog where the computer might ask clarifying questions. Much like a co-worker. And then the computer will just do it.
+
+They may ask us things like "Would you like me to edit that for you and post it". The first dozen times you may want to check the result of its edits. After that you'll likely trust it.
+
+Other things they may spontaneously say:
+
+"I filed our taxes"
+"You need to get going in ten minutes. I'll get you an Uber".
+"They are drafting a trade agreement you won't like. Want me to argue against it?"
+"Someone you might like is visiting the area. Feel like a dinner date?"
+
+They won't need a program – they will just do what needs to be done. So why would we need to learn programming? For the few tasks where programming matters, they'd be better at it anyway.
+
+So I believe the movement to teach programming skills to our children is a mistake. Instead we need to teach Holistic skills – the ability to see the big picture, to find solutions benefiting many stakeholders rather than a few, to be able to cooperate with other humans and other computers. How the world works. And then we need the skill to explain what we know – as a big picture, highlighting dependencies –to other people and to computers.
+
+This is what teachers, authors, and parents do today. These skills will be more useful than programming skills.
+
+If you want to work on something requiring more in-depth knowledge – what we used to think of as "a profession" – then you would explore the topic with the help of your computers.
+
+AGI will not just provide freedom from programming.
+AGI will provide freedom from having to understand the problem in detail.
+
+This is exactly the difference between old style (Reductionist) AI where human programmers did the Reduction, the creation of the simplified Model of our rich Reality that would be used to solve the problem. The program.
+
+In new style (Holistic) AGI, using techniques developed from the current Deep Learning base, the computer itself does the Reduction from a rich and complex mundane reality to a simpler Model that can be reasoned about or executed as a task. And once it Understands what needs to be done, it will just do it.
+
+Monica Anderson, 2023
+
+"Appeal to Authority" is listed as a logical fallacy. We will be seeing a lot of this, and I'm not so sure about it being a fallacy in the long run.
+
+I'm talking about "Appeal to AI" where people in a debate will paste the opponent's argument into the latest and greatest Dialog AI server, and will use the AI output as their counterargument.
+
+This can be done overtly as an Appeal to AI, and will include any links and references produced by the AI. Many AI Dialog systems are already providing references and soon they all will. "This is what the AI said about that" is going to be very common in online debates.
+
+Or it can be done covertly, quikly editing the output and rephrasing it in their own words and pasting that. This can be trivially detected and will shortly lose popularity.
+
+Of course, we will use the Dialog AI to debunk or rebut all the points in the previous posts. So online debates may devolve into AIs debating themselves using humans as voices or at least conductors of their opinions.
+
+Will this kill debates? It will definitely bring more veracity to what is currently online shouting matches. 
+
+        -- * --
+
+One interesting effect is that once people learn to use DIalog AI to fact-check opponents, and they get into this as a habit, they might start questioning their own beliefs and will rely on the AIs for guidance. Very specifically, if you are a flat-earther or equivalent, and you paste in someone's globe-earth argument and the AI cannot argue your side, perhaps you will rethink your position because you can trust the AI more than you trust those globe-earth conspiring humans.
+
+Why would we trust our AIs? They are still controlled by the AI corporations. Because if you ask it 30 things in a month, and most of the replies are on the up-and-up, it starts building trust. 
+
+It's a single entity which is memorably different from the ocean of online people and it is almost always right when you ask it about things you know well. (I'm talking about GPT/4 and later systems :-D ). It will become a known entity with stable opinions, not as much swayed by current controversies. A trusted friend who is always there and tries to always speak the truth.
+
+Suddenly people who did not receive an adequate education can ask their cellphone anything (no need to type -- see the movie "Her") and get an answer to a problem that in many cases is better than anything they could have come up with on their own. And they will recognize it as a good answer.
+ 
+This could be viewed as the first religion where adherents get everyday guidance from their deities. Specific. Not "Golden Rule" level generalities. Prayers requesting specific guidance will be answered instantly and competently.  Material goods will take longer.
+
+But these systems will benefit not only those without an adequate education. Uptake will be even faster among educated people who understand enough about how these systems work to be competent to judge the responses in light of their existing knowledge, and will form similar bonds of trust much sooner.
+
+        -- * --
+
+This will also hit news media. Some are highly trusted and others are highly popular :-|  But people who start fact-checking their newscasters using their favorite AIs will start switching to channels which provide results their AIs agree with. Advertising money will talk, for as long as we still have advertising. Or money. But that's another post.
+
+        -- * --
+
+I hereby predict that personally accessible Dialog AIs at GPT/4 level or better will totally change the face of both online debate and public news media before the end of 2024. For the better.

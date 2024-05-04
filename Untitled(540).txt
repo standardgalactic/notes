@@ -1,0 +1,101 @@
+
+
+1.0 Universal Knowledge and Experience
+
+1.1 Physical Universe
+
+1.1.1 Physics
+
+1.1.1.1 Classical Physics
+1.1.1.2 Quantum Physics
+1.1.1.3 Relativistic Physics
+1.1.1.4 Statistical Mechanics
+
+1.1.2 Chemistry
+
+1.1.2.1 Organic Chemistry
+1.1.2.2 Inorganic Chemistry
+1.1.2.3 Physical Chemistry
+1.1.2.4 Biochemistry
+
+1.1.3 Biology
+
+1.1.3.1 Cellular Biology
+1.1.3.2 Genetics
+1.1.3.3 Ecology
+1.1.3.4 Evolution
+
+1.2 Abstract Universe
+
+1.2.1 Mathematics
+
+1.2.1.1 Algebra
+1.2.1.2 Calculus
+1.2.1.3 Geometry
+1.2.1.4 Statistics
+
+1.2.2 Philosophy
+
+1.2.2.1 Metaphysics
+1.2.2.2 Epistemology
+1.2.2.3 Ethics
+1.2.2.4 Logic
+
+1.2.3 Computer Science
+
+1.2.3.1 Algorithms
+1.2.3.2 Data Structures
+1.2.3.3 Machine Learning
+1.2.3.4 Computer Systems
+
+2.0 Human Knowledge and Experience
+
+2.1 Individual Experience
+
+2.1.1 Consciousness
+
+2.1.1.1 Perception
+2.1.1.2 Cognition
+2.1.1.3 Emotion
+
+2.1.2 Physical Experience
+
+2.1.2.1 Health
+2.1.2.2 Aging
+2.1.2.3 Nutrition
+
+2.2 Collective Experience
+
+2.2.1 Societies
+
+2.2.1.1 Cultures
+2.2.1.2 Economics
+2.2.1.3 Politics
+
+2.2.2 Human History
+
+2.2.2.1 Prehistoric
+2.2.2.2 Ancient Civilizations
+2.2.2.3 Modern History
+
+3.0 Transcendental Knowledge and Experience
+
+3.1 Religion
+
+3.1.1 Theology
+3.1.2 Comparative Religion
+3.1.3 Spirituality
+
+3.2 Art
+
+3.2.1 Visual Arts
+3.2.2 Music
+3.2.3 Literature
+3.2.4 Film and Theater
+
+3.3 Ethics and Morality
+
+3.3.1 Personal Morality
+3.3.2 Social Ethics
+3.3.3 Environmental Ethics
+3.3.4 Bioethics

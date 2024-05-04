@@ -1,0 +1,54 @@
+
+**Multiscale Competency Architectures (MCAs)**
+
+- MCA is a hierarchical arrangement where components at each scale function independently without top-down instructions.
+- MCAs are key to understanding complex systems' behaviors.
+
+**Free Energy Principle (FEP)**
+
+- FEP is a framework explaining how systems interact with their environments.
+- Systems are "competent" when they minimize the variational free energy of their environment.
+- FEP involves predicting and controlling environmental influences for stability.
+
+**Informational Symmetry and Cognitive Asymmetry**
+
+- Informational symmetry exists in physical interactions between systems and environments.
+- Cognitive asymmetry arises because systems and environments process information differently.
+
+**Thermodynamics of Self-Organization**
+
+- The environment plays an active role in self-organization processes.
+- Self-organization is always environment-assisted.
+
+**Predicting Future Behavior**
+
+- No system can fully predict its own future behavior, especially in new or changing situations.
+
+**The Frame Problem in AI and Thermodynamics**
+
+- The separation of a system from its environment (via a Markov Blanket) limits the system's ability to fully understand or predict environmental changes.
+
+**Learning Processes**
+
+- Learning involves a mix of guidance and self-discovery, neither entirely passive nor fully autonomous.
+- Learning processes are inherently unpredictable.
+
+**Role of the Environment as an Agent**
+
+- The environment actively shapes the development and behavior of systems.
+
+**Experimental Strategy for Recombinant Biology**
+
+- Mixing cells from different origins to observe interactions and development, akin to experimenting with diverse ingredients to create novel outcomes.
+
+**Conclusion: Key Takeaways**
+
+- FEP provides a universal model for MCAs in natural and engineered systems.
+- The environment is an active agent in training and engineering systems.
+- Self-organization is environment-assisted, reducing the VFE of the environment.
+- Expanding the concept of "normal" in biology to include unconventional systems.
+- The environment encodes "target morphology" actively.
+- The environment behaves as a typical active inference agent.
+- Suggested experimental strategy to create diverse multicellular systems.
+
+These main points summarize the key concepts and insights discussed in the paper, providing an overview of the paper's content and contributions.

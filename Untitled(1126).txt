@@ -1,0 +1,7 @@
+I don't see how there is any confusion. 
+
+The first step is called Brackets or Parenthesis. It means to solve whatever   is in the brackets and multiply out the juxtapositions. ((2(3(1+2))) + 1) is ((2(3(3))) + 1) which is ((2(9)) + 1) which is ((18)+ 1) which is (19) which is 19.
+
+Notice this was all the first step of PEMDAS which is to solve all of the parentheses and multiply them out.
+
+There is still a lot of flexibility, you can pop the parenthesis by solving it or distributing it or putting it into a variable until a later step. None of this breaks the Pemdas ordering. I don't think. I could have done ((2(3 + 6))+ 1) = ((6 + 12)+1) = (18+ 1) = (19) as well, you can remove the parenthesis by solving it or by distributing them by juxtaposition.

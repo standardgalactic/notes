@@ -1,0 +1,14 @@
+Verbal Communication Requires A Model of Mind" -- Phd Thesis by Bartholomew Jojo Simpson
+
+It's very likely a learned feature. Probably emergent as a side effect of it performing Epistemic Reduction. So yes, IMO it can be learned.
+
+Thinking about other species, the Model is required for any kind of subterfuge and lying. So if foxes are clever, then they must have a Model of Mind. 
+
+So Bart was a bit conservative in that quote. All agent-to-agent interaction requires a Model of Mind.
+
+In the simplest case, "I think that guy wants to eat me"
+
+Katharina Buholzer My theory about humor is exactly the same as Stephen Fry's. It's a graph algorithm.
+
+And I will likely someday try to create a Connectome Algorithm to detect that, in Clojure or Java, based on Graph Traversal.
+

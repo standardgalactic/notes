@@ -1,0 +1,11 @@
+I'm looking for computer games that involve strategy, resource management, hidden information, and management of "value of information" (i.e. figuring out when to explore or exploit), which:
+
+– *can* be beaten in 30 – 120 minutes on your first try (or, there's a clear milestone that's about that long)
+
+– but, it'd be pretty hard to do so unless you are trying really hard. Even if a pretty savvy gamer shouldn't be able to by default.
+
+This is for my broader project of "have a battery of exercises that train/test people's ability to reason generally on openended problems. Each exercise should ideally be pretty different from the other ones.
+
+In this case, I don't expect anyone to have such a game that they _have_ beaten on their first try, but, I'm looking for games where this seems at least plausible, if you were taking a long time to think each turn, or pausing a lot.
+
+The strategy/resource/Value-of-information aspect is meant to correspond to some real world difficulties of running longterm ambitious planning.

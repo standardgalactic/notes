@@ -1,0 +1,29 @@
+1.3 Active Inference: Be hav ior from First Princi ples 
+This diversity is a blessing for biology but challenging for formal theories of 
+brain and mind. Broadly, there are two perspectives we could take on this. 
+One perspective is that dif fer ent biological adaptations, neural pro cesses 
+(e.g., synaptic exchanges and brain networks), and cognitive mechanisms 
+(e.g., perception, attention, social interaction) are highly idiosyncratic and 
+require dedicated explanations. This would lead to proliferation of theo- 
+ries in fields like philosophy, psy chol ogy, neuroscience, ethology, biology, 
+artificial intelligence, and robotics, with little hope for their unification. 
+Another perspective is that, despite their diverse manifestations, the cen- 
+tral aspects of be hav ior, cognition, and adaptation in living organisms are 
+amenable to a coherent explanation from first princi ples. 
+These two possibilities map to two dif fer ent research programs and, to 
+some extent, dif fer ent attitudes toward science: “neats” versus “scruffies” 
+(terms due to Roger Shank). Neats always seek unification beyond the (appar- 
+ent) heterogeneity of brain and mind phenomena. This usually corresponds 
+to designing top- down, normative1 models that start from first princi ples and 
+try to derive as much as pos si ble about brains and minds. Scruffies instead 
+embrace the heterogeneity by focusing on details that demand dedicated 
+explanations. This usually corresponds to designing bottom-up models that 
+start from data and use what ever works to explain complex phenomena, 
+including dif fer ent explanations for dif fer ent phenomena. 
+Is it pos si ble to explain heterogenous biological and cognitive pheno- 
+mena from first princi ples, as the neats assume? Is a unified framework to 
+understand brain and mind pos si ble? 
+This book answers these questions affirmatively and advances Active 
+Inference as a normative approach to understand brain and mind. Our 
+treatment of Active Inference starts from first princi ples and unpacks their 
+cognitive and biological implications.

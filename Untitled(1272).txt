@@ -1,0 +1,128 @@
+LOCATE 4, 67: PRINT SVlyn$;
+LOCATE 5, 67: PRINT SVlyn$;
+LOCATE 6, 67: PRINT SVlyn$;
+LocATE 7, 67: PRINT STeRe$; STRING$(ll, SHLyn$); STeLis
+SHLyn$; STeLi$
+LOCATE 8, 67: PRINT STeRe$; SHLyn$; " SYSTEMS
+LOCATE 9, 67: PRINT STeBo$
+COLOR Helder + Geel, Zwart
+XŞ = "version
+X$ = LEFT$(X$, LEN(XȘ) - LEN(Rev$)) x + Rev$
+LocaTE 3, 7: PRINT "PROGRAMNAME
+BASREF. EXE"
+LOCATE 4, 7: PRINT X$
+LOCATE 5, 7: PRINT "version date : 04AUG1991"
+LOCATE 6, 7: PRINT ">> all rights reserved <<"
+LOCATE 7, 7: PRINT "VZ-SYSTEMS (c) 1986-1991"
+LOCATE 3, 45: PRINT "runtime parms"
+LOCATE 4, 45: PRINT "stacksize"
+LOCATE 4, 55: PRINT MID$(STR$(Tablsize), 2)
+LOCATE 5, 45: PRINT "hortab
+LOCATE 5, 57: PRINT MID$(STR$(Tabval), 2)
+IF Lyst THEN X$
+M
+"Y" ELSE X$ = "N"
+LOCATE 6, 45: PRINT "listing
+LOCATE 6, 57: PRINT X$
+IF Xref THEN X$
+"Y" ELSE X$ = "N"
+LOCATE 7, 45: PRINT "crossref"
+LocatE 7, 57: PRINT X$
+Restorecolors
+END SUB
+page
+SUB ParseLine
+parse inputline and determine token
+the character finder will skip literals and
+checks for balanced quotes. if unbalanced quotes
+are found, the rest of the statement is ignoredl
+the character finder will skip the remaining part
+of a statement after it finds a single quote
+the delimiter finder will ignore statements from the
+moment it encounters REM or DATA instructions
+Curr
+Prev
+o
+O
+`init pointer
+init pointer
+DO
+start parsing
+Prev = Curr
+DO
+INC Prev
+rhischar$ = MID$(PrtLine$, Prev, 1)
+IF ThisChar$ = CHR$ (DblQt) THEN
+copy pointer
+find character
+incr pointer
+extract char
+double quote?
+
+Prev = INSTR(Prev t 1, PrtLine$, CHR$(DblQt))
+IF Prev = 0 THEN
+'balanced quotes:
+JC$ = UC$ + LineNumber$
+'save linenumber
+ELSE
+'balanced quotes
+ThisCharș = MID$(PrtLine$, Prev, 1) 'propagate pointer
+END IF
+end balanced quotes
+END IF
+end double quote
+'is it a character?
+Char = INSTR(Delmrabl$, ThisChar$) = 0
+OL = (Prev = 0) OR (Prev > LineLength) OR (ThisChar$ = CHR$(Sngot)
+LOOP UNTIL Char OR EOL
+done?
+IF NOT EOL THEN
+'end-of-line?
+Curr = Prev
+copy pointer
+9O
+'find delimiter
+INC Curr
+incr pointer
+belm = INSTR(DelmTabl$, MID$(PrtLineș, Curr, 1)) > d
+LOOP UNTIL Delm
+done?
+Token$ = MID$(PrtLine$, Prev, Curr - Prev)
+WorkToken$ = UCASE$(Token$)
+OL = WorkToken$ = "REM" OR WorkToken$ = "DATA"
+Entry = ASC(WorkToken$) - 64
+IF NOT EOL AND Entry > 0 THEN
+Token = INSTR(CommTabl$(Entry), "/" + WorkToken$ + "/")
+IF Token THEN
+IF MID$(PrtLine$, Curr, 1) = "#" THEN
+INC Curr
+Token$ = Token$ + "#"
+WorkToken$ = WorkToken$
+END IF
+SaveToken Token$, WorkToken$
+END IF
+END IF
+END IF
+LOOP UNTIL EOL
+O
+END SUB
+page
+SUB PrintHeader
+print reportheader
+SHARED First, ProgName$, Rev$, Datș, Tim$
+IF First THEN
+First= False
+ELSE
+LPRINT CHR$ (Frmfd);
+END IF
+LPRINT "QuickBASIC (tm) CROSSREFERENCE UTILITY";
+LPRINT TAB(48); "PROG: "; ProgName$;
+LPRINT TAB(89); USING "PAGE: ##"; PC
+LPRINT TAB(89); Dat$
+LPRINT "VERSION "; Rev$; " - by VZ-SYSTEMS (c)";
+LPRINT TAB(89); Tim$
+'line
+1
+1 2 3 mn
+'line
+1ine

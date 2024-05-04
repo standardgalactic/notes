@@ -1,0 +1,126 @@
+What is the name of this field of research embedded fluids?
+
+ChatGPT
+
+I'm not aware of a specific field of research called "embedded fluids". However, there are several fields of research related to fluid dynamics and material science that may be relevant to the concept you are describing, such as:
+
+Microfluidics: the study of the behavior of fluids in channels with dimensions on the micrometer scale.
+
+Colloids: the study of particles suspended in a fluid, which can form stable structures or self-assemble into larger structures.
+
+Soft matter physics: the study of materials that have properties between those of solids and liquids, such as gels, foams, and emulsions.
+
+Materials science: the study of the properties, structure, and performance of materials, including polymers and composites.
+
+It's possible that the concept you are describing falls under one or more of these fields, but without more specific information about the materials and processes involved, it's difficult to say for sure.
+
+￼￼
+
+A new model for simulating the transport of healing agents in self-healing (SH) cementitious materials is presented. The model is applicable to autonomic SH material systems in which embedded channels, or vascular networks, are used to supply healing agents to damaged zones. The essential numerical components of the model are a crack flow model, based on the Navier-Stokes equations, which is coupled to the mass balance equation for simulating unsaturated matrix flow. The driving forces for the crack flow are the capillary meniscus force and the force derived from an external (or internal) pressure applied to the liquid healing agent. The crack flow model component applies to non-uniform cracks and allows for the dynamic variation of the meniscus contact angle, as well as accounting for inertial terms. Particular attention is paid to the effects of curing on the flow characteristics. In this regard, a kinetic reaction model is presented for simulating the curing of the healing agent and a set of relationships established for representing the variation of rheological properties with the degree of cure. Data obtained in a linked experimental programme of work are employed to justify the choice and form of the constitutive relationships, as well as to calibrate the model's evolution functions. Finally, a series of validation examples are presented that include the analysis of a series of concrete beam specimens with an embedded vascular network. These examples demonstrate the ability of the model to capture the transport behaviour of this type of SH cementitious material system.
+
+ChatGPT
+
+This is a description of a new model for simulating the transport of healing agents in self-healing cementitious materials. The model is applicable to autonomic self-healing material systems that use embedded channels or vascular networks to supply healing agents to damaged zones. The model includes a crack flow model based on the Navier-Stokes equations, which is coupled to the mass balance equation for simulating unsaturated matrix flow. The driving forces for the crack flow are the capillary meniscus force and the force derived from an external or internal pressure applied to the liquid healing agent. The model takes into account the effects of curing on the flow characteristics, and a kinetic reaction model is presented for simulating the curing of the healing agent. The model is validated through a series of examples that demonstrate its ability to capture the transport behavior of self-healing cementitious material systems with embedded vascular networks.
+
+￼￼
+
+This is similar imagine pipes made of paper transporting liquid paper mache, they could be engineered to have self-healing priorities, or pretzel based dough pipes.
+
+ChatGPT
+
+Yes, that's a possibility. The use of paper or pretzel-based dough pipes to transport a fluid material like paper mache is an interesting concept. By embedding channels or vascular networks into these pipes, it could be possible to supply healing agents to damaged zones, allowing for self-healing priorities. This approach could be useful in applications where there is a need for flexible and biodegradable pipelines that can transport liquid or semi-solid materials.
+
+￼￼
+
+Who else is working on this?
+
+ChatGPT
+
+There are many researchers and companies working on developing self-healing and embedded fluid materials. Some notable examples include:
+
+University of Bath: They have developed self-healing concrete that uses bacteria to repair cracks.
+
+Delft University of Technology: They have developed a vascular system that can heal cracks in concrete using a self-healing agent.
+
+BASF: They have developed a range of self-healing concrete products, including one that uses microcapsules to release a healing agent when a crack appears.
+
+Stanford University: They have developed a self-healing polymer that can repair itself using heat or light.
+
+University of Illinois at Urbana-Champaign: They have developed a self-healing polymer that can repair itself using a combination of heat and pressure.
+
+AkzoNobel: They have developed a self-healing coating that uses microcapsules to release a healing agent when damaged.
+
+These are just a few examples, as there are many researchers and companies around the world working on developing self-healing and embedded fluid materials for a variety of applications.
+
+￼￼
+
+So no one is specifically working on making pipes out of bread or you don't know?
+
+ChatGPT
+
+I am not aware of any research or projects that are specifically focused on making pipes out of bread. However, there is ongoing research on developing sustainable and biodegradable materials for various applications, including pipes. Some researchers are exploring the use of plant-based materials such as cellulose or starch for creating eco-friendly pipes. Additionally, there are efforts to develop composite materials using natural fibers and biodegradable polymers for pipes and other structural applications.
+
+￼￼
+
+I am also working on toilets made of paper.
+
+ChatGPT
+
+That sounds interesting! Can you tell me more about the concept?
+
+￼￼
+
+Ok well at this point there is a need for extra equipment for processing but the paper is rolled and compressed and mixed with resinous agents to create a self repairing toilet.
+
+ChatGPT
+
+Interesting idea! Can you elaborate on how the self-repairing mechanism would work in the toilet made of compressed paper mixed with resinous agents?
+
+￼￼
+
+The paper is rolled to make reinforcing bars forming a network or grid, then paper is rolled and pressed and secreted using temperature and pressure.
+
+ChatGPT
+
+I'm sorry, but I'm having difficulty understanding the process you are describing. Can you please clarify or provide more information?
+
+￼￼
+
+A pulp like mixture is added to the water, a mesh or webbing catches the pulp then it is rolled and pressed until it becomes a harder material similar to the formation of xylem or epidermis
+
+ChatGPT
+
+That sounds like an interesting process. It seems like you're using a combination of mechanical and chemical methods to create a durable material. Can you give more details about the chemical agents used in the process and how they contribute to the final product's properties?
+
+2 / 2
+
+￼￼
+
+There are capsules of resin for example, Natural resin comes from plants. The best example is the pine sap. The beautiful amber stone is gained by the hardening of the plant’s resin. They are crushed and added back intothe pulp and mixed to make harder materials.
+
+ChatGPT
+
+I see, adding resin capsules to the pulp mixture can help strengthen the material. This is an interesting approach and could have potential applications in sustainable construction and manufacturing. However, it is important to ensure that the resin used is environmentally friendly and does not contribute to deforestation or other negative impacts on the environment.
+
+￼￼
+
+Yeah of course. It looks like there is still a lot of work to be done on the idea, like imagine a smarties in flour and little pretzel shells with oil. This could be used to make breads or chocolate bars
+
+ChatGPT
+
+Indeed, it seems like there are many potential applications for this type of technology. It will be interesting to see how it develops and how it can be applied to various industries.
+
+￼￼
+
+An overview outlining the idea
+
+ChatGPT
+
+Based on our conversation, the idea revolves around using centrifuges to separate materials into their component parts, which are then packaged in low-entropy configurations using micro jellybeans or capsules. This approach has potential applications in the food and building materials industries.
+
+For example, in the food industry, the approach could be used to separate out and package different components of food such as carbs, proteins, oils, and flours. The resulting packages could then be used to create innovative food products such as edible packaging made from alternating layers of pretzel puffed corn and candy.
+
+In the building materials industry, the approach could be used to create autonomic self-healing materials with embedded channels or vascular networks to supply healing agents to damaged zones. Paper could be rolled and compressed to form reinforcing bars, and a pulp-like mixture containing crushed natural resins could be added to make harder materials.
+
+Additional research and development are needed to explore the feasibility and practicality of these ideas, including the use of smarties in flour and little pretzel shells with oil to create breads or chocolate bars.
+

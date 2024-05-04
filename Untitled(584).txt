@@ -1,0 +1,94 @@
+Neural Networks are Decision Trees 
+Caglar Aytekin 
+AI Lead 
+AAC Technologies 
+Abstract 
+In this manuscript, we show that any neural network 
+with any activation function can be represented as a de- 
+cision tree. The representation is equivalence and not an 
+approximation, thus keeping the accuracy of the neural net- 
+work exactly as is. We believe that this work provides bet- 
+ter understanding of neural networks and paves the way to 
+tackle their black-box nature. We share equivalent trees 
+of some neural networks and show that besides providing 
+interpretability, tree representation can also achieve some 
+computational advantages for small networks. The analysis 
+holds both for fully connected and convolutional networks, 
+which may or may not also include skip connections and/or 
+normalizations. 
+1. Introduction 
+Despite the immense success of neural networks over the 
+past decade, the black-box nature of their predictions pre- 
+vent their wider and more reliable adoption in many indus- 
+tries, suchashealthandsecurity. Thisfactledresearchersto 
+investigate ways to explain neural network decisions. The 
+efforts in explaining neural network decisions can be cate- 
+gorized into several approaches: saliency maps, approxima- 
+tion by interpretable methods and joint models. 
+Saliency maps are ways of highlighting areas on the in- 
+put, of which a neural network make use of the most while 
+prediction. An earlier work [20] takes the gradient of the 
+neural network output with respect to the input in order to 
+visualize an input-specif i c linearization of the entire net- 
+work. Another work [26] uses a deconvnet to go back to 
+features from decisions. The saliency maps obtained via 
+these methods are often noisy and prevent a clear under- 
+standing of the decisions made. Another track of meth- 
+ods [29], [18], [4], [6] make use of the derivative of a neural 
+network output with respect to an activation, usually the one 
+right before fully connected layers. This saliency maps ob- 
+tained by this track, and some other works [27], [11], [5] are 
+clearer in the sense of highlighting areas related to the pre- 
+dicted class. Although useful for purposes such as check- 
+ing whether the support area for decisions are sound, these 
+methods still lack a detailed logical reasoning of why such 
+decision is made. 
+Conversion between neural networks and interpretable 
+by-design models -such as decision trees- has been a topic 
+of interest. In [8], a method was devised to initialize neural 
+networks with decision trees. [9,19,25] also provides neu- 
+ral network equivalents of decision trees. The neural net- 
+works in these works have specif i c architectures, thus the 
+conversion lacks generalization to any model. In [24], neu- 
+ral networks were trained in such a way that their decision 
+boundaries can be approximated by trees. This work does 
+not provide a correspondence between neural networks and 
+decision trees, and merely uses the latter as a regulariza- 
+tion. In [7], a neural network was used to train a decision 
+tree. Such tree distillation is an approximation of a neural 
+network and not a direct conversion, thus performs poorly 
+on the tasks that the neural network was trained on. 
+Joint neural network and decision tree models [12], [16], 
+[13],[14],[17],[2],[10],[22]genarallyusedeeplearningto 
+assists some trees, or come up with a neural network struc- 
+ture so it resembles a tree. A recent work [23] replaces the 
+i nal fully connected layer of a neural network with a deci- 
+sion tree. Since the backbone features are still that of neural 
+networks, the explanation is sought to be achieved via pro- 
+viding a means to humans to validate the decision as a good 
+or bad one, rather than a complete logical reasoning of the 
+decision. 
+In this paper, we show that any neural network having 
+any activations has a directly equivalent decision tree rep- 
+resentation. Thus, the induced tree output is exactly the 
+same with that of the neural network and tree representation 
+doesn’t limit or require altering of the neural architecture 
+in any way. We believe that the decision tree equivalence 
+provides better understanding of neural networks and paves 
+the way to tackle the black-box nature of neural networks, 
+e.g. via analyzing the category that a test sample belongs 
+to, which can be extracted by the node rules that a sample 
+is categorized. We show that the decision tree equivalent of 
+arXiv:2210.05189v3 
+[cs.LG] 
+25 
+Oct 
+2022 
+a neural network can be found for either fully connected or 
+convolutional neural networks which may include skip lay- 
+ers and normalizations as well. Besides the interpretability 
+aspect, we show that the induced tree is also advantageous 
+to the corresponding neural network in terms of computa- 
+tional complexity, at the expense of increased storage mem- 
+ory. Upon writing this paper, we have noticed the following 
+works having overlaps with ours [28], [3], [15], [21], 

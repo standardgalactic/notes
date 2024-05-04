@@ -1,0 +1,53 @@
+Do you see how I am using the terms slightly different?
+
+Yes, I see what you mean. You are focusing on the difference between judging an action based on the information available at the time (deontology) versus judging an action based on the actual outcomes that resulted (consequentialism).
+
+In the example you provided, the deontological perspective would hold that the doctor acted correctly because they followed the correct medical procedure based on the information they had at the time.
+
+However, the consequentialist perspective would hold that the doctor acted incorrectly because the outcome was negative (i.e., the patient died).
+
+Another example might be a scientific experiment in which a new drug is tested on animals and shows promising results, leading to its approval for human testing.
+
+However, once the drug is tested on humans, unforeseen negative side effects emerge that were not observed in the animal testing.
+
+From a deontological perspective, the scientists acted correctly based on the available information and followed the proper protocols for drug testing.
+
+From a consequentialist perspective, however, the outcome was negative (i.e., the emergence of negative side effects), which could be seen as evidence that the scientists did not act correctly.
+
+It's worth noting that these examples are somewhat simplified and that there may be debate over how to categorize them as purely deontological or consequentialist. In reality, most ethical theories are more complex and nuanced than can be captured in simple examples.
+
+
+** Yeah that makes sense. There are complications, but I would say that of the reason a person did not know because they didn't study hard enough in school versus unknown effects that are discovered later. **
+
+Yes, that's a valid distinction. In the former case, it can be argued that the person had a moral obligation to study hard enough and acquire the necessary knowledge to make informed decisions.
+
+In the latter case, the knowledge was simply not available or not yet discovered, so the decision was made based on the best available information at the time.
+
+For example, let's say a doctor prescribes a medication to a patient based on the best available knowledge and research at the time. Later, new research shows that the medication has serious long-term side effects that were not previously known. 
+
+
+From a deontological perspective, the doctor may have acted correctly based on the available knowledge at the time. From a consequentialist perspective, the outcome (the long-term side effects) would determine whether the decision was correct or not.
+
+In this case, the distinction between deontology and consequentialism may not be as clear-cut, as both perspectives could potentially apply.
+
+** So do you remember the first article we discussed, about food delivery driver safety issues in China? **
+
+Yes, I remember that article.
+
+** Can we analyze the values and ethics of the corporations that are dispatching drivers, by this framework? **
+
+Yes, we can use this framework to analyze the values and ethics of the corporations that are dispatching drivers in the food delivery industry.
+
+For example, let's consider the value of safety. A deontologist would argue that corporations have a duty to prioritize the safety of their drivers, regardless of the consequences. In this context, this could mean ensuring that drivers have adequate training, equipment, and compensation. 
+
+A consequentialist, on the other hand, would argue that the value of safety should be balanced against other values, such as efficiency and profitability. In this context, this could mean that corporations might be willing to take on more risks if it leads to faster delivery times or cost savings.
+
+Another value we can consider is fairness. A deontologist would argue that corporations have a duty to treat all their workers fairly, regardless of their race, gender, or socioeconomic status.
+
+In the context of food delivery, this could mean ensuring that all drivers receive equal pay for equal work, regardless of their background.
+
+A consequentialist, however, might argue that fairness should be balanced against other values, such as market competitiveness.
+
+In this context, this could mean that corporations might offer lower wages to certain drivers in order to compete with other companies or to reduce costs.
+
+Overall, using the deontological and consequentialist frameworks can help us understand and evaluate the values and ethics of corporations in the food delivery industry, and how these values might influence their decision-making processes.

@@ -1,0 +1,19 @@
+
+function! OutputCommands()
+  let history = []
+  for i in range(histnr(':'), 1, -1)
+    call add(history, histget(':', i))
+  endfor
+  enew
+  call append(0, history)
+  normal gg
+  setlocal buftype=nofile bufhidden=wipe noswapfile nowrap
+  "nnoremap <buffer> <CR> :call setreg('+', getline('.'))<CR>
+  nnoremap <buffer> <CR> :let command = getline('.') \| bnext \| execute command<CR>
+  nnoremap <buffer> <down> j
+  nnoremap <buffer> <up> k
+endfunction
+
+:command! Cc     call OutputCommands()
+:command! CC     call OutputCommands()
+    

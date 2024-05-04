@@ -1,0 +1,25 @@
+Yeah I was thinking that the game is reset to 2400 every year on January 1
+
+Starting the game anew every January 1st can be an interesting concept, especially if you want to introduce an element of cyclicity and rebirth. Here are some considerations and potential features you might want to think about for this:
+
+1. **Seasonal Gameplay**: Aligning the game's reset to a real-world calendar can allow for events or story arcs that are related to real-world seasons or holidays. For instance, December in-game might have a winter theme or special winter events.
+
+2. **End of Year Event**: Leading up to the reset, there might be a significant in-game event, like a festival, cataclysm, or grand celebration that players can participate in.
+
+3. **Legacy Rewards**: To incentivize players to continue playing year after year, you could introduce legacy rewards. For example, players might get special items, skins, or badges based on their achievements from the previous cycle.
+
+4. **Yearly Summaries**: At the end of the year, players could receive a summary of their accomplishments, stories, or statistics from that year.
+
+5. **Persistent Elements**: Even if the game resets, some elements might persist based on player achievements or choices from the previous year. This way, players still feel like their actions have lasting consequences.
+
+6. **Narrative Explanation**: Integrate the reset into the game's narrative. Maybe there's a lore-based reason why the world "resets" every year. This could be a mysterious force, a deity's decision, or a natural phenomenon.
+
+7. **Watch Synchronization**: Given that you also want to create a tie-in watch, the watch can also reset or have special animations/signals to indicate the game's annual reset. Maybe it plays a special tune or has a light display at midnight on December 31st.
+
+8. **Global Leaderboards**: If your game has any competitive elements, you can have leaderboards that reset annually. Players could strive to achieve high ranks or scores before the year's end.
+
+9. **Time Capsules**: Allow players to create a time capsule at the end of the year with messages, items, or memories. These capsules can then be opened when the game starts anew, providing a nostalgic connection to the past cycle.
+
+10. **Promotions**: To encourage player engagement, you could have promotions or special events leading up to the reset. This would be a great time to bring back inactive players or attract new ones.
+
+By incorporating an annual reset, you introduce a unique element to your game that can create a sense of urgency, nostalgia, and continuity all at once.

@@ -1,0 +1,85 @@
+I’m generally sympathetic to deontological ethics, especially rights theory. But some years ago, I discovered this paradox for deontological ethics (from Fake Nous).*
+
+[* “A Paradox for Weak Deontology,” Utilitas 21 (2009): 464-77.]
+.
+1. Background
+.
+There is a core type of intuition that drives many deontologists: There are certain ways of harming a person that are thought to be impermissible, even if they would create a larger (but comparable) benefit or prevent a larger (but comparable) harm of the same kind for someone else.
+
+ For instance, it’s wrong to murder an innocent person, even if doing so would somehow save two innocent lives. It’s wrong to steal money from someone, even if doing so would let you give twice as much money to someone else. It’s wrong to torture someone, even if doing so would stop someone else from being tortured twice as much.
+
+That isn’t all of deontology, but it is a very important, prominent, and widely accepted part of deontological ethics.
+
+This, by the way, is not supposed to apply to all harms. E.g., some say that it matters whether a harm is aimed at (either as an end or a means) or is instead merely a foreseen side effect of an action. Aiming at harm is said to be worse. Thus, e.g., some think that in war, you can bomb a military target, even if doing so causes collateral damage, as long as the overall benefits outweigh the harms. However, you cannot expressly target civilians (killing the same number of civilians as in the collateral damage case), even if doing so produces greater overall benefits than harms.
+
+So let’s say that a “proscribed harm” is the kind of harm that you’re not allowed to cause, even if it produces a greater, comparable benefit for others. This might involve a harm that is aimed at, or that treats someone as a mere means, or something like that.
+.
+ 2. The Problem
+.
+Example 1: Torture Transfer
+
+ You’re visiting Guantanamo Bay one day, and you somehow get separated from the tour group. You happen upon a room where two people are being unjustly tortured. Call them P1 (for “prisoner 1”) and P2. P1 and P2 are hooked up to a device that passes a painful electric current through their bodies, causing each to suffer, say, 5 units of pain.
+
+You are unable to release either prisoner, nor can you shut off the machine. However, there are two switches on the torture device, S1 and S2. Somehow, you figure out that if you flip S1, it will increase the P1’s torture by 1 pain unit, but it will also decrease P2’s torture by 2 pain units. If this matters to you, assume that the increase to P1’s torture will serve as a means to reducing P2’s pain (e.g., the switch would not work unless someone was in P1’s chair and receiving an increment in torture). Similarly, if you flip S2, it will increase P2’s torture by 1 unit, as a means to decreasing P1’s torture by 2 units.
+
+Your only options are to flip only S1, flip only S2, flip both switches, or flip neither. See the diagram (negative numbers represent more pain; positive numbers represent relief from pain).
+
+ What should you do?
+
+On standard deontological views, it is wrong to flip S1, since this tortures P1 (more), as a means to reducing P2’s torture. Similarly, it is wrong to flip S2.
+
+However, it seems that it is not wrong to flip both S1 and S2, since doing so reduces both prisoners’ torture.
+
+In other words, it looks as if what you should do depends on how you individuate actions: If you look at S1 and S2 as separate actions, both are wrong, so you can’t do either. But if you consider “flipping S1 and S2” as a single action, that action is permissible and perhaps obligatory, since it reduces 2 people’s torture without causing any other harm.
+
+But the permissibility of some behavior cannot depend on our method of individuating actions, since there is no objective fact as to whether “flipping S1 and S2” is really one action or two.
+
+Example 2: Bank Transfer
+
+ This is like the previous case, but with theft instead of torture. Say you’ve managed to hack into a bank, and you want to help two bank customers by giving them extra money in their accounts. For some odd reason, you can’t just do this directly. Rather, you have a hack H1 that will steal $1 from customer C1 but simultaneously give $2 to customer C2. You also have a hack H2 that will steal $1 from C2 in order to give $2 to C1. (If you’re worried about counterfeiting or causing inflation, assume that the extra dollar in each case will be deducted from your own bank account, so there will be no change in the total money supply.)
+
+As mentioned earlier, it is wrong to steal from someone, even if doing so lets you give more money to someone else. So it seems that it is wrong to initiate H1. Similarly, it is wrong to do H2.
+
+However, it is fine to do (H1+H2), the combination hack, which merely enriches C1 and C2 by $1 each. (See diagram again.)
+
+ Generalization
+
+In general, assume that there is some way of harming a person, such that it’s impermissible to harm someone in that way, even if doing so prevents a greater harm of the same kind to others. Then it seems that you could imagine a collection of actions, each of which taken by itself harms a person in the proscribed way, but where the collection benefits everyone and leaves no one worse off in any respect.
+
+It’s counter-intuitive to say that a set of actions that benefits some people while leaving no one worse off in any respect is wrong. It’s also counter-intuitive to say that each of the individual actions could be wrong, yet the whole set be permissible. So there’s pressure to say that each individual action is permissible, and thus that it is not wrong to harm a person as a means to benefitting someone else by a greater amount.
+.
+3. Solutions
+.
+That’s it. I don’t have a good solution. But I can’t leave without addressing the most obvious solution you might think of.
+
+The most obvious solution is to modify your deontological theory so that the individual actions are not deemed wrong in the above cases. Thus, we might say that it is wrong to harm another person in certain ways, unless one is also going to perform (or has already performed) another action (or series of actions) such that the set of actions leave the victim no worse off in any respect. This would have the consequence that S1, S2, H1, and H2 are permissible.
+
+Basically, the claim is that it’s okay to do S1 because you’re also going to do S2, and it’s okay to do S2 because you already did S1. So we avoid saying that two wrongs make a right, so to speak, and we avoid giving different evaluations of the behavior depending on how actions are individuated.
+
+Though this is natural on its face, it will force us into some weird implications in other cases. Suppose that you’re in the torture room, as in the Torture Transfer case above. This time, however, you see that someone has already flipped S1. You’re unfortunately suffering from some memory problems, and you can’t remember whether it was you who flipped S1 or someone else. Is it permissible to flip S2?
+
+It’s bizarre to think that it makes a huge difference whether the S1-flipper was you or someone else—that you have to figure that out before you decide whether to flip S2. But that is what our above formulation of deontology implies. (Suppose that you and a friend are both in the torture room, and you agree that you should flip both switches. It would be bizarre to think it makes a big difference whether the same person flips both or instead each of you flips one of the switches.)
+
+Suppose we fix that. We could say that it’s permissible to harm one person to produce a benefit for someone else, as long as your action would be part of a series of actions (by any set of people) that would collectively leave the victim no worse off.
+
+Now imagine that you’re in the torture room again, and you see that S1 has been flipped. But this time, you are unsure whether S1 was flipped by a human being, or instead got flipped by a machine malfunction, or instead S1 just started out in its current position (so prisoner P1 started out getting more intense torture than P2). It’s also quite strange that it should make a huge difference which of these things is the case. (Imagine that you were planning on flipping both S1 and S2, but just as you were reaching out to flip S1, a machine malfunction made S1 flip by itself. It would be bizarre to think that now you can’t flip S2.)
+
+ Suppose we modify the deontological principle to agree with that too. Then we wind up saying that it’s okay to harm one person to produce a greater benefit for another person, as long as the beneficiary started out worse off than the victim in the given respect.
+
+But I’m highly confident that it doesn’t matter who started out better off (it’s not the case, e.g., that unhappy people have more stringent rights than happy people).
+
+So a consequentialist would say:
+
+- It doesn’t matter (to the permissibility of flipping S2) whether you previously flipped S1 or someone else flipped it.
+
+- It doesn’t matter whether another person flipped S1 or a machine malfunction flipped it.
+
+- It doesn’t matter whether S1 was flipped by a machine malfunction or just started out flipped.
+
+- It doesn’t matter whether one person starts out worse off than another or not.
+
+- So it doesn’t matter whether S1 has been flipped or whether the two prisoners are instead in the same situation.
+
+- So it’s permissible to flip S2, regardless of whether S1 has been flipped.
+
+With that, we would be abandoning the deontological constraint.

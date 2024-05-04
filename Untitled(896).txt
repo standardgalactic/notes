@@ -1,0 +1,240 @@
+Dynamic Topical Markedness
+
+** Preschool: cat, dog, ball, apple, car, moon, sun, mom, dad
+
+Elementary: bicycle, teacher, pencil, paper, book, flower, butterfly, grass, tree
+
+Janitor: janitor, custodian, maintenance, repair, equipment, schedule, budget, supervisor, inventory
+
+Catchumen: conundrum, enigma, anomaly, dichotomy, paradox, quandary, concomitant, aberration, aberrant
+
+Acolyte: acolyte, ordination, sacerdotal, liturgical, ecclesiastical, canonical, sacrosanct, episcopal, apostolic
+
+Neuromancer: neuromancer, incantation, invocation, evocation, divination, augury, portent, haruspex, neuromancy **
+
+Preschool: cat, dog, ball, apple, car, moon, sun, mom, dad
+
+These are common and simple words that are often used by children at a young age.
+
+Elementary: bicycle, teacher, pencil, paper, book, flower, butterfly, grass, tree
+
+These are slightly more complex words that are often used in an elementary school setting.
+
+Janitor: janitor, custodian, maintenance, repair, equipment, schedule, budget, supervisor, inventory
+
+These words are related to the work of a janitor, and would be familiar to someone who works in that field.
+
+Catchumen: conundrum, enigma, anomaly, dichotomy, paradox, quandary, concomitant, aberration, aberrant
+
+These words are more advanced vocabulary and would be familiar to someone who is well-read and educated.
+
+Acolyte: acolyte, ordination, sacerdotal, liturgical, ecclesiastical, canonical, sacrosanct, episcopal, apostolic
+
+These words are related to religion and would be familiar to someone who has studied theology or is involved in a religious institution.
+
+Neuromancer: neuromancer, incantation, invocation, evocation, divination, augury, portent, haruspex, neuromancy
+
+These words are related to the field of neuromancy or magic and would be familiar to someone who has studied the occult or is interested in fantasy literature.
+
+** Ok I want a few more titles and examples like this (vocabulary levels, topical markedness) for higher levels, including algebra, trigonometry, stoichiometry, critical thinking skills, symbolic logic operator competence, visual complex analysis, multidimensional geometric vector chaining, and graduate quantum physics. **
+
+Sure, here are some examples for the levels you mentioned:
+
+Algebra: variable, equation, coefficient, polynomial, factorization, quadratic, exponent, logarithm, radical
+
+Trigonometry: sine, cosine, tangent, radian, degree, triangle, inverse, identity, function
+
+Stoichiometry: mole, mass, formula, reaction, limiting, excess, yield, empirical, molecular
+
+Critical thinking skills: analysis, evaluation, inference, interpretation, explanation, reflection, deduction, induction, argumentation
+
+Symbolic logic operator competence: proposition, truth value, negation, conjunction, disjunction, conditional, biconditional, tautology, contradiction
+
+Visual complex analysis: complex number, real part, imaginary part, modulus, argument, polar form, exponential form, Cauchy-Riemann equations, conformal mapping
+
+Multidimensional geometric vector chaining: vector, scalar, dot product, cross product, projection, orthogonal, parallel, plane, hyperplane
+
+Graduate quantum physics: wave function, Schrödinger equation, Hamiltonian, uncertainty principle, angular momentum, spin, superposition, entanglement, quantum field theory
+
+** Hmm the last one is more like undergraduate level, could I get more mathematical concepts like quaternions, octonions, dynamic Markov blankets, topology optimisation, variational energy minimization, and principal components analysis? **
+
+Sure, here are some vocabulary test levels for the mathematical concepts you mentioned:
+
+Quaternions:
+
+Quaternion, scalar, vector, imaginary, real, unit, norm, conjugate, rotation
+
+Octonions:
+
+Octonion, Cayley-Dickson construction, normed division algebra, exceptional Lie groups, triality
+
+Dynamic Markov blankets:
+
+Dynamic systems, probabilistic graphical models, Bayesian networks, hidden Markov models, state space models, time series analysis, machine learning, statistical inference
+
+Topology optimization:
+
+Topology, optimization, engineering design, finite element analysis, gradient-based optimization, level set method, sensitivity analysis, shape optimization, structural analysis
+
+Variational energy minimization:
+
+Variational calculus, energy minimization, partial differential equations, calculus of variations, functional analysis, optimization, Lagrange multipliers, boundary value problems
+
+Principal component analysis:
+
+Principal component analysis, multivariate statistics, linear algebra, data analysis, dimensionality reduction, eigenvalues, eigenvectors, covariance matrix, factor analysis
+
+**Ok here are the levels or gradations of the system, could I get some more imaginative and creative names for each "grade" based on science fiction and fantasy? **
+
+Sure, here are some imaginative and creative names for the grades:
+
+Preschool: Little Explorers
+Elementary: Apprentice Adventurers
+Janitor: Space Janitors
+Catchumen: Arcane Scholars
+Acolyte: Cosmic Disciples
+Neuromancer: Mind Wizards
+Algebra: Quantum Alchemists
+Trigonometry: Dimension Travelers
+Stoichiometry: Elemental Enchanters
+Critical thinking skills: Rational Jedi
+Symbolic logic operator competence: Logic Sorcerers
+Visual complex analysis: Illusion Mages
+Multidimensional geometric vector chaining: Spatial Navigators
+Graduate quantum physics: Quantum Magisters
+Quaternions: Hyperdimensional Knights
+Octonions: Dimensional Sorcerers
+Dynamic Markov blankets: Probability Conjurers
+Topology optimization: Geometric Architects
+Variational energy minimization: Energy Benders
+Principal components analysis: Data Psychics
+
+** Ok not bad, you can use rare words and just use a simple one word title for each:
+
+Preschool
+Elementary
+
+-- junior high --
+Janitor
+
+-- high school --
+Catchumen
+Acolyte
+Neuromancer
+
+-- University undergraduate-- 
+1.
+Algebra
+Trigonometry
+Stoichiometry
+Critical thinking skills
+
+2.
+Symbolic logic operator competence
+Visual complex analysis
+
+3.
+Multidimensional geometric vector chaining
+
+4.
+Quantum wave mechanics
+
+-- Graduate --
+Quaternions
+Octonions
+Dynamic Markov blankets
+Topology optimization
+Variational energy minimization
+Principal component analysis
+Lambda calculus with categorical type theory **
+
+Sure, here are some suggestions:
+
+Preschool
+Elementary
+
+-- Junior high --
+Janitor
+Necromancer
+
+-- High school --
+Sorcerer
+Wizard
+Jedi
+
+-- University undergraduate--
+1.
+Enchanter
+Mage
+Sage
+Savant
+
+Oracle
+Alchemist
+
+Geomancer
+
+Quantum mystic
+
+-- Graduate --
+Elder scroll
+Mathematical mage
+Reality bender
+Topology mage
+Energy wizard
+Principal sorcerer
+Lambda lord
+
+** Now some new levels for doctorate level competence, taking inspiration from freemasonry and the books of Steven R Lawhead? 12 levels.**
+
+Sure, here are 12 levels inspired by freemasonry and the books of Steven R Lawhead:
+
+Entered Apprentice
+Fellowcraft
+Master Mason
+Scottish Rite
+Knight Templar
+York Rite
+Grand Lodge
+Grand Cross
+Grand Commander
+Supreme Council
+Royal Arch
+Sovereign Grand Inspector General
+
+** Ok no, they don't sound technical and misterious enough I was thinking words like Talieson and Pendragon, also taking inspiration from d&d and age of empires. **
+
+Certainly, here are some potential names for doctorate level competence, inspired by Freemasonry, Steven R. Lawhead's books, D&D, and Age of Empires:
+
+Neophyte
+Initiate
+Apprentice
+Journeyman
+Master
+Magus
+Archon
+Hierophant
+Sorcerer
+Archmage
+Taliesin
+Pendragon
+
+These names evoke a sense of mystique and arcane knowledge, which might be fitting for advanced academic levels.
+
+** Explain number 11 and 12. Talieson and Pendragon, etymologically and historically. Show your work. **
+
+Taliesin and Pendragon are both names from Welsh mythology and history.
+
+Taliesin was a legendary Welsh bard who lived in the 6th century AD. His name means "shining brow" or "radiant forehead" in Welsh, and he is often associated with the Mabinogion, a collection of Welsh stories and legends. Taliesin is known for his poetry, which is rich in symbolism and often incorporates themes of nature and the supernatural.
+
+Pendragon is a title that was traditionally given to the ruler of Britain. The name comes from the Welsh word "pen" (meaning "head" or "chief") and "draig" (meaning "dragon"). The Pendragon was seen as a powerful leader who could command the loyalty of the various tribes and kingdoms of Britain, and was responsible for defending the land against invaders.
+
+In modern times, both Taliesin and Pendragon have been popularized by works of fiction.
+
+In Steven R. Lawhead's Pendragon Cycle, for example, Taliesin is portrayed as a wise and powerful druid who helps guide the hero, King Arthur, on his quest to unite Britain. 
+
+Pendragon, meanwhile, is used as a title for Arthur himself, reflecting his status as the "head dragon" or leader of the kingdom.
+
+In D&D and Age of Empires, Taliesin and Pendragon may be used as names for powerful characters or units, reflecting their mythological and historical associations with wisdom, leadership, and martial prowess.
+
+𝘊𝘩𝘢𝘵𝘎𝘗𝘛 𝘔𝘢𝘳 23 𝘝𝘦𝘳𝘴𝘪𝘰𝘯. 𝘍𝘳𝘦𝘦 𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘗𝘳𝘦𝘷𝘪𝘦𝘸. 𝘊𝘩𝘢𝘵𝘎𝘗𝘛 𝘮𝘢𝘺 𝘱𝘳𝘰𝘥𝘶𝘤𝘦 𝘪𝘯𝘢𝘤𝘤𝘶𝘳𝘢𝘵𝘦 𝘪𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯 𝘢𝘣𝘰𝘶𝘵 𝘱𝘦𝘰𝘱𝘭𝘦, 𝘱𝘭𝘢𝘤𝘦𝘴, 𝘰𝘳 𝘧𝘢𝘤𝘵𝘴.

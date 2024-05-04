@@ -1,0 +1,93 @@
+
+
+Personal User-interface for Creative Backscatter and mathematical compression of musical alphabet literature of WETWARE: a large language model for recursive-holographic-steganography of entoptic phenomena.
+
+The compressor of compressors theory of consciousness, art, science, and intelligence, according to Wojciech Zaremba and Jurgen Schmidhuber.
+
+For several years after their discovery, the primary 
+importance of the recursion relations followed from 
+February 2018Notices of the AMS167 
+THE GRADUATE STUDENT SECTION 
+the fact that they yield incredibly more compact—and 
+physically more transparent—representations for tree- 
+level amplitudes. Processes that would have required 
+more Feynman diagrams than atoms in the universe 
+could now be represented by a single diagram. Another 
+surprising feature of these relations was the discovery 
+that individual terms enjoy much more symmetry than 
+anyone had anticipated. These new symmetries were 
+shown to hold for amplitudes, and were later identif i ed 
+with a Yangian Lie algebra. 
+Another key breakthrough came in 2009, when physi- 
+cists discovered that the graphs arising in Figure 1 could 
+be related to volume-forms on certain sub-varieties of 
+Gr≥0(𝑘,𝑛)—the “nonnegative” portion of the Grassman- 
+nian of 𝑘-dimensional subspaces of ℝ𝑛, 
+to be def i ned 
+momentarily. Here, 𝑛,𝑘 are determined by the graph: 𝑛 is 
+the number of external edges, and 𝑘 = 2𝑛𝐵+ 𝑛𝑊− 𝑛𝐼− 2 
+for a graph with 𝑛𝐵,𝑛𝑊blue and white vertices, re- 
+spectively, and 𝑛𝐼internal 
+edges. (The correspondence 
+between these graphs and the totally nonnegative Grass- 
+mannian was fully understood by mathematicians, such 
+as Postnikov, considerably before physicists stumbled 
+upon it independently.) The physical implications of this 
+correspondence, together with its generalization to all 
+orders of perturbation, can be found in [2]. 
+Given the correspondence between the terms gener- 
+ated by BCFW (and its all-orders generalization) and the 
+Grassmannian, it was natural to wonder if a more in- 
+trinsically geometric picture existed. Specif i cally, can the 
+recursion relations be literally viewed as ‘triangulating’ 
+some region in the Grassmannian? And if so, can this 
+space be def i ned intrinsically—without reference to how 
+it should be triangulated? In 2013, Arkani-Hamed and 
+Trnka proposed the amplituhedron as the answer to both 
+questions for the case of amplitudes in planar, maximally 
+supersymmetric Yang-Mills theory [1]. 
+Let us now turn to giving a precise mathematical 
+def i nition of the amplituhedron, in the 0 loop “tree” case. 
+(The ℓ loop amplituhedron for ℓ > 0 has a def i nition 
+which is similar but somewhat more complicated; we will 
+not discuss it further.) Let 𝑁 ∈ Mat(𝑘 × 𝑛) be a 𝑘 × 𝑛 
+matrix of real numbers, with 𝑘 ≤ 𝑛. As we recall from 
+linear algebra, the rows of 𝑁 determine a subspace of 
+ℝ𝑛called its row space. If the row space is 𝑘-dimensional 
+(the maximum possible), we say that 𝑁 has full rank. Two 
+full-rank matrices 𝑁1and 𝑁2have 
+the same row space 
+if for some 𝐿 in the space of 𝑘 × 𝑘 invertible matrices, 
+𝐿.𝑁1= 𝑁2. Clearly, any 𝑘-dimensional subspace of ℝ𝑛 
+arises as the row space of some full-rank matrix; so the 
+collectionofall𝑘-dimensionalsubspacescanbedescribed 
+asMatfull(𝑘×𝑛)/𝐺𝑀(𝑘).ThisistheGrassmannianGr(𝑘,𝑛). 
+The next ingredient required to def i ne the amplituhe- 
+dron is the notion of positivity in the Grassmannian. A 
+maximal minor of a matrix 𝑁 ∈ Mat(𝑘 × 𝑛) is the deter- 
+minant of the 𝑘 × 𝑘 submatrix obtained from taking a 
+subset of 𝑘 of the columns, in the order they appear in 
+the matrix. The totally positive Grassmannian, denoted 
+Gr>0(𝑘,𝑛), is the subspace of the Grassmannian for which 
+all maximal minors have the same sign. The totally non- 
+negative Grassmannian, Gr≥0(𝑘,𝑛), is def i ned in the same 
+way, except that we also allow some minors to vanish. 
+The totally nonnegative Grassmannian was studied by 
+Postnikov as a concrete instance of Lusztig’s theory of 
+total positivity for algebraic groups. It is topologically 
+equivalent to a ball, and has a beautiful cell structure that 
+can be indexed by decorated permutations (permutations 
+of 𝑆𝑛with one extra bit of information for each i xed 
+point). Importantly, cells in this ‘positroid’ stratif i cation 
+can be endowed with cluster coordinates and a natural 
+volume form. 
+We now have everything required to def i ne the tree 
+amplituhedron. It is indexed by three integers, 𝑛, 𝑘, and 
+𝑑, and a totally positive 𝑛 × (𝑑 + 𝑘) matrix 𝑃. From the 
+point of view of physics, 𝑛 is the number of particles, 
+𝑘, def i ned above in the context of graphs, encodes the 
+total helicity l ow, 𝑑 is the space-time dimension, and 𝑃 
+encodes the momenta and helicities of the particles. Let 
+𝑁 ∈ Gr≥0(𝑘,𝑛) vary. The amplituhedron 𝒜, as def i ned 
+by Arkani-Hamed and Trnka [1] is simply the total image 
+locus,

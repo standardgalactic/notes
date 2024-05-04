@@ -1,0 +1,128 @@
+AI and Robotics – A Brief History
+
+1950 — A neurophysiologist, Walter, built wheeled automatons to experiment with goal-seeking behavior. They are considered the first robots that were programmed to “think” the way humans do.
+
+1951 — Squee: The Robot Squirrel uses two light sensors and two contact switches to hunt for,” nuts” (actually, tennis balls) and drag them to its nest. The original Squee prototype is in the permanent collection of the Computer History Museum.
+
+
+Some
+important
+lessons for
+radiomen are
+earried by this
+Light Sensitive
+ELECTRONIC BEAST
+By EDMUnD C. BERKELey
+N the cover ot this issue of cireuits for mechanical braing and ro-
+bots. This method is the aigeòra of
+RADIO- ELASCTRONICS is a pic-
+log ic, also called Boolean algeira. The
+ture of a amall robot which
+engineers at Northrop Aireraft Co. in
+has four sensing organs, three
+California, who designed the electrie
+acting organs, and a small electronic
+brain Maddida, say they have given up
+and relay brain. His name is Squee, the
+Robot Sqnirrel. What he docs is roll drawing eireuit diagrams in many
+along the floor, hunt for "nuts," pick places because Boolean algebra does a
+up a "nut" in his scoop, take it over to better job.
+I f this series of two articles the main
+his "nest," lcave it there, and then hunt
+N
+O.DRUN
+emphasis will be on Boolean algebra:
+for more nuts.
+w0TOA
+Although Squee is not a very clever what it is, how you can calculate with
+robot, he does have small amount of it, and how it ean be used in practice.
+a
+memory and of rensoning abillty, and The secondary emphasis will, be on Fig.
+Tee are the squirrel's motor
+he is a elose cousin of his predecessor , S quce. But first a few more words about
+orkans
+Squee.
+Simon, the Midget Electric Brain. Sim-
+W hy did Edmund C. Berkeley and holdine ai soeing the wheel, and two
+en was the main subject of a series of
+ng free. He mounted
+thirteen articles in RADIO-FL STRONICH A ssociates build Squee? Well, last year rear w h
+Bob Jensen and I read some articles tabes meiags. and batteries. By October,
+[rom Oetober, 1950, to October, 1451,
+a hout a mechanieal tortoise made in 1858, the a e was responsive to
+by Robert À. Jensen and this author.
+e a t one kind' of light).
+iehe
+Bristol, England, by Dr. W. Grey
+There are a number of interesting
+ands." In March, 1951,
+Walter at the Burden Neurological In- It se tat mn
+things abont S quee, himself, but the
+mitment to exhibit
+ae
+stitute. We said to ourselves, "Let's
+wre
+most important of them is that he is
+Sqmee at the Minnesota
+in many ways a g ood illustration of a make a robot like that-but have him
+st 25 to September 3,
+powerful new method for the design of do something a little more clever." So S tate Fe.
+of The Dayton Co.,
+came up with the ides ofa squirrel uode
+we
+met store of Minneapo-
+lares
+g a thering nuts; and decided to make
+o
+TOwsUe"
+is Th pges chat had started as fun
+a robot squirrel.
+Cwww
+A
+mess. We undertook in
+Squee was constructed mainly through b ecae od
+the efforts of three men- Robert A. ecamnest he wei of making thei ma-
+Jensen (until he re-entered the Air
+second kind. Of light,
+LOT EXE"
+the needed hands., The
+METAL
+and Force Jack in June, Koff. Bob 1951), jensen William made Szabo, the
+PRE
+TwO mHorpruSES CONTACT
+scoop and the nest light
+mtribution-of Szabo, and
+as e
+Fig. 1-The electronie sensory organs skeleton, a framework holding a front
+the Enai cugetãon, testing, and: modi-
+wheel for driving, a pivoted column
+of Squee.
+RADIO-ELECTRONICS for
+
+By Dag Spicer:
+
+Squee was the idea of early computing popularizer Edmund Berkeley. Berkeley began working as an actuary for Prudential Insurance but quickly rose to prominence for two reasons: one, he co-founded the Association for Computing Machinery in 1947, still the world’s leading body for computer science professionals; and secondly, he wrote the hugely popular book Giant Brains or Machines That Think (1949). Two years later, in Radio-Electronics magazine, Berkeley published plans for what is perhaps the world’s first personal computer, Simon.
+
+Simon is in CHM’s permanent collection and is on display in our major exhibition Revolution: The First 2,000 Years of Computing. Simon was based on relay logic (129 relays) and, as Jack Koff noted in his visit, most of the parts used were from the vibrant WWII surplus shops on Canal Street in New York City. Described as a ‘mechanical brain,’ Berkeley envisaged many people building Simon-like machines:
+
+Simon may start a fad of building baby mechanical brains, similar to the hobby of building crystal radio sets that swept the country in the 1920s.
+
+It is unknown how many Simons were built, but it was an ambitious construction project and by 1959, over 400 plans had been sold. The first one was built by two electrical engineering graduate students at Columbia University.
+
+Squee, The Robot Squirrel, was the featured construction project on the cover of the December, 1951 issue of Radio-Electronics. Jack Koff was one of three assistants Berkeley hired. As Koff recalls:
+
+I was an undergraduate at City College of New York and I went past the electrical engineering department bulletin board one day and I noticed an ad for… somebody’s looking for an engineering student to work on a robot. This is great. I had no idea what I was getting into…I applied for the job, had no trouble getting the job. So Berkeley said to me: ‘Here’s the robot, get it to work.’ So I took it home and worked on it at home… I’d go to Berkeley’s office maybe once a week… all the work was done at my home in an apartment in the Bronx… most of the parts existed. This thing was constructed but it didn’t run, it wasn’t reliable. I put in the circuitry that it needed.
+
+CHM’s Squee “has been modified quite a bit,” Koff notes, although the 60-year old yellow paint Koff himself applied still looks good. Squee owed an intellectual debt to a similar series of robot—called ‘turtles,’ known as Machina speculatrix, (but nicknamed Elmer and Elsie) and developed by British neuroscientist Grey Walter in 1948-49. Berkeley wanted to emulate Walter’s robots and describes how Squee worked:
+
+electronic robot squirrel. It contains four sense organs (two phototubes, two contact switches), three acting organs (a drive motor, a steering motor, and a motor which opens and closes the scoop or “hands”), and a small brain of half a dozen relays. It will hunt for a “nut”. The “nut” is a tennis ball designated by a member of the audience who steadily holds a flashlight above the ball, pointing the light at Squee. Then Squee approaches, picks up the “nut” in its “hands” (the scoop), stops paying attention to the steady light, sees instead a light that goes on and off 120 times a second shining over its “nest”, takes the “nut” to its “nest”, there leaves the nuts, and then returns to hunting more “nuts”. When Squee is operating, it is a dramatic and exciting example of a robot. It has been exhibited in New York, Pittsburgh, and Minneapolis, and has always entertained and excited the audience. The machine however is sensitive to the surrounding light level, and usually has to be shown in a room about 8 by 10 ft. with only a small amount of overhead light and black curtained walls. Data: completed; rather well finished but not professionally; 75% reliable; maintenance, difficult; our costs, about $3,000. [1].
+
+As Koff notes, however, CHM’s Squee now has its head backwards—the two ‘eyes’ (photocells) are pointing to the rear instead of forward. We plan to rotate the photocells in the near future.
+
+What did people think of robots at the time?
+
+PEOPLE, I GUESS, THOUGHT OF ROBOTS AS THIS GIANT WALKING MACHINE… SIMILAR TO ELEKTRO AT THE 1939 WORLD’S FAIR.
+
+Elektro was a gaint 7 foot tall remotely-controlled humanoid robot that could say 700 words, smoke, blow up balloons and move his head and arms. The next year, “Sparko,” the robot dog appeared and he could bark, sit and beg. Clearly Squee is part of this tradition of animating animals and people using electromechnical technology. From the earliest days of robotics, people have been delighted, afraid and intrigued by robots. Squee was one of the first.
+
+

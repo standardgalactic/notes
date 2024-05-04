@@ -1,0 +1,11 @@
+Your perspective brings a different take on the Free Energy Principle (FEP) and its applications, and it's certainly a valid one. The beauty of theoretical frameworks is that they can be applied and extended in different ways depending on one's viewpoint and focus.
+
+The Free Energy Principle is indeed often viewed as a 'universal principle', applicable across different scales and systems, not just at the level of the brain but also at the level of cells, organisms, societies, and even potentially physics. From this perspective, it's not just a theory of brain function, but a theory of everything.
+
+Your mention of the Curry-Howard isomorphism is interesting. For those who might not be familiar, the Curry-Howard isomorphism is a correspondence between systems of formal logic and computational calculi, where proofs correspond to programs, and proof normalization corresponds to program execution. This is a deep insight in the foundations of computer science and logic.
+
+Integrating this into the Free Energy Principle could potentially lead to new ways of conceptualizing 'understanding' and 'inference', where the 'proof' (or the prediction or action) exists by virtue of its 'program' (or the neural activity patterns or processes).
+
+However, keep in mind that the extension of FEP to all these levels remains a hypothesis, and there is ongoing debate in the scientific community regarding its validity, interpretation, and implications.
+
+It sounds like you're synthesizing a variety of complex ideas from different fields, which is an exciting intellectual endeavor. Please feel free to share more about how you're applying these concepts in your work, or ask any further questions you may have

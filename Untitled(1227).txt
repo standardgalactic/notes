@@ -1,0 +1,54 @@
+What is this conversation about?
+
+Thomas von Braun
+1h
+One of my interesting open-source work
+projects is building out a zk-SaaS network
+In short, prove to me f(x) = y without telling
+me x, as a service. The applications for
+this are endless. Zero Knowledge is the
+future of zero-trust.
+6
+6 comments . 1 share
+
+Joe Mauriello
+How does that work?
+1h
+Like
+Reply
+Thomas von Braun
+Joe Mauriello depends on the
+method. In general, you map
+the statement you're trying to
+prove into polynomials then
+take advantage of the
+mathematical properties of
+those polynomials to work the
+mathemagic.
+26m
+Like
+Reply
+Joe Mauriello
+Can you give a simple
+example?
+23m
+Like
+Reply
+Thomas von Braun
+Joe Mauriello plonk
+21m Like Reply
+Thomas von Braun
+A hello world example is
+proving the existence of a
+hash preimage without
+showing the preimage
+20m Like Reply
+Thomas von Braun
+So, you could do a zero
+knowledge password proof by
+doing a hash preimage proof
+of the argon2 password hash
+function.
+20m
+Like
+Reply

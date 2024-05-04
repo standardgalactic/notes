@@ -1,0 +1,67 @@
+
+FORBES INNOVATION CYBERSECURITY
+
+Law Enforcement Issues iOS 17 Security Warning Over NameDrop Feature
+
+Davey Winder
+
+Senior Contributor
+
+Veteran cybersecurity and tech analyst, journalist, hacker, author
+
+
+Nov 27, 2023,04:55am EST
+
+Should you be concerned about NameDrop security?
+
+NURPHOTO VIA GETTY IMAGES
+
+The Oakland County Sheriff's Office took to Facebook on November 26 to warn about the iPhone NameDrop feature in iOS 17. It wasn’t the only law enforcement agency to issue the same security and privacy warning on Thanksgiving weekend. Police departments in Carmi, Illinois; Middletown, Ohio; Watertown, Connecticut; Jefferson Hills, Pennsylvania; Fort Smith, Arkansas also spread the safety message. But is NameDrop actually a danger to anyone, or is law enforcement guilty of spreading fear, uncertainty and doubt?
+
+
+
+What Warning Has Law
+Enforcement Issued About The ioS
+17 NameDrop Feature
+Oakland County Sheriff's Office
+17h.6
+IPHONE PRIVACY INFORMATION
+If you have an iPhone and have completed the recent iOS 17 update, they have set a feature
+called "NameDrop" to default to ON after completing the update.
+This feature allows you to share your contact information by being next to another iphone. In that section, you can also limit who can be the recipient of your AirDrop.
+To shut this off go to Settings, General, AirDrop, Bringing Devices Together. Change to OFF.
+
+And yes, we know that it allows you to share it and you can refuse but many people do not check their settings and realize how their phone works. This particular setting defaults to on
+rather than have you opt in. And again, it is the area where you also decide who can access
+AirDrop.
+
+PARENTS: Don't forget to change these settings after the update on your children's phones as
+well.
+
+The NameDrop warning that various law enforcement
+
+Namedrop actualy danger lu
+anyone, or is law enforcement guilty
+of spreading fear, uncertainty and
+doubt?
+
+
+The NameDrop warning that various law enforcement [+]META
+
+The various postings, which seem to be focused mainly on Facebook, all follow what appears to be the same template. This warns iPhone users who have updated to iOS 17 that the NameDrop feature defaults to an on setting and could “share your contact information by being next to another iPhone.” What makes the warning more ominous is the inclusion of a footnote aimed squarely at parents, which gives the impression that children are in particular danger if this setting is not changed.
+
+
+The Truth About The iPhone iOS 17 NameDrop Feature
+
+While there is some truth in the idea that a stalker or other malicious actor could access your contact details using the NameDrop feature, it’s a very tenuous truth. That person would require physical access to your unlocked iPhone to allow the receipt of the contact data, and, as it’s always worth repeating, if someone has access to an unlocked device, then it’s game over as far as privacy is concerned.
+
+The real truth is that, despite its default on position, the NameDrop feature isn’t just going to throw your contact details at any passing person with an iPhone. Not only do the iOS 17 smartphones need to be close to each other, but they need to be so close as to be actually touching, but touching in the right place. Which means the very top of the phone so that Near Field Communication can work. That alone should calm the fears of most rational users, but if you are still concerned, the safeguards don’t end there.
+
+Skip Ad
+
+￼￼￼￼￼￼￼
+
+Once that NFC iPhone contact is made, a set of NameDrop options will appear on the screens of both devices. These options are to receive only or share. If both users select the former, then neither gets anything; if one does then they get your shareable details, and if both opt for share then a contact data swap is initiated.
+
+Do you want more reassurance? Okay, so the contact data that is shared using NameDrop is only that which is contained within a contact card you have created. In other words, you completely control the information to be shared. Oh, and if you don’t stay in very close proximity to the other user during the sharing process, it will be abandoned anyway. Apple itself acknowledges this: “To cancel, move the two devices away from each other or lock your iPhone before the NameDrop transfer completes.”
+

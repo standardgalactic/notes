@@ -1,0 +1,44 @@
+The Unreadability of Dynamic Readability: An Explicit Specification of a Conceptualization
+
+Abstract:
+
+This tantalizingly tautological treatise takes a jaunty jaunt into the jungle of jargon-laden scientific discourse. 
+
+Through a laser-focused analysis of the pernicious penchant for obscurantism in the world of academia, we illuminate the
+illuminated, decode the encoded, and put the 'fun' back in fundamentally incomprehensible scholarly texts.
+
+Introduction:
+
+Have you ever plunged headfirst into the opening paragraph of a peer-reviewed paper, only to discover that, halfway down the page, your cognitive faculties have staged a silent revolt, rejecting the influx of multisyllabic morsels of meaning that your eyes are trying desperately to ingest? Fear not, dear reader. You are not alone. 
+
+Welcome to the intriguing intersection of cognitive load theory and academic obscurantism.
+
+Cognitive Load Theory, Or Why Your Brain Might Prefer Netflix:
+
+Cognitive Load Theory (CLT), quite rudely, points out the limitations of our mental capacity. Like a computer with a finite amount of RAM, the human brain can handle only so much information at once.
+
+Throw in needlessly complex sentences, unnecessarily novel terminology, and esoteric references that seem more aimed at gatekeeping than clarity, and you've cooked up a cognitive crisis.
+
+The Obscurity of Obscurantism:
+
+Obscurantism, dear readers, is the dastardly art of making something simple appear complex, a craft seemingly revered by some denizens of the academic realm.
+
+But why, you ask, would these brilliant minds bury their equally brilliant ideas under a mound of murky verbiage? Well, my friend, that is a question even more profound than the most convoluted academic prose.
+
+Dataflow Programming and Process Invocation: The Light at the End of the Tunnel:
+
+Enter dataflow programming and process invocation. Inspired by the world of computer science, we suggest using these concepts to cut through the academic fog.
+
+Could we parametrically generate models to transform esoteric academic content into readable, digestible, and dare we say enjoyable prose?
+
+Why not! If an algorithm can compose symphonies and write poetry, surely it can translate 'Post-structuralistic deconstructions of ontological paradigms' into 'Taking apart big ideas to see how they work'.
+
+Conclusion: A Plea for Clarity:
+
+Let us shun the siren call of unnecessary obscurity. The aim of science is to enlighten, not to obfuscate. Let our words illuminate our ideas, not cloud them. A good scholar makes the complex simple; a masterful one makes the simple fascinating.
+
+In conclusion, this highly engaging (and only slightly facetious) exploration of scientific obscurantism and cognitive overload seeks not to mock but to motivate.
+
+Let us, as a community of scholars and seekers of truth, strive to achieve dynamic readability in our discourse - the world, and our cognitive faculties, will thank us.
+
+https://github.com/standardgalactic/xanadu/blob/main/Optimal%20Policies%20Seek%20Power

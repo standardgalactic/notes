@@ -1,0 +1,6 @@
+Moduli of Curves: In the context of the Noah's Ark analogy, consider "moduli of curves" as a designated area on the Ark where a specific category of animals, such as those with curved shapes, is grouped.
+
+Just as Noah might have reserved a section of the Ark for animals with similar characteristics, the moduli of curves represents a focused subset within the larger moduli stack, specifically centered around curved mathematical objects.
+
+This space allows for the study and comparison of various curved shapes, much like a separate enclosure for animals with shared traits.
+

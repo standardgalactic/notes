@@ -1,0 +1,2 @@
+Can you explain how quasi-identities relate to Galois groups?What are some examples of quasi-identities used in algebraic geometry?How can the structure of roots of unity be used in coding theory?
+Can you explain how Galois groups relate to field extensions?How do the factors of g(x) affect the minimum distance of a cyclic code?What is the significance of quasi-identities in ring theory?

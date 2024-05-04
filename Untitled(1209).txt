@@ -1,0 +1,1388 @@
+ArticlePDF Available
+
+The immune syntax: the evolution of the language virus
+
+January 2004
+
+Authors:
+
+￼
+
+Massimo Piattelli-Palmarini
+
+The University of Arizona
+
+￼
+
+Juan Uriagereka
+
+University of Maryland, College Park
+
+Download full-text PDF
+
+Citations (35)
+
+References (96)
+
+Figures (4)
+
+Figures
+
+￼
+
+No caption available
+
+… 
+
+￼
+
+No caption available
+
+… 
+
+￼
+
+No caption available
+
+… 
+
+￼
+
+No caption available
+
+… 
+
+Figures - uploaded by Juan Uriagereka
+
+Author content
+
+Content may be subject to copyright.
+
+￼
+
+Discover the world's research
+
+25+ million members
+
+160+ million publication pages
+
+2.3+ billion citations
+
+Join for free
+
+Public Full-text 1
+
+Content uploaded by Juan Uriagereka
+
+Author content
+
+Content may be subject to copyright.
+
+Immune Syntax: The Evolution of the Language Virus 341 
+
+14 
+
+THE IMMUNE SYNTAX: THE EVOLUTION OF THE 
+
+LANGUAGE VIRUS
+
+1
+
+Massimo Piattelli-Palmarini, University of Arizona 
+
+Juan Uriagereka, University of Maryland, College Park, and University of the Basque Country 
+
+Summary: Studies on the evolution of language have finally come of age, as the very useful 
+
+recent work by Hauser et al. (2002) aptly shows. By separating a broad, ancient aspect of the 
+
+faculty of language from a narrower, very recently evolved one, this piece creates a clean 
+
+research space without clouding anybody's picture. The present paper can be seen as a follow-
+
+up in the program towards understanding the narrow faculty of language, taken as the basis for 
+
+the universal syntax of human languages. We start with a dozen established, to our mind 
+
+irreversible, results in formal grammar and also a quick presentation of the basic tenets of 
+
+modern evolutionary theory (the result of an emerging synthesis between neo-Darwinism and 
+
+the sciences of complex dynamic systems). At first it would seem as if formal syntax is a 
+
+challenge to evolution, but this is only if the grammar is seen at a superficial level of 
+
+abstraction and evolutionary theory with the eyes of the nineteenth century milieu where it was 
+
+advanced. Instead we propose to take so-called minimalist syntax seriously, suggesting that 
+
+some of its metaphors (e.g. a 'virus' theory of morphological checking) are more than that. We 
+
+specifically link that kind of syntax with the workings of very elementary levels of biological 
+
+organization, such as the structure of the adaptive immune system and its biochemical base. 
+
+Just as this sort of system seems to have evolved in large part as a result of intricate 
+
+interactions between viruses and hosts, so too we claim that the narrow faculty of language 
+
+may have had a similar, though of course much later, origin. 
+
+The evolution of language still remains speculative, but one can nonetheless begin to steer a 
+
+course toward plausible conjectures. Paraphrasing the title of a famous paper by Warren S. 
+
+McCulloch (reprinted in 1988), we need to ask two strictly related, yet distinct, questions: 
+
+1
+
+Acknowledgements 
+
+For comments on an earlier draft of the manuscript, we thank Thomas G. Bever, Noam Chomsky, Giorgio Graffi, 
+
+Margaret Kidwell, Andrea Moro and Donata Vercelli. 
+
+342 Variation and Universals in Biolinguistics 
+
+What is language that it may have evolved? And what is evolution that it may apply to 
+
+language? 
+
+14.0 WHAT IS LANGUAGE THAT IT MAY HAVE EVOLVED? 
+
+Natural languages are rich “objects” to which a variety of characterizations truthfully, though 
+
+not always relevantly, apply. As is invariably the case with complex natural objects the traits 
+
+that turn out to be scientifically productive and genuinely constitutive are not simply “there”. It 
+
+took biologists centuries to realize how productive it was to focus on the property that makes 
+
+“like beget like”, rather than on the property of being capable of self-initiated motion (the 
+
+original meaning of the word “animal”, from the Latin anima “air breeze”). Analogously, 
+
+physicists took centuries to realize how productive it was to chart trajectories and velocities of 
+
+mobiles in the presence of measurable fields of force, rather than exploring the (alleged) 
+
+tendency of each category of objects to reach its “natural” place of rest. Likewise, it has taken a 
+
+long time for the science of language to finally converge onto traits that are genuinely 
+
+constitutive, unique, and interestingly counterfactual-supporting. Many alternative and prima 
+
+facie relevant characterizations have been explored. For instance, languages are, no doubt, 
+
+symbolic systems, composed of arbitrary “signs”; but attempts to capture in depth what all 
+
+symbolic systems have in common, qua symbolic systems, have proved to be relatively un-
+
+rewarding. Ditto for the properties of languages as systems of communication, shared 
+
+“conventions” and ever-changing surface forms. Far from being obvious, the truly constitutive 
+
+properties of language turned out to be rather subtle and somewhat surprising. The following is 
+
+a sample over which a more or less general consensus has emerged over the decades. 
+
+14.0.1 Constituent Structure 
+
+Linguistic expressions have parts that enter into combinations. This much is also true, in some 
+
+sense, of a few animal communication codes. Constitutivity as such, however, is more than a 
+
+mere part-whole relation, and in the foregoing sense is clearly unique to human languages. 
+
+Linguistic constituents (i) are abstractly characterized, (ii) possess internal hierarchical 
+
+structures, (iii) belong to a remarkably short, fixed list of classes across all languages, (iv) are 
+
+the direct basis of human semantic composition. 
+
+14.0.2 Discrete Infinity and Recursion 
+
+The outputs of animal communication systems are either in principle infinite and continuous 
+
+(e.g. variable intensity of birds' calls -- Marler 1957 quoted in Hauser, 1996, p. 53), or discrete 
+
+and finite (e.g. rhesus monkeys call types, Hauser and Marler 1993, cited in Hauser, 1996, p. 
+
+104) (Hauser, 1996). Human languages, in contrast, are discrete and in principle infinite. Thus, 
+
+there is no conceivable continuum between two sentences like: 
+
+Immune Syntax: The Evolution of the Language Virus 343 
+
+(1) a. It’s a good car, but they don’t sell it [i.e., the car]. 
+
+b. It’s a good car, but they don’t tell it [i.e., the fact that the car is good]. 
+
+Moreover, there can be no use for such a thing as a “fraction” of a morpheme or phonological 
+
+feature (+/- voiced, +/- occluded, etc). In turn, even children’s rhymes speak of cats that killed 
+
+rats that ate the malt that lay in the house that…, which obviously can in principle go on 
+
+forever. It has been suggested (e.g. by Chomsky 1988) that this sort of discrete infinitude may 
+
+relate to that found in number systems, which are also uniquely human. The process whereby 
+
+operations can apply to the abstract (non-terminal) output of previous operations, in principle 
+
+indefinitely, is called recursion. This mechanism gives mathematical substance to the 
+
+(ultimately Cartesian) intuition that human language is endlessly creative, and to the 
+
+Humboldtian (von Humboldt, 1836) remark that it obtains unbounded expressiveness with 
+
+finite means. 
+
+14.0.3 Displacement 
+
+At variance with formal languages (notably, predicate calculus), natural languages present 
+
+elements that receive an “elsewhere” interpretation: They are processed as if located at a 
+
+different place in the sentence. For instance, in the interrogative Which book did you read? or 
+
+topicalizations such as This much, I do know, the constituents which book and, respectively, 
+
+this much appear in sentence-initial position, but we tacitly understand them as being 
+
+positioned right after the verb, in the canonical object position. These constituents have been 
+
+“moved” from their canonical (declarative sentence) position onto their manifest one, leaving 
+
+behind a remnant “trace”, which receives no phonological expression. This constitutes a 
+
+discontinuous relation between elements of the sentence that cannot be captured in mere 
+
+phrasal terms.
+
+2
+
+14.0.4 Locality 
+
+Syntactic relations are local, often taking place between elements that are, in a sense that can 
+
+be characterized precisely, very “near by” within a phrase-marker. This is true, at the relevant 
+
+level of abstraction, even about movement phenomena, which turn out to be extremely 
+
+constrained. First, they typically proceed “upward” in a phrasal representation (the technical 
+
+term is to “command” positions). In turn, although movements can in some instances span over 
+
+ultimately unbounded domains (which book did you say he thought she claimed … you read), 
+
+whenever this happens it can be shown that the unbounded relation is broken down into smaller 
+
+steps called “cycles”. This is witnessed in some languages (e.g. Spanish) by way of a 
+
+concomitant process that accompanies the hypothesized local (or cyclic) movement. Thus in 
+
+2
+
+Different theories have been proposed to account for these phenomena (see for instance Sells (1985), Graffi 
+
+(2001)), but regardless of whether constituents are taken to be displaced, discontinuous, involving graphs where 
+
+branches can cross, or feature sharing across nodes, the point remains that these are context-sensitive relations, in 
+
+a sense to be discussed further. 
+
+344 Variation and Universals in Biolinguistics 
+
+(2b) we observe (vis-à-vis the declarative (2a)) how intermediate verbs invert over the 
+
+corresponding subjects when question formation proceeds long distance: 
+
+(2) a. Tú dices que él piensa que … tú has leido un libro 
+
+you say that he thinks that you have read a book 
+
+b. Qué libro dices tú que piensa él que … tú has leido? 
+
+Which book say you that thinks he that you have read 
+
+Torrego (1984) plausibly interpreted these facts as demonstrating a side-effect of successive 
+
+cyclicity (the displaced verb is associated to the “trace” left by the moved Wh-phrase); many 
+
+other studies have shown similar effects for scores of entirely unrelated languages. 
+
+14.0.5 Redundancy 
+
+Classical grammars were very preoccupied with the proper morpho-syntactic relations between 
+
+lexical items: a speaker who cannot master these dependencies is a poor speaker. But, in 
+
+hindsight, the traditional notion of “agreement” highlights the fact that not everything that is 
+
+actually pronounced is needed by the interpretive apparatus. Even morphologically 
+
+“impoverished” languages like English express on the surface more than they need to, if 
+
+judging from a more abstract level of analysis. In a strictly semantic sense, it is clear what the 
+
+subjects of the verbs are in the English examples in (3) or in the Italian equivalents in (4): 
+
+(3) a. John says. b. They say. c. We say. 
+
+(4) a. Gianni dice. b. Loro dicono. c. Noi diciamo. 
+
+Therefore, the morphological flexion signaling in the verb the singular or the plural, or even 
+
+the person in the Italian instance, is entirely redundant. As a point of contrast, formal languages 
+
+such as predicate calculus do away with these redundancies and concentrate on thematic 
+
+relations and their carriers, unifying tensed verbs, infinitivals, participles, adjectivals and 
+
+nominals. A core hypothesis in the recent Minimalist Program is that, in all languages and at 
+
+some level in the syntactic derivation, such redundancies are checked out one with the other, 
+
+and then literally expunged “as soon as possible”, in a manner that we return to. 
+
+14.0.6 Limited Linguistic Differences 
+
+A prima facie tension emerged early on in generative grammar between the progressive 
+
+discovery of “deep” elements of the language faculty, presumably internally caused and 
+
+common to all languages, and the manifest diversity among spoken languages. The very idea 
+
+of a Universal Grammar needs to be reconciled with linguistic variation. The “Principles and 
+
+Parameters” model was developed in the early eighties as an attempt to reconcile UG and 
+
+variation by means of severe restrictions on the number and kind of possible inter-linguistic 
+
+Immune Syntax: The Evolution of the Language Virus 345 
+
+variations. It is as if UG embodied a panel of binary “switches” (Higginbotham, 1982), leaving 
+
+each language free to choose one of the admissible values for each switch. The manifold 
+
+diversities among all known languages has been mapped in large part onto a relatively small 
+
+set of binary options (Baker, 2001). At odds with what a tradition dating back to the early 
+
+nineteenth century had assumed, languages cannot diverge insensibly over time, cumulatively 
+
+and without limits. Rather, the possible points of variation are fixed, few in number, possibly 
+
+hierarchically organized, and each one only admits very few options. 
+
+14.0.7 Learnability 
+
+It has been all to the advantage of linguistic theory in the generativist tradition to have turned 
+
+away from any inductive mechanism in explaining how the child “acquires” her native 
+
+language. A revealing switch from the term language “learning” to the expression language 
+
+“acquisition” marks this momentous conceptual transition. Ever since Chomsky (1955) 
+
+(implicitly, and explicitly in Chomsky, 1965) a strict requirement was imposed on acceptable 
+
+theorizing about the nature of UG: Any posit, mechanism, principle, rule or constraint that may 
+
+be tacitly known by the speaker-hearer as part of UG must either be innate, prior to any 
+
+evidence, or be accessible to the child via a direct mapping of the relevant components of UG 
+
+onto the relevant linguistic input from the surrounding community. Primary Linguistic Data 
+
+must contain fragments that allow any child to quickly, effortlessly and un-ambiguously 
+
+converge upon all the parametric choices made by the surrounding linguistic community. Far 
+
+from being a lengthy process of trial-and-error, propelled by inductive guessing, language 
+
+acquisition consists of a (possibly random) cascade of discrete selections, as the child’s 
+
+linguistic system stably “locks onto” the values of each parameter. The relevant fragments of 
+
+linguistic input have been, revealingly, called “triggers” (Dresher, 1999; Fodor, 1998b; Gibson 
+
+and Wexler, 1994; Lightfoot, 1999). Linguistic theory is constrained to offer only hypotheses 
+
+that, in principle, satisfy the learnability requirement. 
+
+14.0.8 Autonomy of Syntax 
+
+The autonomy of syntax was suggested already in medieval, so-called Modistic, theories of 
+
+language and grammar (Graffi, 2001), and was forcefully revived by Chomsky’s famous 
+
+Colorless green ideas sleep furiously, a meaningless sentence that English speakers 
+
+straightforwardly judge to be syntactically impeccable. It has proven productive to explore this 
+
+general thesis in terms of what may be thought of as a “narrow” faculty of language (FLN), 
+
+vis-à-vis the motor, perceptual, cognitive and intentional systems which this faculty interfaces 
+
+with. In a broader sense, the faculty of language (FLB) includes an internal computational 
+
+system combined with other organism-internal systems (“sensory-motor”
+
+and “conceptual-
+
+intentional”). In contrast, although FLN is a component of FLB, it constitutes solely the 
+
+computational system, independent of what it interfaces with. FLN generates internal 
+
+representations and maps them
+
+onto the interfaces via the phonological system and the 
+
+semantic
+
+system. 
+
+346 Variation and Universals in Biolinguistics 
+
+14.0.9 Full Interpretation and Compositionality 
+
+A surprising fact about human semantic interpretation is that it exhaustively applies to all 
+
+symbols, involving all relevant syntactic elements in a piecemeal fashion (the Principle of Full 
+
+Interpretation). Thus the process is entirely different, at least at the propositional level, from 
+
+the holistic way in which ciphered messages typically work (e.g. “knock on the door three 
+
+times and you’ll get access”). In addition, it has been shown that human language is 
+
+“compositional”, in that the meaning of an expression X is a direct consequence of the 
+
+meaning of X’s parts and the way in which they combine. This proposal has been strengthened 
+
+even to a “Strong Compositionality Thesis”, as expressed for instance in Larson and Segal 
+
+(1995:78): “R is a possible semantic rule for a human natural language only if R is strictly local 
+
+and purely interpretive.” Strictly local means that R cannot look down any deeper than the 
+
+immediate constituent (“sister”) of a given category X to interpret this category. Purely 
+
+interpretive means that R cannot actively create structure of its own, it only passively interprets 
+
+structure given by the syntax. In other words, human semantics narrowly tracks all and only 
+
+syntactic elements, and interpretation crucially depends on this correspondence. 
+
+14.0.10 Conservativity 
+
+The last property we want to discuss is a bit harder to understand if one is unfamiliar with set-
+
+theory or linguistics. Nonetheless, as it is an important semantic result (perhaps the most 
+
+decisive), we would like to mention it. Readers who do not follow the following paragraphs 
+
+will nonetheless be able to understand the logic of the paper. The point is based on the idea that 
+
+natural language determiners (e.g. articles) relate sets, thus are taken to be predicates 'D (Y) 
+
+(X)' with two arguments: their “restriction” (e.g. the set Y of men) and their “scope” (e.g. the 
+
+set X of islands) to yield such expressions as “no man is an island”. Importantly, determiners in 
+
+human languages are “conservative” (Keenan and Stavi, 1986), which can be characterized 
+
+explicitly as follows: for any X and Y, arguments of determiner D, the semantic value of 'D 
+
+(Y)' is identical to 
+
+'D (Y) (X ∩ Y)'. Consider this for an “intersective” determiner like some: 
+
+(5) a. Some Basques are Spaniards. 
+
+b. Some (Y) (X) iff the intersection of X and Y is non-empty. 
+
+If some Basques are Spaniards then some Spaniards are Basques. In general, for an intersective 
+
+determiner D, 'D (Y) (X)' is true iff Y∩X has some characteristic; intersecting Y and X yields 
+
+the same as intersecting Y and X and then intersecting that with Y, i.e., Y ∩ X = (Y∩X) ∩ Y 
+
+(i.e., “conservativity”). “Non-intersective” determiners are conservative too. A non-intersective 
+
+determiner is one for which the truth of a proposition introduced by it does not rely only on 
+
+characteristics of elements in the intersection of the two sets, contrary to what is seen in (5a), 
+
+where the determiner is intersective. Thus: 
+
+Immune Syntax: The Evolution of the Language Virus 347 
+
+(6) a. Most Basques are Spaniards. 
+
+b. Most (Y) (X) iff the intersection of X and Y is larger than half of Y. 
+
+Intuitively, the arguments of most are not “interchangeable” (most Spaniards are Basques is 
+
+not equivalent to (6a)). So in order to account for the conservativity of a determiner like most 
+
+(most Basques are Spaniards iff most Basques are Basque Spaniards) we must somehow order 
+
+its arguments, 'D <Y, X>'. In other words, unlike some, which can be seen as an “intransitive” 
+
+determiner, most is “transitive”, in some sense. That is an interesting property of this sort of 
+
+determiner, since whereas it is easy to see how most can relate to its restriction (in (6a) 
+
+“Basques”, interpreted from the complement of most), it is harder to see precisely how it can 
+
+relate to its scope (in (6a) “those who are Spaniards”, an element which is not in construction 
+
+with most). Scope is, in effect, a derived argument, particularly if strong compositionality is 
+
+assumed. In that respect, note that not even the conservativity of the intersective some in (5) is 
+
+trivial, since again the scope of this determiner is a derived argument (something which is 
+
+easier to see when a quantifier is in object position, as in he found no opposition, where the 
+
+scope of no is “he found x”, or “that found by him”). The fact that these tasks are nonetheless 
+
+achieved by grammars illustrates how powerful the human language machine turns out to be. 
+
+14.1 WHAT IS EVOLUTION, THAT IT MAY APPLY TO LANGUAGE? 
+
+The canonical picture of evolution is well-known: new traits emerge by means of small 
+
+cumulative inheritable variations that are adaptively selected. This captures a real process, but 
+
+it is by no means the only evolutionary process, probably not even the most important one in 
+
+biological speciation. The capital role of discontinuous pleiotropic mutations (i.e., those 
+
+happening in a gene that affect many traits at once), spandrels, genetic recruitment and 
+
+serendipitous selection need not be defended here. We limit ourselves to applying these 
+
+insights to the possible evolution of language. We will insist, however, on the possible role of 
+
+“horizontal” genetic transmission (from viruses to parasites, to transposable elements). Before 
+
+we do that, a brief summary of the concepts and mechanisms of the standard “vertical” 
+
+transmission that have greater relevance to our hypotheses may be useful. 
+
+14.1.1 A Tendency to Depart Indefinitely 
+
+Many systems, in nature and culture, undergo change over time, which is sometimes governed 
+
+by deep regularities. Biological evolution, though, is a rather special case of change, as it is 
+
+mostly (though not exclusively) driven by inheritable differential fitness across populations of 
+
+interbreeding organisms. There is no “departure point” and no “terminal point”. There are no 
+
+“ideal types” such that a given phenotype is meaningfully gauged as being closer to, or further 
+
+away from, any of them. In Darwin’s and Wallace’s felicitous phrasing, variants can have a 
+
+tendency to “depart indefinitely” from the original form. This remains true in the main, even if 
+
+recent theories have rightfully emphasized the pivotal role of global structural constraints, of 
+
+“laws of form” resulting from physical, chemical, biochemical and/or systemic necessities 
+
+(and, in the case of the brain, presumably also emergent computational global constraints). 
+
+348 Variation and Universals in Biolinguistics 
+
+These are not, nor could be, genetically specified. Rather, genetic specifications and genetic 
+
+changes must be deployed inside these structural channels, without the possibility of overriding 
+
+them. The tendency remains mainly true also in the face of the forced stability of regulatory 
+
+genes, whose changes would perturb too many traits at once (Schank and Wimsatt, 2001). 
+
+14.1.2 Some Dynamic Considerations 
+
+Fitness is a quantitative property of the cross-generational interaction between competing 
+
+organisms and their environments, but it is the differential fitness of similar phenotypes, one 
+
+with respect to the other, that matters to the process. That is, while the interaction is shaped by 
+
+the phenotype, differential fitness is determined by the underlying genotype, which is best 
+
+defined as a “norm of reaction” to different environments. Other conspecifics (notably other 
+
+competing variants in the population) and other species, are part of the environment, and 
+
+therefore components of the differential fitness vector of each individual (Michod, 1999). Let’s 
+
+stress also that differences in fitness may be non-transitive, when environments vary. For 
+
+instance, variant A can have greater fitness than variant B, when they are alone to compete in a 
+
+certain environment, and the same may apply to variant B vis-à-vis C in that same 
+
+environment, but it may well be the case that C has greater fitness than A when they are alone 
+
+to compete, or when A, B and C all compete, or when the environment changes even slightly 
+
+(Lewontin and Cohen, 1969; Sober, 2001). We stress this because all gradualist adaptationist 
+
+explanations of the emergence of a trait tacitly (and crucially) take transitivity for granted. 
+
+Small random changes in the genotype must, in those stories, map onto small changes in the 
+
+phenotype, and selective forces must then drive the process under strict transitivity. No 
+
+transitivity, no story. Another important consideration concerns factorization or modularity: 
+
+Some components of the phenotype may undergo genetic change without affecting other 
+
+components. This constitutes a powerful boost to the “search” process of the genotype across 
+
+the fitness “landscape”. Good solutions for a trait can be preserved in the search of better ones 
+
+for a different trait. Finally, we must stress the multiplicity of levels of selection (Lewontin, 
+
+1970), because optimization at one level frequently imposes sub-optimal solutions at others 
+
+(Gould, 2001; 2002; Lewontin, 1970; Michod, 1999) . Biological evolution is the global 
+
+outcome of distinct mechanisms of change and selection taking place at several distinct, though 
+
+interacting, levels. Global tradeoffs are the rule, rather than the exception. 
+
+14.1.3 The Long-term Effects of “Jumping” Genes 
+
+All of what we saw in the previous section, at least, applies to the complex evolutionary 
+
+processes driven by vertical genetic transmission. Consider next briefly the contribution of 
+
+“horizontal” transmission of mobile DNA sequences, called transposable elements (TEs), that 
+
+are pervasive in the genomes of bacteria, plants and animals. These elements replicate fast and 
+
+efficiently and it is common to find hundreds of thousands of copies of such elements in one 
+
+single genome. Initial sequencing of the human genome (International Human Genome 
+
+Sequencing Consortium, 2001) revealed that as much as 45% of the total is constituted of DNA 
+
+that originated from TEs. (This estimate is rapidly increasing with the subsequent sequencing 
+
+Immune Syntax: The Evolution of the Language Virus 349 
+
+of the more repetitive fraction of the genome). Positive selective pressure for their fast 
+
+replication at the DNA level suggested the label (and the concept) “selfish DNA” (Doolittle 
+
+and Sapienza, 1980) and (less malevolently) “junk DNA”. Myopic positive selective pressure 
+
+at the basic DNA level may well have been the normal case, but in recent years well-supported 
+
+hypotheses have been advanced of positive selective pressure also at the host level. Stable 
+
+insertion of transposons, that evolve new coding and/or regulatory functions, has also occurred, 
+
+with sometimes dramatic evolutionary consequences. 
+
+In addition to the normal mode of vertical transmission from parent to offspring within a 
+
+species, transposable elements can sometimes move laterally between species, a phenomenon 
+
+known as horizontal transfer, Once these rare horizontal transfers of genetic material have 
+
+successfully taken place, then ordinary “vertical” transmission perpetuates the new genome. 
+
+Kidwell and colleagues (Kidwell, 1994) have painstakingly reconstructed such process of 
+
+horizontal transfer followed by invasion within the recipient species of Drosophila, across the 
+
+whole earth within the last half century. One possible mechanism of horizontal diffusion is 
+
+likely to have been mediated by parasites mites feeding promiscuously on eggs of several 
+
+Drosophila species, and thereby contaminating one species with transposable elements picked 
+
+up from another species). Much closer to us, Agrawal et al. (1998) and Hiom et al. (1998) have 
+
+persuasively suggested that the immune system of higher vertebrates is the product of the 
+
+activity of a TE that was “domesticated” following horizontal transfer from a bacterium 
+
+millions of years ago. Antigen receptors, a key feature of adaptive immunity, are assembled 
+
+from gene segments by a site-specific recombination reaction. The proteins encoded by the 
+
+recombination-activating genes, RAG1 and RAG2, are essential in this reaction, mediating 
+
+sequence-specific DNA recognition of well-defined recombination signals and DNA cleavage 
+
+next to these signals. Recent evidence suggests that RAG1 and RAG2 were once components 
+
+of a transposable element, and that the split nature of antigen receptor genes derives from 
+
+germline insertion of this element into an ancestral receptor gene soon after the evolutionary 
+
+divergence of jawed and jawless vertebrates. In addition to coding information, important gene 
+
+regulatory functions are currently hypothesized to have originated from TEs that have, long 
+
+ago, managed to insert themselves into the germ-line of eukaryotes (Britten, 1997; Kidwell and 
+
+Lisch, 2000). Phylogenetic analysis has indicated that one major subclass of TEs, the LTR 
+
+retrotransposons, is closely related to retroviruses. Indeed, sometimes these TEs behave like 
+
+retroviruses, and vice-versa. A point we wish to emphasize here and now, is that the combined 
+
+evolutionary role of TEs and viruses adds a significant new dimension and previously 
+
+unsuspected mechanisms enabling rapid spread of major genetic changes. We argue that this 
+
+may have been significant in language evolution. 
+
+Once these rare beneficial “horizontal” transfers of genetic material have successfully taken 
+
+place, then ordinary “vertical” transmission perpetuates the new genome. Since, as we have 
+
+just stressed, many kinds of transposons also code for their own transcription enzymes (a 
+
+necessary, though by no means sufficient condition) conversions from TE to virus and vice-
+
+versa are possible. Under these conditions, such a mechanism becomes, biochemically 
+
+speaking, straightforward, even though the probability that a major positive alteration of the 
+
+host’s genetic functions may ensue remains exceedingly small. The momentous RAG story 
+
+sketched above as the origin of the immune system is rapidly becoming a textbook case, 
+
+350 Variation and Universals in Biolinguistics 
+
+largely also because of its extreme rarity. Once such a rare event of novel genetic insertion 
+
+takes place, some adaptive selection pressure must be invoked to explain the fixation of the 
+
+new trait. For the immune system, the reasons for a positive selection are very transparent. In 
+
+the case of our hypothetical language evolution several nuanced considerations have to be 
+
+developed, as we try to detail throughout this paper. 
+
+14.2 STRUCTURAL PERFECTION IN LANGUAGE 
+
+The traditional gross factorization of the language faculty into a “sound” system, a “words” 
+
+system, an interpretive-semantic system, and a combinatorial-syntactic system, though 
+
+phenomenologically real, does not withstand serious scientific scrutiny. The distinction 
+
+between sounds and words, words and sentences, or sentences and their corresponding 
+
+meanings, are nowadays seen as the stable results of dynamic interplays between abstract 
+
+components of an elementary computational system and its interfaces. It is not easy to 
+
+exemplify this in brief, but an illustration can be provided. 
+
+Take recursion in the sense above and all it presupposes (constituent structure) and it entails 
+
+(discrete infinitude). Nowadays this process is seen as optimal in a grammatical system of the 
+
+assumed complexity. A binary Merge operation is assumed to put together arbitrary linguistic 
+
+constituents in such a way that one of the merged elements preserves its identity (its categorial 
+
+type, whether it is a noun, verb, etc.) in the process. Since Merge is sensitive to categorial type, 
+
+type-conservation upon Merge entails that successful merging combinatorics (e.g. a noun 
+
+phrase and a verb) can be repeated ad infinitum, thus guaranteeing recursiveness. Chomsky 
+
+(1995; 2000) has shown that these particular combinatorics are the simplest there could be, 
+
+among other imaginable ones (e.g. ternary or n-ary Merge, Merge which is not conservative of 
+
+category type, etc.). In turn semantic compositionality is in large part based on the Merge 
+
+operation, guaranteeing that syntactically merged interpretable constituents enter into viable 
+
+semantic relations. Thus although syntax is in principle distinct from corresponding semantics, 
+
+the latter emerges within the confines of the former. This tight connection between form and 
+
+meaning indicates that the Merge process is virtually conceptually necessary, and thus the 
+
+implied system virtually perfect for the task. 
+
+Immune Syntax: The Evolution of the Language Virus 351 
+
+In this context, the older evolutionary puzzle represented by the utter uselessness of each of the 
+
+traditional components of language in the absence of all the others gives way to a set of 
+
+different problems. We had such a puzzle only within a crude adaptationist-functionalist 
+
+framework, assuming that communication and concerted action were the selective forces, 
+
+acting on a cascade of cumulative point mutations affecting (presumably) separate capacities: 
+
+phonatory, lexical, semantic and syntactic. It was, no doubt, perplexing in the traditional view 
+
+that the overall faculty of language could have evolved gradually, given that small 
+
+improvements in one component are non-adaptive in the absence of parallel improvements in 
+
+the others. But the present picture is radically different, in particular Chomsky’s hypothesis 
+
+that the narrow faculty of language is structurally “perfect”. Of course, this is apt to strike a 
+
+sensitive chord in evolutionary theory. The existence of “perfect” organs has long been a 
+
+stumbling block for classical neo-Darwinism. To witness is (alas) the fact that creationists have 
+
+used this as “evidence” against evolutionary theory (Schank and Wimsatt, 2001). In short, 
+
+evolutionary tinkering cannot lead to perfection. In fact Chomsky candidly admits that the 
+
+perfection of FLN, is “surprising, if true” (Chomsky, 1995:168), and it makes linguistics more 
+
+similar to physics than to biology. This puzzle, however, can be re-sized considerably with 
+
+convergent considerations from three independent fronts. One is evolution-theoretic, one 
+
+ethological, and a third one historico-linguistic. Let’s examine them in turn. 
+
+14.2.1 Other Optimal Solutions in Biological Evolution 
+
+The (quasi-)perfection of some biological structures turns out to be less incompatible with 
+
+ordinary evolutionary mechanisms than has been assumed. Demonstrable factorizations of 
+
+genomes into modules and cumulative, autonomous modular improvements of each of them 
+
+352 Variation and Universals in Biolinguistics 
+
+defuse considerably the prima facie paradoxical nature of perfect biological structures. Other 
+
+factors leading to optimal solutions have also been detected. A revealing instance is the 
+
+analysis that West et al. (1997) provide of the cardiovascular system of vertebrates as a fractal 
+
+space filling network of branching tubes, under the assumption that the energy dissipated by 
+
+this transportation system is minimized. Biological diversity, from metabolism to population 
+
+dynamics, correlates with body size (itself varying over 21 orders of magnitude). Allometric 
+
+scaling laws typically relate some biological variable to body mass M, by elevating M to some 
+
+exponent b, and multiplying that by a constant characteristic of a given organism. The 
+
+assumption that a standard (3 dimensional) volume is involved leads one to think that b should 
+
+be a multiple of 1/3, so that the cubic root of an organism's mass relates to some of its internal 
+
+functions. Instead, what researchers have found is that b involves not cubic roots, but rather 
+
+quarter roots, unexpectedly, at least if one is dealing with standard geometric constraints on 
+
+volume. For example, the embryonic growth of an organism scales as M
+
+1/4
+
+, or the quarter root 
+
+of its mass (the larger the mass of the organism, the slower its embryonic growth, but as mass 
+
+increases, embryonic growth differences decrease). These quarter-power scalings are present 
+
+throughout all the living kingdoms. The geometrical details of why a fractal network does 
+
+involve quarter powers as the scaling factor are complex, but now well understood (in essence, 
+
+fractal geometry is 4 dimensional). Significantly, the morphological and physiological details 
+
+that characterize the various classes of organisms turn out to be immaterial. The scaling laws 
+
+are strictly invariant at a suitable, quite abstract, level of analysis. In the words of West, 
+
+Brown, and Enquist: 'the predicted scaling properties do not depend on most details of system 
+
+design, including the exact branching pattern, provided it has a fractal structure' (p. 126). (see 
+
+also Uriagereka, 1998) 
+
+14.2.2 Near-perfect Foraging Strategies 
+
+In ethology, as rightly stressed by Hauser et al. (2002), for quite some time it has been 
+
+acknowledged that, in several species, complex foraging strategies turn out to be optimal 
+
+(Stephens and Krebs, 1986). In general, the animal often adopts strategies that coincide with 
+
+the best solutions painstakingly discovered also by means of massive computer simulations, 
+
+solving systems of differential equations under constraints. It is hard to decide whether the 
+
+explanation of such perfection resides in computational-representational abilities of heretofore 
+
+unsuspected refinement, or in highly adaptive hardwired dispositions selected over the eons. 
+
+Be it as it may, NS turns out not to be the only known instance of perfection in biological 
+
+cognition. The suggestion that NS may have arisen out of a further refinement of such 
+
+cognitive systems is tentatively being offered by these authors, with some plausibility. 
+
+14.2.3 Why (Narrow) Syntax May be “Perfect” 
+
+Let’s succinctly reconstruct the reasons that have motivated Chomsky’s hypothesis that FLN is 
+
+perfect. The so-called poverty of the stimulus argument (POSA) has been pivotal to the 
+
+development of generative grammar. Language acquisition, in spite of the extraordinary 
+
+complexities of language and of poor linguistic stimuli, suggested not just general innatism as 
+
+Immune Syntax: The Evolution of the Language Virus 353 
+
+a hypothesis, but a kind of unbounded innatism at that. No rule of Universal Grammar was, if 
+
+well supported theoretically and empirically, too abstract to be attributed to the speaker-
+
+hearer’s innate knowledge of language; no derivation too elaborate to be computationally out 
+
+of reach of the mental routines language consists of. Needless to say, that does not tell us much 
+
+about how the putative innate mechanisms got to be what linguists think they are, in the 
+
+process raising questions about verifying the plausibility of specific innatist claims vis-à-vis 
+
+one another. As generative grammar developed, the theory unified under a small set of more 
+
+abstract rules (later called principles) the variety of contingent and ad hoc rules posited by 
+
+earlier theories in the tradition of structuralism and its Constituent Analysis, as well as classical 
+
+grammars studying “linguistic constructions”. The guiding criterion in this unification has 
+
+always been never to accept an account that posits distinct or overlapping transparent rules, 
+
+even if descriptively adequate, when an explanation is available which posits some abstract 
+
+mechanism which the relevant rules are particular sub-cases of, or deductive consequences of. 
+
+Inevitably as a result, the core principles of UG have been many steps removed from standard 
+
+empirical linguistic data. These steps are quintessentially deductive and a corresponding 
+
+capacity to unconsciously handle these principles and the ensuing derivations and 
+
+representations is attributed to the speaker-hearer’s tacit knowledge of language. 
+
+In the nineteen eighties, Chomsky and his associates brought this explanatory strategy to 
+
+greater extremes: syntax proper was then proposed to consist only of very few, very abstract, 
+
+computational procedures, and everything else was reassigned to satellite systems (a 
+
+phonatory-motor-perceptual system, PS, and a conceptual-interpretive system, CS). The rich 
+
+and subtle phenomenology of linguistic expressions, across all languages, is in this view no 
+
+more the object of syntactic theory proper, but the result of the interaction between this central 
+
+abstract system (NS) and the more or less contingent constraints imposed by the systems at the 
+
+interface. Knowledge of language, still a specific domain of inquiry and a proprietary capacity 
+
+of our species, turns out to be accordingly decomposed. The ultra-minimal NS system, in itself 
+
+constrained only by virtually conceptually necessary properties of any computational system, 
+
+has every reason to operate in an optimal mode. For example, natural conditions of efficient 
+
+computation suggest that global processes of the sort illustrated in (2), section 14.0.4, be 
+
+broken down into smaller computational steps, thus predicting conditions of cyclicity. (See 
+
+Uriagereka, 1998, chapter 5, for several other instances.) 
+
+14.3 A ‘TRI-PARTITE’ EVOLUTIONARY STORY 
+
+The evolution of the faculty of language in the broad sense (FLB) is now in principle 
+
+decomposed into three stories, one for each of the components, NS, PS and CS, and of course 
+
+the way they turn out to be interconnected. These three biological units may have had quite 
+
+distinct evolutionary origins, presumably only NS being uniquely human. 
+
+354 Variation and Universals in Biolinguistics 
+
+14.3.1 PS 
+
+The child acquires effortlessly, very early (prior to her third year), and with only quite marginal 
+
+rates of error, the elaborate morphology of her mother language (Pinker, 2000; Spencer and 
+
+Zwicky, 1998; Tesan and Thornton, 2003). Some evidence suggests that this capacity may be 
+
+under the control of very few specific genes, perhaps only one (FOXP2, see below). Such ease 
+
+and precocity is not uniform across linguistic capacities. As we show in the sub-section below, 
+
+other linguistic tasks that at an abstract (or perhaps better said “disembodied”) level look easier 
+
+and more severely constrained are not fully mastered until 8-9 years of age. The acquisition of 
+
+the morpho-lexical system is also mastered early on. From 1 year of age until about age 6, the 
+
+child acquires, on average, one new item for every waking hour. Biological evidence here is 
+
+mostly indirect, from specific pathologies (anomia and category-specific semantic deficits 
+
+(since McCarthy and Warrington, 1988)), and from the extreme slowness with which other 
+
+primate species learn a handful of new words, even under intensive training. It seems plausible, 
+
+nonetheless, to attribute this capacity to a genetic predisposition, possibly under the 
+
+governance of the same genes as morphology. The early identification of these units 
+
+(morphemes, words, etc.) in the flow of speech, and their subsequent memorization, seem to 
+
+exploit statistical analyzers of a kind that are also present in other species and in other 
+
+cognitive domains in humans. However in the case of human language, tacit knowledge of 
+
+quite abstract, specific, and almost entirely parameterized morpho-phonological internal 
+
+structures must also be mobilized. Finally, intonation, prosody and emphasis – supra-segmental 
+
+components of communication by speech that are modulated analogically, rather than 
+
+discretely – are also part of the picture and have non-negligible analogs in other species. Ever 
+
+since the pioneering studies of Paul Broca and Carl Wernicke, it is well known that these 
+
+components may remain intact even in cases of severe lexico-syntactic deficits (confabulatory 
+
+paraphasia and jargon aphasia (Brain and Bannister, 1992; Broca, 1878; Wernicke, 1874)) It is 
+
+prima facie plausible to conjecture a genetic disposition also for them. 
+
+14.3.2 CS 
+
+The acquisition of semantics has only recently been seriously looked at, among other things 
+
+because reliable testing is extremely difficult with very young children (though see Crain and 
+
+Thornton (1998) for very ingenious methodologies). A general consensus as to whether CS 
+
+conditions are acquired early or late has not emerged yet, although the most well-known 
+
+instance of putative late acquisition of a grammatical principle is arguably of this sort. Without 
+
+attempting to take a position on this, consider the basic facts: 
+
+(7) a. John knows [he is late] 
+
+b. [John knows him] 
+
+It is easy to see that whereas John and the pronoun in (7a) can refer to the same individual, this 
+
+is not possible in (7b). The phenomenon is referred to as (local) “obviation”, has been shown to 
+
+be universal across languages, and is customarily explained in terms of a so-called Principle B 
+
+Immune Syntax: The Evolution of the Language Virus 355 
+
+responsible for preventing co-reference between pronouns and (in essence) their corresponding 
+
+subject when both elements are clause-mates (basically, in the same sentence). Principle B thus 
+
+eliminates a possible (in the abstract) interpretation of (7b). Curiously, Chien and Wexler 
+
+(1990) have shown that children allow co-reference in precisely these circumstances, well into 
+
+the last years of their first decade. It is not, incidentally, as if children do not have any version 
+
+of local-obviation, and thus presumably of Principle B as well. Thus, the same children who 
+
+allow the impossible interpretation of (7b) disallow a similar interpretation for (8b): 
+
+(8) a. No one knows [he is late] 
+
+b. [No one knows him] 
+
+When the pronoun’s antecedent is a quantifier like no one, even very young children disallow 
+
+the impossible, co-referent reading (in (8b), “for no x, x knows x”). This suggests that a 
+
+property of CS in a broad sense is at stake in the children’s failure to rule out (7b) (see 
+
+Thornton and Wexler, 1999 for a detailed discussion of the phenomenon). It is too early to tell, 
+
+however, whether this well-known result is the norm or the exception in CS, and thus whether 
+
+this component in general (if it is a unified component to start with) is in place as early as PS 
+
+clearly is, or matures instead in some non-trivial fashion. 
+
+14.3.3 PS Meets NS 
+
+The current Minimalist program suggests that all NS does is to create new objects out of pre-
+
+existing morpho-lexical units. These new objects are the most elementary: sets. In the simplest 
+
+instance, the system takes A and B and creates (by the operation we referred to as “Merge” 
+
+above) the set {A, B}, in which A and B remain distinct. These operations are recursive, and 
+
+the output of one can be the input to the next, thus resulting in a kind of Calder mobile. The 
+
+interface with PS imposes that these hierarchical constructs be linearized: whereas the objects 
+
+assembled by Merge are (at least) two-dimensional, speech is one-dimensional. Therefore, all 
+
+the objects delivered to the phonetic system by NS, no matter how multi-layered they may be, 
+
+must be submitted to a relation of order. Since linearity would flatten hierarchical relations 
+
+beyond recovery, thus delivering to CS un-interpretable gibberish, one of two properties apply: 
+
+(a) Linear order unambiguously reflects hierarchical structure (Kayne, 1994) (for a different 
+
+version, see Moro, 2000), and/or (b) some marker that PS can detect (e.g. an agreement or Case 
+
+marker) is attached to one item in the string, and it corresponds, in ways that CS can process, to 
+
+a marker attached to another item in the string (Uriagereka, 2002:chapter 3). This much 
+
+suffices to send to CS specific constructs that it can interpret. Assume that PS can avail itself of 
+
+a rich array of markers (features), liberally provided by the morpho-syntactic component. In 
+
+this sense, morphology is like a virus or a transposable element: it has a tendency to attach 
+
+itself to, and proliferate across, items, if left un-checked. The morpho-lexical repertoire and PS, 
+
+unlike NS, are not designed optimally, and tolerate redundancy, arguably for reasons that we 
+
+return to in section 14.5. The morpho-lexical component “feeds” to NS some unnecessary 
+
+material which NS, because of its maximum-efficiency design, gets rid of as soon as possible, 
+
+thus implementing in the system the cyclicity that we alluded to in the previous section. In a 
+
+356 Variation and Universals in Biolinguistics 
+
+nutshell, features that CS can “understand” (interpretable features) are transferred to this 
+
+component, while features that CS has no use for (un-interpretable features) are parasitic ( in 
+
+our sense “viral”) on the first, and are deleted before they reach CS. A topic under much 
+
+current study is whether (observable) cyclic effects on interpretable features emerge as a side 
+
+effect of checking un-interpretable ones, or some other condition on the system imposes 
+
+computation by phases (Boeckx, 2002, to appear; Carnie, 2003; Chomsky, 2000; 2001; 
+
+Collins, forthcoming; Uriagereka, 2002; Epstein and Seely, 2003, forthcoming) Either way, 
+
+languages vary in restricted ways (parametrically) as to what NS delivers to PS, and possibly 
+
+as to what NS delivers to CS. 
+
+14.3.4 NS Meets CS 
+
+The conceptual-intentional system of humans, though itself demonstrably prone to intrinsic and 
+
+rather peculiar limitations (Kahneman et al., 1982; Kahneman and Tversky, 2000; Piattelli-
+
+Palmarini, 1994) is by and large an awesome machinery. It may, therefore, appear strange that 
+
+it should impose limits upon its interface with NS. Before minimalism, intrinsic semantic 
+
+limitations (impossible lexical meanings, structural ambiguities, multiple embeddings, garden-
+
+path sentences, etc.) were attributed either to limitations on performance, or to the surfacing of 
+
+intrinsic lexico-syntactic constraints. In minimalism, however, because of the assumed 
+
+perfection of NS, only interface constraints can be posited. As we said earlier, CS is bound to 
+
+assign systematically and deterministically a fixed (set of) interpretation(s) to each syntactic 
+
+structure that is delivered to it by NS, via PS. The productive isolation, in the vast domain of 
+
+semantics generally intended, of context-independent systematic effects of linguistic form on 
+
+meaning (in the characterization of James Higginbotham (1992)) has engendered a successful 
+
+scientific enterprise: the semantics of natural languages. This scientific discipline carves for 
+
+itself, out of the vast and multifarious array of intellectual abilities that humans can deploy, a 
+
+neat field of inquiry, intimately conversant with syntactic theory, formal logic, general 
+
+semantics and the theory of the lexicon. Its central object is not so much meaning per se, but 
+
+rather the speaker-hearer’s “knowledge of meaning” (Heim and Kratzer, 1998; Higginbotham, 
+
+1985; 1989; Larson and Segal, 1995). How this knowledge may have evolved, once an 
+
+adaptationist account has been questioned, is far from clear. 
+
+Of course, many animals, and not just the “higher” primates, arguably have mental 
+
+representations of some sort, are sensitive to causal relations, regularities in the world, inter-
+
+personal relations, even social status, and are capable of learning (for a comprehensive 
+
+analysis, see Hauser (1996)). All this, in the absence of language. Assuming NS materialized 
+
+because of distinct evolutionary vicissitudes (see the next section for a conjecture), do we have 
+
+reasons to believe that, once it is “plugged into” (roughly) the conceptual-intentional apparatus 
+
+of an ape, we get CS (knowledge of meaning) as we experience it? Or a “smaller” CS (some 
+
+knowledge of some meanings)? That would require better data and a careful analysis. As 
+
+Hauser, Chomsky and Fitch specify, we also need, at a minimum, unprecedented imitational 
+
+capacities in the domain of lexical acquisition, and the accompanying aptitudes to “lock” (à la 
+
+Fodor (Fodor, 1998a)) morpho-lexical sounds (or cheremes in the case of sign languages, or 
+
+plastic tokens, as used in experiments on primates) “onto” salient properties of objects and 
+
+Immune Syntax: The Evolution of the Language Virus 357 
+
+events in the surrounding world. A charitable disposition towards data from trained chimps 
+
+may make acceptable the idea that the difference between a chimp and a child, in this domain, 
+
+is rather quantitative (though huge) than qualitative. Limited mastery of the set-subset relations 
+
+(part of, inclusion, etc.) and of something akin to logical consequence, appears to be attainable 
+
+by some apes. Their capacity to attribute states of mind and states of knowledge to conspecifics 
+
+and trainers is controversial (Hauser et al., 2002; Povinelli, 2000; Premack and Woodruff, 
+
+1978), but we may want, here too, to make a charitable stand. ) 
+
+14.4 A CONJECTURE ON THE EVOLUTION OF (NARROW) SYNTAX 
+
+We have seen what the field of linguistics takes to be irreversible results in the study of 
+
+language and what the dominant paradigm has to say about the most plausible way of relating 
+
+these facts in a theoretical fashion. We have discussed the most basic notions of the theory of 
+
+evolution as well as what the current wisdom is with regards to how these notions are to be 
+
+complemented with more contemporary tools from present understanding of complex dynamic 
+
+systems, among others. Putting these ideas together, we have begun to sketch what we take to 
+
+be the boundary conditions of any evolutionary story pertaining to human language. Now we 
+
+would like to be more precise. We should say from the outset that, of course, we could be 
+
+wrong in our account; but we strongly feel that this is the right kind of account. 
+
+14.4.1 The Virus Theory 
+
+We have likened morphology to a virus, or a transposable element (TE), but we have not 
+
+discussed how plausible this hypothesis is, particularly when we assume with Chomsky 
+
+(Chomsky, 1995) that transformational processes (involving “displacement” in the sense in 
+
+section 14.0.3) implement a kind of “immunization” against uninterpretable morphology. The 
+
+idea is to motivate transformational applications, so that they never apply idly. Thus, 
+
+movement transformations are triggered by the need to eliminate (technically check) 
+
+uninterpretable features. For instance: 
+
+(9) a. It seems [Jack is the leader of this group] 
+
+b. Jack seems [ __ to be the leader of this group] 
+
+c. *It seems [Jack to be the leader of this group] 
+
+(9a) and (9b) are good paraphrases, which suggests the two sentences have relevantly identical 
+
+underlying structures. However, their superficial differences are dramatic: in (9a) the subject is 
+
+a non-referential it, whereas in (9b) the subject is Jack. Correspondingly, in the embedded 
+
+clause the subject is Jack in (9a), whereas an unpronounced gap is in (9b). That suggests that 
+
+Jack in (9b) has been displaced from the embedded to the matrix subject position, as follows: 
+
+(10) a. __ seems [Jack to be the leader of this group] 
+
+b. Jack seems [ __ to be the leader of this group] 
+
+358 Variation and Universals in Biolinguistics 
+
+Let’s represent (10a) as in (11): 
+
+...................… 
+
+: : 
+
+(11) [ __ [ Tense-agr seem [ [Jack] [to be ...]]]] 
+
+TARGET SOURCE 
+
+In this instance the crucial feature in the target (of movement) are agreement features in Tense 
+
+(T), and the source of the movement is Jack, which can appropriately check those 
+
+uninterpretable features in terms of its own interpretable ones. In the process, the source 
+
+element becomes accessible to the computation by way of Case valuation, which the target 
+
+renders. But this process is only half the story. The other half pertains to why Uriagereka 
+
+(1998) termed these features ‘viral’. In 1995, Chomsky implemented cyclicity effects in the 
+
+system by way of stipulating that a process along the lines of (11) must take place immediately 
+
+after the computational system detects the presence of an uninterpretable feature. In other 
+
+words, Chomsky disallowed the possibility of facing a structure like (11) and not doing 
+
+anything to eliminate the uninterpretable feature in T until later in the derivation, when the 
+
+corresponding TP is embedded under some other element. One can liken this immediacy to the 
+
+sort of response the immune system has upon the recognition of a virus, or a bacterium (but the 
+
+latter are of no relevance here, because only viruses can be integrated in the genome and then 
+
+be transmitted vertically to the next generation). Basically put, the computational system, in 
+
+this view, detects an alien element (the uninterpretable feature) and it puts its resources to play 
+
+in order to eliminate that element. 
+
+Apart from accounting for the deri
+

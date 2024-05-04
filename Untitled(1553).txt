@@ -1,0 +1,20 @@
+COS 126
+
+Markov Model of Natural LanguageProgramming Assignment
+
+Use a Markov chain to create a statistical model of a piece of English text. Simulate the Markov chain to generate stylized pseudo-random text.
+
+Perspective. In the 1948 landmark paper A Mathematical Theory of Communication, Claude Shannon founded the field of information theory and revolutionized the telecommunications industry, laying the groundwork for today's Information Age. In this paper, Shannon proposed using a Markov chain to create a statistical model of the sequences of letters in a piece of English text. Markov chains are now widely used in speech recognition, handwriting recognition, information retrieval, data compression, and spam filtering. They also have many scientific computing applications including the genemark algorithm for gene prediction, the Metropolis algorithm for measuring thermodynamical properties, and Google's PageRank algorithm for Web search. For this assignment, we consider a whimsical variant: generating stylized pseudo-random text.
+
+Markov model of natural language. Shannon approximated the statistical structure of a piece of text using a simple mathematical model known as a Markov model. A Markov model of order 0 predicts that each letter in the alphabet occurs with a fixed probability. We can fit a Markov model of order 0 to a specific piece of text by counting the number of occurrences of each letter in that text, and using these frequencies as probabilities. For example, if the input text is "gagggagaggcgagaaa", the Markov model of order 0 predicts that each letter is 'a' with probability 7/17, 'c' with probability 1/17, and 'g' with probability 9/17 because these are the fraction of times each letter occurs. The following sequence of letters is a typical example generated from this model:
+
+g a g g c g a g a a g a g a a g a a a g a g a g a g a a a g a g a a g ... 
+
+A Markov model of order 0 assumes that each letter is chosen independently. This independence does not coincide with statistical properties of English text because there a high correlation among successive letters in a word or sentence. For example, 'w' is more likely to be followed with 'e' than with 'u', while 'q' is more likely to be followed with 'u' than with 'e'.
+
+We obtain a more refined model by allowing the probability of choosing each successive letter to depend on the preceding letter or letters. A Markov model of order k predicts that each letter occurs with a fixed probability, but that probability can depend on the previous k consecutive letters. Let a k-gram mean any k consecutive letters. Then for example, if the text has 100 occurrences of "th", with 60 occurrences of "the", 25 occurrences of "thi", 10 occurrences of "tha", and 5 occurrences of "tho", the Markov model of order 2 predicts that the next letter following the 2-gram "th" is 'e' with probability 3/5, 'i' with probability 1/4, 'a' with probability 1/10, and 'o' with probability 1/20.
+
+A brute-force solution. Claude Shannon proposed a brute-force scheme to generate text according to a Markov model of order 1:
+
+“ To construct [a Markov model of order 1], for example, one opens a book at random and selects a letter at random on the page. This letter is recorded. The book is then opened to another page and one reads until this letter is encountered. The succeeding letter is then recorded. Turning to another page this second letter is searched for and the succeeding letter recorded, etc. It would be interesting if further approximations could be constructed, but the labor involved becomes enormous at the next stage. ”
+

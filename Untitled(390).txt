@@ -1,0 +1,14 @@
+The "proof" is extraordinarily incoherent. It is just a string of [[special pleading]] arguments, claiming the thing that is trying to be proved.
+
+Nothing in the proof is "incontrovertible" or follows "naturally". It argues that base qualia were "seen" during the "design process".
+
+Physicists debate that the universe had a beginning, you can't just assume it did. Philosophers debate the existence of qualia as having any kind of context or physical existence besides the arrangement of material atoms.
+
+You can't just state that qualia "must have been designed" rather than be  an emergent property, because it is perfectly possible that of qualia "exist" that they are an emergent property and this is exactly what others claim.
+
+There is definitely not a pre-existing quality of "green", for example, that is axiomatic and available to observers, I am not sure how that could possibly make any sense, and if there were a specific experience of seeing a green thing (which is not known) it could be the result of chance, spontaneous creation (isn't this just saying emergence?), or combination. 
+
+It is known that in a real logic such as lambda calculus, you *can* make complex programs by chaining or composing simpler functions.
+
+Like every single thing in the proof is suspect.
+

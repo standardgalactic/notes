@@ -1,0 +1,18 @@
+Organic Learning (OL) is a type of machine learning algorithm that is designed for sequence processing, such as processing text or speech. It is inspired by the structure and function of the human brain, and aims to build a neural network-like structure, called a Connectome, to represent the understanding of the input stream.
+
+The learner starts out empty and incrementally builds its Connectome by discovering recurring sequential patterns in its input. The learning process is performed character by character, without the need for parsing the input into words. Each character activates a corresponding "character input neuron" that signals other neurons, creating a cascade of signaling to determine the meaning of the sentence and where to attach new understanding. This incremental attachment operation provides the "Organic Growth" aspect of the algorithm.
+
+The learner pipeline of UM1, an implementation of the OL algorithm, can be outlined as follows:
+
+Initialization: The learner starts with an empty Connectome and reads the input stream character by character.
+
+Pattern Discovery: The learner discovers recurring sequential patterns in the input and uses them to build its Connectome by creating new nodes and links.
+
+Connectome Update: The learner updates its Connectome by adjusting the weights of the links based on the correlations discovered in the input.
+
+Competence Creation: After every 10 million characters of input have been processed, the learner creates a "node wiring list" file that describes the connections between nodes in the Connectome.
+
+Natural Language Understanding: The node wiring list file can be loaded to create a new instance of the Natural Language Understanding Service, which can be used to understand new input based on the learned Connectome
+
+These are the main steps involved in the OL and UM1 learner pipeline. The algorithm's main advantage is its ability to process input incrementally, allowing it to learn and understand language at a high speed and with high accuracy.
+

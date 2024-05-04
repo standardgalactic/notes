@@ -1,0 +1,235 @@
+🌟 Learn from Andrew Ng! Generative AI for Everyone
+
+￼￼
+
+The Batc
+
+Issue 220
+
+Published
+
+Oct 25, 2023
+
+
+
+Dear friends,
+
+Welcome to the Halloween special issue of The Batch, where we take a look at fears associated with AI. In that spirit, I’d like to address a fear of mine: Sensationalist claims that AI could bring about human extinction will cause serious harm.
+
+In recent months, I sought out people concerned about the risk that AI might cause human extinction. I wanted to find out how they thought it could happen. They worried about things like a bad actor using AI to create a bioweapon or an AI system inadvertently driving humans to extinction, just as humans have driven other species to extinction through lack of awareness that our actions could have that effect. 
+
+When I try to evaluate how realistic these arguments are, I find them frustratingly vague and nonspecific. They boil down to “it could happen.” Trying to prove it couldn’t is akin to proving a negative. I can’t prove that AI won’t drive humans to extinction any more than I can prove that radio waves emitted from Earth won’t lead space aliens to find us and wipe us out. 
+
+Such overblown fears are already causing harm. High school students who take courses designed by Kira Learning, an AI Fund portfolio company that focuses on grade-school education, have said they are apprehensive about AI because they’ve heard it might lead to human extinction, and they don’t want to be a part of that. Are we scaring students away from careers that would be great for them and great for society?
+
+￼
+
+I don’t doubt that many people who share such worries are sincere. But others have a significant financial incentive to spread fear: 
+
+Individuals can gain attention, which can lead to speaking fees or other revenue.
+
+Nonprofit organizations can raise funds to combat the phantoms that they’ve conjured.
+
+Legislators can boost campaign contributions by acting tough on tech companies.
+
+I firmly believe that AI has the potential to help people lead longer, healthier, more fulfilling lives. One of the few things that can stop it is regulators passing ill-advised laws that impede progress. Some lobbyists for large companies — some of which would prefer not to have to compete with open source — are trying to convince policy makers that AI is so dangerous, governments should require licenses for large AI models. If enacted, such regulation would impede open source development and dramatically slow down innovation. 
+
+How can we combat this? Fortunately, I think the developer and scientific communities believe in spreading truthful, balanced views, and open source has a lot of supporters. I hope all of us can keep promoting a positive view of AI.
+
+AI is far from perfect, and we have much work ahead of us to make it safer and more responsible. But it already benefits humanity tremendously and will do so even more in the future. Let’s make sure unsubstantiated fears don’t handicap that progress.
+
+Witching you lots of learning,
+
+Andrew
+
+P.S. We have a Halloween treat for you! LangChain CEO Harrison Chase has created a new short course, “Functions, Tools, and Agents with LangChain.” It covers the latest capabilities in large language models, including OpenAI’s models, to call functions. This is very useful for handling structured data and a key building block for LLM-based agents. Sign up here!
+
+￼
+
+Feel the Fear 
+
+The days grow short, the shadows long. Terrifying monsters prowl in the darkness, recent years have shown. We sense the presence of creatures that would do us harm: chatbots that dispense deadly advice, machines bent on conquering our places of work, investors whose unrestrained avarice would ruin us all. How can we hold back the encroaching gloom and prolong the light that is our salvation? We propose a six-month pause in Earth’s orbit around the sun.
+
+￼
+
+AI Turns Deadly
+
+Large language models occasionally generate information that’s false. What if they produce output that’s downright dangerous?
+
+The fear: Text generators don’t know true from false or right from wrong. Ask an innocent question about food or health, and you might get an innocent — but fatal — answer.
+
+Horror stories: Large language models may already have claimed their first victims.
+
+Sold on Amazon, AI-generated guides to edible plants encourage readers to gather poisonous mushrooms. Online sleuths have found dangerous misidentifications. 
+
+A New Zealand supermarket chain offered a chatbot that makes recipes from lists of ingredients. When a user asked it what to do with water, ammonia, and bleach, it offered a recipe for lethal chloramine gas. Subsequently the bot appended recipes with the disclaimer, “You must use your own judgment before relying on or making any recipe produced by Savey Meal-bot.”
+
+A chatbot provided by the National Eating Disorder Association dispensed advice likely to exacerbate eating disorders, users reported. For instance, it told one user with anorexia to continue to lose weight. The organization withdrew the bot.  
+
+How scared should you be: AI models are becoming safer as researchers develop techniques that align models to human preferences, such as reinforcement learning from human feedback, constitutional AI, and data-centric AI.
+
+Anthropic is among a number of AI companies that focus on building safe models. Its Claude family of large language models were trained to follow a constitution that stresses human rights and harm reduction.
+
+Amazon, Anthropic, Google, Inflection, Meta, Microsoft, and OpenAI committed to prioritizing AI safety research and sharing information with independent researchers.
+
+Facing the fear: Large language models are widely available, but they’re still experimental. Researchers — like users — are learning how to control them. Builders of systems geared toward the general public — like mental health and recipe chatbots — have a special responsibility to consider sensitive, dangerous, or nefarious uses.
+
+￼
+
+Criminals Unleashed
+
+Do the latest machine learning models constitute a supercharged tech stack for cybercrime?
+
+The fear: Innovations like text generation, voice cloning, and deepfake videos give scammers powerful new ways to gain their victims’ trust and infiltrate their systems. They threaten to bring on an epidemic of e-fraud.
+
+Horror stories: The arsenal of automated tools available to scammers and lawbreakers is growing.
+
+Hackers have fine-tuned models for wrongdoing. FraudGPT can write persuasive emails, deliver stolen credit card numbers, and provide verified bank identification numbers. WormGPT generates malicious Python code. 
+
+Scammers tried to use cloned voices of customers to persuade Bank of America to move money. A Vice reporter surreptitiously accessed his own bank account by spoofing the automated service line with a synthetic facsimile of his own voice.
+
+Developers may not be safe either. An attacker slipped a malicious binary file into PyTorch. Coders who called the wrong libraries found their computers infected with malware.
+
+How scared should you be? AI security is a real problem.
+
+Search queries can prompt Google Bard to divulge private chat histories. ChatGPT plugins can reveal personal information and execute malicious code.
+
+Certain text strings cause large language models to jump their guardrails and provide harmful information, researchers at Carnegie Mellon found. The same strings work on disparate language models.
+
+Government agencies have warned of AI-powered crime, including the United States’ National Security Agency and Federal Bureau of Investigation and the United Kingdom’s MI5.
+
+Facing the fear: Developers and governments alike are working to thwart malevolent uses of AI. Large AI companies employ so-called red teams that test a system’s security by simulating attacks. This approach finds and fixes vulnerabilities before lawbreakers discover them. And for users, tried-and-true advice for avoiding scams still applies in the AI age: Exercise skepticism toward online promises, double check identities, hold personal information closely, and don’t click on unknown attachments or links.
+
+A MESSAGE FROM DEEPLEARNING.AI
+
+￼
+
+This course aims to keep you updated on the fast-changing world of LLMs as a developer tool. Explore advancements like OpenAI’s function calling capability and a new syntax called LangChain Expression Language (LCEL), and apply these tools by building a conversational agent. Enroll for free
+
+￼
+
+Data Disappears
+
+The latest advances in AI are built on freely available training data. What will happen if it becomes off-limits?
+
+The fear: Creative workers don’t want AI developers to train models on their works without permission or compensation, or at all. Data is vanishing as they scramble to lock it down. 
+
+Horror stories: Generative AI models readily produce outputs that imitate the styles of individual authors and artists. Creative people and organizations that work on their behalf are reacting by suing AI developers (all proceedings are ongoing at publication time) and restricting access to their works.
+
+A class-action lawsuit against Microsoft, OpenAI, and Github claims that OpenAI improperly used open source code to train Github’s Copilot code-completion tool.
+
+Several artists filed a class-action lawsuit against Stability AI, Midjourney, and the online artist community DeviantArt, arguing that the companies violated the plaintiffs’ copyrights by training text-to-image generators on their artwork.
+
+Universal Music Group, which accounts for roughly one-third of the global revenue for recorded music, sued Anthropic for training its Claude 2 language model on copyrighted song lyrics.
+
+The New York Times altered its terms of service to forbid scraping its webpages to train machine learning models. Reddit and Stack Overflow began charging for their data.
+
+Authors brought a class-action lawsuit against Meta, claiming that it trained LLaMA on their works illegally. The Authors Guild sued OpenAI on similar grounds. 
+
+The threat of a lawsuit by a Danish publishers’ group persuaded the distributor of Books3, a popular dataset of about 183,000 digitized books, to take it offline.
+
+Survival in a data desert: Some AI companies have negotiated agreements for access to data. Others let publishers opt out of their data-collection efforts. Still others are using data already in their possession to train proprietary models. 
+
+OpenAI cut deals with image provider Shutterstock and news publisher The Associated Press to train its models on materials they control.
+
+Google and OpenAI recently began allowing website owners to opt out of those companies’ use of webpages to train machine learning models.
+
+Large image providers Getty and Adobe offer proprietary text-to-image models trained on images they control.
+
+Facing the fear: Copyright holders and creative workers are understandably worried that generative AI will sap their market value. Whether the law is on their side remains to be seen. Laws in many countries don’t explicitly address use of copyrighted works to train AI systems. Until legislators set a clear standard, disagreements will be decided case by case and country by country. 
+
+￼
+
+No Jobs for Humans
+
+AI is taking over the workplace. Will there be enough jobs left for people?
+
+The fear: Workers of all kinds are on the firing line as large language models, text-to-image generators, and hardware robots match their performance at a lower cost.
+
+Horror stories: Automated systems are performing a wide range of tasks that previously required human labor.
+
+Voice-enabled language models take orders at fast-food restaurants. Their mechanical counterparts cook fries.
+
+Large language models write articles for publications including CNET, Gizmodo, publications that share ownership with Sports Illustrated, and outlets associated with the United Kingdom’s Daily Mirror and Express. 
+
+Image generators are producing concept art for game developer Blizzard Entertainment, and a synthetic image appeared on the cover of a book published by Bloomsbury.
+
+Humanoid robots are moving bins in Amazon warehouses, while mechanical arms that shape sheet metal fabricate parts for airplanes.
+
+Creeping pink slips: Workers are expressing anxiety about their prospects, and researchers believe the labor market is about to experience a seismic shift.
+
+24 percent of U.S. workers worry AI will take over their jobs, a May survey by CNBC found.
+
+Hollywood writers and actors staged a protracted strike partly over concerns that generative AI would devalue their work. 
+
+Investment bank Goldman Sachs predicted that AI could put 300 million full-time jobs at risk.
+
+Facing the fear: Each new wave of technology puts people out of work, and society has a responsibility to provide a safety net and training in new skills for people whose jobs become fully automated. In many cases, though, AI is not likely to replace workers — but workers who know how to use AI are likely to replace workers who don’t.
+
+The United States Bureau of Labor Statistics identified 11 occupations at risk of being automated — such as language translators and personal financial advisors — and found that 9 of them grew between 2008 and 2018. 
+
+Human jobs tend to involve many tasks, and while AI can do some of them, it’s poorly suited to others. An analysis of AI’s impact on jobs in the United States concluded that, for 80 percent of the workforce, large language models would affect at least 10 percent of tasks. This leaves room for AI to boost the productivity — and perhaps wages and even job security — of human workers.
+
+Technological advances typically create far more jobs than they destroy. An estimated 60 percent of U.S. jobs in 2018 did not exist in 1940. Looking forward, consider the likely explosion of machine learning engineers, data scientists, MLOps specialists, and roboticists.
+
+￼
+
+Hype Overshoots Reality
+
+AI companies are soaring on promises they can revolutionize society while making a profit. What if they're flying too close to the sun?
+
+The fear: The latest models generate publication-worthy essays and award-winning artworks, but it’s not clear how to make them generate enough revenue to both cover their costs and turn a profit. The bubble is bound to burst.
+
+Horror stories: During the dot-com bust of 2000, internet stocks tumbled as their underlying weaknesses became apparent. The cryptocurrency crash of 2022 evaporated nearly two-thirds of Bitcoin’s value. Some observers believe that, similarly, today’s hottest AI bets are overhyped and overvalued. 
+
+ChatGPT’s base of active monthly users ballooned faster than that of any application in history. But it lost users steadily through the second quarter of this year.
+
+Serving models like ChatGPT to a mass audience is expensive. Microsoft, which supplies infrastructure to run ChatGPT and other OpenAI innovations, is trying desperately to cut the cost, primarily by distilling OpenAI models to reduce their size and thus the processing power they require.
+
+An ongoing shortage of AI processing chips is limiting server capacity. Some providers of cloud computing may be overcompensating by spending to build processing capacity that they won’t be able to sell at a profit.
+
+Bad omens: Generative AI accomplishes new marvels with each passing month, but that doesn’t necessarily translate into profitable businesses. Investors and analysts are throwing up red flags.
+
+Investors poured $14.1 billion into generative AI startups in the first half of 2023, compared to $2.5 billion in all of 2022 and $3.5 billion in all of 2021, according to CB Insights, which tracks startup funding.
+
+While some venture investors have been betting on AI startups, others have urged caution. “Companies are extremely overvalued,” one investor told Financial Times in March.
+
+The market analyst Gartner recently published a graph that projects expectations for generative AI over time. Gartner’s Hype Cycle graph places generative AI at the “peak of inflated expectations.” A descent into a “trough of disillusionment” follows.
+
+Facing the fear: No one knows what the future will bring, but generative AI’s usefulness, which already has attracted billions of users, continues to evolve at a rapid pace. No doubt, some investments won’t pay off — but many will: The consultancy McKinsey estimated that generative AI could add between $2.6 trillion and $4.4 trillion to the global economy annually. Already generative models form the foundation of conversational assistants, image generators, video effects, and automated coding tools. An avalanche of further applications and refinements appears to be inevitable as the technology continues to advance.
+
+Data Points
+
+California halts Cruise's self-driving cars due to safety concerns
+The California Department of Motor Vehicles (DMV) suspended all driverless vehicles operated by Cruise, General Motors’ robotaxi subsidiary. The DMV stated that Cruise misrepresented safety information and its vehicles posed an "unreasonable risk" to public safety. The company must fulfill safety requirements to have its permits reinstated. (The Washington Post)
+
+Researchers built a tool for artists to disrupt generative AI models
+Nightshade, a “data poisoning” tool, allows artists to introduce subtle and invisible changes to their digital artwork to thwart generative AI models. When scraped into AI training sets, these alterations can cause models to produce unpredictable and often bizarre results. The research, submitted for peer review, suggests that Nightshade could rebalance power between artists and AI companies by creating an effective safeguard against misuse of artists’ creative content. (MIT Technology Review)
+
+Apple to ramp up Generative AI integration across devices
+After missing the past year’s wave of generative innovation, the tech giant is building its own large language model and intensifying efforts to incorporate generative AI technology across its product line. Apple’s focus includes revamping Siri, enhancing the Messages app, and integrating AI into the next version of iOS. Apple also plans to use generative AI in development tools, lifestyle and productivity apps, and customer service applications. (Bloomberg)
+
+Rapper Pras’s lawyer used AI-generated closing argument, requests new trial
+The rapper, convicted of several federal crimes, claims his attorney used AI to compose his trial’s closing argument, leading to an ineffective defense that did not address key aspects of the case. The lawyer allegedly had an undisclosed stake in the AI company. Pras’s motion for a new trial underscores the potential pitfalls and challenges associated with AI-assisted legal representation. (Ars Technica)
+
+Striking Hollywood actors' participation in AI training raises ethical and privacy concerns
+During the Screen Actors Guild’s Hollywood strikes, hundreds of out-of-work actors participated in an "emotion study" project. The study, organized by AI company Realeyes and involving Meta, aimed to collect data from actors to teach AI to understand and express human emotions. While the job posting suggested that individual likenesses wouldn't be used for commercial purposes, the broad data license agreement allowed the companies significant leeway to use the actors' faces, expressions, and derived data. (MIT Technology Review)
+
+Universal Music filed a $75 million lawsuit against Anthropic for alleged copyright infringement 
+The plaintiffs claim that Anthropic systematically copied and distributed copyrighted lyrics by artists like Beyoncé and the Rolling Stones without permission. This allegedly interfered with Universal’s ability to profit from licensing their lyrics, undermining existing and potential licensing markets. The lawsuit seeks damages and to block Anthropic from using copyrighted lyrics. (The Hollywood Reporter)
+
+Research: Meta's Image Decoder translates brain activity into visual imagery
+This technology uses brain activity to generate images of what someone is seeing or thinking, with fairly high accuracy. The model combines deep learning with magnetoencephalography (MEG) to decode brain activity and produce images based on MEG data. In its highest performing cases, the Image Decoder system achieved an accuracy rate of 70% in retrieving or recreating images based on MEG data. The technique faces technology limitations and ethical concerns. (VentureBeat)
+
+An AI model focused on diversity and inclusivity
+Latimer, often referred to as the "Black GPT," is a large language model designed to offer generative AI tools a better representation of black and brown people. It incorporates books, oral histories, and local archives from underrepresented communities during the training process. The platform aims to become an educational tool and reduce biases and inaccuracies in data. (POCIT)
+
+Research: Stanford's Transparency Index reveals lack of clarity in AI models
+Stanford researchers introduced the Foundation Model Transparency Index, evaluating transparency in ten major language models, including OpenAI's GPT-4 and Google's PaLM 2. The transparency index rates the models on 100 criteria, including their makers’ disclosure of training data sources, hardware used, labor involved in training, and more. The top-scoring model achieved 54 out of 100, indicating a fundamental deficiency in transparency. (The New York Times and Stanford’s Center for Research on Foundation Models)
+
+Amazon advances warehouse automation with new technologies
+Amazon is introducing a humanoid robot named Digit and the Sequoia technology. Digit, developed by Agility Robotics Inc., featuring bipedal movement and hand-like clasps, was designed to consolidate emptied totes. Sequoia identifies and sorts inventory items into containers for employees to pick and process orders more efficiently. Amazon aims to mitigate injury risks through automation and reduce processing times by up to 25%. Some workers and activists are concerned that these automated systems will replace human employees. (Bloomberg)
+
+Nvidia enhances robotics platform with generative AI and new APIs for edge processing 
+The chipmaker is expanding its Jetson platform with generative AI models and cloud-native APIs and microservices. Nvidia’s Jetson platform now includes the Isaac ROS robotics framework and a Metropolis expansion to accelerate AI application development. Developers can also access a new generative AI Lab with open source models to simplify deployment and management of applications at the edge. (Nvidia)
+

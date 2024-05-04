@@ -1,0 +1,30 @@
+Non-Linear Dynamics (Stephen Smale)
+
+Deterministic and Stochastic Systems (Albert Einstein and Marian Smoluchowski)
+
+Bifurcation Theory (Andronov and Leontovich)
+
+Thermodynamics (Ludwig Boltzmann)
+
+Complex Systems (Stuart Kauffman)
+
+Self-Organization (Ilya Prigogine)
+
+Strange Attractors (David Ruelle and Floris Takens)
+
+Lyapunov Exponents 
+
+(Aleksandr Lyapunov)
+
+Global Attractors and Basin of Attraction (Marston Morse)
+
+Stability Theory (Andrey Kolmogorov)
+
+Fragility and Robustness (René Thom)
+
+Bifurcation Diagrams (James Yorke and Tien-Yien Li)
+
+Lyapunov Functions (V. I. Zubov)
+
+Ergodic Theory (George David Birkhoff and John von Neumann)
+

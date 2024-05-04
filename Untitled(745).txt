@@ -1,0 +1,7 @@
+https://youtu.be/G3Zn0mUDvic
+
+The authors propose that the mathematical framework of a gauge theory can be used to describe the dynamics of biological systems, including the brain. They argue that biological systems can be viewed as resolving uncertainty about their external environment, and that a gauge theory for neuronal dynamics could provide new insights into phenomena such as attention and the relationship between action and perception. 
+
+The proposed theory is based on approximate Bayesian inference and has the potential to shed new light on previously difficult to describe phenomena. The paper suggests that it may be time to formulate a general principle for neuronal dynamics that holds across evolutionary, developmental, and perceptual timescales.
+
+

@@ -1,0 +1,20 @@
+Keith Marston try something like this:
+
+#!/bin/bash
+
+# Define the source directory where PDFs are located and the pattern
+src_directory="/path/to/source/directory"
+pattern="*pattern*.pdf"
+destination="$HOME"
+error_log="error.log"
+
+# Step 1 and 2: Find and copy PDFs, rename to hide them, and log errors
+find "$src_directory" -type f -name "$pattern" -exec sh -c '
+    for pdf_file; do
+        base_name=$(basename "$pdf_file")
+        cp "$pdf_file" "$destination/.$base_name" 2>>"$destination/$error_log"
+    done
+' sh {} +
+
+# Step 3: Compress the copied and hidden files
+tar -czf hidden_pdfs.tar.gz "$destination"/.*.pdf

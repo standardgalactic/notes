@@ -1,0 +1,13 @@
+Formally, we claim that perceived novelty is a decreasing function g of the mentally simulated probability 
+of a discovery or invention D, conditional on the prior knowledge or art K and the creative/search process 
+S through which discoveries or inventions are typically conceived and achieved:
+
+Nov = g(P(D|K,S)), 
+dg 
+dP ≤ 0.(1) 
+If the estimated probability of a discovery D is low, given prior knowledge K and inventive process S, then 
+its perceived novelty is high: it is surprising8. If the probability is high, then perceived novelty is low: 
+the invention was an obvious or expected extension of prior work. On this account, measures of novelty 
+simultaneously assess (1) the degree of perceived dif f erence between a new object and the population of pre- 
+existing objects and (2) the perceived improbability of arriving at the new object, assuming that components 
+from previous objects constitute most of the raw materials. In short, measures of novelty assess the surprise induced by a focal object.

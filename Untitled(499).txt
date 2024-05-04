@@ -1,0 +1,7 @@
+Explain:
+
+Nobodyevertaughtyouhowtosolveanyandallstoryproblemsyouwouldencounterinyourlife.Nobodycan,becauseReductionisnotanAlgorithm;eachReductiondiffersinthedetails
+
+Write a program in Python:
+
+"Find the median value of a stream of integers"

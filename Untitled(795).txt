@@ -1,0 +1,133 @@
+Ergodic Examples
+BEFORE APPLYING AI, practitioners need to address s wnerher whether the the problem problem under
+consideration is forecast ergodic ergodic or or not,34
+We are amazed when reinforcement learning can be used to win Atari arcade
+games using only display pixels. But in doing so, the AI is exposed to the same
+game again and again. The game scenarios change change as the human opponent makes
+different moves, but the game itself does not change in time. It is time invariant.
+The same is true with chess oF GO. The same game IS played over and over and
+over, When trained, the AI will be playing this same game, No rules are
+changed. A time-invariant system is one where the rules remain the same, and
+the AI's response to inputs does not change over time. Today, tomorrow,
+whenever-the game alwvays remains the same.
+To illustrate time invariance, consider training AI to win at the game of
+same
+checkers. When a boy played a variation of checkers called give-away where
+the winner is whoever gets all his checkers jumped. Needless to say, AI trained
+to win at conventional checkers would not do wellin the game of give-away. The
+rules have been changed. Changing the rules violates time invariance and thus
+forecast ergodicity is not applicable.
+Remember our rainforest example, where you're sending out teams seeking
+the best path? If the terrain is continually being changed by earthquakes,
+tsunamis, and volcano eruptions, then results from previous explorations can no
+longer be trusted. Reinforcement learning will no longer be applicable because
+the problem under consideration no longer displays forecast ergodicity.
+Likewise, if I train machine intelligence to play GO and then switch to the
+game of chess, the trained GO-playing program will sit up and Aub its lips in
+confusion. 'The future performance in playing chess cannot be assessed by
+analysis of past performance in playing GO. Similarly, strategy in GO cannot be
+learned if the rules Of GO are randomly changed during the training process.
+Al board games from simple Parcheesi to GO are time invariant and
+forecast ergodic. The rules are fixed. Note the terminology diferences: While
+stationarity applies to data such as that used in load forecasting, time invariant
+applies to fixed systems like the games of GO and checkers. Stationarity
+indicates that the character of the data doesn't change. Future data has the same character as past data. Time invariance dictates that the mule
+change.
+
+ules of the game
+nor a proviem or te neural network. i nere are always amoiguous cases wnere
+both a human and the neural netwotk will have problems. Like any detection
+scheme, success is determined by the frequency of false positives and false
+negatives.
+200/394
+Reinforcement Learning es ss anire training
+DEEP CONVOLUTIONAL neural networks require training data. There are other
+problems where AI is trained win game. No training data is used Only the
+to
+tules ofl the game. Reinforcement learning explores
+use of difterent strategies to
+win the game. AI trained to play checkers, chess, and GO use reinforcement
+game,
+learning, Training consists of exploring different strategies to win the game. As
+difterent winning strategies are tried, results of attempts are remembered.
+Reinforcement learning uses incremental neural networks; each new piece of
+data allows the AI to "learn" adjusting its behavior with every new bit of
+feedback. Reinforcement learning has been used to beat world champions at GO
+and beat legacy Atari video arcade games trained on pixels only. These are
+astonishing acomplishments.
+In pure reinforcement learning, there is no training data per se. In winning at
+board games like checkers, chess, or GO, there are only rules and the goal of
+winning, Reinforcement learning explores and ultimately decides on the best
+winning methodology.
+Reinforcement learning is given an environment and a goal. How is the
+environment to be explored to best achieve the goal: Ants run around
+individually foraging for food. They are exploring. When food is found, the ants
+form a line back and forth from the food to their nest. They are exploiting their
+discovery. Exploration and exploitaion are the fundamental components of
+reinforcement learning.
+In the ant foraging example, the environment is fixed but unknown
+Similarly, in GO, the environment is the GO board accompanied by the rules of
+GO. The goal is to explore and exploit different move combinations for diferent
+board configurations, and reinforcement learning is the procedure to achieve this
+goal,
+A simple example of reinforcement learning involves a row of slot machines,
+nick-named one-armed bandits. A coin is inserted in one and a lever pulled,
+Three simple images spin, slow down, and then stop. I all three images are
+cherries, you win. If the three images are all diamonds, you win bigger If the
+images all difer, the investment of the coin dropped into the machine is lost.
+Now, there's a row of twenty slot machines, and some of them pay off better
+than others. One machine pays off 60 percent of the time and another 70
+percent. 'The rest pay off 50 percent of the time. At the start, you have no idea
+how well any of the slot machines operate. The only way to find out is to insert
+coins and see how the machines pay off. After spending a lot of money, the
+machine with the best payoff can be identififed. To maximize winnings, all your
+money should then be used on the most generous machine
+What is the best way to do
+
+ scenarios where the pot goes to Pascal, three-tourths ot the pot should go to
+Pascal and one-fourth of the pot to Fermat. The fair solution to the problem is
+that Fermat gets twenty-five dollars and Pascal seventy-five dollars
+'The unfinished coin flipping game is the problem considered in a series of
+letters between F'ermat and Pascal in the seventeenth century. Their
+correspondence and subsequent solution to the problem, nicely described in the
+book The Unfinished Game,33 is credited with the founding of the field of
+probability theory.
+So, although the sequence of coin flips is not forecast ergodic, wagers of the
+type between Pascal and Fermat can tell us to bet more heavily on Pascal when
+he i is two successes ahead on a best-of -five coin flipping
+contest.
+206/394
+Ergodic Examples
+BEFORE APPLYING AI, practitioners need to address whether the problem under
+consideration is forecast ergodic or not.34
+We are amazed when reinforcement learning can be used to win Atari arcade
+games using only display pixels. But in doing so, the AI is exposed to the same
+game again and again. The game scenarios change as the human opponent makes
+different moves, but the game itself does not change in time. It is time invariant.
+The same is true with chess or GO. The same game IS played over and over and
+over. When trained, the AI will be playing this same game. No rules are
+changed. A time-invariant system is one where the rules remain the same, and
+the AI's response to inputs does not change over time. Today, tomorrow,
+whenever-the game always remains the same.
+"To illustrate time invariance, consider training AI to win at the game of
+checkers. When a boy, I played a variation of checkers called "give-away" where
+the winner is whoever gets all his checkers jumped. Needless to say, AI trained
+to win at conventional checkers would not do well in the game of give-away. The
+rules have been changed, Changing the rules violates time invariance and thus
+forecast ergodicity is not applicable.
+Remember our rainforest example, where you're sending out teams seeking
+the best path: If the terrain is continually being changed by earthquakes,
+tsunamis, and volcano eruptions, then results from previous explorations can no
+longer be rusted. Reinforcement learning will no longer be applicable because
+the problem under consideration no longer displays forecast ergodicity.
+Likewise, if I train machine intelligence to play GO and then switch to the
+game of chess, the trained GO-playing program will sit up and Alub its lips in
+confusion. The future performance in playing chess cannot be assessed by
+analysis of past performance in playing GO. Similarly, strategy in GO cannot be
+learned if the rules of GO are randomly changed during the training process.
+All board games from simple Parcheesi to GO are time invariant and
+forecast ergodic. The rules are fixed. Note the terminology diferences: While
+stationarity applies applies to data such as that used in load forecasting, time invariant
+applies to fixed systems like the games of GO and checkers. Stationarity
+indicates that the character of the data doesn't change. Future data has the same
+

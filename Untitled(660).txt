@@ -1,0 +1,53 @@
+at:https://github.com/LiyuanLucasLiu/ 
+ReHession. 
+Kind Wiki-KBPNYT 
+#Types#LF#Types#LF 
+Pattern1314716115 
+KB772526 
+Table 4:Number of labeling functions and the relation 
+types they can annotated w.r.t. two kinds of information 
+CoreNLP tool (Manning et al., 2014) to generate 
+entitymentions andgetPOStagsforbothdatasets. 
+Brown clusters(Brown et al., 1992) are derived for 
+each corpus using public implementation2.All 
+these features are shared with all compared meth- 
+ods in our experiments. 
+Labeling Functions.In our experiments, label- 
+ing functions are employed to encode two kinds of 
+supervision information. One is knowledge base, 
+the other is handcrafted domain-specif i c patterns. 
+For domain-specif i c patterns, we manually design 
+a number of labeling functions3; for knowledge 
+base, annotations are generated following the pro- 
+cedure in (Ren et al., 2016; Riedel et al., 2010). 
+Regarding two kinds of supervision informa- 
+tion, the statistics of the labeling functions are 
+summarized in Table 4.We can observe that 
+heuristic patterns can identify more relation types 
+for KBP datasets, while for NYT datasets, knowl- 
+edge base can provide supervision for more rela- 
+tion types. This observation aligns with our intu- 
+ition that single kind of information might be in- 
+suff i cient while different kinds of information can 
+complement each other. 
+We further summarize the statistics of annota- 
+tions in Table 6. It can be observed that a large 
+portion of instances is only annotated as None, 
+while lots of conf l icts exist among other instances. 
+This phenomenon justif i es the motivation to em- 
+ploy true label discovery model to resolve the con- 
+l icts among supervision. Also, we can observe 
+most conf l icts involve None type, accordingly, 
+our proposed method should have more advan- 
+tages over traditional true label discovery methods 
+on the relation extraction task comparing to the re- 
+lation classif i cation task that excludes None type. 
+4.2Compared Methods 
+We compare REHESSIONwith below methods: 
+FIGER(Ling and Weld, 2012) adopts multi-label 
+2https://github.com/percyliang/ 
+brown-cluster 
+3pattern-based labelingfunctionscanbeaccessed 
+at:https://github.com/LiyuanLucasLiu/ 
+ReHession 
+51

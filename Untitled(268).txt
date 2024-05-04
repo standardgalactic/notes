@@ -1,0 +1,56 @@
+Towards a Proof-Theoretic Semantics of
+Equalities
+Frege's Question
+Equality Versus ldentity
+The Mode of Presentation
+Morning_ Star Versus Evening_Star
+Revisited
+Equality
+Equality of Senses
+Proof-Theoretic Semantics
+On the Proof-Theoretic Foundations of
+Set Theory
+I
+
+Defining Sets
+Functional Closure, Local Logic and the
+Notion of Absoluteness
+The Functional Closure
+Local Logic
+Absoluteness
+A Proof-Theoretic Interpretation
+Sets
+Foundational Issues
+References
+A Strongly Differing Opinion on Proof-
+Theoretic Semantics?
+Tarski's Definition of Logical Consequence
+Model Theory
+Model-Theoretic Semantics
+Defining Meanings in General
+Defining Meanings: Specialise Then
+Generalise
+Representing the Meaning
+Defining Logical Consequence
+
+Introduction
+Prawitz's Conjecture
+Failure of Completeness for Intuitionistic
+Logic
+Goldfarb's Account of Dummett's Approach
+Definition 7
+Proof-Theoretic Validity for Generalized
+Atomic Systems
+Generalized Atomic Systems
+Proof-Theoretic Validity
+Lemma 3
+Failure of Strong Completeness
+Strong Completeness Results
+Failure of Completeness
+Comparison with Kripke Semantics
+A Completeness Result for Intuitionistic
+Logic
+Definition 18
+Completeness Results for Classical Logic
+Definition 19
+

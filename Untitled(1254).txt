@@ -1,0 +1,26 @@
+def blandify_and_decontextualize(data):
+    # Blandifying by generalizing the user's age
+    if data['age'] < 20:
+        data['age'] = '<20'
+    elif data['age'] < 40:
+        data['age'] = '20-39'
+    else:
+        data['age'] = '40+'
+    
+    # Decontextualizing by abstracting detailed location to just country
+    data['location'] = data['location'].split(',')[1]  # Assuming format "City,Country"
+    
+    # Assuming you might also want to decontextualize names
+    data['name'] = 'REDACTED'
+    
+    return data
+
+# Example data
+user_data = {
+    'name': 'Jane Doe',
+    'age': 25,
+    'location': 'Springfield,USA'
+}
+
+blandified_and_decontextualized_data = blandify_and_decontextualize(user_data)
+print(blandified_and_decontextualized_data)

@@ -1,0 +1,16 @@
+ Unix Permission Numbers
+
+- `0` (binary `000`): 🍎🍎🍎 (no permissions)
+- `1` (binary `001`): 🍎🍎🚀 (execute only)
+- `2` (binary `010`): 🍎🖋🍎 (write only)
+- `3` (binary `011`): 🍎🖋🚀 (write and execute)
+- `4` (binary `100`): 📚🍎🍎 (read only)
+- `5` (binary `101`): 📚🍎🚀 (read and execute)
+- `6` (binary `110`): 📚🖋🍎 (read and write)
+- `7` (binary `111`): 📚🖋🚀 (read, write, and execute)
+
+In this representation:
+- 📚 represents 'read'
+- 🖋 represents 'write'
+- 🚀 represents 'execute'
+- 🍎 represents no permission for that particular action.

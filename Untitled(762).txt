@@ -1,0 +1,27 @@
+Summarize:
+
+The researcher’s measurement choice nonlinearly scales per- 
+formance, causing performance to change sharply and unpredictably in a manner that qualitatively 
+matches published emergent abilities (inset). (D) If the researcher instead scores models’ outputs 
+using a discontinuous metric such as (Multiple Choice Grade, which is similar to a step function), 
+the researcher’s measurement choice discontinuously scales performance, causing performance to 
+changesharplyandunpredictablyinamannerthatqualitativelymatchespublishedemergentabilities 
+(inset). (E)Changingfroma nonlinearmetrictoalinear metric (suchasTokenEditDistance), model 
+shows smooth, continuous and predictable improvements, ablating the emergent ability. (F) Chang- 
+ing from a discontinuous metric to a continuous metric (e.g. Brier Score) again reveals smooth, 
+continuous and predictable improvements in task performance, ablating the emergent ability. Con- 
+sequently, emergent abilities may be creations of the researcher’s analyses, not fundamental changes 
+in model family behavior on specif i c tasks. 
+To communicate our alternative explanation, we present it as a simple mathematical model and 
+demonstrate how it quantitatively reproduces the evidence offered in support of emergent abilities 
+of LLMs. We then test our alternative explanation in three complementary ways: 
+1. We make, test and conf i rm three predictions based on our alternative hypotheses using the 
+InstructGPT [24] / GPT-3 [3] model family. 
+2. We meta-analyze published results from [8, 29, 34], and show that in the space of task- 
+metric-model family triplets, emergent abilities only appear for certain metrics and not for 
+model families on tasks (columns). We further show that on i xed model outputs, changing 
+the metric causes the emergence phenomenon to disappear. 
+3. We intentionally induce emergent abilities in deep neural networks of different architec- 
+tures on multiple vision tasks (which to the best of our knowledge have never before been 
+demonstrated) to show how similar metric choices can induce seemingly emergent abilities. 
+3

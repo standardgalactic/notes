@@ -1,0 +1,32 @@
+Example:
+
+Functional programming is a programming paradigm that emphasizes the use of pure functions.
+
+A pure function is a function that always produces the same output for the same input. Pure functions have no side effects, meaning that they do not modify any global variables or output anything.
+
+Recursion is a technique for solving problems by calling a function within itself. Recursion is used in functional programming to implement iteration.
+
+Functions are first-class citizens in functional programming languages. This means that functions can be passed to other functions as arguments, returned from functions, and stored in data structures.
+
+Variables are immutable in functional programming languages. This means that once a variable is assigned a value, it cannot be changed.
+
+Python supports functional programming without the need for any special features or libraries.
+
+Pure functions are important in functional programming because they make it easier to write correct and maintainable code. Pure functions are also easier to parallelize, which can improve performance.
+
+# Python program to demonstrate
+# recursion
+  
+# A recursive function to find
+# factorial of n
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+      
+# Driver code
+print(factorial(5))
+Output:
+
+120

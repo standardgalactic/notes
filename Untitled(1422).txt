@@ -1,0 +1,42 @@
+Multimodal Techniques for Detecting Alien Life using Assembly Theory and Spectroscopy 
+Michael Jirasek†1, Abhishek Sharma†1, Jessica R. Bame†1, Nicola Bell1, Stuart M. Marshall,1 Cole 
+Mathis1, Alasdair Macleod,1 Geoffrey J. T. Cooper!, Marcel Swart2,3, Rosa Mollfulleda2, Leroy Cronin*1 
+†Equal contribution; Corresponding author *Lee.Cronin@glasgow.ac.uk 
+1 School of Chemistry, The University of Glasgow, University Avenue, Glasgow G12 8QQ, UK. 
+2 University of Girona,Campus Montilivi (Ciencies), c/M.A. Capmany 69, 17003 Girona Spain 
+3ICREA, Pg. Lluis Companys 23, 08010 Barcelona, Spain 
+Detecting alien life is a difficult task because it's hard to find signs of life that could apply to any 
+life form. However, complex molecules could be a promising indicator of life and evolution. 
+Currently, it's not possible to experimentally determine how complex a molecule is and how that 
+correlates with information-theoretic approaches that estimate molecular complexity. Assembly 
+Theory has been developed to quantify the complexity of a molecule by finding the shortest path 
+to construct the molecule from simple parts, revealing its molecular assembly index (MA). In this 
+study, we present an approach to rapidly and exhaustively calculate molecular assembly and 
+explore the MA of over 10,000 molecules. We demonstrate that molecular complexity (MA) can be 
+experimentally measured using three independent techniques: nuclear magnetic resonance 
+(NMR), tandem mass spectrometry (MS), and infrared spectroscopy (IR), and these give consistent 
+results with good correlations. By identifying and counting the number of absorbances in IR 
+spectra, carbon resonances in NMR, or molecular fragments in tandem MS, the molecular 
+assembly index of an unknown molecule can be reliably estimated from experimental data. This 
+represents the first experimentally quantifiable approach to defining molecular assembly, a 
+reliable metric for complexity, as an intrinsic property of all molecules and can also be performed 
+on complex mixtures. This paves the way to use spectroscopic techniques to unambiguously detect 
+alien life in the solar system, and beyond on exoplanets. 
+2 
+The exploration of chemical space reveals the striking fact that most molecules greater than molecular 
+weight of 300 Da, which are not simple oligomers, are all connected to the existence of life on earth.1 
+This is because complex molecules such as natural products2 are too complex to form by chance in any 
+detectable abundance, and therefore can only be made by the complex biochemical pathways found in 
+biological cells. Currently, the exploration of complex chemical space is done in-silico3,4 and this 
+focusses on chemical structure,5 topological features,6 application-specific physicochemical descriptors 
+and graph theory and tends to explore medicinal chemical space for drug discovery and development.7 
+In this regard pharmaceuticals can also be considered to be biosignatures, or more specifically 
+technosignatures, since many are complex and would not have been made without humans using 
+technology.8–10 In addition to target selectivity, synthetic accessibility is important to explore the 
+complexity of the molecule.11 There are many competing notions of chemical complexity12, which have 
+led to different algorithmic methodologies being developed using metrics based on molecular weight, 
+counting chiral centres or primarily focusing on substructure properties etc.13–15 However, with the recent 
+development in automated chemical synthesis,16 a proxy for complexity is required that is fast to estimate 
+molecular complexity directly from the acquired experimental data, instead of performing complete 
+structure elucidation. Additionally, for biosignature detection,17 it is important that the complexity metric 
+can be estimated directly from the experimental data without any assumptions about the local

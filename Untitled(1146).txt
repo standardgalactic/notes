@@ -1,0 +1,61 @@
+Lo siento, el texto es bastante extenso. ¿Te gustaría que lo traduzca por secciones? Empezaré con el principio y podrás decirme si deseas que continúe:
+
+---
+
+**Eliezer Yudkowsky frecuentemente se equivoca, con confianza y de manera flagrante**
+por Omnizoid
+26 de agosto
+43 minutos de lectura
+
+Introducción
+Edición 8/27: Creo que el tono de esta publicación fue innecesariamente hostil, he cambiado gran parte de él.
+
+“Después de muchos años, llegué a la conclusión de que todo lo que él dice es falso... Cada uno de sus argumentos estaba teñido y codificado con falsedad y pretensión. Era como jugar ajedrez con piezas extras. Todo era falso.”
+
+—Paul Postal (hablando sobre Chomsky) (nota: así no es exactamente como me siento sobre Yudkowsky, no creo que sea conscientemente deshonesto, pero pensé que era una buena cita y representa en parte mi actitud hacia Yudkowsky).
+
+Publicación cruzada de esto en mi blog.
+
+En los días de mi juventud, hace unos dos años, era un gran fan de Eliezer Yudkowsky. Leí religiosamente sus muchos escritos y pensé que tenía razón en la mayoría de las cosas. En mi último año de debates en la preparatoria, presenté un caso que dependía crucialmente de la interpretación de muchos mundos de la física cuántica, y eso fue en gran parte una consecuencia de leer la secuencia de física cuántica de Eliezer. De hecho, la frase memorable de Eliezer de que la interpretación de muchos mundos "gana de plano dado el estado actual de la evidencia" fue la responsable del título de mi serie de 44 partes argumentando a favor del utilitarismo titulada “El Utilitarismo Gana de Plano”. Si lees mis primeros artículos, puedes encontrar ocasionalmente mis divagaciones sobre el reduccionismo y otras características que dejan claro que mi visión del mundo estuvo al menos algo influenciada por Eliezer.
+
+Pero a medida que crecía y aprendía más, llegué a la conclusión de que gran parte de lo que decía era profundamente implausible.
+
+Eliezer suena convincente cuando habla de un tema del que no sé nada. No sé nada sobre física cuántica y suena persuasivo cuando habla de física cuántica. Pero cada vez que habla sobre un tema que conozco, con una o dos excepciones, lo que dice es completamente irracional, al menos, cuando no es simplemente un consejo sobre cómo razonar mejor. No es solo que siempre termine en desacuerdo con él, es que con frecuencia dice falsedad tras falsedad, dejando claro que está fuera de su elemento. Y esto sucede casi siempre. Parece que, con pocas excepciones, cada vez que sé algo sobre un tema del que él habla, queda claro que su punto de vista es mantenido con confianza pero es muy implausible.
+
+¿Por qué escribo un artículo crítico sobre Yudkowsky? Ciertamente no lo odio. De hecho, supongo que estoy más de acuerdo con él que casi todas las personas en la tierra. La mayoría de la gente cree en muchas falsedades escandalosas. Y creo que probablemente ha hecho más bien que mal al mundo al sonar la alarma sobre la IA, que es un riesgo genuino. Y realmente disfruto de su personalidad combativa y dispuesta a ser contraria.
+
+Continuando con la traducción:
+
+---
+
+Sin embargo, hay dos razones principales por las que escribo este artículo:
+
+1. **Reputación.** A menudo encuentro gente que piensa que Yudkowsky es básicamente infalible y tiene razón en casi todo lo que dice. No creo que sea bueno para nadie operar bajo este supuesto, y espero que este artículo ayude a corregir esa percepción. 
+
+2. **Verificación de la realidad.** Cuando alguien a quien respetas dice algo que te parece incorrecto o incluso ridículo, puede ser útil escribir tus pensamientos y argumentos en contra para asegurarte de que no estás perdiendo algo obvio. Este artículo es, en parte, un ejercicio para mí, para asegurarme de que mis desacuerdos con Yudkowsky son tan fundamentados como creo que son.
+
+Con eso en mente, voy a discutir varios de los errores de Yudkowsky, al menos como yo los veo. Algunos son errores que cometió hace tiempo, y es posible que haya cambiado de opinión desde entonces. Otros son más recientes. Algunos son relativamente menores, mientras que otros son bastante grandes. La idea es proporcionar una visión general de los lugares donde creo que Yudkowsky se ha equivocado.
+
+*Nota: No voy a discutir los desacuerdos que tengo con Yudkowsky sobre la física cuántica. No sé lo suficiente sobre el tema como para tener una opinión fundamentada.*
+
+De acuerdo, aquí continúa la traducción:
+
+---
+
+**Error #1: La Inteligencia Artificial y la Singularidad**
+
+Uno de los temas más famosos de Yudkowsky es la idea de una Singularidad impulsada por la inteligencia artificial (IA). En resumen, sostiene que una vez que una IA alcance un cierto nivel de inteligencia, esta IA podría auto-mejorarse rápidamente y superar ampliamente a la inteligencia humana en un corto período de tiempo. Mientras que esta idea no es intrínsecamente incorrecta, creo que Yudkowsky a menudo subestima las dificultades técnicas y los desafíos asociados con la creación de tal IA.
+
+**Error #2: La Paradoja de la Belleza del Durmiente**
+
+Yudkowsky ha discutido en varias ocasiones sobre la Paradoja de la Belleza del Durmiente, un problema filosófico relacionado con la probabilidad y la expectativa. Aunque sus argumentos son sofisticados y bien pensados, creo que él se adhiere demasiado rígidamente a una interpretación particular, lo que le lleva a conclusiones que considero erróneas.
+
+**Error #3: La ética y la moral**
+
+Yudkowsky ha escrito extensamente sobre la ética, especialmente en relación con la IA. Si bien estoy de acuerdo con muchas de sus ideas, creo que en ocasiones se enfoca demasiado en la lógica pura y no presta suficiente atención a las complejidades y matices de la ética humana real.
+
+
+
+Traducción y resumen de:
+
+https://forum.effectivealtruism.org/posts/ZS9GDsBtWJMDEyFXh/eliezer-yudkowsky-is-frequently-confidently-egregiously

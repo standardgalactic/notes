@@ -1,0 +1,109 @@
+
+
+SCIENCE & TECHNOLOGY
+
+An Interview with Philosopher of Science David Harriman
+
+Craig Biddle May 20, 2010
+
+
+Craig Biddle: Congratulations on the publication of The Logical Leap and on the launch of Falling Apple Science Institute. I have questions about both, but let me begin with the book. For those who are completely unfamiliar with it, what’s the book about? What’s the main thesis?
+
+David Harriman: The book presents a theory of induction in physical science. In other words, my goal is to identify the method by which scientists can validly infer generalizations from particular instances. Since the 17th century, many scientists have been remarkably successful in reaching generalizations about the world, and philosophers have been remarkably unsuccessful in figuring out how they do it.
+
+My approach is to look closely at what scientists have actually done, and to induce the principles of proper method from cases of successful discovery (for example, Newtonian mechanics and 19th century atomic theory). Along the way, and particularly toward the end of the book, I also look at cases where scientists have made errors—and I show that there is always some departure from the proper inductive method in such cases.
+
+A physicist needs explicit epistemological guidance; he can’t simply try to emulate the famous physicists before him. Which of these past physicists should he emulate? They often expressed different views regarding method, and often took different approaches in practice (with varying degrees of success). The only solution is for the philosopher to identify the right method by a careful process of induction, in the same way that physicists identify the laws of nature. That’s what I try to do in The Logical Leap.
+
+CB: What specific topics do you discuss, and what new points emerged from this study?
+
+DH: The book starts by discussing the foundation of inductive reasoning. We must first understand how a toddler grasps simple generalizations such as “heavy things fall” or “pushing a ball makes it roll” before we can hope to understand how Newton discovered advanced generalizations such as the law of gravitation or F = mA. Chapter 1 presents this foundation, which contains new insights into how we grasp the causal relationships expressed in our first generalizations.
+
+Then I turn to the discoveries of Galileo, Kepler, and Newton, and examine the method that made the Scientific Revolution so revolutionary. I discuss the role of experiment, and defend its power to prove causal laws. I discuss the role of mathematics, and explain why this science of quantitative relationships must serve as the language of physics. Finally, after presenting how 19th century scientists discovered the atomic nature of matter, I discuss the criteria of proof for a broad theory; in other words, I try to give scientists the objective standard (good name for a journal, by the way) they need to judge whether a theory is properly regarded as proven.
+
+This theory of induction is original, but I did not originate it. The Logical Leap is the result of my collaboration with Leonard Peikoff, the world’s leading expert on Objectivism (the philosophy of Ayn Rand). Within the realm of physical science, my book is a presentation of Dr. Peikoff’s theory.
+
+CB: How does this theory relate to Objectivist epistemology?
+
+DH: It’s based on and guided by Rand’s theory of concepts. Every major aspect of the Objectivist view of concepts—including their hierarchical nature, the role of similarities and differences in their formation, the role of quantitative relationships, and the role of integration within the total context—has a counterpart in the theory of inductive generalizations.
+
+This isn’t surprising. Generalizations express causal connections among the referents of different concepts. If we don’t know how concepts are formed and how they relate to facts, we can’t expect to make much progress in understanding generalizations. It would be like trying to develop calculus before you grasped algebra.
+
+CB: How does your view of induction contrast with conventional views on the subject?
+
+DH: Historically, two false views of generalizations have been very influential. Both are based on false theories of concepts.
+
+First, there is the view of the rationalists. They believe that we grasp concepts by some process of introspection and/or intuition; the formation of a concept may be triggered by perceptual data, but the meaning of the concept goes well beyond any information contained in the percepts. This leads to the view that we can know generalizations simply by deducing them from the meaning of our concepts. The role of induction—reasoning from perceived concretes to generalizations—is minimized (and sometimes even eliminated).
+
+Second, there is the view of the skeptics, who openly admit that they lack the intuition allegedly possessed by the rationalists. Based on vague resemblances, they say, we find it convenient to put sensory data into groups and give names to such groups. But language is little more than an arbitrary social convention. Furthermore, causality is a myth—there is only a stream of sensory data, and we are never aware of any necessary connection among such data. It follows that the process of inducing generalizations is invalid; we can only describe regularities in past data and hope that future data conform to these regularities. But this is not logic; it’s merely a baseless hope.
+
+So induction is the “Rodney Dangerfield” of topics in philosophy—it gets no respect. The rationalists say we don’t need it, and the skeptics say there’s no basis for it. On both of these views, the true generalizations induced by scientists during the past four centuries are inexplicable.
+
+CB: What are the implications of the book’s thesis for scientists and educators?
+
+DH: I hope that scientists will learn a great deal more about the method that led to the discoveries of the past, and that will lead to the discoveries of the future. They don’t need a special faculty of intuition, and they don’t need to be discouraged by skeptics. They have what they need—a conceptual faculty that can grasp the laws of nature by a perfectly logical process of integrating perceptual data. With a better understanding of that process, they can look forward to more success in their research.
+
+An understanding of the inductive method is also crucial for educators. There are not two different ways of learning the laws of nature: the way that scientists learn them from nature and the way that students learn them from teachers. There is no real learning when students are merely told about advanced, scientific generalizations; authority is not an alternative to induction. In order for the student to understand, the material must be presented inductively—that is, the teacher must re-create the essence of the discovery process, and thereby enable the student to reason from observed facts to the abstract generalizations. Science is not currently taught this way, but it should be.
+
+CB: That points us to the Falling Apple Institute, but before we go there, I have one more question about the book. How and to whom will The Logical Leap be marketed?
+
+DH: The book is written for any educated person who is interested in scientific method. The potential readers include all those who are not satisfied by the skepticism that dominates academia today, and who would welcome an objective view of scientific knowledge.
+
+More specifically, I think the book is ideal for use in philosophy of science courses. These courses typically focus on the writings of skeptics such as Pierre Duhem, Karl Popper, Thomas Kuhn, and Paul Feyerabend. But the students should be offered at least one book that presents a different viewpoint. I think many students will be very interested in a book that defends the efficacy of reason rather than attacking it. So I will try to make sure The Logical Leap is sent to professors who teach philosophy of science.
+
+The book will also be advertised in journals that deal with the history and philosophy of science. And it may attract the attention of some reviewers because its thesis is outside the current mainstream and therefore controversial.
+
+CB: Turning to Falling Apple: What is the mission of this new Institute? And what can you tell us about the Periodic Table of the Sciences, which is so prominent on the Institute’s website?
+
+DH: Falling Apple is a nonprofit organization whose basic mission is to promote the understanding of natural science. More specifically, our primary goal is to revolutionize science education.
+
+The Periodic Table of the Sciences is our map of an inductive K–12 science curriculum. For many years, cofounder Tom VanDamme and I have worked on applying the theory of induction to science education; the table summarizes the program we’ve designed.
+
+In chemistry, the periodic table of elements does more than merely list the various elements—it brings them into relation with each other and thereby provides an integrated view of matter. We call our organization of the topics of science a “periodic table” as a tribute to Mendeleyev’s innovation and because it serves a similar function. Our table places each idea of science into an integrated structure that shows what prior knowledge it rests on and which major theory it leads to.
+
+In our judgment, a basic education in science requires a thorough understanding of five theories: the heliocentric theory of the solar system, Newtonian mechanics, electromagnetism, the atomic theory of matter, and the theory of evolution. These are represented by the five vertical columns in our table. Within each column, the theory is developed by starting at the bottom with observations and simple, narrow laws—and then ascending the hierarchy, step-by-step, to reach the complete theory. Across the table (horizontally), the order of the theories is also necessitated by the hierarchy; astronomy is a prerequisite for Newton’s physics, which is a prerequisite for electromagnetism, which is a prerequisite for atomic theory, which is a prerequisite for modern biology. By referring to the table, any principle can be given its rightful emphasis and sequence in the larger context of scientific knowledge.
+
+Every step of the way, the student grasps the evidence and reasoning that led to a conclusion. By following the discovery process, he makes the discoveries himself. He understands the material, and it comes to life. The usual way of teaching science leads to the opposite result: The student is presented with disconnected, floating abstractions that seem unintelligible and boring—so he yawns and drops out of science as soon as the classes become optional.
+
+This is a needless tragedy. The breakthrough discoveries of great scientists have led to theories and practical applications that are fascinating. And when the material is presented inductively, the students are fascinated.
+
+CB: What is your long-term vision for Falling Apple Institute? Where would you like to see it in ten and twenty years?
+
+DH: Our goals are ambitious, and we will grow into a much larger institute in order to accomplish them.
+
+Ten years from now, I think our science curriculum will be essentially complete, and hundreds of schools will be teaching science the inductive way. In addition to books, we will supply these schools with our own line of teaching products. Tom VanDamme has already invented three devices that are extremely useful for teaching observational astronomy, and I anticipate that every course will require similar innovations. We will have a production department, a marketing department, and a team of experts who give teacher-training seminars at the schools.
+
+There is no end to the amount of exciting work that could be done. Eventually, I would like to see Falling Apple develop an entire mathematics program based on the inductive method. In addition to curriculum developers, our research department should also include talented writers who are working on crucial new books in philosophy of science or philosophy of mathematics. Our broader goal is to help bring about a culture that understands and values the role of reason in human life.
+
+CB: What are your general strategies toward these ends?
+
+DH: The first step is to develop a few units of the courses and persuade some schools to adopt them. Many science courses are taught as a series of units, with no single textbook serving as the primary source for the entire course. So there is no reason for us to wait until we have a course fully developed and documented. We are already talking to schools, and we expect some of them to teach our unit on observational astronomy this next year. I think that when teachers see the enthusiastic response of the students, they will be motivated to teach more of our course units.
+
+We will focus primarily on reaching the private schools, charter schools, and home schoolers. This makes up 15 percent of the K–12 market in the United States, which amounts to about eight million students. It would be better, of course, if we didn’t face the obstacles posed by the (non-charter) public schools, but the accessible market is still very large.
+
+Furthermore, the e-learning industry is international and growing rapidly. Tom and I have already had discussions with one company that expressed interest in our curriculum. In the future, we might sign a licensing agreement with such a company and have our courses available in an interactive, web-based format.
+
+The Logical Leap may help promote our work at Falling Apple. Readers who understand the book will see that it has implications for science education, and some of them will come to the Falling Apple website in order to learn more. If the book is successful, I expect that it will open a few doors for us.
+
+CB: What can people who value your work do to help you and the Institute achieve these goals?
+
+DH: Thank you for asking.
+
+First, we’re a 501(c) nonprofit organization that depends on charitable donations. For anyone who wants to invest in long-term cultural change, and sees that education is the key to such change, I think Falling Apple offers a unique value. The young students who emerge from our program will be confident, thinking individuals—the kind of people who look forward to running their own lives, and do not want to be coddled from cradle to grave by a paternalistic government. If our children are going to live in a decent world, we need such people in the next generation.
+
+Aside from supporting us financially, people can help us identify schools that may be interested in our curriculum. Obviously, a crucial part of marketing is contacting the right schools and then getting a foot in the door. Unless a trusted individual recommends us, some doors are shut before we get the opportunity to present our material.
+
+Finally, I hope that we will soon be looking to hire individuals with the specific knowledge and skills that we need. But, of course, that depends on the donations we receive.
+
+CB: Richard Feynman was once asked, “If all scientific knowledge were lost in a cataclysm, what single statement would preserve the most information for the next generation of creatures? How could we best pass on our understanding of the world?” He answered, “All things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another.” What do you think of Feynman’s answer, and how would you answer the question?
+
+DH: I’ve enjoyed reading Feynman’s books, but I must respectfully disagree with him on this point.
+
+In essence, the Greek atomists did give Feynman’s answer, and yet nobody was able to make any use of it for more than two millennia. Such an advanced conclusion is empty and meaningless without the evidence and reasoning that lead to it. Today, children in elementary school are presented with drawings of atomic structure—and they learn no more from such drawings than they learn from a drawing of Mickey Mouse.
+
+There is an old adage that contains a lot of wisdom: “Give a man a fish and he eats for a day. Teach him to fish and he eats for a lifetime.” It would be much more helpful to pass on knowledge of scientific method, rather than specific content. Here is the best I can do: “We must start with perception and use logic in order to gain any knowledge; for advanced knowledge about the physical world, we need the methods of experiment and mathematics.”
+
+Of course, to clearly express any abstract idea requires much more than a sentence—which is why I had to write a book.
+
+CB: Thank you, Dave, and best success with your book and the Institute.
+

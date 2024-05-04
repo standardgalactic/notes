@@ -1,0 +1,82 @@
+Pluralistic: Demon-haunted computers are back, baby (17 Jan 2024)
+
+As a science fiction writer, I am professionally irritated by a lot of sf movies. Not only do those writers get paid a lot more than I do, they insist on including things like "self-destruct" buttons on the bridges of their starships.
+
+Look, I get it. When the evil empire is closing in on your flagship with its secret transdimensional technology, it's important that you keep those secrets out of the emperor's hand. An irrevocable self-destruct switch there on the bridge gets the job done! (It has to be irrevocable, otherwise the baddies'll just swarm the bridge and toggle it off).
+
+But c'mon. If there's a facility built into your spaceship that causes it to explode no matter what the people on the bridge do, that is also a pretty big security risk! What if the bad guy figures out how to hijack the measure that – by design – the people who depend on the spaceship as a matter of life and death can't detect or override?
+
+I mean, sure, you can try to simplify that self-destruct system to make it easier to audit and assure yourself that it doesn't have any bugs in it, but remember Schneier's Law: anyone can design a security system that works so well that they themselves can't think of a flaw in it. That doesn't mean you've made a security system that works – only that you've made a security system that works on people stupider than you.
+
+I know it's weird to be worried about realism in movies that pretend we will ever find a practical means to visit other star systems and shuttle back and forth between them (which we are very, very unlikely to do):
+
+https://pluralistic.net/2024/01/09/astrobezzle/#send-robots-instead
+
+But this kind of foolishness galls me. It galls me even more when it happens in the real world of technology design, which is why I've spent the past quarter-century being very cross about Digital Rights Management in general, and trusted computing in particular.
+
+It all starts in 2002, when a team from Microsoft visited our offices at EFF to tell us about this new thing they'd dreamed up called "trusted computing":
+
+https://pluralistic.net/2020/12/05/trusting-trust/#thompsons-devil
+
+The big idea was to stick a second computer inside your computer, a very secure little co-processor, that you couldn't access directly, let alone reprogram or interfere with. As far as this "trusted platform module" was concerned, you were the enemy. The "trust" in trusted computing was about other people being able to trust your computer, even if they didn't trust you.
+
+So that little TPM would do all kinds of cute tricks. It could observe and produce a cryptographically signed manifest of the entire boot-chain of your computer, which was meant to be an unforgeable certificate attesting to which kind of computer you were running and what software you were running on it. That meant that programs on other computers could decide whether to talk to your computer based on whether they agreed with your choices about which code to run.
+
+This process, called "remote attestation," is generally billed as a way to identify and block computers that have been compromised by malware, or to identify gamers who are running cheats and refuse to play with them. But inevitably it turns into a way to refuse service to computers that have privacy blockers turned on, or are running stream-ripping software, or whose owners are blocking ads:
+
+https://pluralistic.net/2023/08/02/self-incrimination/#wei-bai-bai
+
+After all, a system that treats the device's owner as an adversary is a natural ally for the owner's other, human adversaries. The rubric for treating the owner as an adversary focuses on the way that users can be fooled by bad people with bad programs. If your computer gets taken over by malicious software, that malware might intercept queries from your antivirus program and send it false data that lulls it into thinking your computer is fine, even as your private data is being plundered and your system is being used to launch malware attacks on others.
+
+These separate, non-user-accessible, non-updateable secure systems serve a nubs of certainty, a remote fortress that observes and faithfully reports on the interior workings of your computer. This separate system can't be user-modifiable or field-updateable, because then malicious software could impersonate the user and disable the security chip.
+
+It's true that compromised computers are a real and terrifying problem. Your computer is privy to your most intimate secrets and an attacker who can turn it against you can harm you in untold ways. But the widespread redesign of out computers to treat us as their enemies gives rise to a range of completely predictable and – I would argue – even worse harms. Building computers that treat their owners as untrusted parties is a system that works well, but fails badly.
+
+First of all, there are the ways that trusted computing is designed to hurt you. The most reliable way to enshittify something is to supply it over a computer that runs programs you can't alter, and that rats you out to third parties if you run counter-programs that disenshittify the service you're using. That's how we get inkjet printers that refuse to use perfectly good third-party ink and cars that refuse to accept perfectly good engine repairs if they are performed by third-party mechanics:
+
+https://pluralistic.net/2023/07/24/rent-to-pwn/#kitt-is-a-demon
+
+It's how we get cursed devices and appliances, from the juicer that won't squeeze third-party juice to the insulin pump that won't connect to a third-party continuous glucose monitor:
+
+https://arstechnica.com/gaming/2020/01/unauthorized-bread-a-near-future-tale-of-refugees-and-sinister-iot-appliances/
+
+But trusted computing doesn't just create an opaque veil between your computer and the programs you use to inspect and control it. Trusted computing creates a no-go zone where programs can change their behavior based on whether they think they're being observed.
+
+The most prominent example of this is Dieselgate, where auto manufacturers murdered hundreds of people by gimmicking their cars to emit illegal amount of NOX. Key to Dieselgate was a program that sought to determine whether it was being observed by regulators (it checked for the telltale signs of the standard test-suite) and changed its behavior to color within the lines.
+
+Software that is seeking to harm the owner of the device that's running it must be able to detect when it is being run inside a simulation, a test-suite, a virtual machine, or any other hallucinatory virtual world. Just as Descartes couldn't know whether anything was real until he assured himself that he could trust his senses, malware is always questing to discover whether it is running in the real universe, or in a simulation created by a wicked god:
+
+https://pluralistic.net/2022/07/28/descartes-was-an-optimist/#uh-oh
+
+That's why mobile malware uses clever gambits like periodically checking for readings from your device's accelerometer, on the theory that a virtual mobile phone running on a security researcher's test bench won't have the fidelity to generate plausible jiggles to match the real data that comes from a phone in your pocket:
+
+https://arstechnica.com/information-technology/2019/01/google-play-malware-used-phones-motion-sensors-to-conceal-itself/
+
+Sometimes this backfires in absolutely delightful ways. When the Wannacry ransomware was holding the world hostage, the security researcher Marcus Hutchins noticed that its code made reference to a very weird website: iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com. Hutchins stood up a website at that address and every Wannacry-infection in the world went instantly dormant:
+
+https://pluralistic.net/2020/07/10/flintstone-delano-roosevelt/#the-matrix
+
+It turns out that Wannacry's authors were using that ferkakte URL the same way that mobile malware authors were using accelerometer readings – to fulfill Descartes' imperative to distinguish the Matrix from reality. The malware authors knew that security researchers often ran malicious code inside sandboxes that answered every network query with fake data in hopes of eliciting responses that could be analyzed for weaknesses. So the Wannacry worm would periodically poll this nonexistent website and, if it got an answer, it would assume that it was being monitored by a security researcher and it would retreat to an encrypted blob, ceasing to operate lest it give intelligence to the enemy. When Hutchins put a webserver up at iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com, every Wannacry instance in the world was instantly convinced that it was running on an enemy's simulator and withdrew into sulky hibernation.
+
+The arms race to distinguish simulation from reality is critical and the stakes only get higher by the day. Malware abounds, even as our devices grow more intimately woven through our lives. We put our bodies into computers – cars, buildings – and computers inside our bodies. We absolutely want our computers to be able to faithfully convey what's going on inside them.
+
+But we keep running as hard as we can in the opposite direction, leaning harder into secure computing models built on subsystems in our computers that treat us as the threat. Take UEFI, the ubiquitous security system that observes your computer's boot process, halting it if it sees something it doesn't approve of. On the one hand, this has made installing GNU/Linux and other alternative OSes vastly harder across a wide variety of devices. This means that when a vendor end-of-lifes a gadget, no one can make an alternative OS for it, so off the landfill it goes.
+
+It doesn't help that UEFI – and other trusted computing modules – are covered by Section 1201 of the Digital Millennium Copyright Act (DMCA), which makes it a felony to publish information that can bypass or weaken the system. The threat of a five-year prison sentence and a $500,000 fine means that UEFI and other trusted computing systems are understudied, leaving them festering with longstanding bugs:
+
+https://pluralistic.net/2020/09/09/free-sample/#que-viva
+
+Here's where it gets really bad. If an attacker can get inside UEFI, they can run malicious software that – by design – no program running on our computers can detect or block. That badware is running in "Ring -1" – a zone of privilege that overrides the operating system itself.
+
+Here's the bad news: UEFI malware has already been detected in the wild:
+
+https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/
+
+And here's the worst news: researchers have just identified another exploitable UEFI bug, dubbed Pixiefail:
+
+https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html
+
+Writing in Ars Technica, Dan Goodin breaks down Pixiefail, describing how anyone on the same LAN as a vulnerable computer can infect its firmware:
+
+https://arstechnica.com/security/2024/01/new-uefi-vulnerabilities-send-firmware-devs-across-an-entire-ecosystem-scrambling/
+

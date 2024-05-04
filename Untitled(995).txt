@@ -1,0 +1,25 @@
+A '''configuron''' is an elementary configurational [[excitation]] in an [[amorphous material]] which involves breaking of a [[chemical bond]].<ref>Angell, C.A.; Rao, K.J. (1972). "Configurational excitations in condensed matter, and "bond lattice" model for the liquid-glass transition". J. Chem. Phys. 57 (1): 470–481. Bibcode:1972JChPh..57..470A. doi:10.1063/1.1677987.</ref>. Coined by scientists C.A. Angell and K.J. Rao, this concept often involves the breaking and reforming of a chemical bond<ref>Angell, C.A.; Rao, K.J. (1972). "Configurational excitations in condensed matter, and "bond lattice" model for the liquid-glass transition". J. Chem. Phys. 57 (1): 470–481. Bibcode:1972JChPh..57..470A. doi:10.1063/1.1677987.</ref>.
+
+These configurational excitations, or configurons, serve as a crucial aspect of understanding the [[dynamic behaviors]] of amorphous materials. Essentially, these are the fundamental building blocks that dictate the arrangements of [[atoms]] or [[molecules]] within these substances.
+
+Understanding configurons can open avenues in various fields, such as [[materials science]] and [[electronics]], by allowing more precise manipulation of amorphous materials' properties<ref>Angell, C.A.; Rao, K.J. (1972). "Configurational excitations in condensed matter, and "bond lattice" model for the liquid-glass transition". J. Chem. Phys. 57 (1): 470–481. Bibcode:1972JChPh..57..470A. doi:10.1063/1.1677987.</ref>.
+
+==See Also==
+
+[[Quasiparticle]]
+
+[[Amorphous solid]]
+
+[[Condensed matter physics]]
+
+==References==
+{{reflist}}
+
+[[Category:Condensed Matter Physics]]
+
+[[Category:Material Science]]
+
+[[Category:Quasiparticles
+Amorphous Materials]]
+
+

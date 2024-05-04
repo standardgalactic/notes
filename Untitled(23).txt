@@ -1,0 +1,56 @@
+The Free Energy Principle is a theory that suggests that the brain reduces [[surprisal|surprise]] or uncertainty by making predictions based on internal models and updating them using sensory input. 
+
+It highlights the brain's objective of aligning its internal model with the external world to enhance prediction accuracy.
+
+This principle integrates Bayesian inference with active inference, where actions are guided by predictions and sensory feedback refines them. It has wide-ranging implications for comprehending brain function, perception, and action.
+
+
+....
+
+Adaptive agents must occupy a limited repertoire of states and therefore minimize the long-term average of surprise associated with sensory exchanges with the world. Minimizing surprise enables them to resist a natural tendency to disorder.
+
+Surprise rests on predictions about sensations, which depend on an internal generative model of the world. Although surprise cannot be measured directly, a free-energy bound on surprise can be, suggesting that agents minimize free energy by changing their predictions (perception) or by changing the predicted sensory inputs (action).
+
+Perception optimizes predictions by minimizing free energy with respect to synaptic activity (perceptual inference), efficacy (learning and memory) and gain (attention and salience). This furnishes Bayes-optimal (probabilistic) representations of what caused sensations (providing a link to the Bayesian brain hypothesis).
+
+Bayes-optimal perception is mathematically equivalent to predictive coding and maximizing the mutual information between sensations and the representations of their causes. This is a probabilistic generalization of the principle of efficient coding (the infomax principle) or the minimum-redundancy principle.
+
+Learning under the free-energy principle can be formulated in terms of optimizing the connection strengths in hierarchical models of the sensorium. This rests on associative plasticity to encode causal regularities and appeals to the same synaptic mechanisms as those underlying cell assembly formation.
+
+Action under the free-energy principle reduces to suppressing sensory prediction errors that depend on predicted (expected or desired) movement trajectories. This provides a simple account of motor control, in which action is enslaved by perceptual (proprioceptive) predictions.
+
+Perceptual predictions rest on prior expectations about the trajectory or movement through the agent's state space. These priors can be acquired (as empirical priors during hierarchical inference) or they can be innate (epigenetic) and therefore subject to selective pressure.
+
+Predicted motion or state transitions realized by action correspond to policies in optimal control theory and reinforcement learning. In this context, value is inversely proportional to surprise (and implicitly free energy), and rewards correspond to innate priors that constrain policies
+
+https://link.springer.com/article/10.1007/s11229-016-1239-1
+
+
+Download PDF
+
+S.I.: Predictive Brains
+
+Open Access
+
+Published: 21 October 2016
+
+The anticipating brain is not a scientist: the free-energy principle from an ecological-enactive perspective
+
+Jelle Bruineberg, 
+
+Julian Kiverstein & 
+
+Erik Rietveld 
+
+Synthese volume 195, pages2417–2444 (2018)Cite this article
+
+17k Accesses
+
+162 Citations
+
+64 Altmetric
+
+Metricsdetails
+
+Abstract
+

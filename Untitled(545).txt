@@ -1,0 +1,3 @@
+ergodic hypothesis
+
+the time spent by a system in some region of the phase space of microstates with the same energy is proportional to the volume of this region, i.e., that all accessible microstates are equiprobable over a long period of time.

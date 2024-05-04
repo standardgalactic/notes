@@ -1,0 +1,22 @@
+So, an individual column can recognize objects through movement (one finger touching the mug multiple times) or through long-range connections between columns that share information to agree on what the object is (grasping and looking at a mug). Here is a cartoon illustration showing the classic hierarchy and our proposed alternate model. Notice that we are not suggesting that the cortex is not organized as a hierarchy of regions; it is, and the hierarchy is important. But complete models of objects exist at each level of the hierarchy.
+
+Implications for AI
+
+If brains are organized this way, then it raises the question: do we also need to build intelligent machines this way? Today’s artificial neural networks work on the classic hierarchical view, often with one hundred or more levels. These networks are very good at classifying images and other patterns. So, it might appear that the Thousand Brains Theory of Intelligence is not required for AI. However, it is widely believed that today’s AI is not close to the flexibility of human intelligence, and it is not nearly as capable in applying learning in one domain to different types of problems, a.k.a. generalization.
+
+There are two reasons to suggest that the Thousand Brains Theory of Intelligence is required to solve these and other challenges. First, our proposal says that columns in the cortex learn the three-dimensional shape of objects, not just a two-dimensional shape that appears on our sensors. This more robust object model provides a basis for learning the behaviors of objects, or how the shape and appearance of an object changes over time when we interact with it. A three-dimensional representation of objects also provides the basis for learning compositional structure, i.e. how objects are composed of other objects arranged in particular ways. In our paper, we provide details on the mechanisms for how the cortex represents object compositionality, object behaviors and even high-level concepts. Second, the Thousand Brains Theory of Intelligence provides a means for integration across sensory modalities, what is sometimes called “sensor fusion.” It provides a model for how learning in one modality, such as touch, can be applied to and integrated with other modalities, such as vision.
+
+A Framework for Intelligence and Cortical Function Based on Grid Cells in the Neocortex (2019)
+
+For those who want a less detailed overview of the theory:
+
+Companion to A Framework for Intelligence and Cortical Function (2018)
+
+For those who want more details, including network models on core components of the theory:
+
+A Theory of How Columns in the Neocortex Enable Learning the Structure of the World (2017)
+
+Locations in the Neocortex: A Theory of Sensorimotor Object Recognition Using Cortical Grid Cells (2018)
+
+
+

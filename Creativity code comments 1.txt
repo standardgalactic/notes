@@ -1,0 +1,798 @@
+￼
+
+Sign In
+
+Join
+
+Home
+
+My Books
+
+Browse ▾
+
+Community ▾
+
+Goodreads helps you keep track of books you want to read.
+
+Start by marking “The Creativity Code: How AI Is Learning to Write, Paint and Think” as Want to Read:
+
+Want to Read
+
+￼
+
+Want to Read
+
+Rate this book
+
+1 of 5 stars2 of 5 stars3 of 5 stars4 of 5 stars5 of 5 stars
+
+The Creativity Code: How AI Is Learning to Write, Paint and Think
+
+by 
+
+Marcus du Sautoy
+
+ 3.98  ·   Rating details ·  1,138 ratings  ·  137 reviews
+
+The award-winning author of The Music of the Primes explores the future of creativity and how machine learning will disrupt, enrich, and transform our understanding of what it means to be human.
+
+Can a well-programmed machine do anything a human can―only better? Complex algorithms are choosing our music, picking our partners, and driving our investments. They can navigate more data than a doctor or lawyer and act with greater precision. For many years we’ve taken solace in the notion that they can’t create. But now that algorithms can learn and adapt, does the future of creativity belong to machines, too?
+
+It is hard to imagine a better guide to the bewildering world of artificial intelligence than Marcus du Sautoy, a celebrated Oxford mathematician whose work on symmetry in the ninth dimension has taken him to the vertiginous edge of mathematical understanding. In The Creativity Code he considers what machine learning means for the future of creativity. The Pollockizer can produce drip paintings in the style of Jackson Pollock, Botnik spins off fanciful (if improbable) scenes inspired by J. K. Rowling, and the music-composing algorithm Emmy managed to fool a panel of Bach experts. But do these programs just mimic, or do they have what it takes to create? Du Sautoy argues that to answer this question, we need to understand how the algorithms that drive them work―and this brings him back to his own subject of mathematics, with its puzzles, constraints, and enticing possibilities.
+
+While most recent books on AI focus on the future of work, The Creativity Code moves us to the forefront of creative new technologies and offers a more positive and unexpected vision of our future cohabitation with machines. It challenges us to reconsider what it means to be human―and to crack the creativity code. (less)
+
+GET A COPY
+
+Amazon CA
+
+Online Stores ▾
+
+Libraries
+
+Hardcover, 336 pages
+
+Published February 18th 2019 by 4th Estate GB
+
+More Details...Edit Details
+
+FRIEND REVIEWS
+
+To see what your friends thought of this book, please sign up.
+
+READER Q&A
+
+To ask other readers questions about The Creativity Code, please sign up.
+
+Be the first to ask a question about The Creativity Code
+
+LISTS WITH THIS BOOK
+
+￼￼￼￼￼
+
+Readings on Artificial Intelligence
+
+54 books — 34 voters
+
+￼￼￼￼￼
+
+Mindfuckery for Eros
+
+21 books — 1 voter
+
+
+
+More lists with this book...
+
+COMMUNITY REVIEWS
+
+Showing 1-30
+
+ Average rating3.98  · 
+
+ Rating details
+
+ ·  1,138 ratings  ·  137 reviews
+
+
+
+￼
+
+All LanguagesEnglish ‎(118) Español ‎(2) Italiano ‎(3) Latviešu valoda ‎(2) Nederlands ‎(2) Português ‎(3) Svenska ‎(1) עברית ‎(1) العربية ‎(1)
+
+Sort order
+
+￼
+
+Start your review of The Creativity Code: How AI Is Learning to Write, Paint and Think
+
+Write a review
+
+￼
+
+May 14, 2019Manny rated it really liked it
+
+Shelves: the-tragedy-of-chess, science, science-fiction, linguistics-and-philosophy, games, received-free-copy
+
+Before I start in on the criticism (there will be criticism), let me say at once that if you're a geek like me you'll find this damn book unputdownable. It is stuffed full of excellent anecdotes about AI, computer science, mathematics and allied subjects, and if you're the sort of person who wants to know how software can fake a Rembrandt, compose a Bach-style chorale or prove the correctness of the Feit-Thompson theorem then you're going to enjoy it as much as I did. Last week, we were visiting Melbourne, catching up with friends we hadn't seen for two years. We had a wall-to-wall social calendar which usually started with an early breakfast and concluded late at night, and all the reading time I had available was odd moments on public transport when we were en route from A to B: nonetheless, I finished The Creativity Code in two days flat. It's that addictive.
+
+And yet... I feel dissatisfied. The author, a mathematician with a wide range of interdisciplinary interests, says the event that pushed him towards writing the book was AlphaGo's already historic match against Lee Sedol. Like me, he'd swallowed the extremely plausible story according to which Go was the ultimate test of AI. Machines can play chess, we were told, because chess is mainly about accurate calculation. But Go is different. To become a world-class Go player, calculation isn't enough. You have to understand. You have to intuit. You have to create. The top Go players, according to the intense mystique that surrounds the game, are a kind of cross between idiot savants, sports stars, philosophers, and Zen monks. They spend their whole lives training, starting from when they are small children, to become one with the Tao of Go. A machine can't do this. We don't even begin to grasp the principles that would make it possible. Except, of course, that now they have. Not only that, but the improved version, AlphaZero, used the exact same methods to learn not just Go, but also chess and Shogi, starting with the bare rules of the three games and training itself up to superhuman level in a few dozen hours. De Sautoy was shaken. Go players like Lee Sedol are out of a job today; tomorrow, perhaps mathematicians like him. He decided to find out more. The book chronicles many examples of machines doing things that you certainly might think would require creativity, and explains roughly how they do it. As noted, it's very interesting stuff.
+
+But here's the odd thing. Careful examination shows that most, perhaps all of the "creative" bots which appear here are really just tricks. They use clever versions of mixing and matching to produce an illusion of creativity, when in fact they're no more than next-generation clockwork automata. AlphaZero, however, is not a trick. It's the real deal; if you want the details, check out Sadler and Regan's Game Changer, which spends four hundred pages analysing AZ's extraordinary playing style, a style it's developed entirely on its own with no human input whatsoever. But de Sautoy says very little about either the chess or the Go versions of AZ, ostensibly the thing which caused him to write the book in the first place. I suspect the reason is that it's difficult to understand what AZ is doing, even in very vague terms, if you aren't yourself a strong games player. Similarly, Game Changer's authors don't say much about the AI aspects. I asked the series editor why they hadn't; he said it was beyond the scope of their publishing house, which specialises in chess, and that what I was asking for was a different book.
+
+Well, I accept that, but I still want it. I feel like the guys in Hitchhiker's Guide who are told the Ultimate Answer is 42, but don't know what the Ultimate Question is. As far as I can see, we have managed to construct a machine with superhuman understanding and creativity, but we can't quite figure out what we did; we have many pieces of the puzzle, and now we need to put them together. Can't someone assemble a suitably qualified team to write the real story of AlphaZero? A million geeks are waiting to read it. (less)
+
+flag75 likes · Like  · see review
+
+￼
+
+Mar 14, 2019Emma rated it it was amazing
+
+Shelves: netgalley
+
+You might expect a book about the potential of AI to be a little dry, maybe a little too niche for a general reader... instead, it's a fascinating multidisciplinary journey into the notion and expression of creativity across time and through varied forms, from music and art, to mathematical theory and games. The principal question: could AI ever truly create something on its own? Could a machine ever step into the realm that some consider an essentially human characteristic: creativity? It's hardly a new question, but with the advances in tech, it seems ever more relevant, maybe even essential. Anyone who has even dipped a toe into sci fi genre might have a few concerns about truly autonomous machines... So, could it happen??
+
+Well, maybe not. Or, at least, not yet. For now, no need to worry too much. Probably.
+
+What machines can do, whether directed via top down human created algorithms or bottom up systems that allow for machine learning, is amazing. If the advances in tech sometimes feel like just another part of modern living, then this book works to illuminate the incredible drive and imagination and hard work that goes into each step forward. The author's ability to convey the excitement of creative energy, whether human, machine, or a combination of both, makes the book a genuine page turner. There's a real sense of exploration, of what has been achieved by humans and/or machines in the past, what's going on right now, and what the pathways might be in the future. It feels like possibilities, like change, like a whole new way of thinking and being. This is a book about people challenging themselves and others, a whole history of innovation that keeps pushing to see what else is achievable, a world of creators that includes coders alongside the greatest artists and musicians. Lifting it all is the author's obvious enthusiasm and his clear desire to make the subject approachable without sacrificing its complexity. It's full of surprises and hints at even more to come.
+
+Overall, the author's reasonable caution about AI's capacity for genuine creativity is somewhat determined by a definition and concept of creativity that seems entirely human. Until AI can feel emotion, can it truly create in the same way humans can? Perhaps these types of boundaries limit too far what we understand to be creative. Would it be enough for the human to bring their own emotion to the piece, as we do in our own individual reactions to art, music, even tech? There's a creative place in the human code that seems almost magical, but if nothing else this books ensures you never forget the sometimes years of work which underlies every invention. Until recently, those hours were determined by human effort, but increasingly the hard slog can be handed over to machines. How different will the creative process become as more and more of what we used to have to do ourselves becomes the realm of machines/AI? The evaluation of machine creativity is often framed by whether it's good enough to fool us, but the more machines become involved in the process, the more they become us, and we them. The question of whether that collaboration could become anything more is tantalising, but not entirely answered here. Creativity is a path, not a moment, so who can really know what is to come? The future is wide open.
+
+ARC via Netgalley (less)
+
+flag17 likes · Like  · see review
+
+￼
+
+Mar 11, 2019Brian Clegg rated it it was amazing
+
+At first glance this might just be another 'What AI is good at and not so good at' title. And in a way, it is. But, wow, what a brilliant book! Marcus du Sautoy takes us on a tour of what artificial intelligence has achieved (and possibly can in the future achieve) in a range of fields from his own of mathematics, through game playing, music, art and more.
+
+After a little discussion of what creativity is, we start off with the now very familiar story of DeepMind's AlphaGo and its astonishing ability to take on the hugely challenging game of Go. Even though I've read about this many times before, du Sautoy, as a Go player and mathematician, gives a real feel for why this was such a triumph - and so shocking. Not surprisingly he is also wonderful on what mathematicians actually do, how computers have helped them to date and how they have the potential to do far more in the future. After all, mathematics is by far the closest science to game playing, as it has strict rules established beforehand, where with most other sciences we really don't know what the rules are and have to try to work them out as we go along.
+
+My only slight moan about the mathematical aspect of the content is that there are so many references to the mathematical discipline of symmetry and group theory that it would have been nice to have had an a little backgrounder on these to put what is being talked about into context. Having said that, though, given the inevitably slightly scary aspect of AI potentially taking over some of the roles of mathematicians, du Sautoy gives us an excellently balanced and fair assessment of how some mathematical AI projects really do very little to advance the field, while others really do eat into the mathematician's work.
+
+Perhaps my favourite chapters of all were those on music. There is, of course, a distinctly algorithmic feel to composition theory, and du Sautoy really makes his exploration of this delightful. I'm familiar with a lot of Bach's work, but not The Musical Offering - which du Sautoy argues well was a particularly algorithmic feat. Apparently, Bach was asked if he could improvise a fugue from a very tricky 'tune' dreamed up as a challenge by Frederick the Great - not only did Bach manage a three part version on the spot, he went on to compose 11 variants using all sorts of remarkable modifications. A particular bonus was being able to summon up The Musical Offering on Spotify (itself an algorithmic marvel on a good day) and listen to it as I read the book.
+
+I wasn't quite as taken with the sections on art. With modern art it's arguable that it's pretty much impossible to define what good art is (du Sautoy points out how difficult it is to fake a Jackson Pollack if you know technically what to look for... but I still find his paintings a visual mess that I wouldn't hang in the toilet, so I don't really care that it's hard to reproduce). With such an arbitrary borderline between creativity and randomness, it's hard to worry too much about what an AI can do - it all seems to be a matter of fashion anyway. These chapters were still interesting, just less significant for me. My interest revived, though, when he got onto approaches to writing, even if there was nothing there that seemed likely to displace human work any time soon.
+
+All in all, a great crossover title between computing, mathematics and creativity, presented with du Sautoy's usual charm and clarity. Excellent. (less)
+
+flag9 likes · Like  · see review
+
+￼
+
+Mar 27, 2021Sara rated it really liked it
+
+For someone who loves science but whose math skills = suspected dyscalculia, this book is a joy. Du Sautoy explains the math in such a way that I was able to try out the problems before engaging in the concepts, and believe me, that’s a feat right there. I could have done with fewer words on Google’s fancy office space in an age of rampant homelessness and glassholery, but overall, a very enjoyable read, packed with ideas and generating quite a few along the way.
+
+flag8 likes · Like  · see review
+
+￼
+
+Sep 08, 2019James Foster rated it liked it
+
+The book claims to explore how Artificial Intelligence (AI) will or will not replace human creativity, in poetry, music, and mathematics. It begins with AlphaGo, an AI program that taught itself to play Go and become the strongest player in the world in very short order.
+
+I was disappointed. The book equates AI with deep learning and never seems to recognize that there are decades more work in the field that deep learning ignores. For those who don't know, "deep learning" uses very big, complicated programs based on simulations of neural networks, which were inspired by (loosely) brains. Deep learning has made a big splash, because it can recognize images of cats and drive cars, and because it has the hype and money of Google behind it. But much of the research in DL is presented in this book, and in academia, as if it were the first and only attempt to use computers to solve complicated problems. The more we learn about DL, the more we learn its limitations: it basically re-codes huge datasets in such as way as to make it easier to classify new instances. This is not creativity, as du Sautoy eventually concludes.
+
+But there are areas in AI which do generate creativity. Evolutionary computation, specifically the evolution of computer programs known as "genetic programming" (GP), for example, has produced visual art and music, and has helped discover mathematical laws underlying physical phenomena. GP has been around at least since the late 70s, and arguably since the mid 50s. Undergraduate students and research professors alike are routinely surprised by the creative and unexpected artifacts created by GP. However, du Sautoy never mentions GP, and rarely mentions other AI techniques except to say they are old and limited and can't do what deep learning can do.
+
+It's a shame du Sautoy didn't explore AI a little more, so that he could appreciate what techniques other than deep learning have to say about creativity. (less)
+
+flag4 likes · Like  · see review
+
+￼
+
+Dec 27, 2020Imi rated it it was amazing
+
+Shelves: science, kindle, writing-and-writers, favourites, read-in-2020, faves-released-2010s, he-writes, music, philosophy, technology
+
+I couldn't put this down. Fascinating, even if (at least so far) most of these machines are only imitating creativity. Loved chapter 11 on music, in particular, but every chapter was wonderful. (less)
+
+flag3 likes · Like  · see review
+
+￼
+
+Jan 25, 2022Tam rated it really liked it
+
+Shelves: non-fic
+
+I find the book a fun read as the topics are related to math, to music, visual arts, even novel writing! AI checking proofs is my favorite:
+
+Stories like this have fuelled mathematicians' fears that computers might lead us to build elaborate edifices on top of programs that are structurally sound. But frankly a human has more chance of making a mistake than a computer. It may be a heresy to admit it, but there are probably thousands of proofs with gaps or mistakes that have been missed.
+
+
+
+But of course:
+
+How do we know that the computer program doing the checking doesn't have a bug? You could get another computer to check that program for bugs, but where would this end? Scence and mathematics have always been dogged by this dilemma. How can you be certain that your methods are leading you to true knowledge? Any attempt to prove that it is invariably depends on the methodology you are trying to show produces truth.
+
+
+
+The overall assessment of du Sautoy is that at the current state certainly AI can help assist humans in the creative process, but it in itself doesn't yet have consciousness and thus perhaps no desire from its own to create and to express. Artists, and mathematicians, are not yet at a lot of risk
+
+At the moment all the creativity in machines is being initiated and driven by the human code. We are not seeing machiens compelled to express themselves. They don't really seem to have anything to say beyond what we are getting them to do. They are the ventriloquist's dummy providing the mouthpiece for our urge still to express ourselves.
+
+...
+
+And that creative urge is an expression of our belief in free will. We can live our lives like automata or we can suddenly make the choice to stop and break out of the routine and create something that is new. Our creativity is intimately ound up with our free will, something that it seems impossible to automate. To program free will would be to contradict what free will means.
+
+...
+
+Although, then again, we might end up asking whether our free will is an illusion which just masks the complexity of our underlying algorithmic process.
+
+
+
+Just by its sheer computation ability, codes can explore and generate a behemoth amount of possibilities, what notes to arrange in music, what steps to take in math proofs or in a go play, or what nouns what verbs what sentences to continue in writings. Yet it is still humans who make choices, who decide what are of values. The comparison with Jorge Luis Borges's Library of Babel is apt:
+
+[] the Library of Babel, where because it contains everything it ends up containing nothing
+
+
+
+du Sautoy also makes a sharp remarks about the marketing/selling of AI:
+
+
+There is a huge amount of hype about AI. There are too many initiatives that are branded as AI but which are little more than statistics or data science. Just as any company wishing to make it at the turn of the millennium would put .com on the end of its name, today it is the addition of the tag AI or Deep which is what companies are using to jump on the bandwagon.
+
+
+
+And lastly I find it particularly beautiful as du Sautoy suggests if we humans wish to understand computers
+
+If they [computers] become conscious, it's unlikely to be something that humans will initially understand. Ultimately it will be their paintings, their music, their novels, their creative output, eventheir mathematics that will give us any chance to crack the machine's code and feel what it's like to be a machine.
+
+(less)
+
+flag3 likes · Like  · see review
+
+￼
+
+Sep 15, 2021Kunal Sen rated it it was amazing
+
+Back in the 1980s I did my PhD in a sub domain of Artificial Intelligence called Machine Learning. Little did I know then that some day it will be much more than an academic curiosity, and there will be billion dollar industries based on it, and people will make lucratively profitable careers practicing it. Now it is almost impossible to find a company that does not claim that they use Machine Learning in their products, even though those claims are too often little more than marketing hypes.
+
+As a result of its spectacular rise, Machine Learning is now a buzzword that everyone likes to use, and most people believe that they know what it is and what it can do. But these popular notions are shrouded in myths and misconceptions. There are now dozens of books that try to explain this technology to ordinary people, but I am yet to see another book that explains the technology better than this book.
+
+However, this is much more than a what-is-machine-learning book. It goes deep into trying to define what we mean by creativity, and then try to show examples where this technology has produced artifacts that we would have called creative if they were created by humans. It is a profoundly thought provoking book, that should be appealing to anyone who is curious about creativity, art, beauty in mathematics, limits of computing, consciousness, and about the near future.
+
+(less)
+
+flag3 likes · Like  · see review
+
+￼
+
+Jan 30, 2021Bernardo Matos rated it it was amazing  ·  review of another edition
+
+Shelves: 2021
+
+What an amazing way to start my reading journey in 2021. Sautoy, an outstanding matemathician in areas concerning objects' symmetry, guides us through the impact of AI in areas related to poetry, music, art, among others. It allows you to understand the impact of the new emerging technologies, always supported by real examples starting with the one of the IBM computer (Deepblue) and its historical win against the world chess champion (Kasparov) to the one responsible for copying and improving Rembrant's art, or Bach compositions, or many others.
+A clarified discussion related to consciousness of machines in the future, the conceptual meaning of art, or the unavoidable adoption of the new technological paradigms by the most powerful enterprises such as Google, Netflix, Spotify, etc. are some key points of this book.
+You are worth as much as your data is. (less)
+
+flag2 likes · Like  · see review
+
+￼
+
+Sep 10, 2020Nujood rated it it was amazing
+
+Shelves: ai
+
+A must read by anyone who is interested in the progress being made by intelligently programmed algorithms that have the slightest chance of competing with good-old fashioned human intelligence.
+
+I was really worried when I picked up this book that it will delve into the philosophical aspects of creativity and that it might have a self-help tone to it. It did not. This is a well researched, analytical and most importantly, comprehensive narrative about what is currently being done in the machine learning field to produce projects that could be perceived as creative.
+
+Du Sautoy begins by explaining how for centuries we’ve romanticised the concept of creativity as a godly or external pulse of inspiration and goes on to explore the creative process by simply categorising creative outputs into three basic modes of creativity: exploratory, collaborative and transformative and than splendidly moves on to provide examples from the fields of art, music, mathematics and literature. He cleverly arrives at the conclusion that the process behind each product of human intelligence has an explicit, but mostly hidden algorithm running and controlling it. I will admit that he sent me to shivers when he spoke about Bob in the Serpentine Gallery deciding to project light beyond its operational hour constrains, the group of robots in the Sony laboratory in Paris that created their own language and communicated with one another and the story an algorithm titled “The Seeker” which wrote about the algorithm’s own struggles to communicate with humans, but he goes on to explain why and how exactly these moments that appear as algorithmic ingenuities occurred.
+
+One of things I most enjoyed about this book and that confirmed how well written it is, was that he did not leave any loose ends to any of his statements. With the large breadth he explores integrating concepts from how we evolved as creative beings, why Plato is so dismissive of poetry, how Ada Lovelace’s commentary on the analytical engine has become a phenomenon, why the Turing test is so critical to any algorithm, the duality of the Library of Babel and how Cambridge Analytica came to its own demise; to name a few, he manages to fuses all these critical incidents in such a concise and comprehensive manner in his analysis. One of the other things that stood out to me, is that instead of focusing on Deep Blue’s epic chess game or Watson’s Jeopardy, he chose AlphaGo as his AI heroine, with good mathematical reasoning behind his choice.
+
+The only chapter that I had a hard time following even though, I classify myself as a classic music and Jazz lover was ‘Chapter 11: Music: The Process of Sounding Mathematics’ and that is only because I did not find myself as interested in uncovering the delicate process of composing that he brings to the surface. I found it a bit more dry than the others but still remained charmed by his personal passion towards the art. He revealed in the end of the book that he used the assistance of the Great Automatic Grammatizator to help him write 350 words which we readers are invited to guess belonged to which section. My bet would be on that one.
+
+To Be a Machine and In Our Own Image are two of my absolute favourite books that take on the deeply beloved topic of human vs the machine, and it’s been a long time since I’ve read something on their level. Now, I can add The Creativity Code to that list. For Marcus Du Sautoy, creativity is not this abstract romanticised concept but instead “creativity is about humans asserting they are not machines”. This alone should give you a snippet to the overarching tone of this book. (less)
+
+flag2 likes · Like  · see review
+
+￼
+
+Jun 21, 2020Gemma Milne rated it really liked it
+
+Shelves: non-fiction-science-technology, own
+
+Read this in preparation for an interview with Marcus (side note: the BBC series he hosted - ‘Story of Maths’ - was partly the inspiration for me studying maths at uni, so I was pretty excited to get to chat with him on stage..!)
+
+I enjoyed this book. It’s about AI and creativity, and yes it does the kind of standard AI art stuff - ‘will AI replace artists etc etc’ - but once you get past that (fair play if you like that stuff; imo it’s extremely overdone), there’s some wonderful ideas in here about mathematical creativity and ‘why we even do pure maths’, which is 100% worth the read.
+
+I feel like I spend a lot of time convincing people that doing pure maths is like doing art - it’s about the thought process and the pursuit of proof and the indescribable ‘a-ha’ moments when something just clicks. And this book, paired with Hardy’s ‘A Mathematician’s Apology’, does a superb job of not only bringing this to life, but questioning what it’s really about and what the future of it might look like in a world seemingly obsessed with automating even the most pure forms of human delight.
+
+Read Hardy, then read this.
+
+(Oh and you can watch back my interview with Marcus on some of these big topics - just Google CogX 2020 and our names and it’ll come up 😇) (less)
+
+flag2 likes · Like  · see review
+
+￼
+
+Mar 19, 2021Kedijik rated it it was ok
+
+Maybe because I am familiar with deep learning, i found this book the worst kind of insufferable dry musing with no apparent destination. You get a retelling of the AlphaGo game like it was a political drama, pages and pages about how the author counted tiles at the Serpentine, yet no actual depth to any of the algorithms beyond 'it adjusts based on my new input' or 'has a random seed'. No rigourous philosophical comparison of underlying approaches beyond the 'Lovelace test' - something that is more for publicity than actual relevance imho. Neither is there any actual social commentary beyond 'Cambridge Analytica bad! Spotify mediocre!'
+
+It is just such a bizarre collage of shallow info on disjointed topics that never makes a bigger picture that I wonder who the audience is. (less)
+
+flag2 likes · Like  · see review
+
+￼
+
+Sep 22, 2020KT rated it liked it
+
+Shelves: i-know-stuff
+
+While I did appreciate feeling like I was back at my liberal arts college (math, computer science, music, art, and literature--all in one place!), the book was rather dry and didn't reveal much I hadn't read elsewhere. (less)
+
+flag2 likes · Like  · see review
+
+￼
+
+Jul 30, 2019Daria Cohen rated it it was amazing
+
+This one is definitely going to become one of my top 5 books read in the past 10 years.
+
+flag2 likes · Like  · see review
+
+￼
+
+Oct 04, 2022Clyde Luo rated it it was ok
+
+It's pretty hard to read about topics like AI that are at the vanguard of technology. I think I finished this book abt 2 months ago and in that time there's already been an explosion in commercial AI art usage (Dall-E, Midjourney, NovelAI, Stable Diffusion etc..) that has wiped the floor with many ideas explored here. AI creation is developing at such a breakneck pace that new programs are kicking out any novelty by the time a book has been written. I feel like twitter is a better place to look at new stuff
+
+Regardless, the book such a slog to read. The author gives anecdotes such as the AlphaGo game with this sterile ass prose presenting everyday people as a monolith fighting against progress. Interpretation is rendered binary; so much about composition is seen through a procedural lens of algorithms + huge sample sizes = out comes product.
++ A lot of surface level technical stuff about AI deep learning that taps into a v large database with a lot of computation..
+
+I'm disappointed because I was clickbaited by the title. I feel like the advent of AI is this insanely gripping topic in an apocalyptic existential crisis about becoming obsolete sort of way (like what is the role of the artist, what use do they serve?). This is more of a dry mathematical catalogue of anecdotes.
+(less)
+
+flag1 like · Like  · see review
+
+￼
+
+Jul 06, 2020Nina rated it it was amazing
+
+Very interesting read! The author picks up many intriguing examples of algorithms that can beat human Go masters, create new Rembrandt paintings, compose music, write poetry and much more, all the while explaining how it works, without going too far into the technical details and explaining in a fashion easy to follow for someone who is not acquainted with the subject. But is this art? The book doesn't give a "yes or no" answer, but rather many thought-provoking ideas and thoughts about this matter, spanning across various fields of science from mathematics and computer science to neuroscience, linguistics and more. (less)
+
+flag2 likes · Like  · see review
+
+￼
+
+Apr 18, 2021Christian rated it really liked it
+
+Who's this for:
+
+In the end this book, or better its main question, is more philosophical than technical or creative. It's more about what we deem to be creative. So I guess the book is best suited for people that have some background on the technical part and want to broaden their horizons, adding some meat to the philosophical bone.
+
+If you are a creative (and assume that machines can't be creative) and want to understand more about the technical part to open your thinking, the book probably doesn't deliver convincing enough its points. Superintelligence: Paths, Dangers, Strategies delivers a more robust fundament for that and should be read first.
+
+I liked:
+
+- The combination of mathematics and creativity. Gives a widening of horizon for both angles.
+
+- That the author gave a good overview and enough, but not too much or detailed, history about AI, it's earliest developments, important happenings and more or less a current state.
+
+- That I got some additional insights and appreciation of art, music, and in particular classical music, which has surprisingly much to do with mathematics. On the other hand it's not that surprising either.
+
+- I really liked that the author actually did some experiments and tests himself and had a good hands-on approach. It shows that he actually got deep into the topic.
+
+- That you can learn besides how computer work and think also a bit how humans work and think. That we developed the system of Generative Adversarial Network to judge the vast possible options of possible generations (of an image, idea or else) sounds remarkably similar to how we come up with ideas, find them ingenious and after a night of sleep we judge it ourselves as maybe not such a good idea.
+
+I didn't like:
+
+- It's a bit basic on the technical side if you familiar with certain terms in AI, neuronal networks, machine learning, etc. Some examples are even more confusing to get. A layman might get a too different understanding because it's a tad too dumbed down. Not sure how to do that better though without repel the broader audience.
+
+- While I liked the basic introduction of the topics, it missed a bit to develop really the core insight he wanted to deliver. Or at least I expected a bit more a "scientific approach" to answering the question and not just explanatory history.
+
+- Only on the very last pages he takes a stance that he believes that computers can get conscious and with that become "creative" (whatever that means in the end). I wished a bit more of a combination of logical reasoning and philosophical discussion why and how that could be (but maybe Superintelligence: Paths, Dangers, Strategies is a better read for this). The book is mostly of the form: "Computers cannot do X because it can't think creative. Followed by an example and a group that successfully developed an algorithm or system that did X." This will go on and on until we get to a strong AI and then all of those questions get irrelevant. While this seems obvious for someone that has spent a bit time thinking about this topic (or has read Superintelligence) for a reader that hasn't arrived there already, it's not that obvious to grasp that point (from the last couple pages).
+
+- I loved the comparison for the proof about the infinity of prime numbers from the Mizar system with the "prose proof" he gave. But this is an unfair comparison as the prose is not rigorous enough to be a proof. It certainly helps to understand how it works and is enough to follow a proof but it's not sufficient. Again as a layman you easily could get fooled by believing this was enough.
+
+
+Things I learned:
+
+- About classical music and how it's composed and that it had more to do with understanding the mathematical and structural side of music than "knowing what good music is and what not". Humans love patterns and structures so we prefer it also in music. Bach definitely understood that not only intuitively. The author also hints at current pop music and it's based on a proven model music-wise (and that's why it's boring from that perspective). At this point I'd like to link to The Song Machine: Inside the Hit Factory which goes into the details how that happened and how modern, at least pop-, music works.
+
+- Babylonians started to calculate with symbols to abstract away some tediousness. They observed more and came up with certain rules and structures how numbers behaved. They invented the basics of Algebra. They didn't proof it though.
+
+- The Greeks later stared to proof those observed behaviours. This based in their general development of rhetorics and logic. They wanted to to have a logical model to proof to other about a certain fact based on arguments and not only convincing.
+
+- The book also shows again our collective chauvinism how we think we are, as a species, so special because we are "creative" and a machine can't be. As the author delivers towards the end, it's just a question of time that we can develop a machine that can also be better at "creative" on any scale we want to measure it. It's probably also better at defining what that is at all.
+
+(less)
+
+flag1 like · Like  · see review
+
+￼
+
+Jan 28, 2022Jude rated it it was amazing  ·  review of another edition
+
+This is a brilliantly written, interesting book about AI and its implications on the realm of creativity. This is the first book I've read by Marcus du Sautoy and after reading this book, I'm going to read his other books. His ability to explain complex mathematical and AI concepts in a way I could understand is phenomenal. The concepts that most resonated with me are his explanations and stories surrounding the three types of creativity (Exploratory, Combinational, and Transformative) and how AI and humans use them. (less)
+
+flag1 like · Like  · see review
+
+￼
+
+Sep 20, 2019Sophia rated it really liked it
+
+A great book when it comes to outlining the status quo and advances of AI in creative areas such as playing Go, composing music, writing novels or proving mathematical theorems. The author is leading us on a journey through the extensive AI projects such as AlphaGo or DeepBach whose results leave people speechless and also lead to the question if algorithms will develop a form of consciousness one day.
+
+It is definitely a very refreshing book that will keep you engaged but it fails to capture the essence of AI/neural networks; how they work and evolve. The author merely scratches the surface and stops elaborating further when it starts to become really interesting. But anything else would probably go beyond the scope of this book, as its intention is to provide an overview of the world of AI rather than giving a detailed and complex explanation of how it reaches its "creative" output. (less)
+
+flag1 like · Like  · see review
+
+￼
+
+Oct 25, 2021Allen West rated it really liked it
+
+Shelves: science
+
+This book was written by someone who loves math much more than I love most things. It’s hard to relate in some places to how he explains math as art, as I profoundly dislike writing proofs, and mostly just see equations for their purpose and not much more. I do see the art in building algorithms from a programming sense though, as I DO enjoy chasing efficiency, robustness, and the like. All this aside, the author has an incredible knack for story telling. To make some of these concepts that could be seen as dry into stories with emotion and intrigue is truly a skill I do not possess but wish I did. I groaned when I realized much of the book was going to be about AI beating Chess and AI beating Go… AGAIN.. but it was done in a refreshing way that had me captivated! Well done! (less)
+
+flag1 like · Like  · see review
+
+￼
+
+May 28, 2019Nasir Ali rated it it was amazing
+
+Really like the way that the author take you on the journey on what we consider creativity , will AI will ever accomplish that, the idea of a AI generating or creating content, paintings, music , books, proofing and creating new theorems etc.. that is consider a unique human endeavor. Will AI develop human emotional? If so what will be the difference between human and AI
+
+flag1 like · Like  · see review
+
+￼
+
+Feb 27, 2022Jared Hall rated it really liked it
+
+Du Sautoy’s The Creativity Code is framed by a claim by Ada Lovelace, the nineteenth-century computing theorist, that a chief limit of “the Analytical Machine” (or computer) is it “has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform” (p. 2). In short, Du Sautoy wants to know if recent advances in AI such as neural networks have done anything to challenge Lovelace’s claim. As the title suggests, the focus of his examination is on creativity, especially a truly “transformational” or “phase change” form of creativity: he cites Picasso, Goethe, and the square root of minus one as examples (pp. 9-10). In the chapters that follow he leads with an account of Deep Mind’s victory over human champions in the game of Go (weiqi) and then explains the algorithms behind the program and how they apply to the successive fields of visual art, math, music, and literature.
+
+With modest prior background on theories of creativity and innovation and in recent developments in AI, I found it was not until somewhere between chapter 5 (p. 61) and chapter 6 (p. 75) when he started getting deep into advanced algorithms that I actually started learning much. I do not think I am actually an outlier on this point: rather, the author has an unfortunate tendency in the first few chapters toward an excessively conversational—even chatty—style that leans too much toward accessibility at the expense of depth. The most obvious example is in Du Sautoy’s definition of creativity, for which he provides only a single framework, that of Margret Boden. And despite leaning exclusively on Boden’s typologies for a book-length study on creativity, he provides exactly two sentences about her background: one of which focuses on her age (past 80), appearance (“white hair flying like sparks”), and quirky pet name for computers as “tin cans” (p. 7). Surely as a scholar he has thought more seriously about this and compared different approaches. One does not have to look far for better writing on the subject. In Creating Innovators (2012), for example, national bestseller Tony Wagner cites at least 20 different voices as he works toward a definition of “innovation.”
+
+Despite the uneven start, I did find the bulk of the later discussion to be quite good. Du Sautoy is well positioned to tell the story as a scholar of pure mathematics and a gentle skeptic of the more enthusiastic claims made on the part of AI. Even in the early account of Go, for example, it was illuminating that Alpha Go showed that even hundreds of years of competitive human ingenuity was subject to the algorithmic trap of “local maximums”; by lifting the fog of convention, the AI was able to imagine new possibilities for playing the game. These kinds of insights came more frequently in the latter chapters. I was interested to learn that artistic originality can be charted algorithmically (called the “Wandt curve,” p. 131) and that some speculate that theoretical mathematics may be rapidly approaching the end of what humans are capable of doing without the aid of AI. De Sautoy is arguably at his best in discussing mathematics and music. It turns out that math is far more important to the way our brains separate “good” from “bad” sounding music than most of us would be comfortable admitting. For this reason, AI has progressed quickly toward providing tunes serviceable as unique—if somewhat banal—backdrops to TikTok clips and video games. Math and music (and perhaps literature) were also the areas where Du Sautoy delved into the greatest philosophical depth. I quite enjoyed the argument that music itself contains no intrinsic emotionality, and even work that seems as naturally emotive as Beethoven’s “Moonlight Sonata” still requires of the listener all the work of actually constructing an emotional response. Given the same claim could be made for language or even physical intimacy, I would suggest the claim needs to be more carefully bounded to hold up to scrutiny, though I appreciate the way the position creates an opening for the role of AI as creative producer.
+
+As to whether AI has indeed surpassed the Lovelace test, a Du Sautoy reader might reasonably come away believing that the potential exists and has, under certain conditions and under constraints, already been realized. What the future holds for AI is uncertain, of course, though Du Sautoy shows us how important the question of creativity is not just for measuring advances in computation but also for how we live and the ways we think about our shared existence. (less)
+
+flagLike  · see review
+
+￼
+
+Oct 03, 2022Kit rated it really liked it  ·  review of another edition
+
+Yet she [Ada Lovelace] believed that any act of creativity would lie with the coder, not the machine. Is it possible to shift the wight of responsibility more towards the code? The current generation of coders believes it is.
+
+TL;DR: We're not there yet. But we're not too far away.
+
+Mind you, this book was published in 2019. Leaps and bounds in the field of AI does not happen by years, they happen by months. Since the publication of the Creativity Code, AI has learned how to:
+• Understand jokes
+• How to generate an image from a mere abstract suggestion
+• Feel pain
+
+There have been seminal moments in the novel but eventful history of AI, even in the last decade that was covered in the book. For du Sautoy, the most pivotal moment in AI was the day when DeepMind managed to beat Go's world champion, Lee Sedol. In all honesty, I know much about a game of Go as I do about DOTA - It's there, I watch the contest more than the game itself, but not something that I would likely learn in the future. Go is far more complex than chess and though chess GrandMasters now struggle to beat chessbots, Go masters were still able to beat the computer in Go without as much as breaking a sweat.
+
+I watched the doco on this game and to this day is still my favourite documentary that I visit now and then in YouTube. Lee Sedol, humiliated by a cold hard machine, looking at the friendly face of AJ Wang, who moves the pieces as AlphaGo would if he had a mechanical hand (thankfully we weren't there yet) was ambushed by AlphaGo's fluid creativity. I feel for the guy because Go is as big as Gordon Ramsay is in Hell's Kitchen in South Korea, and the flashes just exacerbated his humiliation in the post-match interview.
+
+To mathematicians, Lee Sedol's defeat is a sobering moment. For them, mathematics is still something untouched, a discipline which requires a mixture of human creativity, genius and balls of steel in order to solve proofs and equations which in turn, will progress human thought. For once, Du Sautoy felt that his job was in danger. This existential crisis drove him to write the book, to thoroughly research where AI stands as a discipline and to get in touch with AlphaGo's head honcho, Demis Hassabis who back in the day, was also a chess prodigy.
+
+De Sautoy's approach is to log the progress of AI in the fields where human creativity is most prominent: in art. AI can now generate music based on Bach's composition to the point of fooling experts that its creation is better than the original. AI can also can paint as it has been instructed to do, but following the mood of the day. The "Painting Fool" is able to create a painting which is depressing in tone if the news headlines at the epoch is also doom and gloom. AI can also write and generate stories which read better than Twilight or the majority of English majors.
+
+If this worries you, it shouldn't. Yet. In every single one of these projects, there is too much of the shade of the creator for the AI to be considered fully independent. Perhaps this statement is apt:
+
+Art is ultimately the expression of human free will, and until the computers have their own version of this, art generated by a computer will always be traceable back to a human desire to create.
+
+What we think of machine intelligence, really is our own desire to push our creative boundaries warped by the interpretation of algorithms.
+
+What I appreciate about The Creativity Code is the readability despite the natural complexity of the subject. Du Sautoy briefly touched on the evolution of machine learning and how an algorithm is trained like an athelete in the Soviet Union. When he does, I needed to read the pages a few times, but you're never lost and it is worth focusing on these because some of the methods use to train algos are fundamental and seemingly so simple. Some of these algos are now used to match medical students to their residencies.
+
+As a novice in the discipline, The Creativity Code is a good introduction of where we are in 2019. I fear that these types of books, as plenty of political science books, will quickly become obsolete as father time vindictively tries to prove naysayers wrong. Du Sautoy's conclusion is more open-ended though. We are some distance away from technological singularity, but the discipline is travelling in lightning speed to close that distance. I'm not sure I'd like to be there when that happens. (less)
+
+flagLike  · see review
+
+￼
+
+Nov 14, 2022Liz rated it liked it
+
+Shelves: non-fiction
+
+3.5. This book examines AI’s forays into the realm of creativity. AI is still used for large-scale computations and data sifting, of course, but we’re seeing more and more instances of programmers trying both top-down and bottom-up approaches to get AI to do things like paint, compose music, and write poetry. This book is pretty anecdotal in its approach, which is something I tend to like. Experts beware: this was written for a layperson. It’s rather surface-level as it takes us through the history of AI, along the way discussing the ways human brain activity resembles algorithms with its pattern-finding expertise and reliance on habit.
+
+The author (du Sautoy) is a mathematician, and in the beginning of the book he made quite the fuss arguing that math is just as creative an endeavor as painting or songwriting. I may have only spent one semester as a math major but I was onboard…until I wasn’t. He pretty much used this baseline as an excuse to go on a joyride through the history of mathematics, to the extent that his tangents about the “narrative drive” of proofs were no longer germane.
+
+My only other grumble would be that I’m already sick of hearing the stories of AI beating human champions in chess, Go, and Jeopardy. But the inclusion of these stories was probably necessary.
+
+The sections about painting, music, and writing were fascinating. Learning about the way AI compiles data and finds patterns to imitate the work of Pollock or Rembrandt was just plain cool. And the stumbling blocks surprised me. Bach’s mathematically-constructed fugues were examined, naturally, and I was delighted to find that the author of Gödel, Escher, Bach: An Eternal Golden Braid also made an appearance in this book as a judge determining whether compositions were generated by humans or AI. The lightest fare was probably centered around AI-generated poetry, screenplays, and chatbot responses. As evidenced by my 5-star rating of You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place, I find that sort of thing just side-splittingly funny.
+
+Du Sautoy keeps the philosophizing fairly light as well. Do these creations have any value, and how much of that value is owed to the humans who write the code? He doesn’t give a clear-cut answer, but he does argue that there are now “meta-algorithms that are encouraged to break the rules and see what happens.” Are these AI teams pushing into territory that might rival human creativity? Probably not yet, but those boundaries blur more with each passing year. (less)
+
+flagLike  · see review
+
+￼
+
+Oct 25, 2020Dan rated it really liked it  ·  review of another edition
+
+Shelves: machine-learning_ai_math_stat, technology, memorable, science, art
+
+Unexpected joy from a thoughtfully written book
+I enjoyed the author's introduction to the philosophy of art in the age of AI. He taught me how to frame the problem and think about creativity itself.
+
+He explains three types of creativity: explorative creativity beyond the edge of familiarity, combinational creativity that merges ideas, and transformational creativity that provides a new perspective, a new paradigm. We want art to be new and surprising, but not too strange. The newness, but familiar enough to resonate, make good quality art.
+
+I initially expected to read how AI could create visual art like Rembrandt style picture. The book was more than that. It covered visual art, music, mathematics, game go, language art. I was surprised mathematics was part of the creative domain. The author, as a mathematician, says that mathematical proof is like storytelling, which requires creativity.
+
+More profoundly, math is inherent in our intelligence to find patterns from nature. Golden ratios or fractals are the mathematical concepts that allow us to create beauty. Naturally, AI is well suited to create such patterns. The author explains teaching AI to create such patterns using certain logic as a top-down approach.
+
+There could be another way to teach AI by introducing art pieces, lots of them, and letting AI learn from them. AI would learn how to create something similar but new. This is a bottom-up approach. We, people, can learn from masterpieces and get intuitions and insights. We are training AI to do the same. There could be some tricky issues. The size of the data may not be enough if we want AI to learn great art only. Human intervention may be needed to tune how much AI would want to push out of the boundary. It can be offputting than pleasantly arousing.
+
+Should we feel an existential threat as an artist, as a mathematician, as a writer, as a musician?
+AI-art may not replace our human-made masterpieces but may replace low-budget art needs, say background music of a website that suits its concept. Royalties may get cheaper if AI can produce new music that is ok. We do not need website music to be great. AI could expand the scope of what could be industrialized and automated.
+
+Lastly, would we consider AI as an agent? Is AI an artist? AI art is mainly driven by people and for people (and for money). AI does not create art because it feels depressed or loved. AI creates because it is coded to do so. Having said that, AI might be a smarter and more intelligent tool for creativity, but AI may not be a sentient being "enjoying" what we asked it to create. If that time comes, it will create something we would not understand. (less)
+
+flagLike  · see review
+
+￼
+
+Jul 20, 2021Shannon rated it really liked it
+
+I really liked this! As a museum student, the idea that "art" could be quantified and that things like essence, experience, novelty and value are terms given substance and concrete frameworks, rather than a humanities pseudo-intellectual suggested impressions is more helpful than I could ever even overstate. That human perception is given grounded mathematical basis is refreshing coming from a discipline where all is art is good, is priceless, is impressing, but we must not attempt to ground it as it removes "value" (that again, is unquantified) that could be created by an audience, and we cannot survey the audience for their own opinion because that's not our job feels like a breath of fresh air. Why museum studies and philosophy & psychology are not more tied together I will never know.
+
+The strength of du Sautoy's approaches are when he is working within his realms, so to speak. Things like board games and literature are good in his hands. He lets the idea that the AI is generating content within a framework, not the actual "art" itself, guide his understanding and exposition.
+I bristle a bit when he's on the topic of music. Yes music theory has a mathematical structure: but music theory is not music. Du Sautoy's approach that all music is code of sort is on the surface correct, but the idea that the best composers (Note: not musicians. We stick to the realms of Jazz or Classical) are just the best coders. When inspecting ideas, here the author places the importance of music theory over the music itself. He separates musicality as distinct in audience reception of a piece emotionally, yet does not extend the same to composers. Mozart may have been a genius composer, and had an interest in theory and math's implications on it, but that's like saying ee cummings was a grammatician, and not a poet. The historic implications are misplaced. The modern implications are that AI is a tool, and here the implication doesn't even exist.
+
+The section on Rembrandt AI replicants states that the point was not to create a Rembrandt painting, but to see if an AI even could. This argument is the opposite of the ones extended in the music section. Its a very small thing, and he comes back in a way to the modern day stating that in his own experience it isn't the mathematics or theory that inform the music in a meaningful way. So it is a very small critique, and the only gripe I had with this otherwise engaging combination of AI, perceptive psychology, art and creativity, and the human intentionality. (less)
+
+flagLike  · see review
+
+￼
+
+Mar 10, 2019Siobhan rated it it was amazing
+
+The Creativity Code is a look at artificial intelligence, how it works, and what it might be able to do. Starting with what Ada Lovelace said about computing machines and creativity, Marcus du Sautoy goes through the achievements of AI so far, the mathematics that underpins machine learning, and explores the meaning of 'creativity', in order to look at whether computers will ever be able to be truly 'creative'.
+
+What unfolds is a book that crosses disciplines, touching upon computer science and programming, mathematical proofs and the storytelling nature of them, how art works and how it relates to chaos theory, and whether music can be computed, amongst other things. Written in a way that is open and accessible, The Creativity Code is not bogged down in technical jargon and only describes actual algorithms or other mathematical concepts where necessary. Instead, it focuses on crosses boundaries (describing a theorem like an adventure narrative, for example) and on looking at what AI can do and whether this is creative. Some of the most interesting parts are larger questions about where coders and computers have the control, knowledge, or creativity, and the kind of opposition to AI in areas such as art, music, and mathematics.
+
+Deeply engrossing and informative, The Creativity Code takes a complex topic (AI and machine learning) and gives an interdisciplinary look at its past and future. Despite what the title and blurb imply, it isn't only about whether AI can be 'creative', but also about what creativity is, how disciplines are creative, what AI can currently do, and what this means for the future and for how AI can be developed further. Anyone interested in crossover between arts and sciences should give it a read, as well as those who care about the creative side of science or how automation is going beyond simple instructions. It is an accessible book on machine learning, but also a thoughtful look at the meaning of creativity, and this makes it quite remarkable. (less)
+
+flagLike  · see review
+
+￼
+
+Jul 19, 2022H rated it it was amazing
+
+Shelves: nonfiction, audiobook, audible
+
+The Creativity Code asks the question “can AI truly be creative?” and supplies information on AI technologies from 2019 and earlier that may prove or disprove the answer. This book covers more than just AI generated art, including games, music, math, literature, and algorithms in an easy to digest way, even for those who may not be as knowledgeable in machine learning or similar technologies. Some of the examples presented pass the Turing test (a test to see if an observer cannot distinguish between AI and human creation) but the real question is not if AI can create pieces undistinguishable from human works, but does this make an AI creative?
+
+I could tell you that I believe AI is currently creating incredible works, from DALLE’s art, to deepfake video and audio, to deeply personalized algorithms for content and ads. Myself and many others believe these to be works which will very soon rival the creations of human artists, potentially disrupting the job market of many creatives.
+
+Is this machine creativity? Or is the programmer who created the AI the one responsible for the creations? Would an AI need to be conscious in order to be truly creative? Can an AI ever be conscious… heck what even is consciousness and how will we know when it has occurred??
+
+If you are interesting in any of these questions I highly recommend this book. It also provides a great history on AI technologies within the last few decades which provides great context for understanding the impressive development in our current technologies only 3~ years later.
+
+Note: Listened free with Audible Premium. This book only took me a year to read because I’m sometimes poor with time management and not starting dozens of other books while I’m already reading one 😅 (less)
+
+flag1 like · Like  · see review
+
+￼
+
+Feb 02, 2019LJ rated it it was amazing
+
+A fascinating journey into art, how it intersects with mathematical algorithms, and whether we could take that one step further in having machines create it for us.
+
+The book covers all things creative: from board games and paintings to music, books and even journalism. The author set these sections up well with relevant background on the subject and details of the attempts that we (as humans) have made to use computer programming to help us go further.
+
+I got a bit lost when it went heavily into how music is composed but that's perhaps because I'm not a musician by any stretch. The book overall was very interesting for me to read. I've not studied mathematics primarily but touched on it during my Computer Science degree. It was nice to recognise some of the theorems mentioned (mainly by Fermat and Euclid) and understand them in the context.
+
+I wouldn't say this is a book that provides any firm answers or has a definitive ending. It's a rather a study with a promise of what the future could one day hold (hopefully not Skynet).
+
+P.S. I recommend the author and fans of this area watch the TV show 'Person of Interest'. It tells an incredible story with AI at it's core. It starts slow but it's totally worth it!
+
+---
+Thank you to 4th Estate, William Collins and the author for the ARC (less)
+
+flagLike  · see review
+
+￼
+
+Nov 26, 2020Richard Thompson rated it really liked it
+
+Shelves: neuroscience, technology
+
+This book explores what creativity means in artistic fields and in mathematics, discusses the history of machine learning and describes various attempts at using artificial intelligence to produce creative outputs. It's fascinating to see the huge progress that has been made and how good but still flawed the products of current technology are. There is an uncanny valley effect with much of the creative output of computers, but sometimes with art weirdness and the sense of alienation that this produces can actually add to the artistic merit. For me one of the defining purposes of art is to allow us to see the world differently and some of the output of current artificial intelligence manages to achieve that goal. Mr. du Sautoy comes out on the side of saying that AI will never be as fully creative as humans because of the need for top quality creative works to include elements such as surprise and beauty that computers have so far failed to deliver at the level of top humans. However, I am much more of the view that these obstacles will be overcome with time. He's just giving us another version of the old bit about how evolution could never explain anything as complex as the eye. I see no reason why AI cannot evolve in baby steps to get to a point where it can surpass human creativity. (less)
+
+flagLike  · see review
+
+« previous 1 2 3 4 next »
+
+new topic
+
+DISCUSS THIS BOOK
+
+There are no discussion topics on this book yet. Be the first to start one »
+
+Share
+
+Recommend It  |  Stats  |  Recent Status Updates
+
+READERS ALSO ENJOYED
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+See similar books…
+
+GOODREADS IS HIRING!
+
+If you like books and love to build cool products, we may be looking for you.
+Learn more »
+
+GENRES
+
+Nonfiction
+
+65 users
+
+Science
+
+59 users
+
+Science > Technology
+
+38 users
+
+Artificial Intelligence
+
+26 users
+
+Philosophy
+
+21 users
+
+Art
+
+20 users
+
+Science > Computer Science
+
+14 users
+
+Science > Mathematics
+
+8 users
+
+Science > Popular Science
+
+7 users
+
+History
+
+5 users
+
+See top shelves…
+
+ABOUT MARCUS DU SAUTOY
+
+ 
+
+Marcus du Sautoy
+
+398 followers
+
+Marcus Peter Francis du Sautoy, OBE is the Simonyi Professor for the Public Understanding of Science and a Professor of Mathematics at the University of Oxford.
+
+BOOKS BY MARCUS DU SAUTOY
+
+￼
+
+ 
+
+￼
+
+ 
+
+￼
+
+ 
+
+￼
+
+ 
+
+￼
+
+More…
+
+RELATED ARTICLES
+
+￼
+
+Learn Something New with These 18 Popular Science Audiobooks
+
+Podcast junkies will know this already, but the audio format is a surprisingly great way to discover more about nearly any topic that catches...
+
+Read more...
+
+47 likes · 6 comments
+
+QUOTES FROM THE CREATIVITY CO...
+
+“The first algorithm to win its creators a Nobel Prize—originally formulated by two mathematicians, David Gale and Lloyd Shapley, in 1962” — 1 likes
+
+“this equation into the future, it takes a dramatic lurch downward, absurdly predicting complete annihilation of the US population in the middle of October 2028. (Or perhaps the mathematics knows something we don’t!) Graph source: The Mathworks, Inc.” — 0 likes
+
+More quotes…
+
+COMPANY
+
+About us
+
+Careers
+
+Terms
+
+Privacy
+
+Interest Based Ads
+
+Ad Preferences
+
+Help
+
+WORK WITH US
+
+Authors
+
+Advertise
+
+Authors & ads blog
+
+API
+
+CONNECT
+
+￼￼
+
+ 
+
+￼￼
+
+￼ ￼
+
+© 2022 Goodreads, Inc.
+
+Mobile version
+

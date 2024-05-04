@@ -1,0 +1,31 @@
+I also will have only three minerals, ironium, boronium, and germanium
+
+Incorporating a limited set of minerals can provide clarity to the game's resource management and crafting mechanics. Let's explore how these three minerals - ironium, boronium, and germanium - could be integrated into your game, considering its unique physics and time-travel mechanics:
+
+1. **Properties & Uses**:
+   - **Ironium**: A robust and dense mineral used primarily for building structures, tools, and heavy machinery. Its stability might also make it essential for creating time-resistant objects or shielding.
+   - **Boronium**: A lighter, more flexible mineral. It could be used for creating movable parts, lightweight equipment, or perhaps even in some advanced propulsion systems. This mineral might have properties that make it more adaptable to time fluctuations.
+   - **Germanium**: A rare, high-conductive mineral used in advanced technologies. Given its real-life semiconductor properties, it could be essential for creating devices that manipulate time or for powering particular machinery.
+
+2. **Mining & Acquisition**:
+   - Depending on the manipulation of time (zooming in or out), the rate of regeneration or depletion of these minerals in a mine can change. For instance, zooming in might slowly regenerate a mine, while zooming out might deplete it faster.
+
+3. **Crafting & Combination**:
+   - Different combinations of the three minerals can produce varied alloys with unique properties. For instance, an alloy of boronium and germanium might be used for creating lightweight, high-tech devices.
+
+4. **Economic Importance**:
+   - The rarity and utility of each mineral can determine its value in the game's economy. Germanium, for example, might be the rarest and most sought-after due to its high-tech applications.
+
+5. **Environmental Impact**:
+   - Over-mining could have consequences. For example, depleting an ironium mine might lead to land collapses, while over-extracting boronium could result in environmental hazards due to its potentially reactive nature.
+
+6. **Temporal Mining Tools**:
+   - Players might need to manipulate time to mine effectively. A tool infused with germanium might allow miners to speed up time in a localized area, rapidly extracting minerals, while a boronium tool might slow time, making it easier to extract delicate or rare minerals.
+
+7. **Trade & Diplomacy**:
+   - Different in-game factions or civilizations might have a monopoly or particular need for one of the minerals, leading to trade negotiations, alliances, or even conflicts.
+
+8. **Storyline Integration**:
+   - The discovery, use, and potential depletion of these minerals can drive the game's narrative. Perhaps there's a prophecy about the three minerals holding the key to mastering time, or maybe there's a race to find a legendary deposit of pure germanium.
+
+By integrating these minerals into various game mechanics, you can create a rich, interconnected world where resource management plays a vital role in the player's strategy, progression, and interactions within the game.

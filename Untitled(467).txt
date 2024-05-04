@@ -1,0 +1,97 @@
+Computational Biology and Chemistry
+
+Volume 103, April 2023, 107820
+
+Where is the mind within the brain? Transient selection of subnetworks by metabotropic receptors and G protein-gated ion channels
+
+Author links open overlay panelDankoNikolićabc
+
+Show more
+
+Outline
+
+Share
+
+Cite
+
+https://doi.org/10.1016/j.compbiolchem.2023.107820Get rights and content
+
+Highlights
+
+•
+
+Connectionist paradigm suffers from the scaling problem and hence, a new paradigm is needed.
+
+•
+
+G protein-gated ion channels (GPGICs) close or open branches of dendritic trees and axon terminals, transiently re-routing neural activity.
+
+•
+
+Metabotropic receptors (MRs) have the capacity to learn the conditions under which GPGICs need to be activated.
+
+•
+
+Mental operations may solely be executed by the functions of MRs and GPGICs.
+
+Abstract
+
+Perhaps the most important question posed by brain research is: How the brain gives rise to the mind. To answer this question, we have primarily relied on the connectionist paradigm: The brain’s entire knowledge and thinking skills are thought to be stored in the connections; and the mental operations are executed by network computations. I propose here an alternative paradigm: Our knowledge and skills are stored in metabotropic receptors (MRs) and the G protein-gated ion channels (GPGICs). Here, mental operations are assumed to be executed by the functions of MRs and GPGICs. As GPGICs have the capacity to close or open branches of dendritic trees and axon terminals, their states transiently re-route neural activity throughout the nervous system. First, MRs detect ligands that signal the need to activate GPGICs. Next, GPGICs transiently select a subnetwork within the brain. The process of selecting this new subnetwork is what constitutes a mental operation – be it in a form of directed attention, perception or making a decision. Synaptic connections and network computations play only a secondary role, supporting MRs and GPGICs. According to this new paradigm, the mind emerges within the brain as the function of MRs and GPGICs whose primary function is to continually select the pathways over which neural activity will be allowed to pass. It is argued that MRs and GPGICs solve the scaling problem of intelligence from which the connectionism paradigm suffers.
+
+Graphical abstract
+
+￼
+
+Download : Download high-res image (148KB)
+
+Download : Download full-size image
+
+Previous
+
+Next 
+
+Keywords
+
+Scaling problem
+
+Explanatory gap
+
+Connectionism
+
+Metabotropic receptors
+
+G protein-gated ion channels
+
+Practopoiesis
+
+Recommended articles
+
+Cited by (0)
+
+View full text
+
+© 2023 Elsevier Ltd. All rights reserved.
+
+￼
+
+About ScienceDirect
+
+Remote access
+
+Shopping cart
+
+Advertise
+
+Contact and support
+
+Terms and conditions
+
+Privacy policy
+
+We use cookies to help provide and enhance our service and tailor content and ads. By continuing you agree to the use of cookies.
+
+Copyright © 2023 Elsevier B.V. or its licensors or contributors. ScienceDirect® is a registered trademark of Elsevier B.V.
+
+￼
+
+

@@ -1,0 +1,375 @@
+ Sabiens
+
+Upgrade
+
+Read in the Substack app
+
+Open app
+
+Blood and Bone
+
+Or, The Control Problem In Humans
+
+￼
+
+DUNCAN SABIEN
+
+24 FEB 2024
+
+7
+
+9
+
+Preamble
+
+This essay wants to do two things.
+
+Convince you that a problem you (likely) think is small or trivial is in fact much more important than it (probably) feels to you.
+
+Convince you that you are (probably) knee-jerk defaulting to one of two opposite ways of thinking about or addressing this problem each time it comes up, and that you should seriously think about the other way, which you (probably) unfairly dismiss.
+
+… except that’s not really what this essay wants to do; really this essay is a sort of proto-naturalistic look at a section of reality that tends to cause people problems where 1 and 2 are relevant. The problems are a way to sort of draw your attention, to guide your eyes toward the place where the interesting stuff lives, and what I really want us to do is thoroughly understand that stuff (at which point I suspect the problems will just sort of stop happening on their own, the way that kids largely stop stumbling as they build up a more thorough understanding of everything involved in walking).
+
+… except that the operative word there is “proto” because I don’t have a thorough or mature understanding of what’s going on here myself, and I’m also not a very good naturalist. I am not a qualified tour guide, and thus my primary route to helping other people get their eyes on is something like “smashing opposing preconceptions against each other until they both break and you’re left with confusion and uncertainty.” It seems to me that there is a partisan split, in this domain—two broad strategies, two different philosophies, two equal and opposite ways of being—and many people have more-or-less taken one side so thoroughly that they’ve never actually seriously considered whether there might be any merit in the other.
+
+(You are likely substantially partisan! The virtues of the other perspective are easy to miss, because both sides are equipped with weapons-grade memetics for mocking and delegitimizing and strawmanning the other; you can grow up in one cluster and fall in with like-minded people as an adult and basically never hear a single good thing about the other way of being from a source you’re inclined to take seriously.)
+
+I’m sorry. I know this is not particularly grounded yet. I know you have no idea what I’m talking about. I’ll start making more sense when we get out of the preamble and into the amble proper.
+
+But I sort of like the idea of showing you that I’m struggling, here. Letting you feel an echo of the flailing confusion. This essay has (surprisingly) proven to be one of the toughest to write in the past five years, even though I’ve taught the content at least a dozen times.
+
+That’s because I’m in the state that exists prior to actual understanding. I can’t tell you what this is. I can’t tell you what it’s for. All I can tell you is that all of my intuitions, honed across a lifetime of thinking about this stuff, are telling me there’s something really important here. Something that matters.
+
+An ice cube that is a meter on a side will melt very slowly. A sheet of ice that is one meter wide, one hundred meters long, and one centimeter thick contains the same total volume of ice, but will melt much, much faster.
+
+The reason it melts faster is that it has greater surface area. Melting happens at the point where the warm air can deliver heat to the cold ice—for the cube, this can only happen across a grand total of six square meters (or five if you don’t count the ground), and the rest of the ice is tucked away next to other ice.
+
+For the sheet, there are over a hundred square meters for the warm air to work its infernal magic.
+
+When I worked as an instructor at the Center for Applied Rationality, we often used the metaphor “opening up more surface area on X.” The idea being that, if you had some sort of intractable problem or deep-seated confusion, it was often better not to try to drive straight toward a solution, but rather to aim at being able to see and touch and understand and interact with more of the stuff of whatever was happening.
+
+Sometimes, new surface area would lend itself to clever solutions. Sometimes, it would change our understanding of what the problem even was. Sometimes, it wouldn’t seem to do much at all, but a year or two later it would unlock some other revelation, like how the work of Lobachevsky and Bolyai and Gauss on non-Euclidean geometry was thought to be an idle mathematical curiosity until it suddenly proved crucial to understanding the behavior of spacetime.
+
+(It should come as no surprise that this phase of CFAR was heavily influenced by the same person who would later develop naturalism, and who is now my spouse and the biggest influence on my own rationality development.)
+
+When I’ve taught this content at workshops and conferences, the simple act of causing people to consider the (still-not-yet-defined) conflict, and take seriously the (still-as-yet-unspecified) two sides, has opened up a bunch of surface area for many of them. It’s caused people to do things like:
+
+Be less frustrated with their friends and family members and partners and colleagues whose behavior previously baffled and confused them
+
+Gain more resolution on their own internal conflicts, and gain some empathy and respect for their own inner underdog (as opposed to just thinking of their less-favorite parts of themselves as stupid or bad or incorrigible)
+
+Realize that there are vast swathes of valid action-space that they’ve never sampled
+
+Realize that problems they thought were about one thing were actually just offshoots of a much deeper issue (and that’s why they kept sprouting over and over again)
+
+I dunno. That list sounds a little bit like I’m trying to hype up some Big Useful Insight or something, and again: I am not. All I have to offer here is confusion and fragments. But I think that confusion and those fragments are better than a façade. I think that most of the people I encounter are doing something half-fake in this domain, and this essay is about tearing down the stage dressing and finding out what’s behind it.
+
+Epistemic status: what the actual fuck, though?
+
+The Control Problem In Humans
+
+Here’s the issue at the center of all of this, the initial grain of sand in the oyster:
+
+Sometimes, on Monday, I will form an intention to do X on Thursday.
+But then on Thursday, I do not want to do X.
+
+“…wait,” I imagine you thinking. “That’s it?”
+
+A part of why this essay has been hard to write is that I feel daunted by something like being able to convince people that this is important. My mental model of most people reacts to this the same way that medieval peasants would react to someone claiming that handwashing is a big deal—somewhere between bafflement and outright disagreement.
+
+“I don’t get the dilemma. Situations like this are easy, you just—”
+
+Ah-HA!
+
+There it is—that’s the thing.
+
+You just.
+
+Most people (in my experience) already have an answer to this problem, and that answer is reflexive, and feels obvious, and atomic, and not in need of justification and defense, and they somehow don’t seem to be fazed by the fact that other people think that the exact opposite thing is self-evidently correct.
+
+I think a lot of people are casual about this question. I think a lot of people gloss over this decision. I think a lot of people just sort of do whatever, and adjust on the fly based on whether or not it’s working, and they don’t put in any more thought than they’re forced to.
+
+But the choice of whether to follow through on X or not—it feels momentous to me. It feels like something that’s dangerous to not have settled policy around.
+
+(Especially because sometimes “Monday” and “Thursday” are years apart and “X” is something like “finish a dissertation” or “stay married to my spouse.” And in optimistic futures where humans get to live for thousands of years or have substantially larger power over the planets and the stars, little things like this start to add up, and it feels important to have some degree of control, or at least foreknowledge, of where it’s all headed.)
+
+It seems to me that there are two mutually exclusive general approaches to this and related questions, and that’s what this essay is about. There’s a philosophical cluster around “do X anyway, as originally planned,” and there’s another cluster around “don’t do X.”
+
+I’m calling the “do X” cluster bone, in line with the idea of structure and its overlap with white from the MTG color wheel. Bone is solid, firm, and unchanging. Bone says stick to the plan.
+
+I’m calling the “don’t do X” cluster blood, in line with the idea of fluidity and flexibility and its overlap with MTG red. Blood is vibrant, warm, and unpredictable. Blood says follow your heart.
+
+￼
+
+It feels important to be clear that there isn’t really a middle ground, here. I know lots of people who have built their whole personalities around breaking dichotomies and finding third paths, but sometimes you really do have to either go left or right, and there’s not any way to soften the choice. Yes, for some specific Xs there are ways to make not-doing-it look more like doing it (you can apologize and pay a penalty, or reschedule it for later, or do some easy or important piece of it while abandoning the rest), and vice versa.
+
+But in general, there’s not a reliable way to do both at once. Many of the times that a problem of this form arises, you have to pick one or the other.
+
+And it’s that question—how do I know which one to pick, under which circumstances?—that I want to answer, and for which this whole essay is something like preliminary information gathering. I have never yet met someone whose reasons for choosing when to go blood and when to go bone felt sound, to me. Felt solid and grounded and reasonable and sane. It always feels more-or-less arbitrary and capricious, and that leaves me uneasy.
+
+Other questions to prime the pump
+
+How can I become more of the person that I’m trying to be?
+
+How do I know what sort of person I should try to be? Is there a “should” here at all?
+
+If I were given a thousand years, would I like the person that I grew into? Should the liking or disliking of present-me matter to future-me?
+
+Why is it that I often do the wrong thing, according to my values? Why is it that I often do not do the things I want to do?
+
+Do I have the right to make choices on behalf of my future self? Do I owe allegiance to my past self?
+
+How can I trust that future-me will follow through on the things that present-me starts? How can I accomplish things that require years or decades of sustained effort? (Why bother embarking on a PhD if future-me might just quit halfway through?)
+
+How can I escape the cages that past-me built and put me in, that don’t fit? (How can I tell my advisor, my colleagues, my family, that I’m quitting this stupid fucking PhD program?)
+
+Is it possible to have principles at all?
+
+Is it good to have principles at all?
+
+What even are principles?
+
+I think that the way people answer any one of these questions is strongly predictive of the way they will answer the others. What follows is going to be half a dozen different looks at what (I claim) is the same dichotomy, expressing itself in different domains. There are two forces at work, here—two different shoulder advisors whispering into opposite ears.
+
+(Not really, I don’t think. But there do seem to be clusters, associations—I think I consistently see one set of arrows coming in from the west, and another set coming in from the east, and not many that seem to be coming in from the north or the south. This essay is going to try to triangulate two different clusters by gesturing toward them again and again from different vantage points.)
+
+MTG Red vs MTG White
+
+In Magic: the Gathering, there are five colors of magic, each associated with a different perspective.
+
+Red magic is based in the desire for freedom, and red mages try to achieve that freedom through action—through the breaking of bonds and the seeking of new horizons.
+
+White magic is based in the desire for peace, and white mages try to achieve that peace through the imposition of order—through the making of commitments, the creation of hierarchies, the sacrifice of time, effort, and options.
+
+Where white sees scaffolds, red sees cages. Red looks at white and sees constraint, confinement, a sort of cut-off pointlessness, death by cubicle. White looks at red and sees chaos, disruption, unreliability.
+
+To white, red is a force that erodes and wears away at everything we try to build. To red, white is a force that smothers and strangles the life out of everything.
+
+Red would say that you owe nothing to your past self and have no claims on your future self (white would say the opposite).
+
+White would say that there are definitely “shoulds” about what sort of person you’re trying to be, and indeed that shoulds are one of the most important tools for guiding your evolution (red would disagree).
+
+It seems pretty clear to me that you need both, in order to be anything like a healthy person.
+
+And it seems pretty clear to me that each really, truly, fundamentally wants to destroy the other. I think that they are actually inimical, not just kind of incompatible. I think people manage to get them down to just vaguely incompatible by kind of not-really-committing to either. Watered-down red and watered-down white can coexist because neither can be arsed to extinguish the other.
+
+But I don’t like that solution. I don’t want half-hearted blood and half-hearted bone—I want the full, powerful version of each, the best virtues of Superman and the best virtues of Toph Beifong. I want to figure out how to have blood and bone productively co-exist and bolster each other.
+
+(This whole essay is me taking a bone-centric approach, by the way, if that wasn’t already clear; in many ways my character arc over the last few seasons was learning how to respect and admire and validate blood, from bone’s perspective. If someone can successfully write the blood-centric version of this essay, that makes bone comprehensible to blood, I will give them five hundred dollars.)
+
+Diachronic vs. Episodic
+
+I touched on these two terms a little bit in a recent essay. They were coined as opposite ends of a spectrum by Galen Strawson in a paper called Against Narrativity in 2004; in that paper, Strawson (an episodic) was essentially screaming at “a wide variety of disciplines including philosophy, psychology, theology, anthropology, sociology, political theory, literary studies, religious studies, psychotherapy and even medicine” that maybe it would be nice if they didn’t frame every theory and paper and paradigm as if it were completely obvious that every single human is diachronic. “It’s just not true that there is only one good way for human beings to experience their being in time. There are deeply non-Narrative people and there are good ways to live that are deeply non-Narrative.”
+
+(#EpisodicsExist)
+
+The short version: diachronics tend to see themselves as existing within a narrative, moving from beginning to middle to end and experiencing a substantial degree of continuity across time. There’s a character that is you, and you grow and change, and the you at the end of the story is the you at the beginning plus that growth and change.
+
+Episodics, in contrast, do not have this native feeling of being embedded in a continuous narrative. A highly episodic person is just … present. They are themselves, there, that day, with no particularly strong connection to their past or future selves. While an episodic person may very well have a sharp memory and be perfectly capable of recalling some embarrassing thing that they said in seventh grade, that memory won’t keep them up at night. It won’t really hit them, because in a very real sense, the person who said that embarrassing thing isn’t them. Too much change has happened in the interim; they do not identify with that distant awkward middle schooler.
+
+“If I were given a thousand years, would I like the person that I grew into? Should the liking or disliking of present-me matter to future-me?”
+
+A die-hard episodic would say something like “it shouldn’t matter in the slightest. The past and future aren’t actually real in the same way that the present is; all you have is now.”
+
+A die-hard diachronic would say something like “it’s basically all that matters. If you can’t count on your past and future selves, you don’t exist beyond this fleeting, ephemeral moment.”
+
+I am painting with a very broad brush, here, but:
+
+The virtue of episodicity is one of lightness and freedom. Episodics can change the plan, and they don’t have to make the change consistent with anything. Episodics can reinvent. Episodics can learn. Episodics are not afraid to grow, even if it means outgrowing.
+
+This is the virtue of blood.
+
+The virtue of diachronicity is in steadiness, dependability, longevity of vision and execution. Diachronics can want something on Monday and, if they wake up on Friday no longer wanting it, at least be moved by the fact that they previously wanted it. Diachronics can plan. Diachronics can build. Diachronics are able to reach places that you can only reach if you make the same choice the same way ten thousand times in a row, fickle mood be damned.
+
+This is the virtue of bone.
+
+The vice of episodicity is flightiness. Inconstancy. Unreliability. Episodics can betray their past selves, betray their commitments, shrug their shoulders and just move on, carefree, leaving wreckage in their wake. If an episodic accomplishes something on the scale of decades, it’s largely through luck, because the more episodic one is, the less power one has to meaningfully bind their future self.
+
+The vice of diachronicity is inflexibility. Unchangeability. Dug-in heels. Diachronics can refuse to change course, can be unwilling to let go, can drag their past around like an anchor. If a diachronic can’t see a way to make a new thing fit with the story, they will often reject it outright.
+
+(Again, painting with a very broad brush. Let’s not pretend that no diachronics can be spontaneous and that no episodics can be dedicated. I’m talking about stereotypes, and about the center of the bell curve of each.)
+
+But it seems clear to me that it’s not good to be a naive diachronic or a naive episodic. And it seems clear to me that you can’t really be both. You can be mildly each, like a person who has broad “chapters” in their life with a few, rare clean breaks, but that doesn’t seem to me to give you the full superpowers of either.
+
+Context vs. Perspective
+
+The you-on-Monday (who said they’d do X on Thursday) knew something that the you-on-Thursday (who doesn’t want to do X) doesn’t, or is deprioritizing, or can’t access, or something.
+
+Similarly, the you-on-Thursday knows something the you-on-Monday did not (else you probably wouldn’t’ve formed the intention to do X in the first place).
+
+In my experience, partisans of blood like to pretend that the you-on-Thursday is in possession of strictly superior knowledge—you’ve gathered more information, you literally Know More Things…how could you not be wiser than you-on-Monday?
+
+But they’re discounting the fact that not all information is equal, and that some information can inaptly fill one’s vision. It’s possible to be distracted or confused, to overweight things that are close, to lose track of the bigger picture.
+
+What you-on-Monday possessed, in the ideal, was perspective. You were looking out at the future from a high and non-pressured position, considering all of the angles, and making a plan that took into account all of the important variables.
+
+What you-on-Thursday possess, in the ideal, is context. You’re down in the trenches, with your finger on the pulse. You are present and aware and embedded.
+
+(“Why is it that I often do the wrong thing, according to my values?” Blood would say it’s because you’re still allowing the dead ghosts of your past boss you around; bone would say it’s because you’re letting your heart drag you all over the place with nothing to keep it in check.)
+
+Perspective and context do not necessarily trade off; there’s nothing that says they have to conflict. But they often do conflict, in practice. Sometimes I set out with the intention of running for twenty minutes, and five minutes in it sucks, and I just stop, and ten minutes after that I’m like ah geez I totally could have kept running.
+
+A colleague of mine solved a similar issue (disagreements between their night self and their morning self about the value of staying up an extra hour) by sort of increasing the bandwidth of communication between them—when their alarm went off suggesting bed, they paused to make an explicit prediction about how their morning self would feel if they stayed up late, and then (if they stayed up late) they checked that prediction, and pretty soon their night self was able to accurately model their morning self and they stopped having the experience of self-betrayal and regret.
+
+This is great, for situations where you have the ability to build that kind of feedback loop. It’s not so great if you’re trying to decide whether or not to marry this guy, when you have no reference experiences for what the tenth year of a marriage is like, and how it looks different based on different attributes of today.
+
+Prophets vs. Kings
+
+Sort of relatedly:
+
+Some people (prophets) predict the future by knowing the future. They can see which way the winds are blowing, and can extrapolate from that; they know the future without doing anything to the future.
+
+Other people (kings) predict the future by causing it. They can see which outcomes are most desirable, and take actions toward those ends. A sufficiently powerful king can cause a “prediction” to come true by pure edict, knowing nothing at all about the present state of affairs or what sorts of things are likely or possible.
+
+“I will use my kingship to cause this to happen” is a very different sort of claim from “this is what will occur naturally, if reality just keeps on being reality.”
+
+Most people (in my experience) lean pretty heavily toward one or the other in predicting their own futures. Some people will say “oh gosh, I have no idea how I’m going to feel on Thursday, so if you need an RSVP right now it’s gotta be no. But if I can check in with you at noon, that’d be great!”
+
+Other people will decide whether it’s a good idea to go or not, and more-or-less lock themselves in.
+
+It seems like both of these skills are really really good! It would be nice to not only possess each, but also know when and how to use each. When to wear my crown, and when to wear my…
+
+(What do prophets wear? Is it … rags?)
+
+Updateless vs. Updating
+
+I am not an expert in decision theory. I am not even a novice or an initiate in decision theory. I’m the guy changing trash bags and delivering mail while the decision theorists talk in front of the whiteboard, overhearing snippets here and there.
+
+But some decision theories tell you to update upon learning new information. You find yourself in a room with a genie who’s telling you to choose between taking [just the mystery box] or taking [both the mystery box and the box that visibly contains $10000] and certain classical decision theories hold that you’re already in the room, the boxes already have money or not, clearly you should take both boxes.
+
+(This is blood, whispering in your ear.)
+
+Other decision theories are updateless, in that (as I understand it) they recommend trying to make decisions according to principles that feel sound both before and after you encounter the information. To not have new information change your plan, in other words, so much as (maybe) changing which actions you take within a consistent plan.
+
+Updating decision theories feel seat-of-the-pants, to me, and scarily so (but then, I would say that, wouldn’t I? I’m built out of bone.)
+
+Updateless decision theories are maybe not very well-named, but the idea at the core of them—react consistently and principled-ly regardless of which branch of possibility you find yourself in—that appeals to me quite a lot.
+
+I sort of struggle to steelman the other side, in this case, but maybe there’s something like … if bullies and tyrants can use their foreknowledge of how you will react to prod you into behavior that will ultimately undermine you, then in this case consistency and predictability and reasoned-ness can be a weakness?
+
+"This folly does not become you, Lucius," said the boy. "Twelve-year-old girls do not go around committing murders. You are a Slytherin and an intelligent one. You know this is a plot. Hermione Granger was placed on this gameboard by force, by whatever hand lies behind that plot. You were surely intended to act just as you are acting now—except that Draco Malfoy was meant to be dead, and you were meant to be beyond all reason. But he is alive and you are sane. Why are you cooperating with your intended role, in a plot meant to take the life of your son?"
+
+…but I guess I will at least grant that you can’t always pragmatically have a fork in your plan that says “unless this very principle is what the Joker is trying to take advantage of, in which case I will ignore it just this once.” I think you often can, but I agree you can’t always.
+
+In lieu of mature understanding, I’ll leave a few more words from an actual decision theorist, in the hopes that it will cause at least one reader to go digging further, to their benefit:
+
+Updatelessness is, indeed, exactly that sort of thinking which prevents you from being harmed by information, because your updateless exposure to information doesn't cause you to lose coordination with your counterfactual other selves or exhibit dynamic inconsistency with your past self.
+
+From an updateless standpoint, "learning" is just the process of reacting to new information the way your past self would want you to do in that branch of possibility-space; you should never need to remain ignorant of anything. Maybe that involves not doing the thing that would then be optimal when considering only the branch of reality you turned out to be inside, but the updateless mind denies that this was ever the principle of rational choice, and so feels no need to stay ignorant in order to maintain dynamic consistency.
+
+Coherent vs. Authentic
+
+By this point, you might be feeling a bit grumpy at me, for how floundering and skipping-around this all is.
+
+I apologize, but that is rather the point. Sorry. I’m trying to pinpoint an object by shining lasers at it from multiple angles, except all I’ve actually got are candles and I’m not even completely sure there’s an object to be triangulated.
+
+Which is a surprisingly reasonable segue into the conflict between coherence and authenticity.
+
+Coherence (bone) says that you should try to be kinda sorta vaguely the same sort of entity across contexts and interactions, and that where you fail to actually be the same, you should put forth a little extra effort into at least acting the same. Sure, you can grow and evolve and shift, but you should make those shifts smooth and gradual, so there aren’t any startling swerves.
+
+Authenticity (blood) says fuck that noise, pretending to be someone you aren’t is precisely how you trick people into believing that you’re someone you aren’t, and then they’ll treat you as if you are that person, and that’ll be uncomfortable for you.
+
+Coherence points out that this is a bit of an oversimplification, what if you were totally honest at the outset and they formed completely reasonable and accurate ideas about you, only now things have shifted a little bit, maybe don’t give people whiplash if you can absorb some small costs to prevent it?
+
+Authenticity retorts fuck that, too; if you’re the kind of person who’s going to change from time to time they need to know that, too; smoothing over jaggedness that’s actually there is still deception and will still give people the wrong idea.
+
+Coherence turns to the moderator for help, feeling strawmanned; it wasn’t talking about deceiving people, just about the allocation of costs when there’s a clash between model and reality; you can do something other than make it 100% their problem—
+
+But authenticity is already quoting Emerson and it’s a mic drop.
+
+The voyage of the best ship is a zigzag line of a hundred tacks. See the line from a sufficient distance, and it straightens itself to the average tendency. Your genuine action will explain itself, and will explain your other genuine actions. Your conformity explains nothing. Act singly, and what you have already done singly will justify you now.
+
+(I feel an oddly deep resonance with this quote, and always have, given how hard it’s been for me to learn to embrace blood.)
+
+Explore vs. Exploit
+
+If you find yourself on a slope, and your goal is to get to the highest possible point, it’s not always correct to go uphill. It could be that the slope you’re on is that of a very modest mountain, and that you will just have to climb all the way back down and start all over again.
+
+Exploring is sampling many hills, looking for those that seem promising.
+
+Exploiting is climbing uphill, period.
+
+(There are other metaphors, but this is a decent one to start with.)
+
+Dating a new person is exploring; deepening a preexisting relationship is exploiting.
+
+Founding a startup is exploring; joining a Fortune 500 company is exploiting.
+
+Both blood and bone acknowledge that you need some amount of exploration, at least at the population level; if no one is out there looking for the next big thing, then society as a whole will never get the next big thing.
+
+Blood and bone disagree about exploiting, though. Bone says it’s good and noble to exploit; that in fact most of the Next Big Things only really started to fulfill their potential after multiple rounds of refinement; that you only get masters if people are willing to put in the legwork.
+
+Blood says yeah, sure, that’s all well and good, so long as the people involved are something like intrinsically motivated in it.
+
+If bone were given command of a thousand people, bone would assign most of them to exploiting.
+
+If blood were given command of a thousand people, it would probably reject the whole exercise, “command” being anathema in the first place, but if it had no choice, it would hold its nose and tell them all to do what they felt like, and it would probably encourage most of them to explore, off of a reasonable prior that very few people explore as much as they could/should/could afford to/would benefit from.
+
+(The first time I planned to move away from my home state, a colleague who could obviously smell my nervous terror took me aside and said “look, Duncan—I’ve moved to a new city five times in my life, and every time it’s ended up being a huge eye-opener and a change for the better, even given all the stress and anxiety.” Nothing helps you see the limitations of the hill you were previously climbing like hopping over to a completely different hill.)
+
+But okay, sure: most people should maybe explore more (citation needed), but how do I know when I should? How do I know when I should stop, and settle in for the long haul?
+
+(There is in fact a branch of mathematics pointed squarely at small, well-defined instances of this particular question, but even there the best they can do is give probabilistic answers.)
+
+Discovery vs. Fulfillment
+
+Closely related to the above:
+
+Bone says that you should spend some time finding out who you are, and then do it on purpose, possibly with the occasional revisit to make sure.
+
+Blood says “wym?? You’re discovering who you are at all times, up to and including today? It never stops? How could it??”
+
+Length vs. Distance
+
+(Please forgive the slapdash graphics; I have lost twelve pounds in three days due to illness brought home by the baby.)
+
+￼
+
+Bone has a plan, or at least a direction. Bone throws up guard rails whenever things start getting weird, forcing itself back on track. At the end of this journey, bone has helped this person go rather a long way in the endorsed, original direction!
+
+￼
+
+Blood does not have a plan. Blood has plans. Blood has seen a far wider swath of the territory than poor, constrained (castrated?) bone. And blood has covered a greater total distance, too, because it wasn’t fighting itself half the time. Sure, it ended up pretty near where it started, but who said we were supposed to be going somewhere? It’s about the journey, not the destination.
+
+Now You’re Approximately As Confused As I Am
+
+I had a few more potential section headings, but they all seemed too not-worth-the-wordspace, in the end. If you’re curious and want to do some Googling, the one that most closely failed to make the cut was “maker time vs. manager time.”
+
+Claims, revisited (or possibly reinvented, by this point):
+
+There really are two clusters here; two broad strategies that mostly go together and have similarly opposing answers, for similar reasons, to many questions.
+
+Both of the clusters are good, actually?? Neither is without flaw; both can be done naively. But either on its own is clearly bad.
+
+In most specific instances of “question,” you kinda gotta go with one or the other. You can’t (usually) both do and not-do X, on Thursday.
+
+It would be nice to have, like, a real policy regarding when and why to do which.
+
+(somewhat bolder) Nobody seems to actually have that policy.
+
+(even bolder) Such a policy is possible.
+
+(even bolder) Such a policy is possible without erasing the fundamental essence of blood.
+
+(less bold; more confident) We should in fact go very far out of our way to avoid erasing the fundamental essence of blood, no matter how convenient it would be to bone.
+
+(similarly confident) We should also not erase the fundamental essence of bone, no matter how happy that would make blood.
+
+(very confident on priors) The more quickly and confidently someone is, as they claim to have the obvious solution to this whole mess, the less likely they are to actually have the obvious solution to this whole mess.
+
+(reasonably confident) We should still hear them out anyway though.
+
+(confused) Probably more confusion is a step in the right direction, here? In that one of the biggest problems seems to be people’s ingrained knee-jerk preconceptions, and loosening those seems like a first step to building anything on actually firm footing.
+
+Oh no that was a bone thought, wasn’t it. God damn it.
+
+I really, genuinely hope this helps someone; the lecture version has helped people in the past but text is a wholly different medium. I’m sorry this took me so long, and I’m sorry that this is the state it’s in. There’ll be a more normal one next week.
+
+(There really will be; I consider this kind of essay to be something I can get away with now and then but not what most of you come here for. Let me know in the comments if I’m wrong?)
+
+But I also think that if this were more polished, more coherent, more sensible—if it left you feeling satisfied and fulfilled and like you’d just Definitely Learned A Specific Thing—
+
+I think that effect would have been achieved at the expense of Truth, and would have been misleading and counterproductive in its own right. The state of the art here is an embarrassing mess; the essay reflects this with only a modest amount of shame.
+
+Please send help.
+

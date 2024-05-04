@@ -1,0 +1,59 @@
+Etymology of Haplopraxis
+
+You're welcome! I'm glad I could help. If you have any other questions, whether about your game or any other topic, feel free to ask. Good luck with the development of Haplopraxis! It sounds like a unique and engaging game.
+
+User
+Just a list of everything you know about it so far.
+
+ChatGPT
+Certainly, here's a summary of what I've understood about your game, Haplopraxis, based on our conversation:
+
+Haplopraxis is a game that combines elements from various games and inspirations including Stars!, Descent, Minesweeper, Bubble Pop, the "flying through space" screensaver, Commander Keen, MS Typing Tutor, Age of Empires, Waterworks Leaky Pipe game, and the concept of logical gate circuits.
+
+The game features an element of space exploration, where players visit planets and pop bubbles associated with vocabulary words.
+
+It includes a typing tutor aspect, thus serving as an educational game to help players improve their typing skills.
+
+Haplopraxis aims to simulate the evolution of the universe using Ising synchs.
+
+The game employs a Vygtoskian ladder of proximal graduations, adjusting its gameplay based on the skill level of the player. For infants, it simplifies into a bubble pop game; for elementary schoolers, it becomes a typing tutor; if no viewer is detected, it defaults to a screen saver tutorial.
+
+The game features a guidebot, which automatically plays through the tutorial, demonstrating possible gameplay and controls, and revealing Easter eggs.
+
+There is a global reset function, triggered by pressing the 'g' key, which returns all players to the start of the game, making them lose all progress. However, a setting called autoblink can protect players from a global reset, allowing them to keep their points.
+
+The game incorporates a strategy of finding the most nested bubble (innermost scope), and players are encouraged to blink when passing through the boundary of a bubble to avoid popping it.
+
+These are the key aspects of Haplopraxis that I've gathered from our conversation. If there's anything incorrect or missing, or if you'd like to elaborate more on any of these points, please let me know!
+
+User
+That is great I wonder if you can give an etymology, the word derives from the Greek for "simple practice"
+
+ChatGPT
+The term "Haplopraxis" indeed appears to derive from Greek roots. Let's break it down:
+
+"Haplo-" is a prefix originating from the Greek word "haplous," which means "simple" or "single." This prefix is often used in biological terms to refer to a single unit or a single form.
+
+"Praxis" comes from the Greek "prassein" or "prattein" which means "to do, act, perform, practice."
+
+So, when combined, "Haplopraxis" can be roughly translated as "simple practice" or "single action" from Greek. In the context of your game, this could relate to the idea of performing simple actions or practices (such as typing or bubble popping) that build up to a more complex gameplay experience.
+
+User
+Ok I am not even going to go into some of the input methods they are like 3d swype traces, there is a way to input text using just the mouse, the arrow keys, or the hjkl keys, inspired by the idea of an invisible plastic onscreen keyboard.
+
+ChatGPT
+It sounds like Haplopraxis will feature a variety of innovative input methods, allowing for different types of player interaction and engagement.
+
+The idea of an "invisible plastic onscreen keyboard" brings to mind a flexible, intuitive interface that adapts to the player's inputs. These different methods can enhance accessibility and offer unique ways for players to engage with the game.
+
+3D Swype Traces: This suggests a system where users can "draw" or trace paths in a 3D space to input commands or interact with game elements. This could make for a very immersive and tactile form of input.
+
+Mouse-based Text Input: This might involve a system where players can input text by clicking on a virtual keyboard or by drawing gestures with the mouse.
+
+Arrow Keys or HJKL Keys: The arrow keys are widely used for navigation in games. Using HJKL keys for navigation is a practice common among users of the Vim text editor, a tool known for its efficiency and keyboard-focused interaction.
+
+Integrating such methods can cater to players who prefer keyboard-based inputs and could also serve as a nod to Vim users.
+
+These innovative input methods can add a lot of depth and uniqueness to your game. It will be interesting to see how these methods evolve during development and how players respond to them!
+
+https://github.com/standardgalactic/negentropy/blob/main/Intelligence%20As%20Care

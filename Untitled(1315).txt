@@ -1,0 +1,22 @@
+III. SECOND LAW OF INFODYNAMICS AND GENETIC INFORMATION
+
+A very interesting information storage system is a DNA/RNA sequence encoding biological information. This can be represented as a long string of the letters A, C, G, and T, where the characters represent adenine (A), cytosine (C), guanine (G), and thymine (T) [replaced with uracil (U) in RNA sequences]. Therefore, within Shannon’s information theory framework, a typical genome sequence can be represented as a probabilistic system of four distinctive states, n = 4, X={A,C,G,T}�=�,�,�,� and probabilities p={pA,pC,pG,pT}�=��,��,��,��⁠. Using digital information units and Eq. (1), we determine that the maximum Shannon information entropy is H(X) = 2, and each nucleotide can encode a maximum of 2 bits: A = 00, C = 01, G = 10, T = 11. For a given genomic sequence containing N nucleotides, the total number of possible microstates is
+
+Ω=4N⋅H(X).Ω=4�⋅�(�).
+
+(7)
+
+The entropy of the information bearing states of a genomic sequence is
+
+SInfo=N⋅kb⋅ln4⋅∑4j=1pj⋅log21pj.�Info=�⋅��⋅ln4⋅∑�=14��⋅log21��.
+
+(8)
+
+The time evolution of the entropy of genetic DNA/RNA information systems is given by the time evolution of the changes in their nucleotide sequence, called genetic mutations. Genetic mutations can take place via three mechanisms: (i) Single nucleotide polymorphisms (SNPs), where changes occur so that the number of nucleotides N remains constant; (ii) deletions, where N decreases; and (iii) insertions, where N is increasing
+
+
+
+Similar to the case of digital information, a reduction of N would most likely result in a reduction of the overall entropy of the information bearing states, so “deletion” mutations would automatically fulfill the second law of infodynamics. In our previous study, we examined real data from RNA sequences that underwent only SNP mutations, which maintained the value of the N constant, and the reduction in the information entropy came only from Shannon’s information entropy function.1,2 Our test RNA sequences were variants of the novel SARS-CoV-2 virus, which emerged in December 2019 resulting in the COVID-19 pandemic. The reference RNA sequence of the SARS-CoV-2, collected in Wuhan, China in December 2019 (MN908947),6 has 29 903 nucleotides, so N = 29 903. All analyzed variants had 29 903 nucleotides and have been collected and sequenced at a later time, after undergoing an incremental number of SNP mutations. Shannon information entropies of the reference sequence and of the variants were computed using relation (1) and previously developed software, GENIES.7,8
+
+Remarkably, the results indicate a unique correlation between the information and the dynamics of the genetic mutations by showing that the Shannon information entropy, H(X), and the overall information entropy of the SARS-CoV-2 variants (SInfo) computed using Eq. (8) decrease linearly with the number of mutations and over time, i.e., because number of mutations increase over time (see Fig. 2). The corresponding code names of the genome variants extracted from the NCBI database9–14 and analyzed in this work are shown next to each data point in Fig. 2. This result not only confirms the universal validity of the second law of infodynamics but also points to a possible governing mechanism of genetic mutations,2 currently believed to be just random events. The observation of the information entropic force that governs genetic mutations is very powerful because it challenges the Darwinian view that genetic mutations are complete random events and could be used to develop predictive algorithms for genetic mutations before they occur.2 We should acknowledge that, while all analyzed SARS-Cov-2 variants showed a decrease in their information entropy as they underwent genetic mutations, the data points presented in Fig. 2 have been carefully selected to emphasize the linear trend.
+

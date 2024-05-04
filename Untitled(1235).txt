@@ -1,0 +1,59 @@
+virtual storage Descriptive of the capabil-
+ity to use online secondary storage devices
+and specialized software to divide programs
+into smaller segments for transmission to and
+from internal storage in order to significantly
+increase the effective size of the available
+internal storage
+visual display terminal A device capable
+of displaying keyed input and CPU output on
+a cathode ray tube
+
+VLSI (Very Large Scale Integration) The
+packing of hundreds of thousands of elec-
+tronic components on a single semiconductor
+chip
+voice-grade channels Medium-speed data
+transmission channels that use telephone
+communications facilities.
+volatile storage A storage medium that
+loses its contents in the event of a power in-
+terruption.
+von Neumann bottleneck A reference to
+the fact that processing speed in a von Neu-
+mann machine is limited by the speed of (1)
+the circuits in the single channel used to
+carry instructions from primary storage to
+the control section, and (2) the circuits in the
+single data path between primary storage and
+the arithmetic-logic section.
+von Neumann machine A computer sys-
+tem whose CPU has a single control, pri-
+mary storage, and arithmetic-logic section.
+Such a machine follows the design approach
+developed by John von Neumann and others
+in the mid-1940s.
+VLSI (Very Large Scale Integration) The
+packing of hundreds of thousands of elec-
+tronic components on a single semiconductor
+chip
+voice-grade channels Medium-speed data
+transmission channels that use telephone
+communications facilities.
+volatile storage A storage medium that
+loses its contents in the event of a power in-
+terruption.
+von Neumann bottleneck A reference to
+the fact that processing speed in a von Neu-
+mann machine is limited by the speed of (1)
+the circuits in the single channel used to
+carry instructions from primary storage to
+the control section, and (2) the circuits in the
+single data path between primary storage and
+the arithmetic-logic section.
+von Neumann machine A computer sys-
+tem whose CPU has a single control, pri-
+mary storage, and arithmetic-logic section.
+Such a machine follows the design approach
+developed by John von Neumann and others
+in the mid-1940s.

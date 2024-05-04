@@ -1,0 +1,177 @@
+
+Book
+
+© 2000
+
+Prerational Intelligence: Adaptive Behavior and Intelligent Systems Without Symbols and Logic , Volume 1, Volume 2 Prerational Intelligence: Interdisciplinary Perspectives on the Behavior of Natural and Artificial Systems, Volume 3
+
+Home  
+
+Book
+
+Editors:
+
+ 
+
+Holk Cruse, 
+
+Jeffrey Dean, 
+
+Helge Ritter
+
+Part of the book series: Studies in Cognitive Systems (COGS, volume 26)
+
+
+
+Table of contents (85 chapters)
+
+Search within book
+
+Search
+
+  Previouspage
+
+Page  Navigate to page number  of 5
+
+Next page 
+
+Front Matter
+
+Pages i-xli
+
+PDF
+
+Introduction to Volume 1
+
+Front Matter
+
+Pages 1-1
+
+PDF
+
+Introduction to Volume 1
+
+Holk Cruse, Helge Ritter, Jeffrey Dean
+
+Pages 3-4
+
+Intelligence and Prerational Intelligence
+
+Front Matter
+
+Pages 5-5
+
+PDF
+
+Introduction to Part II
+
+Peter Lanz
+
+Pages 7-18
+
+The Concept of Intelligence in Psychology and Philosophy
+
+Peter Lanz
+
+Pages 19-30
+
+Rational Behaviour of Animals and Machines
+
+David McFarland
+
+Pages 31-42
+
+The Concept of Intelligence in AI
+
+Ipke Wachsmuth
+
+Pages 43-55
+
+A Case Study
+
+Front Matter
+
+Pages 57-57
+
+PDF
+
+The Jamming Avoidance Response (JAR) of the Electric Fish, Eigenmannia: The Processing of Sensory Information and Motor Control
+
+Walter Heiligenberg
+
+Pages 59-83
+
+Intelligent Sensing
+
+Front Matter
+
+Pages 85-85
+
+PDF
+
+Introduction to Part IV
+
+Hans-Ulrich Bauer, Georg Hartmann, Klaus Obermayer
+
+Pages 87-90
+
+Peripheral Sensory Modules Controlling Motor Behavior
+
+François Clarac, Daniel Cattaert, Alain Marchand
+
+Pages 91-107
+
+Antennal Movements in the Honeybee: How Complex Tasks are Solved by a Simple Neuronal System
+
+Joachim Erber, Babette Pribbenow
+
+Pages 109-121
+
+Invariances in Visual Systems of Robots and Animals: Functional and Architectural Consequences
+
+Georg Hartmann
+
+Pages 123-150
+
+Retinal Coding for Vernier Acuity and Motion
+
+Christian Wehrhahn
+
+Pages 151-162
+
+Is There Parallel Binding of Distributed Objects?
+
+Hans-Ulrich Bauer, Jochen Braun
+
+Pages 163-174
+
+Synthesizing Complex Perceptions: I. Concepts of Visual Feature Associations Based on Neural Synchronization and Related Experimental Results in the Visual Cortex
+
+Reinhard Eckhorn, Michael Stöcker
+
+Pages 175-190
+
+Synthesizing Complex Perceptions: II. Models of Visual Feature Associations Based on Neural Synchronization
+
+Michael Stöcker, Reinhard Eckhorn
+
+Pages 191-204
+
+A Neurally-Inspired Approach to 3-D Visual Object Recognition
+
+Bartlett W. Mel
+
+Pages 205-213
+
+  Previouspage
+
+Page  Navigate to page number  of 5
+
+Next page 
+
+Back to top
+
+About this book
+
+The present book is the product of conferences held in Bielefeld at the Center for interdisciplinary Sturlies (ZiF) in connection with a year-long ZiF Research Group with the theme "Prerational intelligence". The premise ex­ plored by the research group is that traditional notions of intelligent behav­ ior, which form the basis for much work in artificial intelligence and cog­ nitive science, presuppose many basic capabilities which are not trivial, as more recent work in robotics and neuroscience has shown, and that these capabilities may be best understood as ernerging from interaction and coop­ eration in systems of simple agents, elements that accept inputs from and act upon their surroundings. The main focus is on the way animals and artificial systems process in­ formation about their surroundings in order to move and act adaptively. The analysis of the collective properties of systems of interacting agents, how­ ever, is a problern that occurs repeatedly in many disciplines. Therefore, contributions from a wide variety of areas have been included in order to obtain a broad overview of phenomena that demoostrate complexity arising from simple interactions or can be described as adaptive behavior arising from the collective action of groups of agents. To this end we have invited contributions on topics ranging from the development of complex structures and functions in systems ranging from cellular automata, genetic codes, and neural connectivity to social behavior and evolution. Additional contribu­ tions discuss traditional concepts of intelligence and adaptive behavior. 1.
+

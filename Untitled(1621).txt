@@ -1,0 +1,14 @@
+A ring in the context of abstract algebra is a set equipped with two binary operations, usually called addition and multiplication. A ring algebra is a type of algebraic structure that generalizes the properties of integers and extends the algebraic operations of addition, subtraction, and multiplication.
+
+The basic properties of a ring algebra are as follows:
+
+1. Closure: If a and b are elements of the ring, then a + b and a * b are also elements of the ring.
+2. Associativity: For all a, b, and c in the ring, (a + b) + c = a + (b + c) and (a \* b) \* c = a \* (b \* c).
+3. Commutativity: For all a and b in the ring, a + b = b + a and a \* b = b \* a.
+4. Distributivity: For all a, b, and c in the ring, a \* (b + c) = a \* b + a \* c and (a + b) \* c = a \* c + b \* c.
+5. Identity elements: There exist elements 0 and 1 in the ring, such that for all a in the ring, a + 0 = a and a \* 1 = a.
+6. Inverse elements: For each a in the ring, there exists an element -a such that a + (-a) = 0.
+
+Note that not all rings have to have a multiplicative inverse for every element, and if a ring does have a multiplicative inverse for every non-zero element, it is called a division ring or a skew field. If a division ring has a commutative multiplication, it is called a field.
+
+Ring algebras have many applications in various areas of mathematics and computer science, such as algebraic geometry, number theory, coding theory, and cryptography.

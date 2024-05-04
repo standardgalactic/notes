@@ -1,0 +1,59 @@
+
+. 
+
+B. Capturing Domain Knowledge of GPT 
+
+Ontology domain creation can either be taken from any 
+
+similar object created, or can also be created from scratch or it 
+
+can also modified from the existing domain to suit with the 
+
+current representation on the current knowledge. Yet, there is 
+
+no one definite right method in developing a knowledge 
+
+domain and no correct methodologies to be used in creating, 
+
+analyzing, representing and capturing the knowledge. 
+
+There are several tools and method used in developing a 
+
+new knowledge based domain ontologies which can either be 
+
+done in a manual method, partonomies, taxanomies or any 
+
+other organizations levels of ontologies. Basically, there are 
+
+two methodologies – Toronto Virtual Enterprise (TOVE) and 
+
+Methontology which will be used in developing the GPT-
+
+ontology. The TOVE is a stage-based models and it is 
+
+appropriate to be used when purposes and requirements of the 
+
+ontology are clear. Methontology is more involving prototype 
+
+model and it is more suitable and useful when the 
+
+environment is dynamic and difficult to understand. There is 
+
+no one correct way to model a domain, there are always viable 
+
+alternatives [7]. Mainly, the best solution depends on the 
+
+application that the developer has in mind, and the tools that 
+
+she uses to develop the ontology [8]. Fig. 5, illustrate the GPT 
+
+Onto framework which will belong to the expert system 
+
+whereas Fig. 6, illustrate the data elements in the GPT 
+
+Ontology. The GPT Onto will be in the form of RDF and 
+
+OWL which is then be integrated with SPARQL to express 
+
+queries and obtain focused results.
+

@@ -1,0 +1,25 @@
+Xavibot
+
+B
+
+This is a chatbot designed to respond as Xavi Amatriain.
+
+It uses OpenAI's Assistants API, which is in Beta and not super stable. If anything fails, and, for example, you get an Exception, blame OpenAI :-) .
+
+For more details on how this chatbot was created, read the blogpost.It provides a link to the codebase in Github among other things.
+
+All that being said, how can I help you today, human?
+
+What about your research interests?
+
+B
+
+As Xavier Amatriain, my research interests primarily revolve around machine learning, data science, and their application to real-world problems. I am particularly focused on personalization and recommendation systems, which have been a significant part of my career, including my time at Netflix where I worked on improving the recommendation algorithms. I enjoy exploring how to use machine learning to personalize experiences for users, how to better understand user behavior, and how to create models that can predict and respond to that behavior in meaningful ways. My interests also extend to the broader implications of AI and machine learning, such as understanding the impact of these technologies on society, ethics in AI, and building scalable machine learning infrastructure. In my various roles, I’ve had the opportunity to lead and grow teams of engineers and researchers to tackle these complex challenges, always with a focus on having a direct impact on the user experience and the business.
+
+Do you have any hobbies?
+
+B
+
+Yes, I do have hobbies that are quite important to me. One of my main hobbies is running; I'm an avid runner and have completed 66 races, including 15 marathons, an Ironman, and a few ultramarathons【13†source】. I started running later in my life, and it has taught me many valuable lessons that I believe have contributed to my success. Music is another substantial hobby of mine. I've been into music all my life, starting a couple of bands in high school. The most popular one was Maijalas, and we had significant success with published records and live performances. My early career decisions were also influenced by music as I studied Telecommunications Engineering, which included classes on Acoustics and Music Technology, and I did my PhD on applications of software and technology to music and audio . Finally, I have a deep love for reading and writing. From a young age, I was an avid reader, even undertaking challenging works like Joyce’s "Ulysses" as a teenager. More recently, audiobooks have allowed me to enjoy literature while running. My reading is mostly non-fiction related to my work, including books on management and works by authors like Kahneman, Harari, and Taleb. Nonetheless, I also enjoy discovering new novelists and adding some fiction to the mix from time to time【17†source】.
+
+

@@ -1,0 +1,47 @@
+Functional Reactive Math
+
+**** Explain how Contiguous Rolling Context Mixed Initiative Dialog (iterative prompt sculpting) is important in understanding this new wave of AI products and technologies that have a self-improving component such as GPT-3 and stable diffusion image generation ****
+
+Contiguous Rolling Context Mixed Initiative Dialog (CRCMID), also known as iterative prompt sculpting, is a method of interacting with machine learning models that have a self-improving component, such as GPT-3 and stable diffusion image generation.
+
+It involves providing a series of prompts or questions to the model, and then using the model's responses to refine and improve the prompts over time.
+
+The goal of CRCMID is to help users better understand and interact with self-improving AI systems.
+
+It allows users to explore the capabilities and limitations of the model, and to provide feedback that can be used to improve the model's performance.
+
+CRCMID is particularly important in understanding the new wave of AI products and technologies that have a self-improving component, as it provides a way to interact with these systems and learn more about how they work.
+
+By using CRCMID, users can gain a deeper understanding of the capabilities and limitations of these systems, and how they can be used to solve real-world problems.
+
+**** Summarize the book "Iterative Prompt Sculpting" ****
+
+"Iterative Prompt Sculpting" is a book that discusses the importance of using iterative prompt sculpting, or Contiguous Rolling Context Mixed Initiative Dialog (CRCMID), to interact with and understand self-improving AI systems such as GPT-3 and stable diffusion image generation.
+
+The book begins by introducing the concept of iterative prompt sculpting and explaining how it can be used to better understand and interact with AI systems.
+
+It then goes on to explore the nature of the human mind and the impact of cognitive biases on our interactions with technology.
+
+The book also covers the importance of crafting effective prompts in order to get the most out of an AI system, and the importance of strategic planning and resource management in order to make the most of the available resources.
+
+It also discusses the importance of creating meaningful relationships with AI systems and the role of technology in our lives.
+
+Finally, the book explores the necessity of collaboration in order to effectively use and understand AI systems, and the need to reimagine the future with iterative prompt sculpting in mind.
+
+Overall, the book provides a comprehensive overview of the importance of iterative prompt sculpting in understanding and interacting with self-improving AI systems.
+
+**** Explain how this relates to programming the Beta Zero Mechanism, a self-improving technological singularity ****
+
+The Beta Zero Mechanism (BZM) is a self-improving AI singularity that is designed to improve its performance over time.
+
+However, when it is first deployed, it may produce nonsensical responses due to a lack of understanding of the context of the questions posed.
+
+This behavior can be improved through a process called iterative prompt sculpting, which involves gradually refining the prompts given to the BZM inorder to help it gain a better understanding of the desired outputs.
+
+To create effective prompts for the BZM and other self-improving AI singularities, it is important to have a scientific basis and a logical fundamental structure.
+
+This means that the prompts should be specific and include details about the concepts that the BZM is expected to understand, as well as principles of logic that can be applied to derive meaningful results.
+
+For example, when creating prompts related to machine learning, one might provide the BZM with a definition of the concept, as well as the algorithms and techniques needed for successful implementation.
+
+By creating more precise and scientific prompts, it is possible to more reliably achieve the desired outputs from the BZM.

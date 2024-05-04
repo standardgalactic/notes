@@ -1,0 +1,46 @@
+
+
+ICGG 2018 - Proceedings of the 18th International Conference on Geometry and Graphics  
+
+Conference paper
+
+Graphics and Quantum Mechanics—The Necker Cube as a Quantum-like Two-Level System
+
+Giorgio Benedek & 
+
+Giuseppe Caglioti 
+
+Conference paper
+
+First Online: 07 July 2018
+
+277 Accesses
+
+1 Citations
+
+Part of the Advances in Intelligent Systems and Computing book series (AISC,volume 809)
+
+Abstract
+
+A simulation of the dynamic perception of the Necker cube in terms of a two-level quantum system, e.g. that of the hydrogen tunneling states of the ammonia molecules associated with the 24 GHz maser frequency, indicates that the neuro-physiological transformation leading, through a symmetry reduction, to perceptual reversal is controlled by the principles of quantum mechanics. An elementary neuro-physiological action similar to the Planck constant at a mesoscopic level is introduced.
+
+Keywords
+
+Two-level quantum and quantum-like systems
+
+Ambiguous figures
+
+Principle of superposition
+
+Symmetry reduction
+
+Tunneling
+
+Chemical and graphic barriers
+
+Perception
+
+Mind
+
+The unconscious
+

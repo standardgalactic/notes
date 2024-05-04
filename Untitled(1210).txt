@@ -1,0 +1,19 @@
+Linux
+
+Rocky Linux
+Rancher
+Istio
+Gitops
+Devsecops
+Terraform, terragrunt
+Gnu parallel
+
+
+Molecular
+
+YASARA,
+Visual molecular dynamics (vmd)
+Mymol
+Chimera
+PDB file
+RCSB

@@ -1,0 +1,41 @@
+𝘛𝘩𝘦𝘰𝘳𝘦𝘮𝘢 𝘌𝘨𝘳𝘦𝘨𝘪𝘶𝘮 𝘥𝘦 𝘊𝘰𝘮𝘱𝘳𝘦𝘴𝘴𝘪𝘰𝘯𝘦 𝘐𝘯𝘵𝘦𝘭𝘭𝘦𝘨𝘦𝘯𝘵𝘪𝘢𝘦 𝘦𝘵 𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘢𝘵𝘪𝘴 𝘪𝘯 𝘙𝘦𝘱𝘳𝘦𝘴𝘦𝘯𝘵𝘢𝘵𝘪𝘰𝘯𝘦 𝘔𝘢𝘵𝘩𝘦𝘮𝘢𝘵𝘪𝘤𝘢 𝘕𝘰𝘯𝘯𝘦𝘨𝘢𝘵𝘪𝘷𝘢𝘦 𝘎𝘳𝘢𝘴𝘴𝘮𝘢𝘯𝘯𝘪𝘢𝘯𝘢𝘦
+
+Quod si natura rerum quaerere vis, numeros atque mensuras esse debet, ut aiunt, in investigatione.
+
+Nam quae adhibentur principia, haec sunt quae infinita numero percommodantur, comprimuntur, atque explicantur.
+
+Eandem rem facit mathesi in his quae attinent ad nonnullas lineas, superficies, et solidorum proprietates.
+
+Quae etiam est facultas quae tradit modum quemadmodum rerum formae comprimuntur, atque facit ut certae relationes detegantur inter res earumque partes.
+
+Egregium Theorema est quoddam praecipuum in hac arte.
+
+Est enim mathematica principii definitio quod describit de nonnullis amplitudinum gradibus, ad quos omnes describendae magnitudines referuntur.
+
+Hoc enim principium est quod comprimit omnia quae sunt amplitudines ad eosdem gradus, atque in hac compressione multa nova symmetriae fiunt manifesta. 
+
+Hae symmetriae cum volume-formis sub-varietatibus nonnegativae Grassmannianae coniunctae sunt, atque hoc egregium est, quod novam symmetriarum lucem super his rebus affert.
+
+In hac scriptura, ego explicabo Theorema Egregium, et ostendam quomodo hoc ad intelligence et creativitatem pertinet.
+
+* * *
+
+𝘛𝘩𝘦 𝘎𝘳𝘦𝘢𝘵 𝘛𝘩𝘦𝘰𝘳𝘦𝘮 𝘰𝘯 𝘵𝘩𝘦 𝘊𝘰𝘮𝘱𝘳𝘦𝘴𝘴𝘪𝘰𝘯 𝘰𝘧 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 𝘢𝘯𝘥 𝘊𝘳𝘦𝘢𝘵𝘪𝘷𝘪𝘵𝘺 𝘪𝘯 𝘢 𝘕𝘰𝘯-𝘕𝘦𝘨𝘢𝘵𝘪𝘷𝘦 𝘎𝘳𝘢𝘴𝘴𝘮𝘢𝘯𝘯𝘪𝘢𝘯 𝘔𝘢𝘵𝘩𝘦𝘮𝘢𝘵𝘪𝘤𝘢𝘭 𝘙𝘦𝘱𝘳𝘦𝘴𝘦𝘯𝘵𝘢𝘵𝘪𝘰𝘯
+
+If you want to uncover the essence of things, mathematics, with its numbers and measurements, must play a role in the investigation, as they say.
+
+For the principles used in the investigation are those that are borrowed, compressed, and clarified to an infinite extent.
+
+Mathematics performs the same function with regards to certain lines, surfaces, and properties of solids.
+
+It is also the field of study that conveys how the shapes of things are compressed, and reveals certain relationships between things and their components.
+
+The Great Theorem is a key concept in this subject.
+
+It is a mathematical definition of a principle that outlines certain levels of magnitude, to which all other magnitudes are referred.
+
+This principle compresses all magnitudes to the same levels and in this compression, many new symmetries become evident.
+
+These symmetries are linked to submanifolds of non-negative Grassmannian volume-forms and this is significant as it sheds new light on these symmetries.
+
+In this text, I will explain the Great Theorem and demonstrate its connection to intelligence and creativity.

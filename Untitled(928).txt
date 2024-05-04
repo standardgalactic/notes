@@ -1,0 +1,18 @@
+Main Proximity and Epidata: Attributes and Meaning Modification
+
+￼
+
+Proximity and Epidata: Attributes and Meaning Modification
+
+Laurie J. Bonnici, Brian C. O'Connor
+
+5.0 / 4.0
+
+ 
+
+0 comments
+
+ 
+
+This book provides a new model to explore discoverability and enhance the meaning of information. The authors have coined the term epidata, which includes items and circumstances that impact the expression of the data in a document, but are not part of the ordinary process of retrieval systems.  Epidata affords pathways and points to details that cast light on proximities that might otherwise go unknown.  In addition, epidata are clues to mis-and dis-information discernment.  There are many ways to find needed information; however, finding the most useable information is not an easy task.  The book explores the uses of proximity and the concept of epidata that increases the probability of  finding functional information.  The authors sketch a constellation of proximities, present examples of attempts to accomplish proximity, and provoke a discussion of the role of proximity in the field. In addition, the authors suggest that proximity is a thread between retrieval constructs based on known topics, predictable relations, and types of information seeking that lie outside constructs such as browsing, stumbling, encountering, detective work, art making, and translation
+

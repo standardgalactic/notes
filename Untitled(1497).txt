@@ -1,0 +1,8 @@
+Here are a few:
+
+https://github.com/standardgalactic/abraxas/blob/main/economy-of-algorithms.pdf
+
+https://github.com/standardgalactic/abraxas/blob/main/automation-myth.pdf
+
+Here is my font:
+https://github.com/standardgalactic/alphabet/blob/core/Sga-Regular.ttf

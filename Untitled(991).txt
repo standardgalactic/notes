@@ -1,0 +1,627 @@
+￼
+
+A peer-reviewed electronic journal published by the Institute for Ethics and
+Emerging Technologies
+
+ISSN 1541-0099
+
+21(2) – October 2010
+
+ 
+
+Beyond Humanism: Reflections on Trans- and Posthumanism
+
+ 
+
+Stefan Lorenz Sorgner
+
+Department of Philosophy
+
+University of Erfurt, Germany
+
+sorgner@web.de
+
+ 
+
+ 
+
+Journal of Evolution and Technology  -  Vol. 21  Issue 2 – October 2010 - pgs 1-19
+
+http://jetpress.org/sorgner.htm
+
+ 
+
+ 
+
+ 
+
+Abstract
+
+ 
+
+I am focusing here on the main counterarguments that were raised against a thesis I put forward in my article “Nietzsche, the Overhuman, and Transhumanism” (2009), namely that significant similarities can be found on a fundamental level between the concept of the posthuman, as put forward by some transhumanists, and Nietzsche’s concept of the overhuman. The articles with the counterarguments were published in the recent “Nietzsche and European Posthumanisms” issue of The Journal of Evolution and Technology (January-July 2010). As several commentators referred to identical issues, I decided that it would be appropriate not to respond to each of the articles individually, but to focus on the central arguments and to deal with the counterarguments mentioned in the various replies. I am concerned with each topic in a separate section. The sections are entitled as follows: 1. Technology and evolution; 2. Overcoming nihilism; 3. Politics and liberalism; 4. Utilitarianism or virtue ethics?; 5. The good Life; 6. Creativity and the will to power; 7. Immortality and longevity; 8. Logocentrism; 9. The Third Reich. When dealing with the various topics, I am not merely responding to counterarguments; I also raise questions concerning transhumanism and put forward my own views concerning some of the questions I am dealing with.
+
+ 
+
+ 
+
+I am very grateful for the provocative replies to my article “Nietzsche, the Overhuman, and Transhumanism” (2009), published in the recent “Nietzsche and European Posthumanisms” issue of The Journal of Evolution and Technologyy (January-July 2010). In the following nine sections, I will address the most relevant arguments that have been put forward against some of the points I was raising. As several commentators referred to identical issues, I decided that it would be appropriate not to respond to each of the articles individually, but to focus on the central arguments and to deal with the counterarguments mentioned in the various replies. I will be concerned with each topic in a separate section. The sections will be entitled as follows: 1. Technology and evolution; 2. Overcoming nihilism; 3. Politics and liberalism; 4. Utilitarianism or virtue ethics?; 5. The good life; 6. Creativity and the will to power; 7. Immortality and longevity; 8. Logocentrism; 9. The Third Reich.
+
+ 
+
+1. Technology and evolution
+
+ 
+
+One of the central issues that many commentators discussed was the appropriate understanding of who is the overhuman and how can he come about. In the final paragraphs of his article, Hauskeller attacks the idea that Nietzsche’s overhuman is to be understood in an evolutionary sense (2010, 7). However, I can confidently claim that he is wrong in this respect. Let me list the most important reasons for this. First, Nietzsche saw human beings as the link between animals and overhumans (KSA, Za, 4, 16). How is this to be understood, if not in the evolutionary sense? Second, Nietzsche valued Darwin immensely. Nietzsche readers frequently point out that Nietzsche was very critical of Darwin, and falsely conclude from this that he did not hold a theory of evolution. But the inference is false, as is their understanding of Nietzsche’s evaluation of Darwin. It is true that Nietzsche’s remarks concerning Darwin were critical. However, he criticized him for a specific reason: not for putting forward a theory of evolution, but for putting forward a theory of evolution based on the assumption that the fundamental goal of human beings is their struggle for survival (KSA, GD, 6, 120). According to Nietzsche, the world is will to power, and hence the fundamental goal of human beings is power, too (KSA, GD, 6, 120). Why, one might wonder, if Nietzsche was so close to Darwin, did he have to be so critical of him? Nietzsche stresses explicitly that he distances himself most vehemently from those to whom he feels closest. In order to give a clear shape to his philosophy, he deals most carefully and intensely with those who are closest to his way of thinking, which is the reason why he permanently argues against Socrates (KSA, NF, 8, 97). The same applies to all those thinkers, such as Darwin, with whom he shares many basic insights. Hence, Nietzsche is not arguing with Darwin over the plausibility of the theory of evolution but concerning the appropriate understanding of the theory and the fundamental theory of action that underlies it. Third, a simple way of showing that Nietzsche did hold a theory of evolution is by referring not only to the writings he published himself, but also to those of his writings that were published by others later on. Here one finds several clear attempts at developing a theory of evolution (KSA, NF, 13, 316-317).
+
+ 
+
+Fourth, many of the commentators are correct in stressing that Nietzsche regarded education as the primary means for realizing the overhuman and the evolutionary changes that would enable the overhuman to come into existence. However, Nietzsche also talks about breeding in some passages of his notebooks. In my recent monograph on the concept of human dignity (2010, 226-232), I described in detail how the evolutionary process towards the overhuman is supposed to occur from Nietzsche’s perspective. In short, Nietzsche regards it as possible to achieve by means of education. Thereby, the more active human beings become stronger and turn into higher human beings, such that the gap between active and passive human beings widens itself. Eventually, it can occur that the group of the active and that of the passive human beings stand for two types of human beings which represent the outer limits of what the human type can be or what can be understood as belonging to the human species. If such a state is reached, then an evolutionary step towards a new species can occur and the overhuman can come into existence. Many transhumanists, by contrast, focus on various means of enhancement, in particular genetic enhancement, for such an event to occur. In both cases, the goal is to move from natural selection towards a type of human selection, even though the expression “human selection” sounds strange – particularly, perhaps, for many contemporary Germans. Yet, I do not think that human selection must be a morally dubious procedure. If the selection is a liberal one, i.e. a type of selection undertaken within a liberal and democratic society, many problematic aspects vanish.
+
+ 
+
+Even though transhumanist thinkers and Nietzsche appear to differ over the primary means of bringing about an evolutionary change, I think the appearance is deceptive. Classical education and genetic enhancement strike me as structurally analogous procedures, and in the following section I will offer some reasons for holding this position.
+
+ 
+
+1.1 Technology
+
+ 
+
+Quite a few commentators have pointed out that that Nietzsche regarded education as the main means of bringing about the overhuman, whereas transhumanists focus on technological means of altering human beings to realize the posthuman. Blackford explicitly stresses this in the editorial of the “Nietzsche and European Posthumanisms” issue: “It is unclear what Nietzsche would make of such a technologically-mediated form of evolution in human psychology, capacities, and (perhaps) morphology” (2010, ii). Certainly, this is a correct estimation. Max More is also right when he stresses the following: “From both the individual and the species perspective, the concept of self-overcoming resonates strongly with extropic transhumanist ideals and goals. Although Nietzsche had little to say about technology as a means of self-overcoming neither did he rule it out” (2010, 2). Stambler, on the other hand, goes much further and declares confidently: “in addition [...] his denial of scientific knowledge and disregard of technology [...] are elements that make it difficult to accept him as an ideological forerunner of transhumanism” (2010, 19). Stambler supports his doubts about Nietzsche’s ancestry of transhumanism by stressing the point in a further passage: “Nietzsche too placed a much greater stock in literary theory than in science and technology” (2010, 22).
+
+ 
+
+I can understand Blackford and More who doubt whether Nietzsche would have been affirmative of technological means of enhancing human beings. However, Stambler’s remarks concerning Nietzsche are rather dubious given the current state of the art in Nietzsche scholarship. Stambler writes that Nietzsche denies scientific knowledge. However, it needs to be stressed that Nietzsche rejected the possibility of gaining knowledge of the world, as that is understood within a correspondence theory of truth, by any method, whether the sciences, the arts, philosophy or any other means of enquiry, since he held that each perspective is already an interpretation. It is false to infer from this that Nietzsche had a disrespect for science. On the contrary, he was well aware that the future would be governed by the scientific spirit (Sorgner 2007, 140-158). As he found it implausible to hold that there is an absolute criterion of truth, what was important for a worldview to be regarded as superior and plausible was that it corresponds to the spirit of the times. Nietzsche himself put forward theories that he regarded as appealing for scientifically minded people so that his worldview might become plausible.
+
+ 
+
+Indeed, Nietzsche's respect for the various sciences is immense. He upholds a theory of evolution which is based upon a naturalistic worldview that can be summarized by the term “will to power” (Sorgner 2007, 40-65). In addition, he puts forward the eternal recurrence of everything, which he tries to prove intellectually by reference to the scientific insights of his day. Unfortunately, he fails to put forward a valid argument, even though it would have been possible for him to have one. Elsewhere, I have reconstructed a possible argument and shown that the premises which must be true for the eternal recurrence to occur are such as correspond to contemporary scientific insights (Sorgner 2009b, vol. 2, 919-922). In addition to all this, Nietzsche wanted to transfer to Paris to study natural sciences in order to be able to prove the validity of the eternal recurrence (Andreas-Salome 1994, 172). Thus his high estimation of the sciences becomes clear. This does not mean, of course, that he disrespects the literary arts. However, it shows that he does not regard scientific enquiry and literary theory as two antagonistic approaches to philosophy, as Stambler claims. Nietzsche accepts the value of both approaches and stresses the great importance of scientific approaches for the future, and he is right in doing so. In this regard, his approach is very similar to that put forward by Kuhn in his The Structure of Scientific Revolutions (1962).
+
+ 
+
+Is it possible to infer from Nietzsche’s high estimation of the sciences that he would have been in favor of enhancement procedures by means of technology? Not necessarily. However, there are good reasons for holding that the procedures of classical education and genetic enhancement are structurally analogous. Given that Nietzsche was in favor of education to bring about the overhuman, and assuming that classical education and genetic enhancement are structurally analogous procedures, there are good reasons for concluding that Nietzsche would have been affirmative of technological means for bringing about the overhuman. I am currently working on a monograph on the relationship between genetic enhancement and classical education, and in the following sections I will summarize some of its important points.
+
+ 
+
+1.1.1 Education and enhancement as structurally analogous procedures
+
+ 
+
+Habermas (2001, 91) has criticized the position that educational and genetic enhancements are parallel events, a position held by Robertson (1994, 167). I, on the other hand, wish to show that there is a structural analogy between educational and genetic enhancement such that their moral evaluation ought also to be analogous (Habermas 2001, 87). Both procedures have in common that decisions are being made by parents concerning the development of their child, at a stage where the child cannot yet decide for himself what it should do. In the case of genetic enhancement, we are faced with the choice between genetic roulette vs genetic enhancement. In the case of educational enhancement, we face the options of a Kasper Hauser lifestyle vs parental guidance. First, I will address two fundamental, but related, claims that Habermas puts forward against the parallel between genetic and educative enhancement: that genetic enhancement is irreversible, and that educative enhancement is reversible. Afterwards, I will add a further insight concerning the potential of education and enhancement for evolution given the latest findings of epigenetic research.
+
+ 
+
+1.1.1.1 Irreversibility of genetic enhancement
+
+ 
+
+According to Habermas, one claim against the parallel between genetic and educative enhancement is that genetic enhancement is irreversible. However, as recent research has shown, this claim is implausible, if not plain false.
+
+ 
+
+Let us consider the lesbian couple discussed by Agar (2004, 12-14) who were both deaf and who chose a deaf sperm donor in order to have a deaf child (Agar 2004, 12-14). Actually, the child can hear a bit in one ear, but this is unimportant for my current purpose. According to the couple, deafness is not a defect, but merely represents a being different. The couple was able to realize their wish and in this way managed to have a mostly deaf child. If germ-line gene therapy worked, then they could have had a non-deaf donor, changed the appropriate genes, and still brought about a deaf child. However, given that the deafness in question is one of the inner ear, it would then be possible for the person in question to go to a doctor later on and ask for surgery in which he receives an implant that enables him to hear. It is already possible to perform such an operation with such an implant.
+
+ 
+
+Of course, it can be argued in such a case that the genotype was not reversed, but merely the phenotype. This is correct. However, the example also shows that qualities which come about due to a genetic setting are not necessarily irreversible. They can be changed by such means as surgery. Deaf people can sometimes undergo a surgical procedure so they can hear again, depending on the type of deafness they have and when the surgery takes place.
+
+ 
+
+One could object that the consequences of educational enhancement can be reversed autonomously whereas in the case of genetic alterations one needs a surgeon, or other external help, to bring about a reversal. This is incorrect again, as I will show later. It is not true that all consequences of educational enhancement can be reversed. In addition one can reply that by means of somatic gene therapy, it is even possible to change the genetic set up of a person. One of the most striking examples in this context is siRNA therapy. By means of siRNA therapy, genes can get silenced. In the following paragraph, I state a brief summary of what siRNA therapy has achieved so far.
+
+ 
+
+In 2002, the journal Science referred to RNAi as the “Technology of the Year,” and McCaffrey et al. published a paper in Nature in which they specified that siRNA functions in mice and rats (2002, 38-9). That siRNA’s can be used therapeutically in animals was demonstrated by Song et al. in 2003. By means of this type of therapy (RNA interference targeting Fas), mice can be protected from fulminant hepatitis (Song et al. 2003, 347-51). A year later, it was shown that genes at transcriptional level can be silenced by means of siRNA (Morris 2004, 1289-1292). Due to the enormous potential of siRNA, Andrew Fire and Craig Mello were awarded the Nobel prize in medicine for discovering RNAi mechanism in 2006.
+
+ 
+
+Given the empirical data concerning siRNA, it is plausible to claim that the following process is theoretically possible, and hence that genetic states do not have to be fixed: 1. An embryo with brown eyes can be selected by means of preimplantation genetic diagnosis (PGD); 2. The adult does not like his eye color; 3. Accordingly, he asks medics to provide him with siRNA therapy to change the gene related to his eye colour; 4. The altered genes bring it about that the eye color changes. Another option would be available if germ line gene-therapy became effective. In that case, we could change a gene using germ-line gene therapy to bring about a quality x. Imagine that the quality x is disapproved of by the later adult. Hence, he decides to undergo siRNA therapy to silence the altered gene again. Such a procedure is theoretically possible.
+
+ 
+
+However, we do not have to use fictional examples to show that alterations brought about by genetic enhancement are reversible; we may simply look at the latest developments in gene therapy. A 23-year-old British male, Robert Johnson, suffered from Leber’s congenital amaurosis, which is an inherited blinding disease. Early in 2007, he underwent surgery at Moorfields Eye Hospital and University College London’s Institute of Ophthalmology. This represented the world’s first gene therapy trial for an inherited retinal disease. In April 2008, The New England Journal of Medicine published the results of this operation, which revealed its success, as the patient had obtained a modest increase in vision with no apparent side-effects (Maguire et al. 2008, 2240-2248).
+
+ 
+
+In this case, it was a therapeutic use of genetic modification. As genes can be altered for therapeutic purposes, they can also be altered for non-therapeutic ends (assuming one wishes to uphold the problematic distinction between therapeutic and non-therapeutic ends). The examples mentioned here clearly show that qualities brought about by means of genetic enhancement do not have to be irreversible. However, the parallels between genetic and educative enhancement go even further.
+
+ 
+
+1.1.1.2 Reversibility of educative enhancement
+
+ 
+
+According to Habermas, character traits brought about by educative means are reversible. Because of this crucial assumption, he rejects the proposition that educative and genetic enhancement are parallel processes. Aristotle disagrees, and he is right in doing so. According to Aristotle, a hexis, a basic stable attitude, gets established by means of repetition (EN 1103a). You become brave, if you continuously act in a brave manner. By playing a guitar, you turn into a guitar player. By acting with moderation, you become moderate. Aristotle makes clear that by means of repeating a certain type of action, you establish the type in your character, you form a basic stable attitude, a hexis. In The Categories, he makes clear that the hexis is extremely stable (Cat. 8, 8b27-35). In the Nichomachean Ethics, he goes even further and claims that once one has established a basic stable attitude it is impossible to get rid of it again (EN III 7, 1114a19-21). Buddensiek (2002, 190) has correctly interpreted this passage as claiming that once a hexis, a basic stable attitude, has been formed or established, it is an irreversible part of the person's character.
+
+ 
+
+Aristotle’s position gets support from Freud, who made the following claim: “It follows from what I have said that the neuroses can be completely prevented but are completely incurable” (cited in Malcolm 1984, 24). According to Freud, Angstneurosen were a particularly striking example (Rabelhofer 2006, 38). Much time has passed since Freud, and much research has taken place. However, in recent publications concerning psychiatric and psychotherapeutic findings, it is still clear that psychological diseases can be incurable (Beese 2004, 20). Psychological disorders are not intentionally brought about by educative means. However, much empirical research has been done in the field of illnesses and their origin in early childhood. Since irreversible states of psychological disorders can come about from events or actions in childhood, it is clear that other irreversible effects can happen through proper educative measures.
+
+ 
+
+Medical research has shown, and most physicians agree, that Post Traumatic Stress Disorders can not only become chronic, but also lead to a permanent personality disturbance (Rentrop et al. 2009, 373). They come about because of exceptional events that represent an enormous burden and change within someone’s life. Obsessional neuroses are another such case. According to the latest numbers, only 10 to 15 % of patients get cured, and in most cases the neurosis turns into a chronic disease (Rentrop et al. 2009, 368). Another disturbance which one could refer to is the borderline syndrome, which is a type of personality disorder. It can be related to events or actions in early childhood, such as violence or child abuse. In most cases, this is a chronic disease (Rentrop et al. 2009, 459).
+
+ 
+
+Given the examples mentioned, it is clear that actions and events during one’s lifetime can produce permanent and irreversible states. In the above cases, it is disadvantageous to the person in question. In the case of an Aristotelian hexis, however, it is an advantage for the person in question if he or she establishes a virtue in this manner.
+
+ 
+
+To provide further intuitive support for the position that qualities established by educational enhancement can be irreversible, one can simply think about learning to ride a bike, tie one’s shoe laces, play the piano or speak one’s mother tongue. Children get educated for years and years to undertake these tasks. Even when one moves into a different country, or if one does not ride the bike for many years, it is difficult, if not impossible, to completely eliminate the acquired skill. Hence, it is very plausible that educative enhancement can have irreversible consequences, and that Habermas is doubly wrong: genetic enhancement can have consequences that are reversible, and educative enhancement can have consequences that are irreversible. Given these insights, the parallel between genetic and educative enhancement gains additional support.
+
+ 
+
+1.1.1.3 Education, enhancement and evolution
+
+ 
+
+Can education bring about changes that have an influence on the potential offspring of the person who gets educated? As inheritance depends upon genes, and genes do not get altered by means of education, it has seemed that education cannot be relevant for the process of evolution. Hence, Lamarckism, the heritability of acquired characteristics, has not been very fashionable for some time. However, in recent decades doubts have been raised concerning this position, based on research on epigenetics. Together with Japlonka and Lamb (2005, 248), I can stress that “the study of epigenetics and epigenetic inheritance systems (EISs) is young and hard evidence is sparse, but there are some very telling indications that it may be very important.”
+
+ 
+
+Besides the genetic code, the epigenetic code, too, is relevant for creating phenotypes, and it can get altered by environmental influences. The epigenetic inheritance systems belong to three supragenetic inheritance systems that Japlonka and Lamb distinguish. These authors also stress that “through the supragenetic inheritance systems, complex organisms can pass on some acquired characteristics. So Lamarckian evolution is certainly possible for them” (Japlonka and Lamb 2005, 107).1
+
+ 
+
+Given recent work in this field, it is likely that stress,2 education,3 drugs, medicine or diet can bring about epigenetic alterations that, again, can be responsible for an alteration of cell structures (Japlonka/Lamb 2005, 121) and the activation or silencing of genes (2005, 117).4 In some cases, the possibility cannot be excluded that such alterations might lead to an enhanced version of evolution. Japlonka and Lamb stress the following:
+
+ 
+
+The point is that epigenetic variants exist, and are known to show typical Mendelian patterns of inheritance. They therefore need to be studied. If there is heredity in the epigenetic dimension, then there is evolution, too. (2005, 359)
+
+ 
+
+They also point out that “the transfer of epigenetic information from one generation to the next has been found, and that in theory it can lead to evolutionary change” (2005, 153). Their reason for holding this position is partly that “new epigenetic marks might be induced in both somatic and germ-line cells” (2005, 145).
+
+ 
+
+A “mother’s diet” can also bring about such alterations, according to Japlonka and Lamb (2005, 144), hence the same potential as the ones stated before applies equally to the next method of bringing about a posthuman, i.e. it is possible that the posthuman can come about by means of educational as well as genetics enhancement procedures.
+
+ 
+
+1.1.1.4 Nietzsche and Technology
+
+ 
+
+Given the above analysis, I conclude that Habermas is wrong concerning fundamental issues when he denies that educational and genetic enhancements are parallel events. Even if the parallel between educational and genetic enhancement is accepted, however, it does not solve the elementary challenges connected to it, such as questions concerning the appropriate good that motivates efforts at enhancement.
+
+ 
+
+Even though I am unable to discuss that issue further here, this analysis provides me with a reason to think that Nietzsche would have been in favor of technological means for bringing about the overhuman. Nietzsche held that the overhuman comes into existence primarily by means of educational procedures. I have shown that the procedures of education and genetic enhancement are structurally analogous. Hence, it seems plausible to hold that Nietzsche would also have been positive about technological means for realizing the overhuman.
+
+ 
+
+2. Overcoming nihilism
+
+ 
+
+The next topic I wish to address is that of nihilism. More mentioned it, and I think that some further remarks should be added to what he said. I think that More is right in pointing out that Nietzsche stresses the necessity to overcome nihilism. Nietzsche is in favor of a move towards “a positive (but continually evolving) value-perspective” (2010, 2). More agrees with Nietzsche in this respect, and holds that nihilism has to be overcome. However, before talking critically about nihilism one has to distinguish its various forms. It is important not to mix up aletheic and ethical nihilism, because different dangers are related to each of the concepts. Aletheic nihilism stands for the view that it is currently impossible to obtain knowledge of the world, as that is understood in a correspondence theory of truth. Ethical nihilism, on the other hand, represents the judgment that universal ethical guidelines that apply to a certain culture are currently absent. To move beyond ethical nihilism does not imply that one reestablishes ethical principles with an ultimate foundation, but it merely means that ethical guideline which apply universally within a community get reestablished (Sorgner 2010, 134-135). Nietzsche’s perspectivism, according to which every perspective is an interpretation, implies his affirmation of aletheic nihilism (Sorgner 2010, 113-117). I think Nietzsche’s position is correct in this respect. Ethical nihilism, on the other hand, can imply that the basis of human acts is a hedonistic calculation, and Nietzsche is very critical of hedonism (KSA, JGB, 5, 160). He definitely favored going beyond ethical nihilism, but I doubt that his vision concerning the beyond is an appealing one. In general, I find it highly problematic to go beyond ethical nihilism, because of the potentially paternalistic structures that must accompany such a move. I will make some further remarks concerning this point in the next section. From my remarks here, it becomes clear that there are good reasons for affirming both types of nihilism – in contrast to Nietzsche, who hopes that it will be possible to go beyond the currently dominant ethical nihilism which he sees embodied in the last man whom he characterizes so clearly in Thus Spoke Zarathustra.
+
+ 
+
+Coming back to aletheic nihilism, I wish to stress that, like Nietzsche, I regard this type of nihilism as a valuable achievement and I regard it as the only epistemic position that I can truthfully affirm. Why is it valuable? Aletheic nihilism helps to avoid the coming about of violent and paternalistic structures. Religious fundamentalists claim that homosexual marriages ought to be forbidden because they are unnatural. What the concept “unnatural” implies is that the correspondence theory represents a correct insight into the true nature of the world. Political defenders of a concept of nature act like a good father who wishes to institutionalize his insight to stop others from committing evil acts. The concept “natural” implies the epistemic superiority of the judgment to which it applies. Aletheic nihilism, on the other hand, implies that any judgment and all concepts of the natural are based on personal prejudices and that each represents a specific perspective – not necessarily anything more. Religious fundamentalists commit an act of violence by claiming that x is an unnatural act, which then implies that those (a, b, & c) who commit act x do some evil, and thereby these fundamentalists look down upon a, b, and c who suffer from being humiliated. If we realize that all judgments are interpretations based upon personal prejudices, it is easier to refrain from universalizing one’s own values and norms and to accept that other human beings uphold different values and norms. Hence, it becomes a matter of negotiation and a fight between various interest groups which norms get established in a political system. If we affirm aletheic nihilism, no norm is a priori false or true and the argument that a value is evil or false cannot get further support by means of reference to God or nature. Instead, one needs to appeal to more pragmatic and this-worldly aspects, such as the consequences of a rule or the attitude of someone who commits the corresponding acts. I regard these lines of argument as valuable and appropriate for our times, and I am not claiming that there is just one pragmatic way of arriving at an appropriate decision.
+
+ 
+
+3. Politics and liberalism
+
+ 
+
+Given the argument of the previous section, it is not surprising that I was slightly worried when I read that Roden affirms the move away from “bio-political organizations such as liberalism or capitalism” (2010, 34). I wonder what is the alternative, because I think we have done pretty well recently in Western industrial countries with liberal and social versions of democracy. I do not think that there is nothing which can get improved or criticized, but generally speaking I am very happy living in a Western liberal democracy with a well developed health system and permanently new technological innovations that help us in improving our lives as long as we do not let ourselves get dominated by these developments. Most other types of political organization so far have led to paternalistic systems in which the leaders exploited the citizens in the name of the common good. Any system that does not sufficiently stress the norm of negative freedom brings about structures which are strongly paternalistic. I do not think that social liberal democracies are the final answer to all questions or that they are metaphysically superior to other types of political organization, but I think that pragmatically they seem to work pretty well. In addition, I am afraid of the violence and cruelties related to political structures that are based upon stronger notions of the public good.
+
+ 
+
+An apparent difference between transhumanism and Nietzsche’s philosophy in this respect is pointed out by Hauskeller, who stresses that transhumanists aim at making the world a better place, whereas Nietzsche does not because he supposedly holds that there is no “truly better or worse,” and so does not aim at bettering humanity (2010, 5). There is some truth in what Hauskeller says. However, Nietzsche did have a political vision, even though he also claimed to be a non-political thinker. I think that his political vision, which I described in detail in my recent monograph (2010, 218-32), is not very appealing, because it leads to a two-class society in which a small class of people can dedicate themselves to the creation of culture, while the rest of humanity has to care for the pragmatic background so that the small group of artists can dedicate themselves to such a life style. This is Nietzsche’s suggestion of how ethical nihilism ought to get transcended.
+
+ 
+
+Given this vision, it seems that there is a clear difference between Nietzsche’s view and that of transhumanists. However, I do not think that this is necessarily the case. The danger of a two-class society also applies to many visions of transhumanists, especially if an overly libertarian version gets adopted. Transhumanism can lead to a genetic divide and a two-class society, as has been shown convincingly in the Gattaca argument. In particular, a solely libertarian type of transhumanism implies the danger of a genetic divide that would not be too different from Nietzsche’s vision.
+
+ 
+
+Again, I agree with More’s judgment that the goals of transhumanists and Nietzsche do not have to “imply any kind of illiberal social or political system” (2010, 4). However, in the case of Nietzsche it is more plausible to interpret his political vision such that it is not a very appealing one, because it leads towards a two-class society. This danger can also arise from an overly libertarian type of transhumanism.
+
+ 
+
+James Hughes (2004) has put forward some plausible arguments why a social democratic version of transhumanism might be more appropriate. I have some reservations about both social-democratic and libertarian positions, even though I share many basic premises of both. I share Hughes’ fear that a libertarian type of transhumanism leads to a genetic divide. However, I also fear that a social democratic version of transhumanism might not sufficiently consider the wonderful norm of negative freedom for which several interest groups have been fighting since the Enlightenment so that we nowadays can benefit from the results of these struggles. I regard a dialectic solution as more plausible; this implies that there is no ideal political system which can serve as the final goal towards which all systems ought to strive. Any system brings about challenges that cannot get solved within the system, but they can be resolved by altering the system. As this insight applies both to libertarian and social democratic systems, a pragmatic pendulum between those extremes might be the best we can achieve, which also implies that we permanently have to adapt ourselves dynamically to the new demands of social institutions and scientific developments. Dynamic adaptation works best in the process of evolution and might be the best we can achieve on a cultural level, which includes our political systems, too. Hence, not sticking dogmatically to one’s former evaluations might not be a sign of weakness, but of dynamic integrity (Birx 2006).
+
+ 
+
+Dynamic integrity enables us to adapt to new demands and challenges, which arise continually because of the permanent flux of everything that we have to deal with. However, there ought to be some stable aspects, too, namely one’s integrity, which consists in the recognition that the norm of negative freedom is an exceptional achievement that we always ought to consider. If there arises the need to impose limitations on negative freedom, then this ought to occur in order to defend and preserve freedom. If negative freedom leads to unfreedom, we ought to restrict it, so that it can be preserved. Once there is no need to restrict negative freedom anymore, we ought to abolish the restrictions that we introduced. Hence, I suggest that the norm of negative freedom ought to be central in answering the challenges from bioethical questions. However, once the system brings about a radical split concerning the people in question, then the norm of equality ought to receive further consideration. In this way, we would get a dynamic politics that implies a fluid interplay between negative freedom and equality, or between a libertarian and a social democratic system. However, the need to permanently adapt ourselves occurs in the name of freedom. We keep our integrity concerning the central norm of negative freedom, but we always make additional rules that take into consideration the contemporary state of affairs, so that the danger of a genetic divide, or a two-class system such as proposed by Nietzsche, does not occur.
+
+ 
+
+4. Utilitarianism or virtue ethics?
+
+ 
+
+I greatly appreciate More’s remarks when he stresses the following:
+
+ 
+
+Certainly there is no inconsistency between transhumanism and a utilitarian morality. But neither is there any inconsistency between transhumanism and a more Nietzschean view of morality. While Nietzsche viewed morality as essentially perspectival, we can easily enough fit him loosely within the virtue ethics approach classically represented by Aristotle. (2010, 3)
+
+ 
+
+More’s point is not only correct, but also very important. It is true that many transhumanists take a utilitarian standpoint, and the bioethics debate in the English speaking world in general is also dominated by this ethical theory. However, this does not mean that other ethical theories are irrelevant in this respect or have to be inconsistent with transhumanism.
+
+ 
+
+More is also very perceptive in pointing out that Nietzsche can be seen as a philosopher who is putting forward a virtue ethics. This does not imply that Nietzsche’s position has much in common with a traditional virtue ethics like the ones put forward by Plato or Aristotle. In contrast to those, Nietzsche holds that there are no universally valid virtues. Yet, he presents a perspectival account of virtues, according to which there are virtues that apply to certain types of human beings (Sorgner 2010, 119-50). According to Nietzsche, it is possible to name virtues that apply to members of a certain type, and there are other virtues which apply to a certain sub-type only, and again others which are solely dependent upon the specific physiology of an individual. A virtue that Nietzsche upholds for all active human beings is truthfulness (Sorgner 2010, 125-26). Without having to describe Nietzsche’s account of the virtues in detail, I wish to stress that his general approach might also be an appropriate one for transhumanists. So far, mainly bioconservatives have used a virtue ethical approach: the position put forward by Sandel is probably the most influential of these. However, instead of arguing primarily on utilitarian grounds, I regard it as appropriate to base one’s argument in favor of enhancement technologies on an approach that can be understood as a type of virtue ethics. In this respect, contemporary ethicists can benefit immensely from studying Nietzsche.
+
+ 
+
+Sandel accepts that many moral concepts to which traditional ethical discourses have referred do not apply to questions concerning enhancement issues at the beginning of life, e.g. the non-harm principle or autonomy (Sandel 2007, 1-10). However, according to him, the parental wish to technologically influence processes so that a child comes into existence with qualities desired by the parents implies a basic attitude that can be referred to as vicious. Such parents are not in the possession of appropriate parental virtues, because they wish to create children in the same way objects get made by human beings (Sandel 2007, 49-51).
+
+ 
+
+I do not think this is the case. Given the short version of my argument in favor of the structural analogies between classical education and genetic enhancement, it becomes clear that genetic enhancement is not as bad as it sounds in the writings of Sandel, and it also follows that parents who wish to or use technology to bring about certain structures in their children do not have to be vicious. In fact, the opposite might be the case. Most, if not all, legal jurisdictions demand that there is a parental duty to educate one’s children (Allhoff 2009, 32). Given the aforementioned structural analogy, it follows that if this is the case then there can also be a parental duty to enhance one’s children (Ranisch and Savulescu 2009, 36-37). This does not mean that parents ought to alter their children technologically in all respects. However, it does imply that there can be cases in which it is appropriate for parents to enhance their children. I do not intend to put forward a complex argument here concerning this issue, but I am merely trying to hint at the possibility that it can be bad not to consider the duty to enhance one’s child, and a parent who disrespects that duty can be referred to as vicious or rather as someone who does not possess parental virtues. In a longer version of this paragraph, I would specify in more detail what such an attitude can imply. For present purposes, I have merely sought to provide some reasons for holding that virtue ethics can be an ethical theory which goes along well with a transhumanist basic attitude, and that such an approach might in some cases be more convincing than an argument based upon utilitarian foundations. Nietzsche can be a good author for inspiration for formulating such an approach.
+
+ 
+
+5. Nietzsche, transhumanism and the good life
+
+ 
+
+A topic that has been in the centre of most ethical theories, at least until the end of the Renaissance, was that of the good life. The replies to the question of the good put forward by transhumanists and Nietzsche force us to consider what can be said concerning the final goal of human acts today. According to Hauskeller (2010, 6), the transhumanist concept of the good involves a long, happy, and healthy life. Hence, it is supposedly not very different from what is being widely shared among many people in Western industrial countries today. Hauskeller stresses that Nietzsche, on the other hand, claims the following: “What was commonly regarded as evil needed to be recognized as good” (2010, 6). It can be inferred from Hauskeller’s remarks that the respective concepts of the good upheld by transhumanists and by Nietzsche are radically antagonistic. I think the issue is a bit more complex than that.
+
+ 
+
+First, the question of happiness is a difficult one in Nietzsche. On the one hand, Nietzsche vehemently criticizes philosophical theories that stress the importance of happiness (KSA, JGB, 5, 160). On the other hand, we have philosophers such as Seel – and here I agree with him – who hold that Nietzsche’s main focus is on the question concerning the good life, and living eudaimoniously (Seel 1998, 27). In fact, Nietzsche did criticize happiness as the goal of human lives. However, when he employed the concept happiness he identified it with a hedonistic concept, and he was very critical of many types of hedonism. Yet, there are even reasons for identifying some elements of Nietzsche’s ethics with a hedonistic one, given that he aims at the affirmation of one moment by means of which one’s whole life can get justified. Without considering this point any further, I wish to stress that Nietzsche’s main attack was on an enlightened version of happiness, as embodied in the character of the last man, which can be identified with health, happiness and a long life.
+
+ 
+
+In this respect, Hauskeller is correct. However, by focusing solely on this point, he takes an overly one-sided approach. According to Nietzsche, the main goal of all organisms is power: for Nietzsche, this is open concept that can be identified with various contents, depending on the perspectival interpretation of an organism as to which concept of power it applies. What is important for all organisms is the need to recognize the permanent necessity to overcome themselves, and hence to set themselves new and higher goals. According to Nietzsche, one of the few detailed elements that constitutes an elementary aspect of all concepts of the good is the value of self overcoming, which can be reached by means of one’s embeddedness in a process of continual interpretation. Yet, it is possible to make some further comments concerning the good to which Nietzsche subscribes. According to Nietzsche, the classical ideal of a fully flourishing person with a strong and creative mind, someone who interprets the world and puts forward the interpretation in a tempting manner, is the highest concept of power that can be held (Sorgner 2007, 53-58). I think that this concept is valid only for Nietzsche himself, but something similar can also be found in the views of transhumanists. Bostrom stresses the Renaissance ideal as a concept of the good that is worth aspiring to (Bostrom 2001). Thereby he comes close to what Nietzsche had in mind for himself. In addition, it is also very different from a simple-minded way of living a long, happy, and healthy life, because the Renaissance ideal implies the need to continually work at various aspects of one’s own abilities. Given further examination, there might be some difference between the respective concepts discussed by Nietzsche and Bostrom, but there is more shared ground than Hauskeller recognizes. In any case, there is a danger in upholding such a concept of the good. According to Nietzsche, the classical ideal is only valid for himself. According to Bostrom, it is and ought to be a general ideal, I think, or least one that is valid for all transhumanists. Any ideal which claims to be universally valid seems dangerous to me. What consequences are implicit in a concept of the good like the Renaissance ideal, if it is taken as a universally valid concept?
+
+ 
+
+Let us take the famous example of the deaf lesbian couple who wish to have a deaf child. If one takes an objective concept of health and accepts that the Renaissance ideal is universally valid, then we have reasons for not giving the couple the permission to have that child because deafness is not part of the Renaissance ideal. In general, transhumanists value negative freedom immensely. However, in such cases as the one concerning the deaf lesbian couple, there are inevitable conflicts between the Renaissance ideal of the good and the norm of negative freedom. If one upholds the Renaissance ideal and one also wishes to give it a legal underpinning, this will lead to a paternalistic intrusion of the state into the negative freedom of the citizens – in this case the procreative freedom of the parents. I do not think that there is anything wrong with the Renaissance ideal as a personal ideal. However, once it is supposed to serve as normative guideline for legal decisions, it becomes problematic.
+
+ 
+
+The deaf lesbian couple wishes to make use of their right to procreative freedom, and there is nothing wrong with that. No one is harmed. They merely realize a concept of the good that does not correspond to the one held by the majority. It is not, moreover, a concept of the good that is being upheld solely by a mad individual. There is a culturally accepted subculture that shares the concept in question, even though many human beings might not be able to imagine its validity. Here, I think, we have a case in which it is appropriate to accept the otherness of the members of the group of the deaf. It is an otherness that many might not be able to imagine, but the deaf community claim to be able to live a good life the way they live, and why should someone from the community of the hearing be justified in claiming that the deaf cannot lead a good life in the full sense of the word? Concepts of the good that pretend to be universally valid, and seek acceptance on a legal level, lead to political systems that disrespect the otherness of minority groups, and I do not think that the state ought to act violently against members of minority groups. These reflections lead me directly to the next and related issue.
+
+ 
+
+5.1 New concepts of the family
+
+ 
+
+The Renaissance ideal not only implies high capacities in various disciplines and areas, but also  leading a flourishing private life, being married and having some children. Hence, it most probably implies being a part of a flourishing family. Yet, the concept of the family is a difficult one, especially in the age of biotechnology. FM-2030 stresses that social institutions like the family become obsolete in scientifically and technologically advanced societies, as Bainbridge pointed out correctly (2010, 40). I think I know what FM-2030 is hinting at. Yet, I would rather say that I do not think that families become obsolete but that their form has to get revised significantly. It is possible to imagine that a child can have two mothers or two fathers. Maybe, it can even have two fathers and one mother, or vice versa. Especially when science and technology progresses even further, it might be possible to compose the genetic makeup of a child by putting together genetic information from two mothers and one father who have agreed that they wish to live together and have the responsibility of bringing up this child.
+
+ 
+
+Why should it not be possible to accept any group of consenting adults to becoming partners? I do not see a necessary reason why partnership has to be limited to a heterosexual couple or even a homosexual couple. If there are three, four, or even more consenting adults who wish to get married and have children, it ought to be possible. I am not saying that biotechnology advances so fast that that a group of several adults can become biological parents fairly soon, but if such a group of people wishes to get married, then this ought to be possible. If such a group wishes to have a child, and if this is scientifically possible, then a society in which the right to procreative freedom is respected should allow them to progress with their endeavors. Hence, biotechnological developments can bring about the need for significant revision of our concept of a family, and these revisions will definitely conflict with the Renaissance ideal. Hence, I do not think that the Renaissance ideal ought to be put forward as a universally valid one.
+
+ 
+
+6. Creativity and the will to power
+
+ 
+
+There are a couple of remarks I am bound to make concerning comments by various authors about the basis of Nietzsche’s concept of the world. I will not go into too much detail in my replies, but I wish to mention some claims that are highly dubious. When Blackford writes that Nietzsche holds a “scientific materialist view of the world” (2010, i), he is not quite right, because Nietzsche was not a materialist. His will to power theory can be classified, rather, as a teleological concept of the world, but without having a final telos.
+
+ 
+
+It can also be misleading to claim, as Bainbridge does, that Nietzsche was someone who “doubted the possibility of progress” (2010, 39). Nietzsche regarded change as a permanent phenomenon. Like Heraclitus he holds that all things change in all respects in every moment (Sorgner 2007, 39-65). He did not think it possible to say that things are permanently getting better. Such a judgment would imply that there is a universally valid criterion upon which such a judgment can be made, but he doubted the possibility of such judgments. Still, awareness of his dynamic will to power worldview should be sufficient to reveal that Nietzsche understood the world as being permanently in progress in a sense that does not imply that the future has to be better than the past.
+
+ 
+
+In addition, Bainbridge identifies Nietzsche with someone who affirms “reading novels or poetry” (2010, 39) to bring about better human beings. Nietzsche’s concept of power is far removed from such a position, because Nietzsche particularly stresses the creative aspect of existence, rather than the receptive one. His will to power theory implies that the active creation of new values, embedded in an inclusive theory, is the highest task by means of which it is possible to achieve the highest kinds of power (KSA, NF, 12, 312-313; JGB, 5, 22; Za, 4, 169; NF, 11, 106). Reading novels or poetry, however, does not have to be an active or creative act.
+
+ 
+
+Hibbard claims that “the overhuman has no need for improvement, having achieved satisfaction with life” (2010, 10), but he does not cite any passages which support this claim. As I mentioned before, the main aspect of Nietzsche’s concept of the good is that of self-overcoming. It applies to all beings, to higher humans as well as overhumans. Why should overhumans have no need for improvement? I think Hibbard makes this one-sided judgment, because he focuses on the claim that overhumans can get into a situation where they can say Yes to one moment, and thereby they manage to affirm the eternal recurrence of everything. However, being able to affirm one moment does not mean that overhumans have achieved satisfaction in life. Satisfaction is not something overhumans aim for. They wish to be creative, to permanently overcome themselves, and to reach higher creative goals (Sorgner 2010, 223-24). Even if they managed to say Yes to one moment, there is no reason why they should stop willing to overcome themselves.
+
+ 
+
+A further point concerns the relationship between the eternal recurrence and the will to power theory. More is right when he claims that the idea of the eternal recurrence is alien to transhumanism. However, he also holds that it is “inseparable from that of the overman (or overhuman)” (2010, 1). He is right in explaining that the eternal recurrence is one of the central aspects of Nietzsche’s thought (Sorgner 2010, 226-32). It is fundamental to his thinking, because it is related to the question of the meaning of life (Sorgner 2004, 169-88). However, the concepts of the eternal recurrence and the overhuman are not logically inseparable. If one does not regard the question concerning a meaning of life as important, it is still possible to uphold the rest of Nietzsche’s claims, if one wishes to do so. Then the overhuman would be seen as simply a further step in the evolutionary process. Hibbard would have some doubts concerning this claim, because he holds that Nietzsche’s overhumans can never actually come into existence, but posthumans, as described by transhumanists, can become real (2010, 9). In this context, Hibbard cites Nietzsche’s remark that there is an “infinite distance” between human beings and overhumans (2010, 9). As an infinite distance cannot be transcended, it is impossible for overhumans to come into existence, or so he seems to think. However, if one takes the various utterances of Nietzsche concerning the overhuman into consideration, Nietzsche’s remark should be understood metaphorically. According to Nietzsche’s writings, there have been higher human beings, but there has not yet been an overhuman. Still, there is nothing in Nietzsche’s writings which renders plausible the judgment that it is impossible for Nietzsche’s overhumans to come into existence.
+
+ 
+
+7. Immortality and longevity
+
+ 
+
+In contrast to the great variety of aspects I have had to deal with in the previous section, the question of immortality and longevity is indeed a specific and a very important one, and various authors have suggested that Nietzsche and transhumanists hold different positions in this respect. Still, Hauskeller’s remarks concerning immortality (2010, 6-7) seem unfair both to Nietzsche and to transhumanists. According to Hauskeller, transhumanists aim for immortality whereas Nietzsche criticizes the will to be immortal. It is correct that Nietzsche criticizes immortality. However, he merely criticizes the concept as it was put forward by Christian theologians who linked it to the existence of an immortal soul which lives in the afterworld. Nietzsche upholds and affirms a type of immortality within his concept of the eternal recurrence. It is not a type of immortality that needs an afterworld, but one which implies solely the existence of one natural world. He acknowledges the human aspiration towards a type of immortality; however, he criticizes two-worldly versions of immortality and tries to replace them with a this-worldly version.
+
+ 
+
+Transhumanists also aspire for a type of immortality, though, in most cases, this is not literal immortality but rather a long life or a prolonging of human lives. Hence, both Nietzsche and transhumanists reject the idea of an eternal afterlife in a transcendent world and develop concepts of a prolonged life within this world. Nietzsche’s solution (the eternal recurrence) represents a reply to the question of the meaning of life. The transhumanist idea of a prolonged life does not necessarily seem to work as an answer to the question of the meaning of life. It might work in this way, if it meant that one can actually achieve a type of immortality, but I doubt that this is what most transhumanists have in mind. In most cases, transhumanism aims solely for a prolonging of life, which is an aspect of the good life according to the concepts of many human beings. Stambler agrees with me in this respect, because he stresses that life extension is upheld by many transhumanists, but not by Nietzsche who does not set “longevity as a goal for the Superhuman” (2010, 18). However, it also needs to be borne in mind that Nietzsche doubts the existence of universal values, and stresses the need to create values. Nietzsche’s doubt about the value of longevity is based on his doubt that the basic motivation of human beings is the will to survive. We do not wish to survive in order to survive, according to him, but we wish to live in order to become more and more powerful. Here, power does not imply physiological or military power, but primarily intellectual power and the capacity to interpret the world and advertise one’s own interpretation in a way that convinces others.
+
+ 
+
+I wonder whether transhumanists are committed to longevity as a necessary component of the good life, and whether it is valid for all human beings that a good life for posthumans must be a long one. The Transhumanist Arts Statement seems to imply that transhumanists must uphold longevity as a value, but an alternative would be to claim that it is up to the individual posthuman what he values. Even from an evolutionary perspective, the longevity of individuals might not be in the interest of the species.
+
+ 
+
+8. Logocentrism
+
+ 
+
+According to Hauskeller transhumanists “continue the logocentric tradition of Western philosophy,” whereas Nietzsche moves away from this tradition by positing that the overhuman is “entirely body” (2010, 6). Again, Hauskeller is partly right. It has been recognized widely and correctly that Nietzsche became the ancestor of postmodernism by going beyond logocentrism (Habermas 1985, 104-129; Vattimo 1988, 164; Sloterdijk 1987, 55) and by stressing the importance of the body. However, the distinction raised by Hauskeller is based on a selective reading. Even though Nietzsche moves away from the logocentric tradition, he still values reason. Like Hauskeller, Bainbridge fails to recognize this; he claims that most of what Nietzsche wrote “was gloriously incoherent” (2010, 48). In my monograph Metaphysics without Truth: On the Importance of Consistency within Nietzsche’s Philosophy (2007), I have explained in detail why this is not the case and why consistency is important for Nietzsche. In the following paragraphs I will summarize my analysis.
+
+ 
+
+It is true that Nietzsche seems to be inconsistent when he puts claims that every perspective is an interpretation, but also that the world is will to power. On the basis of a more detailed analysis of his writings and the dialectical nature of his approach to philosophy, however, the apparent inconsistencies dissolve. For Nietzsche, every perspective is an interpretation, and this applies to all the things Nietzsche says, too. However, this does not imply that a judgment is false, but merely that it can be false. As long as no one has shown that one judgment concerning the ultimate foundation of the world is true, Nietzsche’s perspectivism is a plausible theory of knowledge, and I do not think that one fundamental truth about the world has been discovered. Does this mean that Nietzsche’s position might also apply to reason and the demand to make consistent judgments? Yes, I think this is the case, but this does not imply that reason is without value. Reason might not be able to provide us with an understanding of the truth in correspondence with the world. However, it developed in the process of evolution because it was in our interest to have this capacity. Reason is a faculty that helps us to survive, and it enhances our ability to become more powerful. It is this line of thought which Nietzsche uses to explain why reason and consistency are important. Reason might not help us in our task of getting a better understanding of the world, but it helps us to better deal with the world in which we are living. I think that this Nietzschean view of the importance of reason is plausible and convincing.
+
+ 
+
+I think, too, that many transhumanists could agree with Nietzsche in this respect. Our capacity to reason is not connected to an entity that separates us from the naturalistic world, but it is a capacity which is embedded in this world. Varela, Thompson and Rosch (1991) try to develop a naturalistic and evolutionary account of the mind, and it is to this endeavor that both Nietzsche and many transhumanists could subscribe. I definitely think it is a path worth taking because I share their naturalistic sympathies.
+
+ 
+
+If transhumanists, too, have sympathies for evolutionary accounts of the mental, then it would be false to claim that transhumanist continue the “logocentric tradition of Western philosophy,” because that tradition holds that human beings possess a logos which separates them categorically from the natural world and provides them with a special status in the world. On this view, human beings are categorically different from other natural entities. I doubt that this is a view many transhumanists would subscribe to.
+
+ 
+
+9. Nietzsche and the Third Reich
+
+ 
+
+At this stage we are coming to what I see as the real motive for Bostrom’s claim that Nietzsche cannot be seen as an ancestor of transhumanism (2005, 4). Nietzsche still has a rather unsavory reputation in many social circles. The philosophical reaction to the Sloterdijk-Habermas debate that took place as a result of Sloterdijk’s talk on the “Rules concerning the Human Zoo” revealed that many German philosophers continue to see Nietzsche as a type of proto-fascist (Sorgner 2000, 10-13). Even though this position is regarded as absurd by most serious Nietzsche scholars, especially in the English speaking world, the educated public, too, seems to associate Nietzsche with the fascism of the Third Reich. Some phrases from the JET issue on “Nietzsche and European Posthumanisms” seem to go in a similar direction.
+
+ 
+
+Stambler affirms Fedorov’s reading of Nietzsche as a “mouthpiece of militarized Germany” (2010, 18). The later Nietzsche was a good European, and mostly interested in cultural creativity, and to see him as a militarist is very far from what we’d find in a detailed and critical interpretation of his writings. Further remarks by Stambler reveal certain prejudices concerning the philosopher Nietzsche: “Yet as regards ‘life enhancement’ in a broader sense, Nietzsche’s work may be viewed as a product and advertisement of German aristocratism” (2010, 19). I am uncertain what Stambler wishes to express with this comment. To regard Nietzsche as someone who paradigmatically embodies and upholds typically German character traits is far from plausible. There are, indeed, aristocratic elements in Nietzsche’s philosophy, but the aristocracy he affirms is connected to the capacity to be a great creator of culture. For the later Nietzsche, the question of nationality is without any relevance to who is an active creator of culture and who is not.
+
+ 
+
+Perhaps in using the phrase “German aristocratism” Stambler refers to the attitude of some Germans, some time ago, who regarded themselves as superior to other nations – or in other words, German fascism. In that case, his judgment would imply that there are connections between the world views of Nietzsche and German fascism. A similar estimation of Nietzsche’s philosophy is put forward by Bainbridge, which becomes clear in the following remark about Nietzsche: “Perhaps he really was a Nazi” (2010, 37). I wonder what Bainbridge means by this. Nazis are people who supported Hitler as political leader. Nietzsche was definitely no Nazi, because he was dead when Hitler was a political leader. Maybe, Bainbridge means that Nietzsche would have supported Hitler, had he not been dead. This judgment implies that Nietzsche’s political views and Hitler’s are identical in most cases, but this is also incorrect: first, Hitler was in favor of Germany dominating the world, while Nietzsche was in favor of a unified Europe; second, Hitler was interested in military power, while Nietzsche was interested in intellectual power and the capacity to interpret the world and create works of art; third, Hitler was an anti-Semite, while Nietzsche was an anti-anti-Semite. The list could be continued. However, I wish to make some further remarks concerning Nietzsche's anti-anti-Semitism.
+
+ 
+
+You can find some nasty remarks concerning Jews in Nietzsche’s writings. These, however, concern the Jews who developed the Jewish religion, which represents the ancestor of the Christian one. It is hard to say whether Nietzsche’s attacks on the Jews or his attacks on the Christian religion were nastier and stronger. In any case, he regarded both religions as life denying and dangerous. Nonetheless, he always stressed that he regarded his Jewish contemporaries as providing enrichment for any culture. In addition, he hated it when anti-Semites wished to cooperate with him or to draw upon his work, and he regularly expressed that he was an anti-anti-Semite, and that he did not want to have anything to do with anti-Semites. There are several studies, in particular by American Jews, in which this reading of Nietzsche’s relationship concerning Jews and Judaism can be found in great detail (e.g. Yovel 1994, 214-36). I stress this point to show that it is absurd to claim that Nietzsche might have been a Nazi.
+
+ 
+
+Bainbridge also suggests that the Nazis “treated him as one of their own” (2010, 45). However, even this claim is far from the plausible, because many Nazi scholars realized that there are many anti-German positions in Nietzsche’s writings and that he was an anti-anti-Semite. Even though it is true that there were scholars during the Nazi regime who were concerned with Nietzsche’s philosophy, it is false to claim that the Nazis “treated him as one of their own,” because the estimation of Nietzsche and his work during the Third Reich was not universally affirmative. Many Nazi ideologists recognized that Nietzsche went against the intentions and goals of Nazi ideology on many fundamental issues. Bainbridge’s above comment does not say much with respect to the estimation of Nietzsche by the Nazis but it might say something about the author’s flawed understanding of Nietzsche.
+
+ 
+
+However, Bainbridge is not the only one who seems to favor such an inappropriate understanding of Nietzsche. The false judgment that Nietzsche was a proto-Nazi is still held by many educated people, and it is very difficult to eliminate widespread prejudices. Hence, Bostrom’s attempt, in his 2001 article, to dissociate transhumanism from Nietzsche was a reasonable one, because dissociating these two ways of thinking is easier than getting rid of prejudices that have been around for quite some time. Indeed, it is praiseworthy to dissociate transhumanism from any fascist ideology, because there is no general basis that both views have in common. However, some bioconservative thinkers, among them Habermas, attempt to identify transhumanist views with politically problematic ones by identifying their views with Nietzsche’s. In his influential essay on liberal eugenics, Habermas (2001, 43) talks about some freaky intellectuals who reject what they see as the illusion of equality and try to develop a very German naturalistic ideology. This seriously considers the potential for employing human biotechnology in the service of Nietzschean breeding fantasies. This is the kind of identification that Bostrom rightly fears. Habermas, who rejects all procedures of genetic enhancement, identifies transhumanists (whom he refers to incorrectly as “posthumanists”) with Nietzscheans, associating both with fascist breeding ideologies. Habermas is rhetorically gifted, and he knew exactly what he was doing – that an effective way to bring about negative reactions to human biotechnological procedures in the reader would be to identify those measures with procedures undertaken in Nazi Germany.
+
+ 
+
+This type of rhetoric is well known in Germany, and it is one that continues to bring about its intended effects. If you disapprove of a view, refer to it as pro-fascist one, and your antagonist who holds the view in question is directly in a weak position and on the defensive. However, it is a fascist type of rhetoric which functions as follows: You identify a thing X, of which you disapprove, with something Y, which the majority of people dislike intensely, which has the effect that the majority will also start to dislike or at least be doubtful concerning X. Eureka!, you have achieved what you wished. You have managed to change the perspective of people concerning X.
+
+ 
+
+As I have shown above, it is false to refer to Nietzsche as a Nazi. It is also false to identify transhumanists with Nazi ideology, as Habermas does, because Nazis are in favor of a totalitarian political organization, whereas transhumanists uphold the value of liberal democracies. For all that, many Nietzschean philosophical positions can be found in basic beliefs of transhumanists. Habermas agrees, but in contrast to him I regard both philosophical approaches as stimulating, valuable and extremely important when one deals with contemporary philosophical and ethical challenges.
+
+ 
+
+Conclusion
+
+ 
+
+All of the issues that have been raised above are central for the challenges we must face, given recent biotechnological developments. Many of them touch fundamental questions about our conception of ourselves, the world, and even the meaning of life. I very much hope that the critical reflections I have put forward here, as a response to papers that replied to one of my articles, will stimulate further discussions and debates, and help us to find solutions that enable humankind to flourish and help human beings to live together in political systems which value the wonderful achievement of the norm of negative freedom.
+
+ 
+
+Notes
+
+ 
+
+1. “Heritable variation – genetic, epigenetic, behavioural, and symbolic – is the consequence both of accidents and of instructive processes during the development” (Japlonka and Lamb 2005, 356). A striking case is that of the evolution of language: “Dor and Japlonka see the evolution of language as the outcome of the continuous interactions between the cultural and the genetic inheritance system” (Japlonka and Lamb 2005, 307).
+
+ 
+
+2. “Waddington’s experiments showed that when variation is revealed by an environmental stress, selection for an induced phenotype leads first to that phenotype being induced more frequently, and then to its production in the absence of the inducing agent” (Japlonka and Lamb 2005, 273).
+
+ 
+
+3. Jonathan M. Levenson and J. David Sweatt show that epigenetic mechanisms probably have an important role in synaptic plasticity and memory formation (2005, 108-118).
+
+ 
+
+4. “Belyaev’s work with silver foxes suggested that there is a hidden genetic variation in natural populations. This variation was revealed during selection for tameness, possibly because stress-induced hormonal changes awakened dormant genes” (Japlonka and Lamb 2005, 272).
+
+ 
+
+5. A detailed and well informed account of this topic was written by Aschheim (1993).
+
+ 
+
+ 
+
+Bibliography
+
+ 
+
+Agar, N. 2004. Liberal eugenics: In defence of human enhancement. Oxford: Blackwell.
+
+ 
+
+Allhoff, F. et al. 2009. Ethics of human enhancement – 25 questions and answers. http://www.humanenhance.com/NSF_report.pdf
+
+ 
+
+Andreas-Salome, Lou. 1994. Friedrich Nietzsche in seinen Werken. Frankfurt am Main: Insel.
+
+ 
+
+Aschheim, Steven E. 1993. The Nietzsche legacy in Germany 1890-1990 Los Angeles: University of California Press.
+
+ 
+
+Bainbridge, William Sims. 2010. Bulgarizing Nietzsche’s tomb. Journal of Evolution and Technology 21(1) (June): 37-54.
+
+http://jetpress.org/v21/bainbridge.htm
+
+ 
+
+Beese, F. 2004. Was ist Psychotherapie? Ein Leitfaden für Laien zur Information über ambulante und stationäre Psychotherapie. Goettingen: V&R.
+
+ 
+
+Birx, H. J. 2006. Dynamische Integrität. In Eugenik und die Zukunft, ed. Stefan Lorenz Sorgner, H. James Birx, and Nikolaus Knoepffler, 85-103. Freiburg i. B.: Alber Verlag.
+
+ 
+
+Blackford, Russell. 2010. Editorial – Nietzsche and European posthumanisms. Journal of Evolution and Technology 21(1) (January): i-iii.
+
+http://jetpress.org/v21/blackford.htm
+
+ 
+
+Bostrom, N. 2005. A history of transhumanist thought. Journal of Evolution and Technology, 14(1). http://www.nickbostrom.com/papers/history.pdf
+
+ 
+
+Bostrom, N. 2001. Tranhumanist values. Version of April 18, 2001:
+
+http://www.nickbostrom.com/tra/values.html
+
+ 
+
+Buddensiek, F. 2002. Hexis. In Wörterbuch der antiken Philosophie., ed. C. Horn and C. Rapp, 189-190. München: Beck.
+
+ 
+
+Habermas, Jürgen. 1985. Der philosophische Diskurs der Moderne: Zwölf Vorlesungen. Frankfurt am Main: Suhrkamp Verlag.
+
+ 
+
+Habermas, J. 2001. Die Zukunft der menschlichen Natur. Auf dem Weg zu einer liberalen Eugenik? Frankfurt am Main, Suhrkamp.
+
+ 
+
+Hauskeller, Michael. 2010. Nietzsche, the overhuman, and the posthuman: A reply to Stefan Sorgner. Journal of Evolution and Technology 21(1) (January): 5-8.
+
+http://jetpress.org/v21/hauskeller.htm
+
+ 
+
+Hibbard, Bill. 2010. Nietzsche’s overhuman is an ideal. Whereas posthumans will be real. Journal of Evolution and Technology 21(1) (February): 9-12.
+
+http://jetpress.org/v21/hibbard.htm
+
+ 
+
+Hughes, James. 2004. Citizen cyborg. Why democratic societies must respond to the redesigned human of the future. Boulder: Westview Press.
+
+ 
+
+Kuhn, Thomas. 1962. The structure of scientific revolutions. Chicago: University of Chicago Press.
+
+ 
+
+McCaffrey, A. P. et al. 2002. RNA interference in adult mice. Nature 418 (6893): 38-39.
+
+ 
+
+Japlonka, E. and M. J. Lamb. 2005. Evolution in four dimensions: Genetic, epigenetic, behavioral, and symbolic variation in the history of life. London: MIT Press.
+
+ 
+
+Levenson, J. M. and J. D. Sweatt.  2005. Epigenetic mechanisms in memory formation. Nature Reviews Neuroscience 6, 108-118.
+
+ 
+
+Maguire A.M., F. Simonelli, and E. A. Pierce. 2008. Safety and efficacy of gene transfer for Leber’s congenital amaurosis. New England Journal Medicine 358 (21): 2240–2248.
+
+ 
+
+Malcolm, J. 1984. In the Freud Archives. London: Jonathan Cape.
+
+ 
+
+More, Max. 2010. The overhuman in the transhuman. Journal of Evolution and Technology 21(1) (January): 1-4.
+
+http://jetpress.org/v21/more.htm
+
+ 
+
+Morris, K. V. et al. 2004. Small interfering RNA-induced transcriptional gene silencing in human cells. Science 305(5688): 1289-1292.
+
+ 
+
+Nietzsche, Friedrich. 1967ff. Sämtliche Werke – Kritische Studienausgabe in. 15 volumes. Ed. by G. Colli and M. Montinari, München/ New York: Deutscher Taschenbuch Verlag. (Cited in the text as “KSA”.)
+
+ 
+
+Rabelhofer, B. 2006. Symptom, Sexualitaet, Trauma. Wuerzburg: K&N.
+
+ 
+
+Ranisch, Robert and Julian Savulescu. 2009. Ethik und Enhancement. In Der neue Mensch: enhancement und Genetik ed. Nikolaus Knoepffeler and Julian Savulescu, 21-54. Freiburg i. Br./München: Alber.
+
+ 
+
+Rentrop, M., R. Müller, and J. Baeuml, eds. 2009. Klinikleitfaden Psychiatrie und Psychotherapie. Muenchen: Elsevier.
+
+ 
+
+Robertson, J. A. 1994. Children of choice: Freedom, and the new reproductive technologies. Princeton, NJ: Princeton University Press.
+
+ 
+
+Roden, David. 2010. Deconstruction and excision in philosophical posthumanism. Journal of Evolution and Technology 21(1) (June): 27-36.
+
+http://jetpress.org/v21/roden.htm
+
+ 
+
+Sandel, Michael J. 2007. The case against perfection. Ethics in the age of genetic engineering. Cambridge, MA: Harvard University Press.
+
+ 
+
+Seel, M. 1998. Die Macht des Erscheinens – Nietzsches ästhetische Marginalisierung des Seins. DU (June): 26-28.
+
+ 
+
+Sloterdijk, Peter. 1987. Kopernikanische Mobilmachung und ptolemäische Abrüstung: Ästhetischer Versuch. Frankfurt am Main: Suhrkamp Verlag.
+
+ 
+
+Song, E. et al. 2003. RNA interference targeting Fas protects mice from fulminant hepatitis. Nature Medicine 9 (3): 347-51.
+
+ 
+
+Sorgner, Stefan Lorenz. 2010. Menschenwürde nach Nietzsche. Die Geschichte eines Begriffs. Darmstadt: WBG.
+
+ 
+
+Sorgner, Stefan Lorenz. 2007. Metaphysics without truth: On the importance of consistency within Nietzsche’s philosophy. Rev. second ed. Milwaukee: University of Marquette Press.
+
+ 
+
+Sorgner, Stefan Lorenz. 2000. Nietzsche and Germany. Philosophy Now 29 (October/November): 10-13.
+
+ 
+
+Sorgner, Stefan Lorenz. 2009b. Nietzsche and Heraclitus. In The Encyclopedia of Time: Science, Philosophy, Theology, and Culture, ed. H. James Birx, Vol. 2, 919-22. Thousand Oaks, California: SAGE Publications.
+
+ 
+
+Sorgner, Stefan Lorenz. 2009. Nietzsche, the overhuman and transhumanism. Journal of Evolution and Technology 20(1) (March) 2009: 29-42.
+
+http://jetpress.org/v20/sorgner.htm
+
+ 
+
+Sorgner, Stefan Lorenz. 2004. Vattimo, Metaphysik und der Sinn des Lebens. Grenzgebiete der Wissenschaft 53(2): 169-88.
+
+ 
+
+Stambler, Ilia. 2010. Life extension – a conservative enterprise? Some fin-de-siècle and early twentieth century precursors of transhumanism. Journal of Evolution and Technology 21(1) (March): 13-26.
+
+http://jetpress.org/v21/stambler.htm
+
+ 
+
+Varela, Francisco J., Evans Thompson, and Eleanor Rosch. 1991. The embodied mind: Cognitive science and human experience. Cambridge, MA, MIT Press.
+
+ 
+
+Vattimo, Gianni. 1988. The end of modernity: Nihilism and hermeneutics in post-modern culture. Trans. Jon R. Snyder. Cambridge: Polity Press.
+
+ 
+
+Yovel, Y. 1994. Nietzsche, the Jews, and ressentiment. In Nietzsche, Genealogy, Morality: Essays on Nietzsche’s Genealogy of Morals ed. R. Schacht, 214-36. Berkeley: University of California Press.
+
+ 
+

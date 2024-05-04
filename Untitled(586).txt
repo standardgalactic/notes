@@ -1,0 +1,522 @@
+
+│ ├ Contextual Bayesian Inference for Visual Object Tracking and Abnormal Behavior Detection
+│ ├ Convergent Evolution  Limited Forms Most Beautiful (Vienna Series in Theoretical Biology)  
+│ ├ Counterfactuals and Causal Inference  Models and Principles for Social Research
+│ ├ Crawford duke 0066D 14065
+│ ├ Creative Sequencing Techniques for Music Production, Second Edition  A Practical Guide to Pro Tools, Logic, Digital Performer, and Cubase
+│ ├ Critical Realism, Post-positivism and the Possibility of Knowledge (Routledge Studies in Critical Realism)
+│ ├ Cryptoassets  The Innovative Investor’s Guide to Bitcoin and Beyond
+│ ├ Current trends in bayesian methodology with applications
+│ ├ D Programming - Wikibooks, open books for an open world
+│ ├ DA Sebastian.Steuer
+│ ├ DH part3 e
+│ ├ Damla Gunes Dissertation
+│ ├ Dark Matter Annihilation at the Galactic Center
+
+│ ├ Data Analysis and Visualization Using Python Analyze Data to Create Visualizations for BI Systems
+│ ├ Data Analysis  A Bayesian Tutorial
+│ ├ Data Model Patterns  A Metadata Map
+│ ├ Data Science with Julia
+│ ├ Date on Database 
+│ ├ Dawkins’ God  From The Selfish Gene to The God Delusion
+│ ├ Deep Learning with Applications Using Python  Chatbots and Face, Object, and Speech Recognition with Tensorflow and Keras
+│ ├ Deep Thinking  Where Machine Intelligence Ends and Human Creativity Begins
+│ ├ Dependence of bubble size and peak rarefractional pressure on maximum bubble response during
+│ ├ Deploying Rails with Docker, Kubernetes and ECS
+│ ├ Derivatives analytics with Python   data analysis, models, simulation, calibration and hedging
+│ ├ Design It!  From Programmer to Software Architect
+│ ├ Design and Implementation of Advanced Bayesian Networks with Comparative Probability
+│ ├ Design by Evolution  Advances in Evolutionary Design
+│ ├ Designing Data-Intensive Applications  The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+│ ├ Diagonalization as rotation
+│ ├ Diagrammatology  An Investigation on the Borderlines of Phenomenology, Ontology, and Semiotics
+│ ├ Digital Design (VHDL)  An Embedded Systems Approach Using VHDL  
+│ ├ Digital Design Using VHDL  A Systems Approach
+│ ├ Digital Logic & Computer Design
+│ ├ Digital Principles and Logic Design 
+│ ├ Digital System Design with FPGA  Implementation Using Verilog and VHDL
+│ ├ Digital Systems Design Using VHDL
+│ ├ Digital electronics  a practical approach with VHDL
+│ ├ Dilbert 2.0  The Dot-Com Bubble, 1998 to 2000
+│ ├ Diploma democracy   the rise of political meritocracy
+│ ├ Dire presque la même chose   Expériences de traduction
+│ ├ Discrete Mathematics   Proofs, Structures and Applications, Third Edition
+│ ├ Dispositions and IDO
+│ ├ Docker  The Complete Beginners Guide to Starting with Docker
+│ ├ Docker Compose Philosophie de Docker
+│ ├ Docker Deep Dive
+│ ├ Docker Hands on  Deploy, Administer Docker Platform
+│ ├ Docker Management Design Patterns  Swarm Mode on Amazon Web Services
+│ ├ Docker for Data Science  Building Scalable and Extensible Data Infrastructure Around the Jupyter Notebook Server
+│ ├ Docker for Sysadmins  Linux Windows VMware
+│ ├ Docker in Practice
+│ ├ Docker in Production  Lessons from the Trenches
+│ ├ Docker, Microservices, and Kubernetes
+│ ├ Docker  Up & Running  Shipping Reliable Containers in Production
+│ ├ Doing Bayesian Data Analysis, Second Edition  A Tutorial with R, JAGS, and Stan
+│ ├ Dynamic Bayesian Networks
+│ ├ Dynamic Programming and Bayesian Inference, Concepts and Applications
+│ ├ Dysfunctional Paradigms in Clinical Trials 
+│ ├ Early Speculative Bubbles & Increases in the Money Supply
+│ ├ Effective Robotics Programming with ROS
+│ ├ Effective Software Test Automation  Developing an Automated Software Testing Tool
+│ ├ Electromagnetic Brain Imaging  A Bayesian Perspective
+│ ├ Electromagnetics, Microwave Circuit, And Antenna Design for Communications Engineering, Second Edition (Artech House Antennas and Propagation Library)
+│ ├ Eledman Array operators
+│ ├ Elementary linear algebra 10th edition
+│ ├ Elements of probability and statistics  de Finetti's approach, Bayesian statistics
+│ ├ Embedded Systems Design with Platform FPGAs  Principles and Practices
+│ ├ Emerging technologies for health and medicine  virtual reality, augmented reality, artificial intelligence, internet of things, robotics, industry 4.0
+│ ├ Engineering Metallurgy - Applied Physical Metallurgy
+│ ├ Environmental Engineering Dictionary and Directory
+│ ├ Epics of Sumerian Kings - The Matter of Aratta
+│ ├ Erlang and Elixir for Imperative Programmers
+│ ├ Essential Algorithms  A Practical Approach to Computer Algorithms Using Python and C#
+│ ├ Essential Docker for ASP.NET Core MVC
+│ ├ Everyday Math Demystified
+│ ├ Excel to Graphviz Relationship Visualizer
+│ ├ Exploring the Universe  From Near Space to Extra-Galactic  A Collection of Research Reviews on Contemporary Astrophysics and Space Science
+│ ├ Express.js  Guide Book on Web framework for Node.js
+│ ├ Extrapyramidal-symptoms
+│ ├ F-Droid.apk
+│ ├ FPGA Prototyping by VHDL Examples
+│ ├ FPGA-based Implementation of Signal Processing Systems
+│ ├ FPGAs   Fundamentals, advanced features, and applications in industrial electronics
+│ ├ FablesEgypt1
+│ ├ Fake News, Propaganda, and Plain Old Lies  How to Find Trustworthy Information in the Digital Age
+│ ├ False Profits  Recovering from the Bubble Economy
+│ ├ Famous First Bubbles  The Fundamentals of Early Manias
+│ ├ Fascinate  Your 7 Triggers to Persuasion and Captivation
+│ ├ Feathers  The Evolution of a Natural Miracle
+│ ├ Figure Drawing Methods for Artists  Over 130 Methods for Sketching, Drawing, and Artistic Discovery
+│ ├ Finite Math for Dummies
+│ ├ Finite element modeling and simulation with ANSYS Workbench
+│ ├ Forecasting with Bayesian Vector Autoregressions - Örebro universitet
+│ ├ Forge Your Future with Open Source  Build Your Skills. Build Your Network. Build the Future of Technology
+│ ├ Forget OpenMC
+│ ├ Foundations of Bayesianism
+│ ├ Frames of Mind  The Theory of Multiple Intelligences
+│ ├ Free-Form Deformations in a Constructive Solid Geometry Modeling
+│ ├ From Atoms to Galaxies  A Conceptual Physics Approach to Scientific Awareness
+│ ├ From Bacteria to Bach and Back  The Evolution of Minds
+│ ├ Full Kotlin Reference
+│ ├ Full Stack JavaScript  Learn Backbone.Js, Node.Js, and Mongodb
+│ ├ Functional Programming in C#  How to write better C# code
+│ ├ Functional Programming in JavaScript  How to improve your JavaScript programs using functional techniques
+│ ├ Functional Reactive Programming
+│ ├ Functions-in-BFO
+│ ├ Fundamental Astronomy
+│ ├ Fundamental Techniques for Geometric and Solid Modeling
+│ ├ Fundamentals of Galaxy Dynamics, Formation and Evolution
+│ ├ Fundamentals of Logic Design
+│ ├ Fundamentos de Lógica Digital con Diseño VHDL
+│ ├ Funny Memes  An ebook with funny memes, duhhh
+│ ├ GARCIAHORTON-DISSERTATION-2015
+│ ├ GIMP Starter  Learn the basics of GIMP through practical examples
+│ ├ GIMP for Absolute Beginners
+│ ├ GNU Image Manipulation Program - The Gimp - Linux
+│ ├ Galactic Encounters  Our Majestic and Evolving Star-System, From the Big Bang to Time's End
+│ ├ Galactic High-Energy Astrophysics High-Accuracy Timing and Positional Astronomy 
+│ ├ Galileo and the Mountains of the Moon Analogical R
+│ ├ GalvesLocherbach - Low resolution
+│ ├ Game On!  Gamification, Gameful Design, and the Rise of the Gamer Educator
+│ ├ Game Programming Patterns
+│ ├ Game Theory and Its Applications.djvu
+│ ├ Games and information  an introduction to game theory
+│ ├ Gaussian processes in Bayesian modeling  User guide for Matlab 
+│ ├ Gene Regulatory Network Reconstruction Using Dynamic Bayesian Net
+│ ├ General Topology [John L. Kelley]
+│ ├ Generalized Linear Models  A Bayesian Perspective
+│ ├ Get Programming with Go
+│ ├ Get Programming with Haskell
+│ ├ Getting MEAN with Mongo, Express, Angular, and Node
+│ ├ Global Asset Allocation  A Survey of the World’s Top Asset Allocation Strategies
+│ ├ Global value   how to spot bubbles, avoid market crashes, and earn big returns in the stock market
+│ ├ Go Programming by Example
+│ ├ Go Web Programming
+│ ├ Go in Action
+│ ├ Graph-based Knowledge Representation  Computational Foundations of Conceptual Graphs
+│ ├ Graphviz Tutorial
+│ ├ Gravity's Engines  How Bubble-Blowing Black Holes Rule Galaxies, Stars, and Life in the Cosmos
+│ ├ Gray hat Python   Python programming for hackers and reverse
+│ ├ Griftopia  Bubble Machines, Vampire Squids, and the Long Con That Is Breaking America
+│ ├ H-Point  The Fundamentals of Car Design & Packaging
+│ ├ Habli Nada 2016 thesis
+│ ├ Han-2009-Code Completion From Abbreviated Input
+│ ├ Handbook in Monte Carlo Simulation  Applications in Financial Engineering, Risk Management, and Economics
+│ ├ Handbook of  Graph Grammars and Computing by Graph Transformation, Volume 1  Foundations (Handbook of Graph Grammars and Computing by Graph Transformation)
+│ ├ Handbook of Evolution, Volume 1  The Evolution of Human Societies and Cultures
+│ ├ Handbook of Evolution. Volume 2  The Evolution of Living Systems
+│ ├ Handbook of Face Recognition
+│ ├ Handbook of Scientific Methods of Inquiry for Intelligence Analysis (Scarecrow Professional Intelligence Education Series)
+│ ├ Handbook of Structural Equation Modeling
+│ ├ Handbook of approximate Bayesian computation
+│ ├ Handbook of the History of Logic, Volume 8  The Many Valued and Nonmonotonic Turn in Logic
+│ ├ Handbook of the History of Logic. Volume 01  Greek, Indian and Arabic Logic
+│ ├ Handbook of the History of Logic. Volume 02  Mediaeval and Renaissance Logic
+│ ├ Handbook of the History of Logic. Volume 03  The Rise of Modern Logic  From Leibniz to Frege
+│ ├ Handbook of the History of Logic. Volume 04  British Logic in the Nineteenth Century
+│ ├ Handbook of the History of Logic. Volume 05  Logic from Russell to Church
+│ ├ Handbook of the History of Logic. Volume 06  Sets and Extensions in the Twentieth Century
+│ ├ Handbook of the History of Logic. Volume 07  Logic and the Modalities in the Twentieth Century
+│ ├ Handbook of the History of Logic. Volume 08  The Many Valued and Nonmonotonic Turn in Logic
+│ ├ Handbook of the History of Logic. Volume 10  Inductive Logic
+│ ├ Handbook of the History of Logic. Volume 11  Logic  A History of its Central Concepts
+│ ├ Handbook of the history of logic. Vol. 09. Computational logic
+│ ├ Head First Algebra  A Learner's Guide to Algebra I
+│ ├ Head First C#  A Learner's Guide to Real-World Programming with C#, XAML, and .NET
+│ ├ Head First Kotlin
+│ ├ Hello, Haskell!
+│ ├ Hierarchical Bayesian Modeling with Ensemble MCMC
+│ ├ Hierarchical Bayesian Optimization Algorithm  Toward a new Generation of Evolutionary Algorithms
+│ ├ Histoire de la Logique
+│ ├ Histoire de problemes, histoire des mathematiques
+│ ├ Histoire des sciences et des savoirs   Tome 1, De la Renaissance aux Lumières
+│ ├ Histoire des sciences et des savoirs   Tome 2, Modernité et globalisation
+│ ├ Histoire des sciences et des savoirs   Tome 3, Le siècle des technosciences
+│ ├ Homemade bath bombs, salts and scrubs  300 natural recipes for luxurious soaks
+│ ├ How software works   the magic behind encryption, CGI, search engines, and other everyday technologies
+│ ├ How Improving the efficiency of Bayesian
+│ ├ Human-centered design considered harmful
+│ ├ Husserl-Ideas-First-Book
+│ ├ Hypercubeorder.svg (1)
+│ ├ Hypercubeorder.svg
+│ ├ Hyperparameter optimization using Bayesian optimization on transfer learning for medical image
+│ ├ IRON MAKING AND STEELMAKING  THEORY AND PRACTICE
+│ ├ Ignition!  An Informal History of Liquid Rocket Propellants
+│ ├ Illustrious Americans   their lives and great achievements
+│ ├ Industrial Automation and Robotics  An Introduction
+│ ├ Infants as causal agents. In A. Gopnik & L. E.
+│ ├ Information Warfare  The Meme is the Embryo of the Narrative Illusion
+│ ├ Inkscape Beginner's Guide
+│ ├ Inkscape  Guide to a Vector Drawing Program (4th Edition)
+│ ├ Innovations in Bayesian Networks  Theory and Applications
+│ ├ Instant Practice Packets  Alphabet  Ready-to-Go Activity Pages That Help Children Build Alphabet Recognition and Letter Formation Skills
+│ ├ Intelligence and Intelligence Testing  
+│ ├ Intelligent Optimization of Mold Design and Process Parameters in Injection Molding
+│ ├ Interdisciplinary Bayesian Statistics  EBEB 2014
+│ ├ Intermediate Perl, 2nd Edition  Beyond The Basics of Learning Perl
+│ ├ Interpreting LISP  Programming and Data Structures
+│ ├ Introducing Character Animation with Blender
+│ ├ Introducing Erlang  Getting Started in Functional Programming
+│ ├ Introducing Go  Build Reliable, Scalable Programs
+│ ├ Introduction to Applied Bayesian Statistics and Estimation for Social Scientists (Statistics for Social and Behavioral Sciences)
+│ ├ Introduction to Bayesian Scientific Computing  Ten Lectures on Subjective Computing 
+│ ├ Introduction to Bayesian Statistics
+│ ├ Introduction to Bayesian Statistics for non-mathematicians by J. Andrés Christen - PDF Drive
+│ ├ Introduction to Computational Physics with examples in Julia programming language
+│ ├ Introduction to Computer Science Using Python
+│ ├ Introduction to Health and Safety in Construction. The handbook for construction professionals and students on NEBOSH and other construction courses
+│ ├ Introduction to Medical Imaging
+│ ├ Introduction to WinBUGS for Ecologists  Bayesian approach to regression, ANOVA, mixed models and related analyses
+│ ├ Introduction to the Physics of Matter  Basic atomic, molecular, and solid-state physics
+│ ├ Introduction-to-haskell
+│ ├ Intuition Pumps And Other Tools for Thinking
+│ ├ Ironmaking and Steelmaking Processes  Greenhouse Emissions, Control, and Reduction
+│ ├ Irrational Exuberance
+│ ├ Isosurfaces  Geometry, Topology, and Algorithms
+│ ├ It Must Be Beautiful  Great Equations of Modern Science.djvu
+│ ├ JAVA  Easy Java Programming for Beginners, Your Step-By-Step Guide to Learning Java Programming
+│ ├ Java Programming for Android Developers For Dummies, 2nd Edition
+│ ├ JavaScript  A Beginner's Guide to Learning the Basics of Javascript Programming!
+│ ├ Jenkins 101 Getting Started With Jenkins!
+│ ├ Jenkins Automation
+│ ├ Julia a fresh
+│ ├ JuliaSemiring HPEC2013 Paper(1)
+│ ├ Julian Barbour -- Shape Dynamics Architectonic Structure and Unexpected Perspectives.mp3
+│ ├ KR100327209B1
+│ ├ Karl Pearson  The Scientific Life in a Statistical Age
+│ ├ Kay72a
+│ ├ Keet2011 Chapter TheUseOfFoundationalOntologies
+│ ├ Kernel Methods for Nonparametric Bayesian Inference of Probability Densities and Point Processes
+│ ├ Kickstarting+Kotlin+Culture
+│ ├ Knocking on Heaven's Door  How Physics and Scientific Thinking Illuminate the Universe and the Modern World  
+│ ├ Knowing How vs. Knowing That Barry Smith
+│ ├ Knowledge Graph and Semantic Computing. Language, Knowledge, and Intelligence
+│ ├ Kotlin in Action
+│ ├ Kubernetes Management Design Patterns  With Docker, CoreOS Linux, and Other Platforms
+│ ├ Kubernetes Microservices with Docker
+│ ├ Kubernetes in Action
+│ ├ Kubernetes  Up and Running  Dive into the Future of Infrastructure
+│ ├ LSAT Logic Games for Dummies
+│ ├ La Voie du chamane  Un manuel de pouvoir & de guérison
+│ ├ La technique du succès   nouvelle édition du manuel pratique d'organisation de soi-même
+│ ├ Land of Lisp  Learn to Program in Lisp, One Game at a Time!
+│ ├ Le choix bayesien   Principes et pratique (Statistique et probabilites appliquees)
+│ ├ Le sentiment d'abandon   Se liberer du passe pour exister par soi-meme
+│ ├ Learn Amazon Web Services in a Month of Lunches
+│ ├ Learn Java the Easy Way  A Hands-On Introduction to Programming
+│ ├ Learn More Python 3 the Hard Way  The Next Step for New Python Programmers
+│ ├ Learn NodeJS in 1 Day  Complete Node  JS Guide with Examples
+│ ├ Learn Pascal
+│ ├ Learn Unity for Android Game Development  A Guide to Game Design, Development, and Marketing
+│ ├ Learn You a Haskell for Great Good!
+│ ├ Learning Agile  Understanding Scrum, XP, Lean, and Kanban
+│ ├ Learning Ansible
+│ ├ Learning Ansible 2, 2nd Edition
+│ ├ Learning Bayesian Models with R
+│ ├ Learning Bayesian Networks
+│ ├ Learning C# Programming with Unity 3D
+│ ├ Learning GNU Emacs, 3rd Edition
+│ ├ Learning NumPy Array  Supercharge your scientific Python computations by understanding how to use the NumPy library effectively
+│ ├ Learning  How To Become a Genius And Expert  In Any Subject With Accelerated Learning
+│ ├ Lectures in Logic and Set Theory. Volume 1  Mathematical Logic
+│ ├ LeeWagenmakers2013 Free
+│ ├ Leonard Towards lifelong
+│ ├ Lesson 5 Solid Modeling - Constructive Solid Geometry
+│ ├ Let the Evidence Speak  Using Bayesian Thinking in Law, Medicine, Ecology and Other Areas
+│ ├ LiarLiarPantsOnFre
+│ ├ Lifetime-consumption-of-resources-by-the-average-American-Source-Mineral-Information Q640
+│ ├ Likelihood, Bayesian, and MCMC Methods in Quantitative Genetics
+│ ├ Linear Algebraic Monoids
+│ ├ Linux Basics for Hackers  Getting Started with Networking, Scripting, and Security in Kali
+│ ├ Linux For Beginners  The Ultimate Guide To The Linux Operating System & Linux
+│ ├ Linux  Linux Command Line, Cover all essential Linux commands. A complete introduction to Linux Operating System, Linux Kernel, For Beginners, Learn Linux in easy steps, Fast!   A Beginner's Guide
+│ ├ Linux  The Ultimate Beginners Guide to Linux Operating System
+│ ├ Linux  The Ultimate Step by Step Guide to Quickly and Easily Learning Linux
+│ ├ Linux® Command Line and Shell Scripting Bible
+│ ├ Logic Synthesis for FPGA-Based Finite State Machines
+│ ├ Logic and Discrete Mathematics  A Concise Introduction
+│ ├ Logic as a Tool  A Guide to Formal Logical Reasoning
+│ ├ Logic matrix - operations.svg
+│ ├ Logic matrix - whatsthecaserelations.svg
+│ ├ Logical connectives Hasse diagram.svg
+│ ├ Logique et Existence. Essai sur la Logique de Hegel.
+│ ├ Logistics, site automation, and robotics   automated and robotic on-site factories
+│ ├ MIT.Press.Concepts.Techniques.and.Models.of.Computer.Programming
+│ ├ M x org-mode
+│ ├ Machine Learning  Step-by-Step Guide To Implement Machine Learning Algorithms with Python
+│ ├ Made to Stick  Why Some Ideas Survive and Others Die
+│ ├ Make Your Own Neural Network  An In-Depth Visual Introduction for Beginners
+│ ├ Making Everyday Electronics Work  A Do-It-Yourself Guide
+│ ├ Making Natural Liquid Soaps  Herbal Shower Gels, Conditioning Shampoos,  Moisturizing Hand Soaps, Luxurious Bubble Baths, and more
+│ ├ Manufacturing Simulation with Plant Simulation
+│ ├ Manufacturing automation   metal cutting mechanics, machine tool vibrations, and CNC design
+│ ├ Manufacturing  Design, Production, Automation, and Integration (Manufacturing Engineering and Materials Processing)
+│ ├ Mastering Blender
+│ ├ Mastering Node.js
+│ ├ Mathematica in Action  Problem Solving Through Visualization and Computation
+│ ├ Mathematical Logic  A Course with Exercises Part I  Propositional Calculus, Boolean Algebras, Predicate Calculus, Completeness Theorems
+│ ├ Mathematical Methods in Physics  Distributions, Hilbert Space Operators, Variational Methods, and Applications in Quantum Physics
+│ ├ Mathematical Modeling and Numerical Simulation in Continuum Mechanics  Proceedings of the International Symposium on Mathematical Modeling and Numerical Simulation in Continuum Mechanics, September 29 – October 3, 2000 Yamaguchi, Japan
+│ ├ Mathematical Models for Remote Sensing Image Processing  Models and Methods for the Analysis of 2D Satellite and Aerial Images
+│ ├ Mathematical and Physical Data, Equations, and Rules of Thumb
+│ ├ Mathematical theory of Bayesian statistics
+│ ├ Maya.svg
+│ ├ Measurement Error and Misclassification in Statistics and Epidemiology  Impacts and Bayesian Adjustments.chm
+│ ├ Medical Computer Vision and Bayesian and Graphical Models for Biomedical Imaging   MICCAI 2016 International Workshops, MCV and BAMBI, Athens, Greece, October 21, 2016, Revised Selected Papers
+│ ├ MemTri  A Memory Forensics Triage Tool using Bayesian Network and Volatility
+│ ├ Meme Media and Meme Market Architectures  Knowledge Media for Editing, Distributing, and Managing Intellectual Resources
+│ ├ Memes in Digital Culture
+│ ├ Memes of Translation  The spread of ideas in translation theory. Revised edition
+│ ├ Merchants of doubt  how a handful of scientists obscured the truth on issues from tobacco smoke to global warming
+│ ├ Mergers, Acquisitions, and Other Restructuring Activities  An Integrated Approach to Process, Tools, Cases, and Solutions
+│ ├ Meteorology demystified by STAN GIBILISCO
+│ ├ Microbiology Demystified - Tom Betsy, James Keogh
+│ ├ Microservice Architecture - transform.ca.com
+│ ├ Microservices Patterns  With examples in Java
+│ ├ Microservices with Docker on Microsoft Azure
+│ ├ Microservices  Flexible Software Architecture
+│ ├ Microsoft Windows 3.1 - Getting Started with Microsoft Windows
+│ ├ Milk  the surprising story of milk through the ages
+│ ├ Missing Data in Longitudinal Studies  Strategies for Bayesian Modeling and Sensitivity Analysis (Chapman & Hall CRC Monographs on Statistics & Applied Probability)
+│ ├ MoL-2017-19.text
+│ ├ Modeling and Control of Discrete-event Dynamic Systems  with Petri Nets and Other Tools (Advanced Textbooks in Control and Signal Processing)
+│ ├ Modeling and Reasoning with Bayesian Networks
+│ ├ Modeling of Steelmaking Processes
+│ ├ Modelling bubbly flows using Volume of Fluid, Front Tracking and Discrete Bubble Models
+│ ├ Modelling operational risk using a Bayesian approach to extreme value theory
+│ ├ Modern Linux Administration  How to Become a Cutting-Edge Linux Administrator
+│ ├ Modern Principles of Economics
+│ ├ Modern classical physics  optics, fluids, plasmas, elasticity, relativity, and statistical physics
+│ ├ Modified Bayesian Kriging for noisy response problems 
+│ ├ Muller-Budack Ontology-Driven Event Type Classification in Images WACV 2021 paper
+│ ├ Multiscale Modeling  A Bayesian Perspective (Springer Series in Statistics)
+│ ├ Multivariate Analysis with LISREL
+│ ├ Multivariate Bayesian Statistics  Models for Source Separation
+│ ├ Multivariate Bayesian statistics  models for source separation and signal unmixing
+│ ├ Mysterium Cosmographicum 
+│ ├ Naked Statistics  Stripping the Dread from the Data
+│ ├ Nature Guide  Snakes and Other Reptiles and Amphibians
+│ ├ Nelson Textbook of PEDIATRICS
+│ ├ Net Core in Action
+│ ├ Network Programmability and Automation
+│ ├ Network Programming in Dot NET With C Sharp and Visual Basic Dot NET
+│ ├ Network Programming with Go  Essential Skills for Using and Securing Networks
+│ ├ Next Generation Earth System Prediction  Strategies for Subseasonal to Seasonal Forecasts
+│ ├ Node.js 8 the Right Way  Practical, Server-Side JavaScript That Scales
+│ ├ Node.js Blueprints - Practical Projects to Help You Unlock the Full Potential of Node.js
+│ ├ Node.js for Embedded Systems
+│ ├ Node.js in Action - EBooks World
+│ ├ NodeJSNotesForProfessionals
+│ ├ Non-Bayesian Decision Theory  Beliefs and Desires as Reasons for Action
+│ ├ OOP with Microsoft Visual Basic .NET and Microsoft Visual C# .NET Step by Step
+│ ├ Objective Bayesian analysis on the quantile regression
+│ ├ One, Two, Three, Infinity. Facts & Speculations in Science
+│ ├ One word substitution For SSC and other competitive exams
+│ ├ Ontology evaluation using wikipedia categories for
+│ ├ Open Source Intelligence Methods and Tools  A Practical Guide to Online Intelligence
+│ ├ OpenShift in Action
+│ ├ Operating System Concepts and Basic Linux Commands
+│ ├ Operational Modal Analysis. Modeling, Bayesian Inference, Uncertainty Laws
+│ ├ Optimized Bayesian Dynamic Advising  Theory and Algorithms (Advanced Information and Knowledge Processing)
+│ ├ Optimum Inductive Methods  A Study in Inductive Probability, Bayesian Statistics, and Verisimilitude
+│ ├ Orion 2
+│ ├ Osez parler en public
+│ ├ Outnumbered  From Facebook and Google to Fake News and Filter-bubbles
+│ ├ Pac-Bayesian supervised classification  The thermodynamics of statistical learning
+│ ├ Painless Docker Basic Edition
+│ ├ Panda3D 1.7 Game Developer's Cookbook
+│ ├ Paradoxes and Priors in Bayesian Regression
+│ ├ Peirce Logic
+│ ├ Personal Finance and Investments  A Behavioural Finance Perspective
+│ ├ Petromania  Black gold, paper barrels and oil price bubbles
+│ ├ Petrova K PhD Thesis final 050916
+│ ├ Peur - Trump à la Maison Blanche
+│ ├ PhD-Thesis-Margaritis
+│ ├ Physics Demystified   A Self-Teaching Guide (Demystified)
+│ ├ Physics of the Plasma Universe
+│ ├ Pinaky-Thesis-May-2017-Final
+│ ├ Planets, Stars and Stellar Systems  Volume 1  Telescopes and Instrumentation
+│ ├ Planets, Stars and Stellar Systems  Volume 2  Astronomical Techniques, Software, and Data
+│ ├ Planets, Stars and Stellar Systems  Volume 4  Stellar Structure and Evolution
+│ ├ Planets, Stars and Stellar Systems  Volume 5  Galactic Structure and Stellar Populations
+│ ├ Planets, Stars and Stellar Systems  Volume 6  Extragalactic Astronomy and Cosmology
+│ ├ Planets, stars and stellar systems.   Volume 3, Solar and stellar planetary systems
+│ ├ Playing Smart  On Games, Intelligence, and Artificial Intelligence
+│ ├ Poggio-Attention as a Bayesian inference process
+│ ├ Political Bubbles  Financial Crises and the Failure of American Democracy
+│ ├ Post-Truth, Fake News  Viral Modernity & Higher Education
+│ ├ Pozzi, Costantini - Tesi Laurea Magistrale 2016-2017
+│ ├ Practical Bayesian Data Analysis from a Former Frequentist
+│ ├ Practical Bayesian Inference A Primer for Physical Scientists
+│ ├ Practical C++ Design  From Programming to Architecture
+│ ├ Practical Docker with Python  Build, Release and Distribute Your Python App with Docker
+│ ├ Practical Game Development with Unity and Blender
+│ ├ Practical Haskell  A Real World Guide to Programming
+│ ├ Practical Machine Learning and Image Processing  For Facial Recognition, Object Detection, and Pattern Recognition Using Python
+│ ├ Practical Machine Learning with Python  A Problem-Solver’s Guide to Building Real-World Intelligent Systems
+│ ├ Practical Node.Js  Building Real-World Scalable Web Apps
+│ ├ Practical Node.js
+│ ├ Practical Python Design Patterns  Pythonic Solutions to Common Problems
+│ ├ Practical Web Scraping for Data Science  Best Practices and Examples with Python
+│ ├ Practical concurrent Haskell   with big data applications
+│ ├ Predicting diffused-bubble oxygen transfer rate using the discrete-bubble model
+│ ├ Prerational Intelligence  Adaptive Behavior and Intelligent Systems Without Symbols and Logic, Volume 1, Volume 2 Prerational Intelligence  Interdisciplinary Perspectives on the Behavior of Natural and Artificial Systems, Volume 3
+│ ├ Principles and Practice of Structural Equation Modeling
+│ ├ Principles of Robotics & Artificial Intelligence
+│ ├ Principles of Transistor Circuits. Introduction to the Design of Amplifiers, Receivers and Digital Circuits
+│ ├ Prior Processes and Their Applications  Nonparametric Bayesian Estimation
+│ ├ Pro Android with Kotlin
+│ ├ Pro Devops with Google Cloud Platform  With Docker, Jenkins, and Kubernetes
+│ ├ Pro Docker  Learn how to use Containers as a Service for development and deployment
+│ ├ Pro Java Clustering and Scalability  Building Real-Time Apps with Spring, Cassandra, Redis, WebSocket and RabbitMQ
+│ ├ Pro MERN Stack  Full Stack Web App Development with Mongo, Express, React, and Node
+│ ├ Pro REST API Development with Node.js
+│ ├ Pro SQL Server on Linux  Including Container-Based Deployment with Docker and Kubernetes
+│ ├ Probabilistic Forecasting and Bayesian Data Assimilation
+│ ├ Probabilistic Graphical Models  Principles and Techniques
+│ ├ Probabilistic Programming in Julia
+│ ├ Probabilistic finite element model updating using Bayesian statistics   applications to aeronautical and mechanical engineering
+│ ├ Process Control System Fault Diagnosis  A Bayesian Approach
+│ ├ Programmable Logic Controllers  A Practical Approach to IEC 61131-3 using CoDeSys
+│ ├ Programming JavaScript Applications  Robust Web Architecture with Node, HTML5, and Modern JS Libraries
+│ ├ Programming Rust
+│ ├ Programming WebAssembly with Rust
+│ ├ Programming in Haskell 2nd edition
+│ ├ Programming in D
+│ ├ Python 3 Text Processing with NLTK 3 Cookbook  Over 80 practical recipes on natural language processing techniques using Python's NLTK 3.0
+│ ├ Python Algorithms  Mastering Basic Algorithms in the Python Language
+│ ├ Python Data Analytics  With Pandas, NumPy, and Matplotlib
+│ ├ Python Programming.  Python Programming for Beginners, Python Programming for Intermediates
+│ ├ Python  Learn Python Regular Expressions FAST!   The Ultimate Crash Course to Learning the Basics of Python Regular Expressions In No Time
+│ ├ Quantum Physics For Dummies
+│ ├ Rapid Prototyping with JS  Agile JavaScript Development
+│ ├ Rasmussen-2010-A Bayesian Approach for Fast and Accurate Gene Tree
+│ ├ Raspberry Pi Home Automation with Arduino, 2nd Edition  Unleash the power of the most popular microboards to build convenient, useful, and fun home automation projects
+│ ├ Reach For the Stars-Manual
+│ ├ Ready, Study, Go!  Smart Ways to Learn
+│ ├ Real-Time Web Application Development   With ASP.NET Core, SignalR, Docker, and Azure
+│ ├ Reasoning with data   an introduction to traditional and Bayesian statistics using R
+│ ├ Refactoring  Improving the Design of Existing Code
+│ ├ Regular Expression Pocket Reference  Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET
+│ ├ Regularization and Bayesian Methods for Inverse Problems in Signal and Image Processing
+│ ├ Reliability and Risk  A Bayesian Perspective
+│ ├ Remote Sensing and Image Interpretation
+│ ├ Rigorously Bayesian Multitarget Tracking and Localization
+│ ├ Robot Operating System for Absolute Beginners  Robotics Programming Made Easy
+│ ├ Robot-Proof  Higher Education in the Age of Artificial Intelligence
+│ ├ Rocket Locomotive Modeling PDF Tutorial - Blender 3D Design 
+│ ├ Science Year by Year.  A Visual History, From Stone Tools to Space Travel
+│ ├ Scientific Programming and Computer Architecture
+│ ├ Scientific Reasoning  The Bayesian Approach
+│ ├ Security analysis of Docker containers in a production environment
+│ ├ Semantic Web Approach to the GitHub Database Proce
+│ ├ Service-Oriented Architecture  Analysis and Design for Services and Microservices
+│ ├ Seven Databases in Seven Weeks  A Guide to Modern Databases and the NoSQL Movement
+│ ├ Seven More Languages in Seven Weeks  Languages That Are Shaping the Future
+│ ├ Shah The Bayesian Case
+│ ├ Shoorangiz, Mohammadreza Final PhD Thesis
+│ ├ Simplifying JavaScript  Writing Modern JavaScript with ES5, ES6, and Beyond
+│ ├ Simulating Nonlinear Circuits with Python Power Electronics  An Open-Source Simulator, Based on Python™
+│ ├ Smashing Node.js  JavaScript Everywhere
+│ ├ Smithsonian  The Dinosaur Book  And Other Wonders of the Prehistoric World
+│ ├ Snakes, Sunrises, and Shakespeare  How Evolution Shapes Our Loves and Fears
+│ ├ Social Cognition  How Individuals Construct Social Reality (Social Psychology  A Modular Course
+│ ├ Solar, Stellar and Galactic Connections between Particle Physics and Astrophysics (Astrophysics and Space Science Proceedings)
+│ ├ Some Bayesian and non-Bayesian procedures for the analysis of com
+│ ├ Spark  The Definitive Guide  Big Data Processing Made Simple
+│ ├ Spatial2proceedings
+│ ├ Special Subjects  Basic Color Theory  An Introduction to Color for Beginning Artists
+│ ├ Spectral Theory and Quantum Mechanics  Mathematical Foundations of Quantum Theories, Symmetries and Introduction to the Algebraic Formulation
+│ ├ Speed Math for Kids  The Fast, Fun Way To Do Basic Calculations
+│ ├ Spooky Action at a Distance  The Phenomenon That Reimagines Space and Time—and What It Means for Black Holes, the Big Bang, and Theories of Everything
+│ ├ Spring Microservices in Action
+│ ├ Stability and Coalescence of Bubbles in Salt Solutions in a Bubble
+│ ├ Star Formation in Galaxy Evolution  Connecting Numerical Models to Reality  Saas-Fee Advanced Course 43. Swiss Society for Astrophysics and Astronomy
+│ ├ Statistical Arabic Grammar Analyzer Based on Rules Mining Approach Using Naïve Bayesian 
+│ ├ Statistical Data Analytics  Foundations for Data Mining, Informatics, and Knowledge Discovery
+│ ├ Statistical Inference and Prediction in Climatology  A Bayesian Approach
+│ ├ Statistical Rethinking  A Bayesian Course with Examples in R and Stan
+│ ├ Statistical classifiers  Bayesian decision theory and 
+│ ├ Statistically sound machine learning for algorithmic trading of financial instruments
+│ ├ Statistics Without Tears  A Primer for Non Mathematicians
+│ ├ Statistics in Plain English, Third Edition
+│ ├ Statistics  A Bayesian Perspective
+│ ├ Statistics Chkrebtii FINAL
+│ ├ Steels  Metallurgy and Applications, Third Edition
+│ ├ Stevedores and Dockers  A Study of Trade Unionism in the Port of London, 1870–1914
+│ ├ Stochastic Simulation and Monte Carlo Methods  Mathematical Foundations of Stochastic Simulation
+│ ├ Stochastic Weather Generation with Approximate Bayesian Computation
+│ ├ Structural Equation Modeling A Bayesian Approach(2007)
+│ ├ Structures  or, Why things don't fall down
+│ ├ Supprimez vous-même vos douleurs par simple pression d'un doigt
+│ ├ Supriadi 2019 J. Phys.  Conf. Ser. 1211 012050
+│ ├ Survival Analysis with Interval-Censored Data  A Practical Approach with Examples in R, SAS, and BUGS
+│ ├ Survival of the Beautiful  Art, Science, and Evolution
+│ ├ Suspicious Minds  Why We Believe Conspiracy Theories
+│ ├ Symmetry And Complexity  The Spirit And Beauty Of Nonlinear Science
+│ ├ System Dynamics  Modeling, Simulation, and Control of Mechatronic Systems
+│ ├ Systems Thinking, Third Edition  Managing Chaos and Complexity  A Platform for Designing Business Architecture
+│ ├ Tenenbaum-2011-Learning a theory of causality
+│ ├ Tenenbaum Approximate Bayesian
+│ ├ Tenenbaum Bayes and blickets
+│ ├ Tenenbaum One and done
+│ ├ Tenenbaum Predicting the Future (Other University web domain)
+│ ├ Tenenbaum Theory Learning as stochastic
+│ ├ Tenenbaum a tutorial introduction to bayesian
+│ ├ Terminator-Genisys-bilde-4
+│ ├ Terraform  Up and Running (Early Release)
+│ ├ Test of Reasoning – Verbal  Non-Verbal - & General Intelligence  Competitive Examinations
+│ ├ The 4th Industrial Revolution  Responding to the Impact of Artificial Intelligence on Business
+│ ├ The Adventure of the Illustrious Scholar  Papers Presented to Oscar White Muscarella
+│ ├ The Ancient Egyptian Book of the Dead  Prayers, Incantations, and Other Texts from the Book of the Dead
+│ ├ The Animators Survival Kit, Expanded Edition  A Manual of Methods, Principles and Formulas for Classical, Computer, Games, Stop Motion and Internet Animators
+│ ├ The Art Instinct  Beauty, Pleasure, and Human Evolution  
+│ ├ The Artful Species  Aesthetics, Art, and Evolution
+│ ├ The Artist's Guide to Drawing Animals  How to Draw Cats, Dogs, and Other Favorite Pets
+│ ├ The Artist's Guide to GIMP  Creative Techniques for Photographers, Artists, and Designers
+│ ├ The Attention Merchants  The Epic Scramble to Get Inside Our Heads
+│ ├ The Audio Expert  Everything You Need to Know about Audio
+
+~ This space unintentionally left blank ~

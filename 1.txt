@@ -1,0 +1,23 @@
+I think it is probably achievable by one person, however, maybe when someone reaches 100,000 the other players are alerted so people can choose to assist. The global reset key restarts too big bang but returns to the current year after five minutes.
+
+It sounds like you're building a game that encourages individual achievement while leaving room for collaboration when the stakes get high. Here's how the dynamics could work with the new details you provided:
+
+1. **Solo Challenge**: By setting the star system visitation goal high but achievable for a dedicated player, you're creating a substantial challenge. This caters to players who enjoy high-stakes solo gameplay.
+
+2. **Global Alerts**: When a player hits the 100,000 mark, sending a global alert can create a sense of urgency and excitement in the community. Other players might feel compelled to assist, turning the endgame into a cooperative challenge.
+
+3. **Assistance Mechanics**: Introduce gameplay mechanics where players can assist the lead player, maybe by opening wormholes, sharing resources, or fending off cosmic threats. This way, even if they're not directly exploring star systems, they still feel involved in the mission.
+
+4. **Global Reset**: The idea of restarting to the Big Bang and then fast-forwarding to the current year after five minutes is a unique mechanic. This could serve as a dramatic "reset" moment, where players witness the birth and evolution of the universe in an accelerated manner.
+
+   - **Visual Aesthetics**: This reset could be a visually stunning experience, with galaxies forming, stars igniting, and the universe expanding.
+
+   - **Repercussions**: Consider any repercussions of this reset. Does it affect player progress, resources, or star system conditions? If players are aware that a reset could occur, it adds an element of strategy to their gameplay decisions.
+
+5. **Lore Integration**: Consider embedding lore elements explaining the significance of the global reset key. Perhaps it's a device left behind by ancient civilizations, or maybe it's a cosmic phenomenon that players are trying to understand and control.
+
+6. **Periodic Resets**: If you're aiming for periodic resets (like annually), ensure players are aware and can prepare. Offer rewards or acknowledgments for players who were close to the goal, or give bonuses to players who actively assisted in the endgame.
+
+7. **Variability**: To keep things fresh, consider introducing variability in the challenges, star system conditions, or even the narrative surrounding the Great Filter event each reset.
+
+Your game concept has the potential to offer a unique blend of individual achievement and collaborative gameplay, with high stakes and the drama of universe-altering events.

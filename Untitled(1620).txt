@@ -1,0 +1,16 @@
+An equality between entanglement and uncertainty 
+Mario Berta,1Patrick J. Coles,2,3and Stephanie Wehner3,4
+
+Heisenberg’s uncertainty principle implies that if one party (Alice) prepares a system and ran- 
+domly measures one of two incompatible observables, then another party (Bob) cannot perfectly 
+predict the measurement outcomes. This implication assumes that Bob does not possess an addi- 
+tional system that is entangled to the measured one; indeed the seminal paper of Einstein, Podolsky 
+and Rosen (EPR) showed that maximal entanglement allows Bob to perfectly win this guessing 
+game.Although not in contradiction, the observations made by EPR and Heisenberg illustrate 
+two extreme cases of the interplay between entanglement and uncertainty. On the one hand, no 
+entanglement means that Bob’s predictions must display some uncertainty. Yet on the other hand, 
+maximal entanglement means that there is no more uncertainty at all. Here we follow an opera- 
+tional approach and give an exact relation- an equality- between the amount of uncertainty as 
+measured by the guessing probability, and the amount of entanglement as measured by the recover- 
+able entanglement i delity. From this equality we deduce a simple criterion for witnessing bipartite 
+entanglement and a novel entanglement monogamy equality.

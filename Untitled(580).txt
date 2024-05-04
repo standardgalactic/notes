@@ -1,0 +1,86 @@
+Knowledge Modelling for Establishment
+of Common Ground in Dialogue Systems
+Lina Varonina
+Bielefeld University
+Stefan Kopp"
+Bielefeld University
+The establishment and maintenance of common ground, i.e. mutual knowledge, beliefs and
+assumptions, is important for dialogue systems in order to be seen as valid interlocutors in
+both task-oriented and open-domain dialogue. It is therefore important to provide these systems
+with knowledge models, so that their conversations could be grounded in the knowledge about
+the relevant domain. Additionally, in order to facilitate understanding, dialogue systems should
+be able to track the knowledge about the beliefs of the user and the level of their knowledgeability,
+e.g., the assumptions that they hold or the extent to which a piece of knowledge has been accepted
+by the user and can now be considered shared. This article provides a basic overview of current
+research on knowledge modelling for the establishment of common ground in dialogue systems
+The presented body of research is structured along three types of knowledge that can be integrated
+into the system: (1) factual knowledge about the world, (2) personalised knowledge about the
+user, (3) knowledge about user's knowledge and beliefs. Additionally, this article discusses the
+presented body of research with regards to its relevance for the current state-of-the-art dialogue
+systems and several ideal application scenarios that future research on knowledge modelling for
+common ground establishment could aim for.
+1. Introduction: Why do we need to model knowledge in dialogue systems?
+When speaking about engaging in conversations with machines, most people would re-
+fer to interactions with proprietary voice-based assistants (VA), such as Amazon Alexa,
+Google Assistant, Siri, etc. Since their introduction to the market in the previous decade,
+these systems have consistently been on the rise. According to a survey conducted in
+the U.S. in 2020, more than a third of the adult population of the country possesses
+a smart speaker (Kinsella 2020). Therefore, for many people experiences with these
+voice-based assistants will influence their perception and expectations with regards to
+language-based interactions with machines. However, despite recent advances in natu-
+ral language processing (NLP) the capabilities of these wide-spread VAs to lead human-
+like conversations are rather limited, resulting in a mismatch between expectations and
+reality, which is especially prevalent among users with little technical knowledge who
+cannot form adequate judgements about the capabilities of the system and rely on their
+experiences from human-human communication when interacting with VAs (Luger and
+Sellen 2016). Failure to engage with a voice-based assistant in a meaningful way can
+cause users to change their communicative behaviour, e.g., by limiting their vocabulary Italian Journal of Computational Linguistics
+Volume 7, Number 1-2
+and 2016): simple The tasks simplifying that implications the utterances of users or such trust reducing the communicative the system to interactions failures perform with the
+system to range of
+correctly (Luger and Sellen
+and lessons that can be learnt
+from them for the design of conversational agents is one of the research topics of the
+project IMPACT' (The implications of conversing with intelligent machines in everyday
+life for people's beliefs about algorithms, their communication behaviour and their
+relationship-building), a cooperation of various universities and disciplines that the
+authors of this paper are a part of
+t is interesting to note that some researchers reject the notion of classifying interac
+tions with VAs as conversations due to their fundamental differences with actual human
+conversations. Porcheron and colleagues (Porcheron et al. 2018) discussed this idea in
+he context of the findings of their study on everyday use of voice-based assistants
+in families. For instance, they argue that the predefined request-response format of
+he interaction with VAs cannot be equated with interactively emerging adjacency
+pairs, such as question-response, that serve as the basic organisational unit of many
+of our everyday conversations. The responses of voice-based assistants sometimes fail
+coherently follow the requests of their users, which is usually treated by the users
+as incorrect output, rather than a reaction of an equal conversation partner. Overall,
+he findings of the study suggest that smart devices with voice-based assistants are not
+reated as interlocutors by family members, even though the interactions with them are
+embedded in conversational situations within a family.
+These differences in treatment were also seen in open-question interviews about the
+nature of conversations conducted by Clark and colleagues (Clark et al. 2019). While the
+interviewees acknowledged the importance of similar concepts in both human-human
+and human-agent conversations, they operationalised them difterently, as conversations
+with humans were characterised to have both social and transactional purposes, but
+lescriptions of conversations with agents (which were influenced by interviewees' ex
+periences with voice-based assistants) were mainly focused on the transactional aspect.
+5o, for example, establishing common ground was identified as one of the most important
+parts of a good conversation with other humans. However, in a human-agent setting the
+interviewees rather preferred to speak about personalisation where certain information
+s used by the system to tailor user experience, which, in a long-term perspective
+could create an illusion of common ground between the human and the machine
+he interviewees also did not view this process as co-constructed as they would the
+establishment of common ground in human-human communication.
+While it is not necessary to strive for the ideal of "human-like" conversation in every
+lomain where conversational systems are used, in certain use cases, it is necessary to
+endow these systems with qualities that would allow them to be increasingly treated
+as valid conversation partners by humans (cf. (Kopp and Krämer 2021)). On the one
+hand, these may be the use cases in which the social aspect of the conversation is of
+importance, e.g., in social care or robot companionship. On the other hand, even in task-
+oriented, primarily transactional interactions the inclusion of certain aspects of human-
+uman conversation is needed: the one-shot request-response format of interactior
+currently provided by the voice-based assistants is not sufficient. Clark and colleagues
+Clark et al. 2019) offer an apt goal for task-oriented conversational systems: service
+desk interactions between humans. In these types of conversations, the concepts 
+

@@ -1,0 +1,35 @@
+Here is a list of some mathematical topics that are relevant to the study of prohibitive and Deleuze:
+
+1. Set theory and combinatorics
+2. Topology and geometric topology
+3. Analysis and differential equations
+4. Probability and stochastic processes
+5. Group theory and representation theory
+6. Algebraic topology and homology theory
+7. Dynamical systems and chaos theory
+8. Complex analysis and complex dynamics
+9. Banach spaces and operator theory
+10. Number theory and algebraic geometry.
+
+A list of mathematical topics needed to study Prigogine and Deleuze.
+
+1. Chaos Theory
+2. Fractals
+3. Non-Linear Dynamics
+4. Deterministic and Stochastic Systems
+5. Bifurcation Theory
+6. Thermodynamics
+7. Complex Systems
+8. Self-Organization
+9. Strange Attractors
+10. Lyapunov Exponents
+11. Global Attractors and Basin of Attraction
+12. Stability Theory
+13. Fragility and Robustness
+14. Bifurcation Diagrams
+15. Lyapunov Functions
+16. Ergodic Theory
+17. Topological Transition
+18. Sensitive Dependence on Initial Conditions
+19. Hyperchaos
+20. Bifurcation and Reduction Methods.

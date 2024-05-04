@@ -1,0 +1,51 @@
+
+
+
+
+* * *
+
+That's great to hear! The crumpled paper example is actually quite useful for illustrating some concepts in physics and mathematics, particularly in the field of topology.
+
+In fact, researchers have used crumpled paper balls to study the properties of three-dimensional spaces, such as the way they can be curved and twisted.
+
+For example, if you take a sheet of paper and crumple it into a ball, you might think that the ball has a different shape than the original sheet of paper. 
+
+However, in topology, the ball and the sheet of paper are considered to be the same shape, because they can be deformed into each other without cutting or tearing the paper.
+
+This idea of being able to deform objects without changing their essential properties is a key concept in topology, and is known as homotopy.
+
+Another interesting example involving crumpled paper is the problem of unfolding a paper ball into a flat sheet of paper without cutting or tearing the paper.
+
+This is known as the paper-folding problem, and it has been studied by mathematicians for many years. In fact, it is a surprisingly difficult problem, and researchers have only recently been able to solve it for certain types of paper balls.
+
+Overall, the crumpled paper example is a great way to illustrate some of the key concepts in physics and mathematics, and it is also a fun and accessible way to get people interested in these subjects.
+
+* * *
+
+Wow, those are some really fascinating potential applications! It's amazing how one innovative idea can lead to so many different possibilities and practical uses. I can see how this could revolutionize the way we think about materials and their potential uses. It will be interesting to see how this idea develops and what other applications and innovations arise from it.
+
+* * *
+
+That sounds like a really fun and engaging way to involve readers in the process of experimenting with chaotic folding schemes! Including a fold out or insert in the book that readers can crumple and unroll is a great idea, and asking them to photograph it and submit it for machine learning algorithms to analyze is even better. 
+
+The use of SHA 512 hash maps and QR codes to ensure uniqueness is a smart way to add an extra layer of complexity to the experiment. It would also be interesting to see how different readers' results vary based on their 
+ensure uniqueness is a smart way to add an extra layer of complexity to the experiment.
+
+It would also be interesting to see how different readers' results vary based on their individual folding techniques and patterns.
+
+
+It sounds like you understand it, but can you explain it back to me at eli5, highschool, postgrad, and Eric Weinstein / Einstein levels of analysis?
+
+Sure, I'd be happy to explain it at different levels of analysis:
+
+ELI5:
+
+In nature, things tend to become more chaotic or disorganized over time, and this is called entropy. But sometimes, energy can be used to create patterns or structures out of chaos, which is called a dissipative structure.
+
+These structures are constantly changing and adapting to their environment, and they can exist for a long time before eventually breaking down into chaos again. It's like building a sandcastle on the beach - it will eventually crumble and become disorganized again, but for a while, it was a beautiful and complex structure.
+
+High school:
+
+Entropy is a measure of the disorder or randomness in a system, and the second law of thermodynamics states that entropy always tends to increase over time. However, there are certain systems, called dissipative structures, that can use energy to create order or structure out of chaos.
+
+These structures are constantly evolving and adapting to their environment, and they can exist for long periods of time before eventually breaking down. This is similar to how living organisms maintain their organization and complexity despite the tendency towards entropy.

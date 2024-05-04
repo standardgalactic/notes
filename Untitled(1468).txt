@@ -1,0 +1,57 @@
+Crafting Training Corpus:
+
+Selection and creation of training data for eight languages using GPT-3.5.
+
+Instruction Tuning:
+
+Enhancing code models to follow instructions.
+
+Performance and Results:
+
+CODEM's improvements over StarCoder7B.
+
+Closer Analysis:
+
+Examining correlations between programming languages.
+
+Related Work:
+
+Introduction of various code models and their capabilities.
+
+Conclusion:
+
+Potential of monolingual training for multilingual code generation and future research aims.
+
+
+Vim Cheat Sheet, including various subsections:
+
+Global commands
+
+Cursor movement
+
+Insert mode and appending text
+
+Editing commands
+
+Visual mode and commands
+
+Registers
+
+Marks
+
+And a few other Vim commands and functionalities.
+
+The connections between Vim commands and controls for the game "ΗΑΡLΟΡRΑΧΙS":
+
+Global reset mechanism in the game.
+
+Functions of the 'B' key (blink, autoblink, and super autoblink).
+
+Movement and action controls in the game using keys and their Vim equivalents.
+
+Slide and bank movements.
+
+Weapon controls.
+
+A detailed summary of Vim commands related to Visual mode, Registers, and Marks.
+

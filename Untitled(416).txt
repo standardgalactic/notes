@@ -1,0 +1,1646 @@
+ in a Nutshell
+
+Section 2
+
+most of the following slides are by
+
+courtesy of Andreas Kuehlmann
+
+Page 2
+
+3
+
+Assumption
+
+□Unless otherwise said, from now on we
+
+are concerned with two-element Boolean
+
+algebra (i.e. B = {0,1})
+
+4
+
+Boolean Space
+
+□ B = {0,1}
+
+□ B2 = {0,1}×{0,1} = {00, 01, 10, 11}
+
+Karnaugh Maps:
+
+Boolean Lattices:
+
+B0
+
+B1
+
+B2
+
+B3
+
+B4
+
+Page 3
+
+5
+
+Boolean Function
+
+□ For B = {0,1}, a Boolean function f: Bn → B over variables
+
+x1,…,xn maps each Boolean valuation (truth assignment) in
+
+Bn to 0 or 1
+
+Example
+
+f(x1,x2) with f(0,0) = 0, f(0,1) = 1, f(1,0) = 1, f(1,1) = 0
+
+0
+
+0
+
+1
+
+1
+
+x2
+
+x1
+
+x1
+
+x2
+
+6
+
+Boolean Function
+
+□ Onset of f, denoted as f1, is f1= {v ∈ Bn | f(v)=1}
+
+∎ If f1 = Bn, f is a tautology
+
+□ Offset of f, denoted as f0, is f0= {v ∈ Bn | f(v)=0}
+
+∎ If f0 = Bn, f is unsatisfiable. Otherwise, f is satisfiable.
+
+□ f1 and f0 are sets, not functions!
+
+□ Boolean functions f and g are equivalent if ∀v∈ Bn. f(v) =
+
+g(v) where v is a truth assignment or Boolean valuation
+
+□ A literal is a Boolean variable x or its negation x′ (or x, ¬x)
+
+in a Boolean formula
+
+x3
+
+x1
+
+x2
+
+x1
+
+x2
+
+x3
+
+f(x1, x2, x3) = x1
+
+f(x1, x2, x3) = x1
+
+Page 4
+
+7
+
+Boolean Function
+
+□ There are 2n vertices in Bn
+
+□ There are 22
+
+n
+
+distinct Boolean functions
+
+∎ Each subset f1 ⊆ Bn of vertices in Bn forms a
+
+distinct Boolean function f with onset f1
+
+x1x2x3
+
+f
+
+0 0 0 1
+
+0 0 1 0
+
+0 1 0 1
+
+0 1 1 0
+
+1 0 0 ⇒ 1
+
+1 0 1 0
+
+1 1 0 1
+
+1 1 1 0
+
+x1
+
+x2
+
+x3
+
+8
+
+Boolean Operations
+
+Given two Boolean functions:
+
+f : Bn → B
+
+g : Bn → B
+
+□ h = f ∧ g from AND operation is defined as
+
+h1 = f1 ⋂ g1; h0 = Bn \ h1
+
+□ h = f ∨ g from OR operation is defined as
+
+h1 = f1 ∪ g1; h0 = Bn \ h1
+
+□ h = ¬f from COMPLEMENT operation is defined as
+
+h1 = f0; h0 = f1
+
+Page 5
+
+9
+
+Cofactor and Quantification
+
+Given a Boolean function:
+
+f : Bn → B, with the input variable (x1,x2,…,xi,…,xn)
+
+□ Positive cofactor on variable xi
+
+h = fxi is defined as h = f(x1,x2,…,1,…,xn)
+
+□ Negative cofactor on variable xi
+
+h = f¬xi is defined as h = f(x1,x2,…,0,…,xn)
+
+□ Existential quantification over variable xi
+
+h = ∃xi. f is defined as h = f(x1,x2,…,0,…,xn) ∨ f(x1,x2,…,1,…,xn)
+
+□ Universal quantification over variable xi
+
+h = ∀xi. f is defined as h = f(x1,x2,…,0,…,xn) ∧ f(x1,x2,…,1,…,xn)
+
+□ Boolean difference over variable xi
+
+h = ∂f/∂xi is defined as h = f(x1,x2,…,0,…,xn) ⊕ f(x1,x2,…,1,…,xn)
+
+10
+
+Representation of Boolean Function
+
+□ Represent Boolean functions for two reasons
+
+∎ to represent and manipulate the actual circuit we are
+
+implementing
+
+∎ to facilitate Boolean reasoning
+
+□ Data structures for representation
+
+∎ Truth table
+
+∎ Boolean formula
+
+□Sum of products (Disjunctive “normal” form, DNF)
+
+□Product of sums (Conjunctive “normal” form, CNF)
+
+∎ Boolean network
+
+□Circuit (network of Boolean primitives)
+
+□And-inverter graph (AIG)
+
+∎ Binary Decision Diagram (BDD)
+
+Page 6
+
+11
+
+Boolean Function Representation
+
+Truth Table
+
+□ Truth table (function table for multi-valued
+
+functions):
+
+The truth table of a function f : Bn → B is a
+
+tabulation of its value at each of the 2n
+
+vertices of Bn.
+
+In other words the truth table lists all mintems
+
+Example: f = a′b′c′d + a′b′cd + a′bc′d +
+
+ab′c′d + ab′cd + abc′d +
+
+abcd′ + abcd
+
+The truth table representation is
+
+- impractical for large n
+
+- canonical
+
+If two functions are the same, then their
+
+canonical representations are isomorphic.
+
+abcd f
+
+0 0000 0
+
+1 0001 1
+
+2 0010 0
+
+3 0011 1
+
+4 0100 0
+
+5 0101 1
+
+6 0110 0
+
+7 0111 0
+
+abcd f
+
+8 1000 0
+
+9 1001 1
+
+10 1010 0
+
+11 1011 1
+
+12 1100 0
+
+13 1101 1
+
+14 1110 1
+
+15 1111 1
+
+12
+
+Boolean Function Representation
+
+Boolean Formula
+
+□ A Boolean formula is defined inductively as an expression
+
+with the following formation rules (syntax):
+
+formula ::=
+
+‘(‘ formula ‘)’
+
+| Boolean constant
+
+(true or false)
+
+| <Boolean variable>
+
+|
+
+formula “+” formula
+
+(OR operator)
+
+|
+
+formula “∙” formula
+
+(AND operator)
+
+| ¬ formula
+
+(complement)
+
+Example
+
+f = (x1 ∙ x2) + (x3) + ¬(¬(x4 ∙ (¬x1)))
+
+typically “∙” is omitted and ‘(’, ‘)’ and ‘¬’ are simply reduced by priority,
+
+e.g.
+
+f = x1 x2 + x3 + x4 ¬x1
+
+Page 7
+
+13
+
+Boolean Function Representation
+
+Boolean Formula in SOP
+
+□ A cube is defined as a conjunction of literals, i.e. a product
+
+term.
+
+Example
+
+C = x1x2’x3 represents the function with onset: f1 =
+
+{(x1=1,x2=0,x3=1)} in the Boolean space spanned by
+
+x1,x2,x3, or f1 = {(x1=1,x2=0,x3=1, x4=0),
+
+(x1=1,x2=0,x3=1,x4=1)} in the Boolean space spanned
+
+by x1,x2,x3,x4, or …
+
+x1
+
+x2
+
+x3
+
+f = x1
+
+x1
+
+x2
+
+x3
+
+f = x1x2
+
+x1
+
+x2
+
+x3
+
+f = x1x2x3
+
+14
+
+Boolean Function Representation
+
+Boolean Formula in SOP
+
+□ If C ⊆ f1, C the onset of a cube c, then c is an
+
+implicant of f
+
+□ If C ⊆ Bn, and c has k literals, then |C|= 2n-k, i.e.,
+
+Chas 2n-k elements
+
+Example
+
+c = xy′ (c:B3 → B), C = {100, 101} ⊆ B3
+
+k = 2 , n = 3
+
+|C| = 2 = 23-2
+
+□ An implicant with n literals is a minterm
+
+Page 8
+
+15
+
+Boolean Function Representation
+
+Boolean Formula in SOP
+
+□ A function can be represented by a sum-of-cubes (products):
+
+f = ab + ac + bc
+
+Since each cube is a product of literals, this is a sum-of-products
+
+(SOP) representation or disjunctive normal form (DNF)
+
+□ An SOP can be thought of as a set of cubes F
+
+F = {ab, ac, bc}
+
+□ A set of cubes that represents f is called a cover of f.
+
+F1={ab, ac, bc} and F2={abc, abc′, ab′c, a′bc}
+
+are covers of
+
+f = ab + ac + bc.
+
+□ Mainly used in circuit synthesis; seldom used in Boolean reasoning
+
+16
+
+Boolean Function Representation
+
+Boolean Formula in POS
+
+□ Product-of-sums (POS), or conjunctive normal form (CNF),
+
+representation of Boolean functions
+
+∎ Dual of the SOP representation
+
+Example
+
+φ = (a+b′+c) (a′+b+c) (a+b′+c′) (a+b+c)
+
+□ A Boolean function in a POS representation can be derived
+
+from an SOP representation with De Morgan’s law and the
+
+distributive law
+
+□ Mainly used in Boolean reasoning; rarely used in circuit
+
+synthesis (due to the asymmetric characteristics of NMOS
+
+and PMOS)
+
+Page 9
+
+17
+
+Boolean Function Representation
+
+Boolean Network
+
+□ Used for two main purposes
+
+∎ as target structure for logic implementation which gets
+
+restructured in a series of logic synthesis steps until
+
+result is acceptable
+
+∎ as representation for Boolean reasoning engine
+
+□ Efficient representation for most Boolean problems
+
+∎ memory complexity is similar to the size of circuits that
+
+we are actually building
+
+□ Close to the input and output representations of logic
+
+synthesis
+
+18
+
+Boolean Function Representation
+
+Boolean Network
+
+A Boolean network is a directed graph C(G,N)
+
+where G are the gates and N ⊆ (G×G) are the
+
+directed edges (nets) connecting the gates.
+
+Some of the vertices are designated:
+
+Inputs: I ⊆ G
+
+Outputs: O ⊆ G
+
+I ⋂ O = ∅
+
+Each gate g is assigned a Boolean function f
+
+g
+
+which computes the output of the gate in terms
+
+of its inputs.
+
+Page 10
+
+19
+
+Boolean Function Representation
+
+Boolean Network
+
+□ The fanin FI(g) of a gate g are the predecessor gates of g:
+
+FI(g) = {g’ | (g’,g) ∈ N} (N: the set of nets)
+
+□ The fanout FO(g) of a gate g are the successor gates of g:
+
+FO(g) = {g’ | (g,g’) ∈ N}
+
+□ The cone CONE(g) of a gate g is the transitive fanin (TFI) of
+
+g and g itself
+
+□ The support SUPPORT(g) of a gate g are all inputs in its
+
+cone:
+
+SUPPORT(g) = CONE(g) ⋂ I
+
+20
+
+Boolean Function Representation
+
+Boolean Network
+
+Example
+
+I
+
+O
+
+6
+
+FI(6) = {2,4}
+
+FO(6) = {7,9}
+
+CONE(6) = {1,2,4,6}
+
+SUPPORT(6) = {1,2}
+
+1
+
+5
+
+3
+
+4
+
+7
+
+8
+
+9
+
+2
+
+Page 11
+
+21
+
+Boolean Function Representation
+
+Boolean Network
+
+□ Circuit functions are defined recursively:
+
+If G is implemented using physical gates with positive (bounded)
+
+delays for their evaluation, the computation of hg depends in
+
+general on those delays.
+
+Definition
+
+A circuit C is called combinational if for each input assignment of
+
+C for t→∞ the evaluation of hg for all outputs is independent of
+
+the internal state of C.
+
+Proposition
+
+A circuit C is combinational if it is acyclic. (converse not true!)
+
+h
+
+g
+
+i
+
+=
+
+x
+
+i
+
+if g
+
+i
+
+∈I
+
+f
+
+g
+
+i
+
+(h
+
+g
+
+j
+
+,...,h
+
+g
+
+k
+
+), g
+
+j
+
+,...,g
+
+k
+
+∈FI(g
+
+i
+
+) otherwise
+
+⎧
+
+⎨
+
+│
+
+⎩│
+
+22
+
+General Boolean network:
+
+□ Vertex can have an arbitrary finite number of inputs and outputs
+
+□ Vertex can represent any Boolean function stored in different
+
+ways, such as:
+
+∎ SOPs (e.g. in SIS, a logic synthesis package)
+
+∎ BDDs (to be introduced)
+
+∎ AIGs (to be introduced)
+
+∎ truth tables
+
+∎ Boolean expressions read from a library description
+
+∎ other sub-circuits (hierarchical representation)
+
+□ The data structure allows general manipulations for insertion and
+
+deletion of vertices, pins (connection ports of vertices), and nets
+
+∎ general but far too slow for Boolean reasoning
+
+Boolean Function Representation
+
+Boolean Network
+
+Page 12
+
+23
+
+Boolean Function Representation
+
+Boolean Network
+
+Specialized Boolean network:
+
+□ Non-canonical representation in general
+
+∎ computational effort of Boolean reasoning is due to this
+
+non-canonicity (c.f. BDDs)
+
+□ Vertices have fixed number of inputs (e.g. two)
+
+□ Vertex function is stored as label (e.g. OR, AND, XOR)
+
+□ Allow on-the-fly compaction of circuit structure
+
+∎ Support incremental, subsequent reasoning on multiple
+
+problems
+
+24
+
+Boolean Function Representation
+
+And-Inverter Graph
+
+□ AND-INVERTER graphs (AIGs)
+
+vertices: 2-input AND gates
+
+edges: interconnects with (optional) dots representing INVs
+
+□ Hash table to identify and reuse structurally isomorphic
+
+circuits
+
+f
+
+g
+
+g
+
+f
+
+Page 13
+
+25
+
+Boolean Function Representation
+
+And-Inverter Graph
+
+□ Data structure for implementation
+
+∎ Vertex:
+
+□pointers (integer indices) to left- and right-child and fanout
+
+vertices
+
+□collision chain pointer
+
+□other data
+
+∎ Edge:
+
+□pointer or index into array
+
+□one bit to represent inversion
+
+∎ Global hash table holds each vertex to identify isomorphic
+
+structures
+
+∎ Garbage collection to regularly free un-referenced vertices
+
+26
+
+Boolean Function Representation
+
+And-Inverter Graph
+
+□ Data structure
+
+0456
+
+left
+
+right
+
+next
+
+fanout
+
+1345
+
+….
+
+8456
+
+….
+
+6423
+
+….
+
+7463
+
+….
+
+0
+
+1
+
+hash value
+
+left pointer
+
+right pointer
+
+next in collision chain
+
+array of fanout pointers
+
+complement bits
+
+Constant
+
+One Vertex
+
+zero
+
+one
+
+0456
+
+0455
+
+0457
+
+...
+
+...
+
+Hash Table
+
+0456
+
+left
+
+right
+
+next
+
+fanout
+
+0
+
+0
+
+Page 14
+
+27
+
+Boolean Function Representation
+
+And-Inverter Graph
+
+□ AIG package for Boolean reasoning
+
+Engine application:
+
+- traverse problem data structure and build Boolean problem using the interface
+
+- call SAT to make decision
+
+Engine Interface:
+
+void INIT()
+
+void QUIT()
+
+Edge VAR()
+
+Edge AND(Edge p1,
+
+Edge p2)
+
+Edge NOT(Edge p1)
+
+Edge OR(Edge p1
+
+Edge p2)
+
+...
+
+int SAT(Edge p1)
+
+Engine Implementation:
+
+...
+
+...
+
+...
+
+...
+
+External reference pointers attached
+
+to application data structures
+
+28
+
+Boolean Function Representation
+
+And-Inverter Graph
+
+□ Hash table look-up
+
+Algorithm HASH_LOOKUP(Edge p1, Edge p2) {
+
+index = HASH_FUNCTION(p1,p2)
+
+p = &hash_table[index]
+
+while(p != NULL) {
+
+if(p->left == p1 && p->right == p2) return p;
+
+p = p->next;
+
+}
+
+return NULL;
+
+}
+
+□ Tricks:
+
+∎ keep collision chain sorted by the address (or index) of p
+
+∎ use memory locations (or array indices) in topological order for
+
+better cache performance
+
+Page 15
+
+29
+
+Boolean Function Representation
+
+And-Inverter Graph
+
+□ AND operation
+
+Algorithm AND(Edge p1,Edge p2){
+
+if(p1 == const1) return p2
+
+if(p2 == const1) return p1
+
+if(p1 == p2) return p1
+
+if(p1 == ¬p2) return const0
+
+if(p1 == const0 || p2 == const0) return const0
+
+if(RANK(p1) > RANK(p2)) SWAP(p1,p2)
+
+if((p = HASH_LOOKUP(p1,p2)) return p
+
+return CREATE_AND_VERTEX(p1,p2)
+
+}
+
+30
+
+Boolean Function Representation
+
+And-Inverter Graph
+
+□ NOT operation
+
+Algorithm NOT(Edge p) {
+
+return TOOGLE_COMPLEMENT_BIT(p)
+
+}
+
+□ OR operation
+
+Algorithm OR(Edge p1,Edge p2){
+
+return (NOT(AND(NOT(p1),NOT(p2))))
+
+}
+
+Page 16
+
+31
+
+Boolean Function Representation
+
+And-Inverter Graph
+
+□ Cofactor operation
+
+Algorithm POSITIVE_COFACTOR(Edge p,Edge v){
+
+if(IS_VAR(p)) {
+
+if(p == v) {
+
+if(IS_INVERTED(v) == IS_INVERTED(p)) return const1
+
+else
+
+return const0
+
+}
+
+else
+
+return p
+
+}
+
+if((c = GET_COFACTOR(p,v)) == NULL) {
+
+left = POSITIVE_COFACTOR(p->left, v)
+
+right = POSITIVE_COFACTOR(p->right, v)
+
+c = AND(left,right)
+
+SET_COFACTOR(p,v,c)
+
+}
+
+if(IS_INVERTED(p)) return NOT(c)
+
+else
+
+return c
+
+}
+
+32
+
+Boolean Function Representation
+
+And-Inverter Graph
+
+□ Similar algorithm for NEGATIVE_COFACTOR
+
+□ Existential and universal quantifications can be
+
+built from AND, OR and COFACTORS
+
+Exercise: Prove (f ∙ g)
+
+v
+
+= f
+
+v
+
+∙ g
+
+v
+
+and (¬f)
+
+v
+
+= ¬(f
+
+v
+
+)
+
+Question: What is the worst-case complexity of
+
+performing quantifications over AIGs?
+
+Page 17
+
+33
+
+Boolean Function Representation
+
+Binary Decision Diagram (BDD)
+
+□ A graphical representation of Boolean function
+
+∎ BDD is a Shannon cofactor tree:
+
+□f = v fv + v′ fv′ (Shannon expansion)
+
+□vertices represent decision nodes (i.e. multiplexers)
+
+controlled by variables
+
+□leaves are constants “0” and “1”
+
+□two children of a vertex of f represent two subfunctions fv
+
+and fv′
+
+∎ Variable ordering restriction and reduction rules make
+
+(ROBDD) representation canonical
+
+v
+
+0
+
+1
+
+f
+
+fv
+
+fv
+
+34
+
+Boolean Function Representation
+
+BDD – Canonicalization
+
+□ General idea:
+
+∎ instead of exploring sub-cases by enumerating them in time, try to
+
+store sub-cases in memory
+
+□ KEY: two hashing mechanisms:
+
+▪ unique table: find identical sub-cases and avoid replication
+
+▪ computed table: reduce redundant computation of sub-cases
+
+□ Represent logic functions as graphs (DAGs):
+
+∎ many logic functions can be represented compactly - usually better
+
+than SOPs
+
+□ Can be made canonical (ROBDD)
+
+∎ Shift the effort in a Boolean reasoning engine from SAT algorithm to
+
+data representation
+
+□ Many logic operations can be performed efficiently on BDD’s:
+
+∎ usually linear in size of input BDDs
+
+∎ tautology checking and complement operation are constant time
+
+□ BDD size critically depends on variable ordering
+
+Page 18
+
+35
+
+Boolean Function Representation
+
+BDD – Canonicalization
+
+□ Directed acyclic graph (DAG)
+
+∎ one root node, two terminal-nodes, 0 and 1
+
+∎ each node has two children and is controlled by a variable
+
+□ Shannon cofactor tree, except reduced and ordered (ROBDD)
+
+∎ Ordered:
+
+□ cofactor variables (splitting variables) in the same order along all
+
+paths
+
+x
+
+i1
+
+< x
+
+i2
+
+< x
+
+i3
+
+< … < x
+
+in
+
+∎ Reduced:
+
+□ any node with two identical children is removed
+
+□ two nodes with isomorphic BDD’s are merged
+
+These two rules make any node in an ROBDD represent a distinct
+
+logic function
+
+a
+
+c
+
+c
+
+b
+
+0
+
+1
+
+ordered
+
+(a<c<b)
+
+a
+
+b
+
+c
+
+c
+
+0
+
+1
+
+not
+
+ordered
+
+b
+
+a
+
+b
+
+0
+
+1
+
+f
+
+b
+
+0
+
+1
+
+f
+
+reduce
+
+36
+
+Boolean Function Representation
+
+BDD
+
+□ Example
+
+Same function with two different variable orders
+
+a
+
+b
+
+b
+
+c
+
+c
+
+d
+
+0
+
+1
+
+c+bd
+
+b
+
+root node
+
+c+d
+
+c
+
+d
+
+f = ab+a’c+bc’d
+
+a
+
+c
+
+d
+
+b
+
+0
+
+1
+
+c+bd
+
+db
+
+b
+
+1
+
+0
+
+leaf node
+
+Page 19
+
+37
+
+Boolean Function Representation
+
+BDD – Canonicity of ROBDD
+
+□ Three components make ROBDD canonical
+
+(Bryant 1986):
+
+∎ unique nodes for constant “0” and “1”
+
+∎ identical order of case-splitting variables along
+
+each paths
+
+∎ a hash table that ensures
+
+□(node(fv) = node(gv)) ∧ (node(fv′) = node(gv′)) ⇒
+
+node(f) = node(g)
+
+and provides recursive argument that node(f)
+
+is unique when using the unique hash-table
+
+38
+
+Boolean Function Representation
+
+BDD – Onset Counting
+
+F = b’+a’c’ = ab’+a’cb’+a’c’ (all paths to the 1 node)
+
+□ By tracing all paths to the 1 node, we get a cover of pairwise
+
+disjoint cubes
+
+□ BDD does not explicitly enumerate all paths; rather it represents
+
+paths by a graph whose size is measures by its nodes
+
+∎ A DAG can represent an exponential number of paths with a linear
+
+number of nodes
+
+□ BDDs can be used to efficiently represent sets
+
+∎ interpret elements of the onset as elements of the set
+
+∎ f is called the characteristic function of that set
+
+a
+
+c
+
+b
+
+0
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+f
+
+fa= b’
+
+fa = cb’+c’
+
+Page 20
+
+39
+
+Boolean Function Representation
+
+BDD – ITE Operator
+
+□ Each BDD node can be written as a triplet: f =
+
+ite(v,g,h) = vg + v’h, where g = f
+
+v
+
+and h = f
+
+‾v
+
+,
+
+meaning if v then g else h
+
+(v is top variable of f)
+
+v
+
+f
+
+0
+
+1
+
+h
+
+g
+
+1 0
+
+f
+
+v
+
+g
+
+mux
+
+h
+
+40
+
+Boolean Function Representation
+
+BDD – ITE Operator
+
+□ ite(f,g,h) = fg + f’h
+
+∎ ITE operator can implement any two variable logic function. There are 16 such
+
+functions corresponding to all subsets of vertices of B2:
+
+Table
+
+Subset
+
+Expression
+
+Equivalent Form
+
+0000
+
+0
+
+0
+
+0
+
+0001
+
+AND(f, g)
+
+f g
+
+ite(f, g, 0)
+
+0010
+
+f > g
+
+f g′
+
+ite(f, g′, 0)
+
+0011
+
+f
+
+f
+
+f
+
+0100
+
+f < g
+
+f′g
+
+ite(f, 0, g)
+
+0101
+
+g
+
+g
+
+g
+
+0110
+
+XOR(f, g)
+
+f ⊕ g
+
+ite(f, g′, g)
+
+0111
+
+OR(f, g)
+
+f + g
+
+ite(f, 1, g)
+
+1000
+
+NOR(f, g)
+
+(f + g)′
+
+ite(f, 0, g′)
+
+1001
+
+XNOR(f, g)
+
+f ⊕ g′
+
+ite(f, g, g′)
+
+1010
+
+NOT(g)
+
+g′
+
+ite(g, 0, 1)
+
+1011
+
+f ≥ g
+
+f + g′
+
+ite(f, 1, g′)
+
+1100
+
+NOT(f)
+
+f′
+
+ite(f, 0, 1)
+
+1101
+
+f ≤ g
+
+f′ + g
+
+ite(f, g, 1)
+
+1110
+
+NAND(f, g)
+
+(f g)′
+
+ite(f, g′, 1)
+
+1111
+
+1
+
+1
+
+1
+
+Page 21
+
+41
+
+Boolean Function Representation
+
+BDD
+

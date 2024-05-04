@@ -1,0 +1,15 @@
+Title: Generative AI’s Act Two - From Sequoia an interesting analysis, that looks at good and bad of the hope and hype of G-AI (Note: they’ve an interest in their ventures success).
+
+“One year ago, we published a hypothesis that generative AI would become a profound platform shift in “
+
+Source: https://www.sequoiacap.com/article/generative-ai-act-two/
+
+“ChatGPT’s rise was the spark that lit the fuse, unleashing a density and fervor of innovation that we have not seen in years—perhaps since the early days of the internet. The breathless excitement was especially visceral in “Cerebral Valley,” where AI researchers reached rockstar status and hacker houses were filled to the brim each weekend with new autonomous agents and companionship chatbots. AI researchers transformed from the proverbial “hacker in the garage” to special forces units commanding billions of dollars of compute. The arXiv printing press has become so prolific that researchers have jokingly called for a pause on new publications so they can catch up.
+
+But quickly, AI excitement turned to borderline hysteria. Suddenly, every company was an “AI copilot.” Our inboxes got filled up with undifferentiated pitches for “AI Salesforce” and “AI Adobe” and “AI Instagram.” The $100M pre-product seed round returned. We found ourselves in an unsustainable feeding frenzy of fundraising, talent wars and GPU procurement. 
+
+And sure enough, the cracks started to show. Artists and writers and singers challenged the legitimacy of machine-generated IP. Debates over ethics, regulation and looming superintelligence consumed Washington. And perhaps most worryingly, a whisper began to spread within Silicon Valley that generative AI was not actually useful. The products were falling far short of expectations, as evidenced by terrible user retention. End user demand began to plateau for many applications. Was this just another vaporware cycle?”
+
+….
+
+“However, Amara’s Law—the phenomenon that we tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run—is running its course. We are applying patience and judgment in our investment decisions, with careful attention to how founders are solving the value problem. The shared playbook companies are using to push the boundaries on model performance and product experiences gives us optimism on generative AI’s second act.”

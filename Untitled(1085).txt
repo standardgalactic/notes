@@ -1,0 +1,6 @@
+Hello. I saw that you were interested in generative ai. I use stable diffusion for images, mac say for audiobooks, and chatgpt for brainstorming, writing essays, and tutoring me in programming languages.
+
+Haven't figured out how to make money with it yet, but I'm working on getting it to design a recycling plant and getting it to work on a video game. In a few years it will be very good at writing code and making movies, so I'm also getting it to work on dialogues and plot ideas for sci fi stories.
+
+A few of my "epistemological experiments"
+https://github.com/standardgalactic/mirror

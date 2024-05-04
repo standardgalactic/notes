@@ -1,0 +1,5 @@
+Probably Approximately Correct Ontology (PACO)
+
+curl -s --data file 'https://paste.c-net.org/' 
+
+curl --upload-file 'file' 'https://paste.c-net.org/'

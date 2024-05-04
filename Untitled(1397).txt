@@ -1,0 +1,10 @@
+6CONCLUSION 
+In this paper, we introduce a new learning paradigm called active selective prediction which uses ac- 
+tivelearningtoimproveselectivepredictionunderdistributionshift. Weshowthatthisnewparadigm 
+results in improved accuracy and coverage on a distributionally shifted test domain and reduces the 
+need for human labeling. We also propose a novel method ASPEST using checkpoint ensemble and 
+self-training with a low labeling cost. We demonstrate ASPEST’s effectiveness over other baselines 
+for this new problem setup on various image, text and structured datasets. Future work in this di- 
+rection can investigate unsupervised hyperparameter tuning on test data, online data streaming, or 
+further minimizing the labeling effort by designing time-preserving labeling interfaces. 
+9

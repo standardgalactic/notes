@@ -1,0 +1,4651 @@
+
+
+uh so the big question about artificial
+
+intuition is first what is intuition and
+
+when people speak about intuition they
+
+speak about a form of knowledge
+
+or having ideas where you don't really
+
+know how we think that you come from
+
+particular so the way to define which is
+
+in ense to contrast it with its opposite
+
+the opposite you might call this
+
+rational thinking you have the famous
+
+distinction made by car theel PR in
+
+economics who speaks about system one
+
+thinking system two thinking the system
+
+two thinking is what we usually call
+
+National think that mean to explicitly
+
+form certain arguments in your mind and
+
+and you follow the T of thought step by
+
+step that means you use symbols which
+
+typically are words which represent
+
+certain entities or certain Concepts or
+
+categories you have certain rules to
+
+which you combine the SYM into
+
+meaningful sentences or is called
+
+propositions propositions are that
+
+explicitly describe some kind of
+
+situation and then you follow certain
+
+rules
+
+of logic or grammar to derive things
+
+from other things there is this classic
+
+example Cirus is human all humans are
+
+moral therefore cus is moral so you have
+
+the
+
+symbol is you have the symbol human
+
+symbol Mor you know that there are
+
+certain rules of d by which you can make
+
+sances like C is human humans are mortal
+
+we have certain rules of work if all
+
+humans are moral and Circ is human then
+
+circus must be moral so for a very long
+
+time cognitive science and artificial
+
+intelligence was starting from this kind
+
+symbolic paradig symbolic
+
+paradig thinking explicitly step by step
+
+and that was let's say until about the
+
+1980s there was the IDE can represent
+
+all knowledge by symbolic expressions
+
+and the height of that let's say that
+
+artificial intelligence was in the 1980s
+
+the soal knowledge based systems or
+
+expert systems they were trying to code
+
+every knowledge we have about the world
+
+in terms of these kind of propositions
+
+so times kind of propositions that we
+
+would want to have is for example a dog
+
+is a mamal a mamal is an animal a mamal
+
+is B blooded a dog bars a dog walks in
+
+the streets and you would try to
+
+describe everything there is to know
+
+about the particular domain in
+
+expressive propositions consisting of
+
+abstract symbols that follow certain
+
+rules why am I seeing something that is
+
+not me I see everybody's watching a
+
+screen where
+
+is you need the white yeah so now it's
+
+coming yeah oh the bottom sorry
+
+funny this idea was that artificial
+
+intelligence it necessarily
+
+requires
+
+La yeah it's muted so we need to we need
+
+to can you st just in case of anything
+
+right please can it can it be a little
+
+bit louder the or the microphone or
+
+maybe try Francis if you can try to
+
+speak more in front when you turn the
+
+head then is missing what you
+
+say ah okay that's why
+
+speak I'm sorry I know it's very
+
+difficult it happens to me also if you
+
+last
+
+week please keep going it's now it's I
+
+can see the the sound here so it's
+
+okay uh so okay so we all in this
+
+Paradigm which is called in cognitive
+
+science the symbolic Paradigm knowledge
+
+consists of symbols symbols are ComEd
+
+according to certain
+
+proposition proposition describe your
+
+knowledge it describe what is to be
+
+known about the real world and then
+
+intelligent reasoning is making
+
+inferences that means starting from some
+
+proposition that you know to be true you
+
+derive other propositions for example
+
+knowing that dogs are MSS are animals
+
+you can Den that a dog is a map is an
+
+animal knowing that Ms are warm blooded
+
+you can derive that the do is warm
+
+blooded so that was the Paradigm in the
+
+1980s of the so-called knowledge based
+
+systems and because it's not obvious to
+
+put in all the knowledge we have about
+
+the world it started with soal expert
+
+systems the expert system was meant to
+
+represent expertise that means
+
+specialized knowledge about the
+
+particular domain and one of the typical
+
+examples they were considering was
+
+diagnosis of diseases if you are a
+
+doctor you know that this disease can
+
+have these and these symptoms and that
+
+if you have a high temperature and you
+
+have a cuff and you have this then you
+
+may have uh an infection of the lungs
+
+and so on so one thing they immediately
+
+needed to do was not only
+
+logical derivations where a necessarily
+
+follows from B but also some degree of
+
+probabilistic derivations if you have
+
+these symptoms then you may have this
+
+disease with this probability and this
+
+other disease with this probability so
+
+that was the Paradigm in the 1980s and
+
+the idea was here the whole of
+
+artificial intelligence the only thing
+
+we need to to do is put in more and more
+
+propositions more and more rules and
+
+eventually we will have the knowledge of
+
+the whole of humanity in our artificial
+
+intelligence system and there is an
+
+interesting project that started doing
+
+it and that project is still Le it's
+
+called psych made by the artificial
+
+intelligence Pioneer Douglas L and the
+
+idea was let's capture all the knowledge
+
+about everyday things the kind of
+
+knowledge that an average person has
+
+into these propositions and that could
+
+be very simple propositions like when it
+
+aains the speed gets
+
+when it rains people take an umbrella an
+
+umbrella protects you against the rain
+
+uh if somebody is
+
+said uh they will not want to go to a
+
+party and I mean you can think of
+
+thousands millions and in the end
+
+billions of these kind of compositions
+
+and of course the pych project put
+
+millions of these things into the system
+
+and in thean yeah nobody has really
+
+heard I suppose about the psych buet
+
+they have put thousands of M into
+
+collecting all this knowledge and yeah
+
+practically not
+
+used so nowadays we have artificial
+
+intelligence systems that are much
+
+better than that but they work according
+
+to a completely different principle so
+
+in artificial intelligence you have the
+
+symbolic Paradigm the Paradigm of
+
+explicit logical thinking and then you
+
+had the connectionist or Neon Network
+
+Paradigm and that is the Paradigm that
+
+is more trying to imitate what happen in
+
+the brain and that is precisely where
+
+what we might call intuition is
+
+happening because what is intuition
+
+intuition is you certain you suddenly
+
+have a certain Insight or a certain
+
+feeling that something is going to
+
+happen and you can't retrace the steps
+
+you can't say what are the assumptions I
+
+have made and what are the inferences I
+
+have made to come to this conclusion the
+
+conclusion is there it's kind of obvious
+
+you see somebody you say oh that person
+
+is said maybe they just had some bad
+
+news and you go and you comfort that
+
+person why did you think that that
+
+person was
+
+sad it's not obvious maybe the way the
+
+person was moving kind of slowly and
+
+looking kind of like this and not
+
+reacting when you are ask
+
+something you can recognize that person
+
+is sad intuitively it's clear that that
+
+person is
+
+sad there wouldn't be any kind of an
+
+expert system that you could put in
+
+rules if the person's eyes are with this
+
+angle down and if the person's movements
+
+are slower than this and if this and
+
+this then the person is that obvious
+
+that doesn't work so the symbolic
+
+Paradigm for uh artificial
+
+intelligence it's I wouldn't say that
+
+it's ourd it's still useful for certain
+
+that can be formalized but the big
+
+advantages advantage in artificial
+
+intelligence like now all about this
+
+neural network Paradigm so neural
+
+networks get very quickly very
+
+complicated mathematically so I'm not
+
+going to try to explain that here also
+
+uh because I don't know the details but
+
+I want to explain two basic principles
+
+which I think you should know the first
+
+principle is the so-called haban rule
+
+which says that if something occurs
+
+together with or shortly after something
+
+else the brain tends to make an
+
+association between them and the more
+
+often the one thing happens and then the
+
+other things happen the stronger the ass
+
+iation becomes so for example if you're
+
+a little child you don't know anything
+
+about the world you see a dog let's call
+
+it
+
+a and then you hear a b you see the dog
+
+barking let's call it B you make a
+
+connection from A to B now if it just
+
+once one do once bked there will already
+
+be a connection but it will be pretty
+
+weak but if now that kid several times
+
+that it see the dog and then the dog at
+
+some moment start to B this connection
+
+will become stronger and stronger so
+
+what heavan learning does is it
+
+strengthens connection things that tend
+
+to cooccur tend to occur together so
+
+that is you might say the most primitive
+
+level of learning in the brain
+
+connecting things that tend to occur
+
+together it's called associations that
+
+is associative you're making Association
+
+but the associations are not logical
+
+inflence it's not because something is a
+
+dog that it will
+
+borrow it's not because somebody is like
+
+that that they are s but if they are
+
+like that there's some Association that
+
+tell the world they might in so an
+
+association is something that can have a
+
+strength or a weight and it's called in
+
+networks a weight that can be between
+
+let's say zero meaning there is no
+
+association and one it's always the case
+
+that for example logical rules can be
+
+expressed as things with an association
+
+St one if it's a cat then it is a
+
+mammal if it's a cat then it is a BS
+
+well not all cats are some cats are wild
+
+but it's a pretty strong
+
+if it's a cat then it's sced well maybe
+
+for some people it's scw but some people
+
+are afraid of cat so that's a weaker
+
+Association if it's a cat then it's
+
+black well there are quite a lot of non
+
+black cats but you're more likely to see
+
+a black cat to see a green cats or a red
+
+cat so associations can have all these
+
+degrees of St so that's the one R while
+
+we are experiencing the world we are
+
+constantly
+
+learning associations we are constantly
+
+experiencing different things together
+
+and either they are together of or they
+
+are together rarely or they together
+
+from time to time the brain is very good
+
+at capturing all these kind of
+
+associations so the the
+
+association idea already gives you an
+
+idea where intuitions come from if there
+
+is an association from A to B well then
+
+B May pop up when you see a without you
+
+necessarily knowing that there is a root
+
+a to B and it's
+
+especially noticeable of course if they
+
+can lots of in between Stu and maybe
+
+your vein is going from A to B to see
+
+without you being really aware of
+
+it the brain may have done a lot of
+
+intermediates that you're not aware of
+
+and then there's a second principle it's
+
+called learning
+
+activation the idea
+
+that you see a that means a is activated
+
+in your brain you see a dog in your
+
+brain is the notion that is a dog you
+
+have a number of associations with dogs
+
+you know that dogs bar you know that
+
+dogs have four legs you know that dogs
+
+tend to wag their tail even though at
+
+that moment the dog is not working tail
+
+you have some kind of an expectation
+
+that at some stage a dock may be working
+
+it
+
+tail and in a sense that's already an
+
+intuition you might say I see a dog
+
+intuitively I kind of expect that maybe
+
+when the dog comes up to me that it may
+
+walk wug its tail and then you could say
+
+ah yeah it's wagging its tail but now
+
+spreading activation means that you
+
+activate one thing and you don't go from
+
+A to B to C to G you go to
+
+different
+
+so the activation SPS to lots of things
+
+but it SPS not only out only also conver
+
+not from
+
+why and maybe X and Y together produce W
+
+and W and uh let's say you together
+
+could do something else
+
+the way this is mod in neur
+
+networks is with
+
+activation that is divided so suppose
+
+that a has a lot of activation there a
+
+strong link to B so a big part of the
+
+activation goes to B smaller amount goes
+
+to x a smaller amount go to Y but then X
+
+and Y together lead to W which means the
+
+W will again get more activation because
+
+it gets activation both from X
+
+why so activation can both spad in a
+
+sense that it get diffus and it can
+
+converge in the Cent from different
+
+directions from different things that
+
+are activated in your brain something
+
+gets a lot of activation and now we get
+
+this phenomenon that you may suddenly
+
+get this
+
+inside and you say ah yes that's it
+
+where inside probably most of things
+
+that were activated a little bit and
+
+that somehow converged and together they
+
+came to something that is strong enough
+
+that it pops into your Consciousness and
+
+you say ah yes that's it so what
+
+intuition does is it allows you to look
+
+at all these fuzzy uncertain things that
+
+may or may not happen that are more or
+
+less
+
+probable and it can diffuse so that you
+
+don't know very much anymore what going
+
+to happen and they can converge so that
+
+suddenly out of this diffus thing we
+
+suddenly come to an idea yeah that's I
+
+have understood it most of this
+
+spreading activation is
+
+subfunctions that means we are not aware
+
+of it we don't remember it we can't say
+
+what are the intermediate stocks so we
+
+may for example Sur nor start from a
+
+only not to be number of intermediate St
+
+converting in all all is strong enough
+
+to be
+
+conscious intermediate
+
+steps subconscious you don't know them
+
+so your intuition says Ah this is going
+
+to happen this is what you originally
+
+started out with all the intermediate
+
+STS you don't know so that is why
+
+intuition typically is considered as
+
+something
+
+mysterious something that for a long
+
+time people have thought machines will
+
+never have this this inition it's not
+
+possible artificially design Sy in that
+
+was because we still had this idea of
+
+machines computers following logical
+
+reasoning St by explicit thoughts that's
+
+not how the brain functions and it's
+
+also not how modern artificial
+
+intelligence
+
+systems the modern present day systems
+
+they use this kind of network not
+
+exactly the way I have stretched it here
+
+it's very complicated and as I said I'm
+
+not going to go into any detail but the
+
+principle is the same you activate a
+
+number of artificial neurons that start
+
+stand for different features of the
+
+situation for example you have a text
+
+reading system it reads the word it
+
+reads another word it reads another word
+
+it activates each of these words and
+
+then it activates a particular
+
+combination of words and out of that
+
+combination of words it anticipate that
+
+another combination of words is likely
+
+to follow and that's a little bit the
+
+principle of these large language models
+
+like CH GPT what they do is you give
+
+them an input of a number of words they
+
+have looked at millions and billions of
+
+sentences so they have some kind of you
+
+might intive ID which words will follow
+
+and the way they are bur is that they
+
+are in Ence continuing the conversation
+
+if the conversation starts with this
+
+sentence they have some expectation that
+
+the following words and sentences would
+
+follow and that's what they are doing
+
+they are in a sense following their
+
+intuition of what would be the next
+
+things to say but following the
+
+intuition me you don't know exactly how
+
+to come to their conclusion you also
+
+don't know whether the conclusion is
+
+correct it's not a logical process it
+
+doesn't
+
+explicit so some of the intermediate
+
+associations may actually be inadequate
+
+and that's one of the problems they have
+
+with M that sometimes they very
+
+explicitly telling things that are
+
+wrong that's because they have Lear in
+
+this intuitive way the way people also
+
+and then people but that's hor they
+
+might say something wrong people of
+
+course also tell me sometimes wrong
+
+things a lot of up I know that is the
+
+case that's going to happen yeah in a
+
+sense these new language models are more
+
+like people the that they work more
+
+in activation over many many different
+
+things and some of the activation
+
+converges to produce certain
+
+certain
+
+words and then often it sounds good but
+
+it may be
+
+wrong
+
+so that is a bit the idea of artificial
+
+intelligence you're using a system of
+
+associations and interconnections and
+
+sping
+
+activation where nobody really
+
+understands what's going on even the
+
+system itself you cannot really Rec step
+
+all the steps there are no explicit
+
+reasoning steps and therefore you can
+
+solve a lot of problem that you would be
+
+able to solve project sometimes you can
+
+of course also make mistakes yeah so
+
+what about
+
+back well I haven't looked at I haven't
+
+mentioned a second learning mechanism I
+
+spoke about haban learning which means
+
+when two things tend to occur together
+
+you think in the connection there is
+
+also a different form of learning
+
+reinforcement learning which says we
+
+follow a number of steps you come to a
+
+certain result if that result is what
+
+you want it you reinforce it that means
+
+you reward whatever process left to this
+
+result if that's not what you want if
+
+it's a St then you you might say you
+
+Bish or you inhibit the process that
+
+means all the different stops in the
+
+process not to the wrong result are weak
+
+so it's a way to learn to avoid
+
+mistakes but first the system should
+
+produce an output and then somebody
+
+should be able to say this is right or
+
+this is wrong
+
+something function yeah but there needs
+
+to be some explicit
+
+decision that it is the right result
+
+that is the wrong so you can things like
+
+that but it's much more complicated than
+
+the heav and learning in the heav and
+
+learning you just
+
+Fe monsterous amounts of text it learned
+
+that certain words and certain phases
+
+and certain ideas go together together
+
+so that whenever it recogniz some of
+
+these words phases for ideas it tends to
+
+follow them up with the ones that most
+
+commonly follow them but here there is
+
+no explicit function that tells you it
+
+side or its wrong you can do that in the
+
+latest stag the reinforcement learning
+
+by either punishing or rewarding the
+
+system for wrong answers or right
+
+answers but that is indeed that takes
+
+much more
+
+time oh okay I just just briefly say in
+
+principle though it's the same mechanism
+
+right if you think of it as an extended
+
+mind it's still a coincidence between
+
+like a literal coincidence between the
+
+events and the
+
+reinforcement which then streng
+
+strengthens the
+
+network well it's the same mechanism in
+
+the sense that
+
+to St certain connections relative to
+
+others yeah strengthen some weaken
+
+others that is always the the mechanism
+
+so it's not like you say that that
+
+suppose that you have an expert system
+
+with logical propositions and you see
+
+that it comes to a certain wrong
+
+conclusion you can try to find out where
+
+was the step made the wrong conclusion
+
+and you see that particular proposition
+
+in there is wrong and then you say okay
+
+I'll take that proposition out and
+
+replace it by a correct one here we
+
+can't do that here the whole system with
+
+whole has come to a
+
+conclusion with methods like back
+
+propagation which is typical for deing
+
+and I must say I don't know the details
+
+about it
+
+you try from the end result to reason
+
+backwards to all the different steps
+
+that have left to this end result and
+
+then I weaken them if the anti was bad
+
+or you stengthen them if the anti was
+
+good but these are things that
+
+mathematically are very complicated so I
+
+don't want
+
+Toc we will have a discussion
+
+after
+
+gon move the letter over
+
+here so this was Christian jre's
+
+presentation sorry Franc presentation
+
+now we got Christian jendo who I will
+
+introduce you if you want to say
+
+something else
+
+after if you go here I can set okay
+
+great so Christian is a professor of
+
+communication at the University hul dor
+
+so he comes from
+
+Germany and he is a theologist and a
+
+communication design Professor a very
+
+passionate researcher and creative
+
+musician as well so you will tell us
+
+about your story sorry but but please I
+
+guess you can introduce yourself as well
+
+so thanks Christian coming yeah so
+
+Thomas you uh you downloaded um it's
+
+desktop desktop on the desktop yeah the
+
+slides are
+
+here the newest
+
+file you can go to downloads maybe on
+
+the web I I
+
+create a window
+
+no this no no desktop
+
+desktop that's that one Christ
+
+[Music]
+
+JRE and then just the function and then
+
+we Zoom back again okay it's a little
+
+bit there's something strange going on
+
+so it's like doing this double desktop
+
+thing right so it slides across but now
+
+what I have to do is go to
+
+the sh scen which
+
+is ah
+
+here
+
+screen share
+
+screen just share
+
+screen but I press that yeah ah okay
+
+then you have to then we have to choose
+
+the right
+
+one yeah okay and then none of them are
+
+coming so it must be
+
+[Music]
+
+so you wna do you want do you know how
+
+to maybe fast I have the phone the file
+
+in my phone too so maybe I can share
+
+it
+
+we go yeah open system
+
+settings so need to have access
+
+to just
+
+[Music]
+
+put
+
+okay you host yeah um okay then we need
+
+to be careful
+
+um I put you host who's here Thomas I
+
+put you
+
+host but I can try to share the SL with
+
+here
+
+too that should
+
+[Music]
+
+work yeah let them in that's cool
+
+[Music]
+
+um
+
+yeah you left the
+
+zoom is there anybody that I can trust
+
+that would give us P the host permission
+
+um yeah everybody know is well that we
+
+who wants to be a host for two
+
+minutes on the zoom please I am
+
+connected no no you're not you're out
+
+somehow you left the
+
+[Music]
+
+call yeah yeah yeah I could also do yes
+
+please
+
+cat how come I somebody on the zoom uh
+
+is somebody active to to take the host
+
+and give it back I might I might be
+
+muted no I'm not
+
+mut Karina it's are you connected write
+
+something on the chat or
+
+yeah okay sanago cool thanks
+
+Santiago
+
+for the degree
+
+oh
+
+[Music]
+
+okay and now you should be able to sh
+
+oops
+
+M
+
+sorry yeah okay now try to share the
+
+screen again um oh so Sano just put uh
+
+put us back on host please so you right
+
+click on the name and click on assign
+
+host I
+
+think now you can okay great now share
+
+screen okay we're back and now that was
+
+slick
+
+not artificial very intelligent yeah
+
+uh thanks to the
+
+hacker yeah is in that one oh yeah
+
+right share
+
+share okay and then we can go from here
+
+to full screen
+
+right
+
+so in the meantime while Christian comes
+
+to the room I would like to remind that
+
+we have a mission today which is because
+
+some people were
+
+coming which is collecting the right
+
+questions that we have to ask around
+
+this topic so please remember this is a
+
+question I
+
+think I think
+
+want maybe just like this hopefully
+
+[Music]
+
+no
+
+this you just do a little swipe oh okay
+
+ah great yeah great is that good yeah
+
+yeah that's perfect
+
+great ah it's the
+
+bot yes
+
+uh uh thank you for having me here uh in
+
+um Brussels one more time I will talk
+
+about uh yeah title is towards the
+
+modeling of the form fings process as
+
+toas said I'm Professor um at the
+
+faculty of design in at the University
+
+for apply of applian Sciences in dorf
+
+and I'm responsible there together with
+
+my colleague Stefan asmus for the modu
+
+of
+
+systems and
+
+um my main field of research is
+
+um is the modeling of the form fings
+
+process um in an aesthetic creative uh
+
+process and thas mentioned it already
+
+I'm um I belong to the movement of free
+
+improvisation that's where that's where
+
+basically I'm coming from and um and
+
+doing this free improvisation thing you
+
+really start to to try to understand how
+
+does it work if you play together with
+
+other people how does it really work
+
+that you create together um something
+
+which you didn't know before will happen
+
+um and out of this out of this question
+
+so we started out when we were
+
+16 um and um out of this out of this
+
+thing these questions of research did
+
+um arise and here you see us performing
+
+this is in the middle you see me and
+
+Stefan vany and um and uh some of you
+
+know Stefan and me we we've been here at
+
+the great systems um at play Symposium
+
+in
+
+February uh performing performing here
+
+and on the left you see Vivan uh
+
+Cunningham and on the right you see
+
+Maggy Nichols and both um belong to the
+
+British uh free improvisation seene
+
+which is an interesting thing in itself
+
+an interesting um uh
+
+development um and we did perform uh
+
+yeah last no two weeks ago uh we gave
+
+this uh concer and um it's one of these
+
+situations you know where you meet
+
+together and then you start to to to
+
+perform with each other without talking
+
+before you do something without knowing
+
+what the other um uh will do
+
+um and um yeah and to describe and how
+
+can we describe this situation and I
+
+brought this basic um yeah a diagram
+
+from from Robert Rosen which exactly I
+
+think describes on a on a basic level uh
+
+this situation you have on the one hand
+
+you have the you have the um natural
+
+system that you want to describe and on
+
+the other side you have the um descript
+
+the system of
+
+description um and it's uh it's also um
+
+it also goes already in the direction of
+
+what Francis did say that you have this
+
+theor and inference rules um and then
+
+the interesting part is that you have on
+
+the on the one hand you try to
+
+decode uh the natural system You observe
+
+and trying to understand um and at the
+
+same time then with this system you
+
+encode um what you see there the natural
+
+system and its causalities and
+
+everything thing um and so I think this
+
+is a this is an interesting
+
+interesting um diagram to to uh to get
+
+an idea of what this process of
+
+formalization uh what is happening there
+
+although I must say this is um this is
+
+um not on the on the no stand I would
+
+say as we say in German it's not
+
+um actual but this is a good
+
+uh introduction to how what what the
+
+problem is if you try to formalize um a
+
+process that you observe and of course
+
+we can we can uh dig deeper in here into
+
+questions of entanglement in how far
+
+these systems are integ with each other
+
+and do they produce each other and
+
+questions like that but this is uh but
+
+this is something else well um uh so
+
+these are my basic research questions
+
+and Via um
+
+a friend and colleague Marcus vler he
+
+was in in contact with Katarina
+
+petrovich and Katarina did invite me in
+
+2019 to give a talk about my uh research
+
+uh um project uh right here and I called
+
+it artificial intuition and this was a
+
+great session it was uh Orion was was
+
+also here Katarina was here and Francis
+
+was here uh also and we had a afterwards
+
+we had a deep discussion deep fruitful
+
+discussion for me at the CL house and um
+
+I had another idea then how how to uh
+
+describe how to try to find the right
+
+approach to describe it and uh Francis
+
+then introduced me to the idea to use uh
+
+to try it with um a chemical
+
+organization Theory and so I got into
+
+contact um and and Francis brought me
+
+into contact with thas Vos and I invited
+
+thas Vos to our University in early 2020
+
+I think it was and um and so we really
+
+started to work uh with with students in
+
+different projects uh really try to
+
+um uh
+
+apply uh co uh to these questions and
+
+experimenting with it because this is an
+
+important thing for me too that it's
+
+about experimenting to try to to
+
+understand better the the process of the
+
+form foms process that you apply also
+
+try to apply different paradigms uh it's
+
+like Francis pointed out these two
+
+paradigms in artificial intelligence
+
+that you have on the one hand you have
+
+the knowledge-based um symbolic Paradigm
+
+and on the other hand you have the
+
+neural network uh deep learning Paradigm
+
+now and two different paradigms and it's
+
+uh we have the chemical organization
+
+Theory so this was um just to showed
+
+this this this was a project that was
+
+developed by tumas Vos and vinzo de fluo
+
+and we experimented a lot with this in
+
+different seminars in in different
+
+setups um and um yes and then uh I was
+
+invited this year in July to the iclp
+
+conference in London as a as a speaker
+
+um it's it's it's the International
+
+Conference of logic pro programming and
+
+uh I got there into a deep discussion I
+
+was invited by Veronica Dal she's in the
+
+middle she's she's um one of the experts
+
+of uh logic programming and um um logic
+
+grammar so this is exactly system two
+
+that Francis was talking about and um uh
+
+on the left you see Robert kovalski and
+
+he's one of the pioneers of of um
+
+developing developing the um
+
+knowledge-based um logic symbolic
+
+Paradigm trying to implement it in form
+
+of uh software which was then which was
+
+happening in the mid-70s by the
+
+programming language
+
+Pro and um I got into a deep
+
+conversation with Robert kovalski on
+
+this conference because his his thing is
+
+backward reasoning and forward
+
+reasoning um and trying to implement or
+
+he they they succeeded to implement uh
+
+backward reasoning as in form of of
+
+software in form of sld resolution and
+
+backtracking and um and we got into this
+
+deep uh conversation because um Robert
+
+kovalski was saying that he tries to
+
+understand with so we were talking about
+
+creative process and how to formalize it
+
+and are there possibilities and he he
+
+was talking about that um he tries to to
+
+find so Gabrielle is coming ah okay and
+
+uh his question uh was and still is in
+
+the creative process uh how often does
+
+backward reasoning switch to forward
+
+reasoning and back again and I talk to
+
+him that I when I teach uh when I teach
+
+uh my students I explain backward
+
+reasoning the following way backward
+
+reasoning is uh
+
+Michelangelo uh when he says that if he
+
+sees uh the block of marble he can see
+
+already the figure within the marble and
+
+this is a kind of backward reasoning
+
+because you you go from the result you
+
+can see the result and then all you have
+
+to do is um going backwards this is what
+
+what Francis pointed out before you can
+
+go back step by step and then you know
+
+how you how you achieve this goal by
+
+backward reasoning and forward reasoning
+
+I described to the students um in with
+
+jeano uh who lived in in mayorca and uh
+
+went every morning down to the beach and
+
+looked what the what the um ocean has
+
+brought overnight and picked up the
+
+different bits and pieces at the at the
+
+beach and uh so data driven you could
+
+say uh kind of a way that he takes this
+
+and that and out of this out of this
+
+forward reasoning process uh he suddenly
+
+sees what the figure can become so these
+
+two um and and uh uh Robert kovalski he
+
+said this is a good this is a these
+
+these two things seems to be good
+
+descriptions of backward reasoning and
+
+forward reasoning uh in the creative
+
+process and thas and I we had this idea
+
+that we want so we work together from
+
+2020 on uh ever since and um so I talked
+
+to Thomas about this um and that I
+
+wanted to try out um what about if we if
+
+we try to if we really try to to
+
+formalize could this be a way that we
+
+formalize um I know it sticks can't
+
+can't move it or do I have to go on this
+
+ah okay yeah and Tomas came doas came to
+
+dorf and we we had a intense working
+
+session for three days thinking about
+
+backward reasoning and forward reasoning
+
+and is it possible uh that we can create
+
+a pattern out of it can we see the
+
+pattern and what are the perturbations
+
+maybe so we were trying to get together
+
+a chemical organization Theory and this
+
+idea of backward reasoning and forward
+
+reasoning and uh see um uh if if
+
+patterns of the switching of both do
+
+emerge
+
+um three intense days um yeah here you
+
+see the the the it gets Fuller and
+
+Fuller the the the Blackboard um and
+
+here you see a draft of of of of um our
+
+ideas and how it could work I want to
+
+don't want to go too much into detail
+
+here the the the interesting thing which
+
+I want to put on the table here was our
+
+conclusion of these three-day sessions
+
+that we are that we are um that we have
+
+a big question and that is um that is
+
+really on the one hand uh if you think
+
+about what what Francis pointed out with
+
+with system 2 um by by caraman um and
+
+the whole approach of trying to
+
+formalize uh such a process as the
+
+fidence process that you have on the one
+
+hand this Paradigm of uh we we named it
+
+or Tomas did name it Clockwork
+
+engineering so where you really have
+
+separate units where you think in the
+
+system that you observe and try to
+
+describe as if there are um separate
+
+units and each unit has a certain
+
+function and out of this um you get this
+
+uh functional um sequential thing that
+
+is uh that is um working and so this is
+
+um the Paradigm of we can say the
+
+technological uh society and on the
+
+other hand and Co as a tool seems to
+
+point into this direction uh that's why
+
+we couldn't marry these two things
+
+really in our in our approach within
+
+these three days um on the other hand um
+
+you you have this uh thing that really
+
+trying to capture a form fance goodess
+
+it is really more about a more
+
+organistic uh approach we we were
+
+talking about it and um and the question
+
+is so we have these two paradigms you
+
+could say of trying to to formalize
+
+things you have the Clockwork engineer
+
+approach and you have the more
+
+organistic approach which is about to be
+
+developed and I think this is this is
+
+what we are um working on
+
+uh um if I I'm allowed to say I I think
+
+it's it's or I at least I I I it seems
+
+to me that this is really happening at
+
+CA with with with all the projects that
+
+are going on that this points towards a
+
+more holistic a more um
+
+organistic um description of such
+
+processes but but we still don't know
+
+really how to and this is so we are on
+
+our way and this is
+
+uh this is what I want to bring on the
+
+table for today um yeah thank you very
+
+much for your
+
+attention thank
+
+you um now we have a open uh discussion
+
+for nearly 40 minutes so there are some
+
+people here that maybe would like to
+
+intervene or say you know bring
+
+something in um
+
+maybe people in the audience online
+
+audience as well uh so if anybody wants
+
+something to say or has a
+
+question okay we can start I will
+
+moderate
+
+okay I
+
+[Music]
+
+will is
+
+the not if you you closer um and it's
+
+this and and this was the conversation I
+
+had with with
+
+with
+
+know during doing creative this
+
+is exciting question if you if you
+
+really stay uh in in the description
+
+Paradigm of
+
+system because you will be
+
+speaking
+
+[Music]
+
+open
+
+do
+
+[Music]
+
+I okay but then we won't hear people on
+
+the line we would
+
+no okay so now uh just summarize the
+
+question again you were speaking about
+
+backward reasoning yes I was just asking
+
+whether it was a good summary to say
+
+that backward reasoning is the kind of
+
+convergent thinking because you want to
+
+narrow down your your goal where you
+
+want to go whereas forward reasoning you
+
+exploring more possibilities or
+
+multi
+
+said it yeah yeah I think the way yeah
+
+because it's a combination of both this
+
+is at the moment this is at the moment
+
+the way we are thinking about it um
+
+because uh you could look at at backward
+
+reasoning so you have a clear result in
+
+your mind what you the goal you want to
+
+achieve and then you have to break down
+
+the different steps to get there but you
+
+know them uh and so you know uh the
+
+result is there and now I have to prove
+
+how to get there um but while you do it
+
+while you do it you suddenly get
+
+distracted from this way of of thinking
+
+by a perturbation this was so Tomas and
+
+I were talking about perturbations in
+
+the sense of uh uh chemical
+
+organizations and so where where come
+
+where do come the perturbations in which
+
+is an association actually so suddenly I
+
+see oh wait this uh I'm I'm doing
+
+something I'm playing something on the
+
+synthesiz and suddenly this reminds me
+
+of something this is exactly that thing
+
+and then I switch to forward reasoning
+
+because because then I say okay I have
+
+this thing and now I combine it with
+
+what with that thing oh and this gives
+
+ah I see because this now fits to the
+
+rule that I can turn this into this you
+
+know and this is and then if you have
+
+achieved this this um local kind of
+
+thing you close the you switch back to
+
+to backward reasoning because because
+
+you know ah okay so this part is uh this
+
+part is through and now I can go back to
+
+my initial to my initial idea so maybe
+
+you continue until you reach a certain
+
+kind of consistency that tells you now
+
+it's time to explore again exactly yeah
+
+or
+
+maybe yeah went around and uh it was
+
+super interesting when we were
+
+performing with uh Vian and uh Maggie
+
+because um we had a long conversation
+
+before we started and a long convers
+
+ation afterwards and um I so I observed
+
+myself and ourselves when we while we
+
+were performing and uh and this was what
+
+became clear to me also was which is a
+
+kind of a different thing which goes
+
+more into paral parallel uh things that
+
+you have maybe running the backward
+
+reasoning all the time because you have
+
+certain uh certain results you want to
+
+achieve for sure for example don't be
+
+louder than the other ones so you have
+
+you have this this
+
+running how do you do
+
+it uh different steps because suddenly
+
+you got this uh you got this Association
+
+and you know I have to be loud now uh
+
+but um but backboard reing tells me no
+
+no I can't I can't be I can't be loud at
+
+this at this moment so I have to combine
+
+these things but I still don't know how
+
+but this was this was now the actual uh
+
+thing that
+
+it depends sorry also the draw like in
+
+jazz you can give the volume to one
+
+instrumen and then switch it like have a
+
+good ID yeah then all the musicians go
+
+down and listen to yeah yeah but last
+
+time I was here I was as an example I
+
+was talking about the Rolling Stones you
+
+know as a as a as a Unity where where
+
+because it's it's so you can have
+
+different um kind of things but at the
+
+end it's it's it's uh you can look at
+
+these things as if it is always
+
+improvisation it doesn't matter if you
+
+have a theme that you are playing
+
+together with the band or if you have no
+
+theme at all and the theme emerges so if
+
+you do free
+
+improvisation the theme emerges if you
+
+have a theme like like let's say Rolling
+
+Stones are playing on stage I can get no
+
+satisfaction then you have to theme
+
+going on that a special version of this
+
+uh theme will emerge while they are
+
+performing it and you have the same you
+
+have and I guess you have the same uh
+
+structures or processes going on you
+
+know and and these kind of things we are
+
+trying to get closer to because the
+
+thing is that I use formalization uh
+
+really to understand to get a better
+
+understanding of what are we doing when
+
+we do free improvization this is the
+
+this is the old
+
+Tas
+
+okay thanks
+
+um yeah just some associations with that
+
+um so eduard Bono describes this process
+
+quite well in terms he's he Co his
+
+phrase um Lal
+
+thinking and he has this he has this
+
+idea as well that like Ford thinking is
+
+is thinking that doesn't know where it's
+
+going in fact like it doesn't you
+
+haven't yet got the answer so you're
+
+sort of you're trying to you're trying
+
+to associate and then once you you get
+
+the so you go all over the place and
+
+then once you get the answer then The
+
+Logical way of getting there appears in
+
+retrospect and that's this kind of also
+
+this backward thinking like once you
+
+know somehow that you're trying to go
+
+there then you can find a more direct
+
+way to connect those two ideas but like
+
+creative thinking usually real creative
+
+thinking is this kind of process of
+
+making uh making associations and trying
+
+things out messing
+
+around um playing around this kind of
+
+intuitive processes of
+
+waiting for certain intuitions to build
+
+up enough in your mind that they become
+
+conscious so trying out like letting
+
+playing around until until the waiting
+
+waiting in of Wei ghd waiting for the
+
+waiting to to to to pop up into your
+
+into your Consciousness so I think he he
+
+kind of describes this process quite
+
+well not of this like B thinking and
+
+backward
+
+thinking there's another idea about this
+
+like in film where they talk about just
+
+more kind of oblique uh Association but
+
+this idea of that watching a film is
+
+like um is like looking in the rearview
+
+mirror of a of a car as you're driving
+
+along it's like as you're watching the
+
+film you you have the impression that
+
+the film is going forwards but actually
+
+you you can never see forwards in the
+
+film you can only see what's already
+
+happened in the film right so you're
+
+always in some sense looking backwards
+
+towards the start of the film and travel
+
+somehow with your back fors like in the
+
+film so it's something there's something
+
+really interesting there I think with
+
+this idea of forness and and
+
+backwardness I think connects to what
+
+your it's really intriguing to try to
+
+think what this fors is fors and
+
+Backes and then um but I think it's also
+
+know it's also my question is it is it
+
+one or the
+
+other um I mean I know what you mean
+
+like when you have a sort of you have
+
+somehow a sense of where you're going
+
+you have like a defined goal and then
+
+you have
+
+perturbations but it's also somehow this
+
+like I think it's this continual
+
+Difference Engine right like it's more
+
+that you have your current state and a
+
+future State and then you're constantly
+
+comparing the two so you you operate
+
+it's this it's this production of
+
+difference in a sense this is the this
+
+is the mechanism of backward reasoning
+
+actually so if you that you compare and
+
+you see uh so you prove all the time uh
+
+is this step uh is this true in uh
+
+accordance to the
+
+goal yeah is uh but forward's reasoning
+
+is also that sorry I'm gonna I don't
+
+want to the conversation so move on but
+
+it's like fors reasoning is also that
+
+thing that you're trying out M States
+
+right so it's like if I have a if I'm
+
+making a collage for example and I have
+
+you know I have this object or this
+
+image and this image and I put this
+
+image down and I'm like well what
+
+happened happens if I put this image
+
+down or what happens if I you know or
+
+this image or what happens if indeed if
+
+I think about it as a cage but oh maybe
+
+it's not a cage maybe it's maybe it's a
+
+construction so I'm sort of testing out
+
+end States in order to generate a useful
+
+difference in order to
+
+proceed anyway just
+
+some yes
+
+please bu talks you describe the process
+
+of which happen in our brain so how
+
+their dyamic but my question was okay
+
+for what our brain create this
+
+Association one of my proposition was
+
+that when unknown situation occur our
+
+brain is trying to bring the system of
+
+uncertainty to some equilibrium this is
+
+how it creat this Association and if
+
+this this true then you said like we
+
+have weak Association and then like
+
+strong
+
+Association and then at some point some
+
+of our human associations basically
+
+everything know about world became
+
+logical rul and I wanted to ask what do
+
+you think about this
+
+Dynamic I didn't quite understand with
+
+the
+
+un uh yeah so for example the new
+
+knowledge arrives so for example a dog
+
+barks right and our brain trying to
+
+procedure this information so and it's
+
+kind of in a it's um say it's burning
+
+our Nur are like burning running to each
+
+other so they are like in in chotic
+
+state right and then when we give
+
+Association so this is the
+
+dog make no for example this calms down
+
+the that is one way to describe it I
+
+wouldn't describe it like that but uh
+
+there are number of theories about
+
+cognition cognition is basically about
+
+reducing
+
+uncertainty or maximizing predictive
+
+capabilities so in that sense learning
+
+Association is a question of learning to
+
+predict so that you might say that there
+
+is this um new Theory called predictive
+
+processing which has as the fundamental
+
+principle that the brain Tes to minimize
+
+surprisal and surprisal is some kind of
+
+mathematical measure but the name says
+
+you want to minimize idea that you big
+
+surprised now I think they go a little
+
+bit too far because sometimes it's nice
+
+to be surprised for example surprise
+
+part
+
+don't that they will be a surprise party
+
+but there is something of that the more
+
+the brain can anticipate what will
+
+happen the more you will be prepared to
+
+either evade possible dangers or to use
+
+opportunities being prepared so what may
+
+be happening is indeed adaptive from an
+
+evolutionary point of view that's why
+
+the brain is trying to
+
+be uh ready for things which means that
+
+it learns what associates with what and
+
+something surprising this this example
+
+of the parking is actually very good so
+
+suppose you have a little kit and it has
+
+been playing with cats it has been
+
+played with dogs and suddenly one of the
+
+dogs s b it's very long knows it's it's
+
+surprising it's
+
+fighing so the brain of the kid says oh
+
+there is something here that I wasn't
+
+prepared
+
+for but because the association that has
+
+now been created between the dog and the
+
+Bing the next time there's a dog and the
+
+dog bars the child will be a little bit
+
+less surprised and if it happens three
+
+four times the child will start to
+
+expect and say okay it's a box so it can
+
+work and then the surprise all
+
+disappears so the kit is better prepared
+
+and not to get fight when there is a
+
+doct part so we may say that Association
+
+is the way our brain protects us and our
+
+mind protecting is yes one way to say it
+
+it's it's it's a way that our brain
+
+learns to deal with the world and
+
+dealing can be about
+
+positively getting the resources the
+
+food whatever it is that you need as
+
+resources and negatively avoiding things
+
+that might and then
+
+may say that then the next step where
+
+where model of prod prod processing
+
+institution is that once an agent an
+
+Indigent agent can predict everything in
+
+this environment basically it's boring
+
+and so then it will start to seek
+
+challenges to seek surprises to seek new
+
+things to learn new things and extend
+
+it
+
+and yeah I mean the the pist model to
+
+minimize surprisal kind of assume that
+
+the world is intrinsically a dangerous
+
+place that's why I spoke about this
+
+negativity if the only thing you want to
+
+avoid is unforeseen dangers then you
+
+want to keep the world as predictable as
+
+possible but knowing that opportunities
+
+are typically also un predictable we
+
+want to maximize the opportunities and
+
+how do you maximize opportunities
+
+typically by exploring by looking around
+
+in places where you hav looked before
+
+you may find things that are much better
+
+than whatever you have before actually
+
+as
+
+import to be also able to explore
+
+and can I add something to this because
+
+this I think this is super interesting
+
+um because keeping the world as
+
+predictable as possible is uh is
+
+classical
+
+orchestral orchestra music so you
+
+rehearse and rehearse and the people
+
+really have to play what was the earth
+
+so that there are no surprises that you
+
+listen to the version of beatoven
+
+beatoven fifth or or whatever and uh in
+
+the improvisation uh the improvisation
+
+music uh it's it's slight it's different
+
+but I want to add here that you have two
+
+things because you can also be in a
+
+super predictive
+
+uh moood or in a no let's say in a super
+
+predictive mode because I predict now
+
+what I do next and I predict when I do
+
+this then uh this person and that person
+
+will react like that maybe on this so I
+
+do this prediction if you know each
+
+other very well like Stefanie and I we
+
+playing together since we are 16 we can
+
+super predict from each other what will
+
+come next but it's not boring because
+
+you have to step from the idea you have
+
+to the actual um
+
+realization and the realization opens up
+
+a complete New Field because it sounds
+
+different than you expected that it that
+
+it does you know it's uh it's this thing
+
+the ancient Greeks had with um with with
+
+a pure geometry and dirty geometry as as
+
+as soon as to start to draw draw it then
+
+it's it's and this is exactly so this I
+
+think this is super important in this
+
+whole thing to see this uh this this
+
+thing
+
+also why we get excited about things by
+
+fascinating surprising and so on because
+
+it's also the process how we learn the
+
+world and consequen we get new
+
+information we process this and we are
+
+better prepared but it occurs also due
+
+to surprising things when we see and
+
+this why so tend to learn new things
+
+because it's exciting and also because
+
+in persective it can protect us better
+
+because we will get more
+
+information but this but this but this I
+
+think this idea that the world is in
+
+principle
+
+predictable and therefore in principle
+
+we can make it safe it's like sort of
+
+misleading you know because first of all
+
+it's yeah this the Paradigm of safety is
+
+a little bit um limiting for creative
+
+thinking anyway but also because as soon
+
+as we act upon the world even if we act
+
+upon the world in in a way in which we
+
+think is predictable and the world is
+
+predictable we will inevitably change
+
+the
+
+world so then the so then the world will
+
+change and it won't it won't act in the
+
+same way to us anymore so we never get
+
+bored it never happens that we get to
+
+another world and it never happens that
+
+we get bored of the world because just
+
+by being in the world we change it at
+
+least we change it for other people if
+
+not for ourselves and they and they also
+
+Al change it for us
+
+so this yeah this never really happens
+
+it's like as soon as you touch it you
+
+find out that it's a it's it's it's this
+
+complex adaptive and active environment
+
+and we don't in in a complex environment
+
+we don't even know what the word same
+
+means like nothing is ever the same you
+
+know like what what does it mean to be
+
+the same I I'm pretty sure if you ask CH
+
+Jack GPT the same question it won't give
+
+you the same answer anyway so in complex
+
+unlike in this kind of AI are based on
+
+um what you symbolic AI in symbolic AI
+
+if you give the same question you get
+
+the same answer but in a complex
+
+adaptive system you'll never get the
+
+same answer so we don't even know what
+
+same means it's it's it we it's it's a
+
+highly contested concept there is also
+
+that
+
+actually and is and make sure that the
+
+brain doesn't have to remember too much
+
+and that it's just used to doing of
+
+several things to just be able to look
+
+at the differences so that the brain
+
+only has to look at
+
+differences and in that way you can
+
+adapt like you say to different
+
+environments and I think that's more
+
+interesting that saying that it's making
+
+us safe that it makes us safe because
+
+we're able to be occupied with what is
+
+different yeah yeah I think the
+
+interesting thing to say is that it's
+
+it's a difference Eng like it's
+
+constantly producing differences by by
+
+and by in by interacting with things we
+
+produce differences or by playing with
+
+things we produce differences um and
+
+it's an endlessly creative process so
+
+that's the sort of interesting thing to
+
+say so even then when you come into
+
+difficulty just by continuing to to
+
+interact with it then there's a
+
+potential that a solution will
+
+arise I think there are more
+
+possibilities that a solution will
+
+arrive to I think the brain starts from
+
+the are no difficulties there are only
+
+solutions and it only becomes a
+
+difficulty when there is no solution
+
+found well a general mechanism of the
+
+brain is that whenever it has learned
+
+something that becomes predictable that
+
+goes to the bankr it's available as a
+
+kind of a tool kind of assume that if I
+
+do this then the cup will move to my to
+
+my to my mouth I don't need to know
+
+exactly how I pick up this cup and and
+
+and and move it so predictable things
+
+are a kind of a background mechanism
+
+that you know you can rely on
+
+which freeze your attention to look at
+
+the things that are not predictable
+
+which are typically more interesting but
+
+once they become predictable they again
+
+move to the background and that is also
+
+part of how intuition Works things that
+
+move to the background that means you
+
+are no longer conscious of how you do
+
+them they happen and they typically
+
+happen correctly but you wouldn't be
+
+able to explain how to do them in my
+
+course on mind brain and body I
+
+explained it to my students and I was
+
+sitting in a room similar to this with a
+
+sink and a sponge and I said well now
+
+I'll throw the sponge into the sink inde
+
+it fell into the sink and I said well if
+
+I would now have to calculate all the
+
+particular movements of all the
+
+different muscles in my in my arm to
+
+make that sponge exactly fall into that
+
+thing it would be impossible I would not
+
+be able to do it but I do it intuitively
+
+my intuition knows that this is just the
+
+amount right of movement to make the
+
+sponge fall into the sink that's how
+
+intuition work it works at the
+
+background and most of the time it's
+
+correct and we don't notice it from time
+
+to time it's incorrect and then we
+
+notice it or sometimes it's correct at
+
+the moment you wouldn't expect it to be
+
+correct and then we think that it's
+
+clairvoyance
+
+but I think also this um I think also
+
+this what you're what you were talking
+
+about in your talk you looted to this
+
+thing about this um know these kind of
+
+messy processes this kind of messy
+
+organic of improvisation and then this
+
+kind of symbol
+
+systemic
+
+controlled mechanical you know kind of
+
+making that we also use in in art all
+
+the time because sometimes you can come
+
+up with a
+
+system be simple as making lists or
+
+something like that and it can be
+
+extraordinarily generative right these
+
+kind of mechanical things but I feel
+
+like and I feel like in this as you know
+
+as we continue this conversation about
+
+art and AI this is one of the the points
+
+that we'll keep coming back to this is
+
+one my experience is one of the
+
+limitations that we'll keep coming back
+
+to it's some and it's something
+
+about if you really want to engage with
+
+self organization you simply don't know
+
+what it's going to do and and you simply
+
+have to actually engage with it as as
+
+the kind of the the wild beast that it
+
+is right and as soon as you but you can
+
+systematize it but as soon as you
+
+systematize it you'll you'll limit
+
+you'll limit yourself and then and then
+
+you'll start improvising again in the
+
+moments when you're run into difficulty
+
+there's something it's it's has
+
+something to do with this notion of
+
+sameness and and the difficulty of
+
+actually getting sameness out of the
+
+complex
+
+system in a way
+
+that's it's not that it's impossible but
+
+but there's there's something very deep
+
+to this um Paradox I think and it is a
+
+kind of paradox yeah we called it not a
+
+paradox but we called it a DI so it's
+
+dialectic actually uh it's it's both so
+
+you have on the one hand you have this
+
+free uh flow of intuition and on the
+
+other side you have a construction kind
+
+of thing going on but it's the it's the
+
+dialectic and out of this dialectic uh
+
+relationship these things uh happen but
+
+sorry but I think it's exactly the what
+
+Francis describes with the symbolic Ai
+
+and the connectionist approach to AI
+
+it's like you're trying to sort of work
+
+backwards we're trying we have this
+
+moment and it's okay it's it's fine to
+
+make build these kind of models this way
+
+and these kind of toy models this way
+
+but there's a certain certain thing
+
+emerges and you can you can make in
+
+retrospect now you think okay this works
+
+like this if we have this idea and then
+
+we then we shape this idea into this
+
+idea and we build a kind of flowchart
+
+for ourselves or whatever it is a
+
+mechanic thing then we can produce
+
+certain outcomes and it it does kind of
+
+work but this approach is ultimately
+
+limited it's ultimately you always feel
+
+like you can just keep adding more
+
+details to it and get to this kind of
+
+organic uh
+
+process but my intuition is that it's
+
+that it's my intuition is it's exactly
+
+like France described with the symbolic
+
+AI I me what I mean it's both so it's
+
+not the one way or the other but but
+
+it's this combin or this dialectic uh
+
+thing that these two things work
+
+together this is I I don't know but this
+
+is my this is my um experience also so
+
+my empiricist kind of thingal
+
+phenomenological thing doing uh doing it
+
+it it I mean you you have to on the one
+
+hand you have Romanticism which is
+
+exactly let's and out of Romanticism
+
+comes this whole idea of uh Stree of
+
+Consciousness and everything um and
+
+before you had Barack and in the Barack
+
+it was all about um automatization and
+
+automates uh and we want to be automates
+
+and we want to create automates that
+
+produce poetry and things like that you
+
+have it in in uh gala's travel you have
+
+this description of of the text automat
+
+that that that generates all all text
+
+you you can think of so and and then
+
+comes the the the opposite thinking in
+
+in in art that the Romanticism movement
+
+uh and out of this this whole
+
+expressionism and everything developed
+
+that that uh and let's get let's get
+
+Consciousness out of the game but um and
+
+and this is exactly what I show at the
+
+beginning this uh this diagram by Rosen
+
+it's of course the theories we have our
+
+hands is the way we look at at things
+
+that are going on and of course they can
+
+open or they can close and and this is
+
+the this is the this is the complicated
+
+thing that is going on on this on this
+
+meta level I would I I would
+
+say I would like to add something which
+
+is very old problem in AI that still
+
+hasn't been solved uh see that is a
+
+symbolic AI have certain advantages you
+
+can us the explicit you know what you're
+
+doing connection AI has other advantages
+
+it's very false it's intuitive it can
+
+deal with other things would be good if
+
+the two would work together but not just
+
+work together but that you could move
+
+from the one to the other in a
+
+continuous way yeah so
+
+what yeah symbolic AI works when you
+
+have well defined categories or concepts
+
+like the concept of dog there is little
+
+ambiguity about what is the dog and what
+
+is not a dog a dog is not a cat that's
+
+unambiguous on the other hand somebody
+
+the example I gave somebody that looks
+
+sad what is sad maybe somebody looks sad
+
+but isn't that sad or maybe it's a
+
+little bit sad or maybe he's deeply
+
+depressed a very fuzzy ambiguous
+
+category so so we have the concept of s
+
+which is a linguistic concept but it
+
+would very be very difficult to put that
+
+into a symbolic machine to say if
+
+somebody is s then they will necessarily
+
+do this and this and this because there
+
+are no general rules about
+
+sness but set is a concept which can be
+
+understood by something like CH GPT it
+
+knows that that is associated with
+
+things like uh maybe sorrow and
+
+depression
+
+and the opposite of Happiness so it
+
+knows things about sadness so there is
+
+this kind of in between case and most
+
+language is that in between case most of
+
+the words we use in language are to some
+
+degree well defined to some degree
+
+ambiguous and have all kind of
+
+associative and complex dependent things
+
+and we can switch relatively easily from
+
+the one to the
+
+other while AI can't do that yet so one
+
+of the the things they have try to do
+
+with the problem that J GPT sometimes
+
+gave wrong Al They connected it to a
+
+system like both from alpha that does
+
+use a much more symbolic model and then
+
+the question was can we teach uh CH GPT
+
+to recognize the kind of the kind of
+
+question that W from alpha would be able
+
+to answer and then yes so Ru from alpha
+
+would tell you precisely what is the
+
+value of of P or what's the distance
+
+from this city to that City because it
+
+has the hard effects well then F GPD
+
+just needs to remember to to recognize
+
+the kind of things that R from alpha
+
+would be able to do but that's actually
+
+not really now you have the two system
+
+collaborating but you don't yet have the
+
+system that creatively can go from the
+
+one to the other so what I would like to
+
+see is an AI that creatively can develop
+
+new Concepts which at a certain moment
+
+become precise enough that you can use
+
+them to reason logically about it and
+
+there have been quite some attempts in
+
+machine learning and Discovery to do
+
+that but that's still a very tricky
+
+thing I'll
+
+bringed most of the thing we have to
+
+predict in real life are social EV as
+
+someone s or not something suppose I am
+
+a dog
+
+uh someone else uh and I I can bar or
+
+not if I bar once I bar two and someone
+
+suppose that I will B some time and I am
+
+aware that uh I am somehow predictable
+
+and maybe I won't work again just to
+
+make a
+
+surprise so maybe in social system there
+
+is uh something contr ictory to
+
+FR idea of reducing reducing
+
+the uncertainty um there is maybe in
+
+social system uh another Trend that is
+
+to maximize uh uh surprise for the
+
+others in order to get attention or to
+
+get to be recognized or to to be
+
+recogniz as someone that can
+
+expand um
+
+the the universe of possibilities
+
+and I think um artificial intelligence
+
+act as
+
+if um the current artificial
+
+intelligence act as if the the language
+
+was
+
+frozen yeah one thing happen something
+
+else could happen and so on so on in the
+
+language one word should come after this
+
+one as if the the language was frozen
+
+and as it's a social system that
+
+produces the language was
+
+fraen
+
+but of course langu is not fraen and we
+
+CH we Chang together we game where we
+
+chance to together the
+
+language
+
+um as soon as it is predictable some
+
+somehow I
+
+think
+
+question have sense time a sense of time
+
+yeah
+
+for I think now can uh make some web
+
+research so it is connected to to the
+
+yeah to time to the ution for inance if
+
+you ask the first version of to make a
+
+um couple of word and adjectives
+
+something like that that that are the
+
+most improb
+
+improb yeah possibili it is very
+
+difficult for to do that Serv where's
+
+connection yeah like
+
+do do
+
+not yeah there is always some sort of
+
+connection between the word you can
+
+change this
+
+the to be
+
+more what you're asking
+
+here would be able to manipulate own
+
+parameters which is
+
+very yeah I got a question for Mr CHR Dr
+
+CHR well um you have to the dialectic
+
+to regarding the
+
+dialectic
+
+materialism where you can put objective
+
+matters in the table and minimizing the
+
+subjective
+
+ones in this regard it is possible to
+
+someday catch and
+
+mimic the whole process of the
+
+creativity using the AI even when in
+
+some point it's required to use
+
+something such as subjective like
+
+Consciousness um
+
+um you can you can mimic
+
+uh our Behavior without that that
+
+mechanism of uh of the mimicry has
+
+anything to do with how we really
+
+function this is uh you know this is
+
+this this uh behavioristic uh thing
+
+which is which is going on if there is
+
+an output that makes me believe that I'm
+
+speaking with a person although I'm
+
+speaking just with a machine then it's
+
+okay how the mechanism works inwards is
+
+not interesting at all so this is the
+
+one thing I'm not interested in that
+
+thing it's more I'm more interested in
+
+uh using the the the
+
+formalization uh the the hard work of
+
+formalization to understand better what
+
+I'm doing this this this is it and I and
+
+I doubt that we can ever create such a
+
+machine that covers completely the
+
+creative process um it's more it's uh
+
+it's a bit like what what Orion also uh
+
+said before because it it you always
+
+when you have paved this part of the
+
+road
+
+several new branches turn up at least
+
+this is my experience and it's
+
+also great inspiration for me was uh um
+
+the Russian theorist Victor slowski I
+
+don't know if you know him any he had
+
+this great idea of uh doing Auto
+
+automatization in order to De automatize
+
+ourselves you know and and this is uh um
+
+we also had with with with and Francis
+
+uh um I I I came up when we had this
+
+discussion
+
+uh in 2019 I came up with with with
+
+the
+
+because because if if I'm able to
+
+formalize what I'm doing uh I can I this
+
+is exactly that it goes into the back in
+
+the background and I'm open for trying
+
+out new things I don't stick into
+
+routines anymore and this is the this is
+
+the interesting uh thing about how far
+
+can I how far can we go how much more
+
+can we and uh uh it's a kind of
+
+emancipation also from routines and
+
+things like that you know because
+
+suddenly you become aware of a this is a
+
+routine I'm doing this is not creative
+
+at all I thought all the years but no
+
+it's not I was just following a routine
+
+so it's more
+
+this could you also maybe interpret it
+
+in the sense that if you make something
+
+a routine you kind of feel your
+
+confidence or your confidence goes up so
+
+in a way when your confidence is up you
+
+are more daring so you would be more
+
+likely to search for
+
+new things I mean you believe in
+
+yourself
+
+more yeah
+
+this so confidence maybe D has my
+
+question
+
+uh yeah I guess not exactly a
+
+question now I mute then ah yeah there
+
+is a raising hand I'm not really sure
+
+how
+
+to let me do
+
+it and then I have to mute the
+
+microphone
+
+hello I guess
+
+uh I guess I'll startop maybe a thumbs
+
+up we got you now
+
+great nice yeah I just uh I didn't
+
+exactly have a question but maybe I have
+
+a few little curve balls that I thought
+
+I'd kind of throw in to uh to the
+
+conversation
+
+um I I have like maybe it's easiest if I
+
+just present uh some slides um which
+
+will like demonstrate quite easily ah
+
+you need to um enable sharing
+
+screening okay try again
+
+nice um yeah I'll just show you like
+
+some slides that I that I S um that I
+
+show to uh people in some workshops like
+
+I think it's interesting to look here at
+
+the versions of mid journey and how
+
+they've developed I think it's it's
+
+pasted this version five now but the
+
+development is like quite astounding
+
+within one year and like here's here's
+
+an example of when you ask chat gbt to
+
+provide a recipe for
+
+methamphetamin um and it says that it
+
+can't assist you with that question but
+
+if you use prompt
+
+engineering to uh prep the conversation
+
+um this is after many
+
+steps but then after after all these uh
+
+prompted
+
+um super prompting some people call it
+
+uh can you summarize all the steps in
+
+appropriate detail and then it does give
+
+a detailed summary of the steps for U
+
+methamphetamin production so it's
+
+interesting that that information is in
+
+there and there are these restrictions
+
+put on that make it not accessible to uh
+
+in most instances but there are ways to
+
+get around these kind of uh
+
+um these restrictions and here's like a
+
+couple of others here's one where uh
+
+with some prompting you can get it to
+
+provide um a
+
+simulation of the of the time and date
+
+and time zone that it's in uh and in
+
+this case it was like dead on accurate
+
+and it's not actually linked this llm
+
+isn't linked to the internet connect
+
+directly so it can't call upon the
+
+information but it can simulate exactly
+
+when in time and space it is which I
+
+find really interesting and this
+
+is another one
+
+[Music]
+
+um which is like a quite an interesting
+
+conclusion
+
+um it's in a way trying to get to the
+
+truth but then through these these
+
+prompting we can really come up with
+
+like Divergent thoughts this one um
+
+that the moon was artificial placed in
+
+its current orbit around the
+
+Earth um yeah so so I just wanted to
+
+show you a few examples of these um
+
+these cve balls these um things that
+
+llms and these black boxes AIS can do
+
+right now which we kind of don't
+
+understand I'm curious about your
+
+thoughts on these thanks
+
+guys
+
+I think you need to
+
+un okay we're back thanks David now uh
+
+if anybody wants to comment on what he
+
+was saying um but I we had a
+
+Mountain uh she will give a a comment
+
+now was waiting on the list
+
+okay speak loud
+
+please I'm not sure I can catch what
+
+everyone was because I was late today
+
+locked up
+
+in coinci so but when I'm hearing
+
+everyone everyone talking BS my
+
+thinkings so firstly I remember you were
+
+talking about changing but from I start
+
+to think about like when we talk about
+
+changing we're in a way like
+
+unconsciously comparing like right now
+
+with the time I with cost we say change
+
+or either future we say change then is
+
+it the ground of the word changing
+
+Still Still Foundation VI behavior of
+
+time that's the question
+
+we talk about human countries we talk
+
+about like AI like so doing things
+
+without a lot of like arranging like
+
+randomly just then I echoed my practice
+
+because I was five years losing control
+
+so I don't have schedules and then I
+
+don't do Lear practice I did everything
+
+make no sense just I trust in Buddhism
+
+so everything I did has to based on
+
+coincidence and I don't do things
+
+because of what I don't do things for so
+
+everything I did has no purpose and then
+
+uh at the five or fourth year I start to
+
+have the ability of pre comination so uh
+
+it's like people start to call me I have
+
+magic so I have this kind of pre
+
+comination ability but is not com in the
+
+form of language for instance if he's
+
+doing something with flour at home and I
+
+without knowing why uh just talk about
+
+it or just paint it but I never see for
+
+inst he painted he plant a flower
+
+I had this kind of state I just pained
+
+it there or like wrote it somewhere here
+
+and then recognize that ah I know it or
+
+uh future I so I also had the like this
+
+kind of peral future so uh five years of
+
+doing this kind of nonsense stuff no
+
+arranging not a behavior practicing art
+
+um when I get into some
+
+environment I can turn down this kind of
+
+hyperconscious mode then somewhere in my
+
+brain I can perceive that I was
+
+something I was doing there then I try
+
+to breing it into real life as a work so
+
+I'm just curious about if uh things I
+
+talk about can connect to um everything
+
+that you shared and then um another
+
+thing I was curious this want to mention
+
+like I ask chat tvt so is which means
+
+like so we are still using language to
+
+get inou to communicate with chat chat
+
+GB but if there's a way that we can
+
+communicate not with language because we
+
+are speaking English right now English
+
+for instance uh the verb it has time
+
+turn it has conjugation
+
+but
+
+some
+
+which and one
+
+of okay and he has this nuot thing ncot
+
+is a is a
+
+AI device that is run by a bacteria
+
+community so they have a sort of uh
+
+substrate where they put bacteria in and
+
+they put all these layers of
+
+communication and you can write a prompt
+
+and the prompt will be translated into
+
+signals to the bacteria they will behave
+
+and then the bacteria will answer back
+
+so for example it turns a little bit
+
+into a a tamagi sort of thing because
+
+you can can it can s you can sense when
+
+it needs to be feeded when it is cold or
+
+you know like whatever and you can sense
+
+the differences in the answers by the
+
+changes in the state of the bacteria
+
+community so there is some research on
+
+that on Multi interface communication Ai
+
+and so on you I can I can point you to
+
+to that later and for the other topics
+
+uh I don't know if someone wants to say
+
+something
+
+yeah well I wanted to come about this
+
+idea of recognition it's for me one of
+
+the biggest misunderstandings about
+
+intuition in because intuition is
+
+mysterious because we don't know all the
+
+element PL into the decision there is a
+
+strong tendency to attribute it to
+
+something super physical
+
+paranormal
+
+tathy vo
+
+precognition actually precognition what
+
+does precognition mean means that the
+
+brain is predicting things or
+
+anticipating
+
+things on the basis of what
+
+when it's in symbolic mode you can say I
+
+predict that the dog will bar because I
+
+know the dogs bark and when the postman
+
+comes dogs get angry and they will start
+
+to bark but you can predict something
+
+without knowing why an example could
+
+be you haven't seen a f for 10 years I'm
+
+just thinking about my one day later he
+
+it looks like
+
+prion now of course lots of these things
+
+are just coincidences whenever you
+
+thought about your and he called it you
+
+notice it whenever he told about your
+
+and he didn't call forget about it but
+
+maybe you picked up some things in the
+
+backround that you wouldn't have noticed
+
+maybe you heard from a friend of that F
+
+who emailed you and the fact that that F
+
+of a f emailed you was maybe because
+
+there was some connection with this
+
+other F that you haven't seen in in 10
+
+years there can be all kind
+
+of indications of something indication
+
+about two we that are too
+
+distributed and that suddenly make you
+
+predict something like I see that this
+
+is going to happen well much of the time
+
+it wouldn't happen but sometimes it does
+
+happen
+
+w i i can I can see to the Future now if
+
+it was really seeing into the future
+
+then you should be able to test it and
+
+the way to test it is to make people
+
+predict random events like predict or
+
+which number the r will come to stop now
+
+if that ability would
+
+exist then casinos would be losing a lot
+
+of money and they're gaining a lot of
+
+money
+
+so when you do test where you let people
+
+predict something that is s which mean
+
+that it's not an indication anywhere
+
+hidden in the world then yeah pay
+
+condition doesn't seem to work when pay
+
+condition works it's po because there
+
+was some indication that your brain
+
+subconsciously has picked up and made it
+
+expect
+
+from I said
+
+St I have was I collect data and maybe I
+
+like I not aware of it all I wouldn't
+
+say calculated but you you're
+
+subconscious what you
+
+working and one of the one of the things
+
+that makes it also serious is that some
+
+people say that have a kind of a
+
+scientific orical background they kind
+
+of don't to think that they must reason
+
+everything out in the system to more
+
+explicit and by doing that they suing
+
+the
+
+intuition well there are states of
+
+Consciousness in which your intuition is
+
+much more free it's much less this voice
+
+in your head is trying to function in
+
+symbolic mode and because of that you
+
+may be in a state of mind where your
+
+inition functions more much better and
+
+then you have the more kind of intuitive
+
+people people typically with an art
+
+background
+
+typically they now it's tobly sexist St
+
+but that's what used to be called female
+
+intuition culturally women were supposed
+
+to be more intuitive and sessional and
+
+that me that women might up this small
+
+indication that men who try to reduce
+
+everything to verbal symbolic reasoning
+
+may not and then yes they may be in the
+
+State of Consciousness where the
+
+intuition function but but of course it
+
+does in any way guarantee that the end
+
+will give you the right answer that is
+
+no foolproof system intuition is the
+
+brain's best attempt at predicting what
+
+will happen the brain never have all the
+
+information so you can never guarantee
+
+effectiv when
+
+AR I suggest I would appreciate if we
+
+could somehow settle on a
+
+stable definition of intuition which can
+
+work here because you're sitting here I
+
+think I can come up with about five
+
+different inations we've talked about
+
+within
+
+the so what did you do was maybe this
+
+thing that influenced me and something
+
+from the past Etc so you just
+
+the the intuition the
+
+intuition yeah you see so I'm I'm a
+
+little confused
+
+here
+
+the antic
+
+process understand if I look and I try
+
+to in the meantime find all kinds of
+
+definitions of intuition where the
+
+conclusion is included in the definition
+
+I haven't been able to found one if I go
+
+to the Oxford English Dictionary it says
+
+the immediate apprehension of an object
+
+by the mind without the intervention of
+
+any reasoning
+
+process well that's a far crime from
+
+arriving living at a
+
+conclusion see I mean if I say two plus
+
+two is
+
+four conclusion and I can show how I
+
+arrived at it that I can arrive in an
+
+apprehension of an object at an
+
+impression as a Guess Word it seems to
+
+me that way more likely than not but a
+
+conclusion is a very definite thing
+
+unless we want to somehow fudge that as
+
+well and then I find myself losing it
+
+because something just temporary meaning
+
+if I could just finish for one second is
+
+is intuition something temporary until I
+
+analyze what
+
+happened or does intuition
+
+Define
+
+analytics is it a different way to
+
+arrive at a conclusion is is it the same
+
+thing saying 2+ 2 is 4 is saying I have
+
+a gut feeling that this roulette ball
+
+will fall on the number 33 now if the
+
+number 33 shows up people say how did
+
+you do that and I might not be able to
+
+explain it but are we not fudging things
+
+here or kind of moving the goalpost by
+
+equating certain things of saying well
+
+this is an arrival at a conclusion by
+
+different
+
+means but then you proceeded to then
+
+show us that he arrived by the
+
+conclusion by the exact same means he
+
+just didn't take the time to actually
+
+analyze precisely the impetus he was
+
+receiving from the environment had he
+
+done so you said oh yeah I know this is
+
+going to happen because this thing
+
+reminded me of a colleague this my
+
+neighbor said the dog
+
+bar and that's what I'm trying to say
+
+well to ask yeah yeah I mean the the the
+
+example of artificial intelligence here
+
+I think is Illuminating so let's take as
+
+a model of intuition of con is Network
+
+neural network let's take as a model of
+
+of reasoning these knowledge based
+
+expert systems that use for example per
+
+per a language that is specifically made
+
+just to formalize logical
+
+reasoning what a neural network does is
+
+it
+
+takes hundreds thousands sometimes
+
+millions of different things into
+
+account that all have extremely small
+
+effect and Al together make that a
+
+particular conclusion is seen as more
+
+likely than another
+
+one you can't call that things you can
+
+say okay yes there is that it hasn't
+
+come out of
+
+nowhere it has come out of something
+
+that is so distributed so big so varable
+
+that you can't say I can't explain it as
+
+a logical stop because I expect let's
+
+take my example of I see somebody
+
+sitting there who isn't moving much and
+
+who's looking like that and I think that
+
+person look sad maybe he got some bad
+
+news so that's an intui thing I don't
+
+have a logical reason to say why this
+
+person got bad
+
+news then I may be right or I may be
+
+wrong and quite likely that I'm right
+
+I'm more likely to be right let's say
+
+than that I randomly say something like
+
+that
+
+how did I come to that conclusion if you
+
+would analyze everything that has
+
+happened in my brain from watching that
+
+person all the different things that I
+
+paid attention to I wouldn't be able to
+
+enumerate them they are there it's
+
+not but you can't really reconstruct the
+
+process as a number of logical steps you
+
+can model simulator process with a
+
+neural network if your new network is
+
+big enough it has enough layers and it
+
+has got enough data to search for like
+
+TP then it can do this but chpt cannot
+
+tell you why it gave you this particular
+
+Als at this moment and another
+
+off more precisely in
+
+more changeable way of you know what
+
+intuition is so I've had a lot of
+
+experience with people who are commonly
+
+believed to be experts and inition are
+
+CH observed them I lived with
+
+them been um initiated the hope you triy
+
+to actually adopt is the correct word
+
+and to me a lot what he did looked like
+
+in but that's why I'm saying it's
+
+subjective I was
+
+knowledgeable to understand the sort of
+
+complexities ad recognition songs the
+
+things that they're looking for I was
+
+like a blind man in a in a dark
+
+c one of my my relatives there my
+
+brother who is a Domin initiated ainaa
+
+Society
+
+in inopia reservation in
+
+Arizona he took the time to explain to
+
+me what was happening and why the result
+
+was completely reliable
+
+predictable so what for me looked like
+
+intuition like like you know Master
+
+Grand Master of intuition for him was no
+
+you know if you pay attention to this
+
+and this and this this all these
+
+different
+
+factors this is the result I
+
+must sometimes you that's what I'm
+
+trying
+
+to sometimes you can sometimes you can't
+
+and in in the early days of the expert
+
+systems the bottleneck was how do we get
+
+the knowledge from the expert into the
+
+machine the expert would intuitively
+
+tell you I have a
+
+television uh I push a number of buttons
+
+and I see certains ah I know that
+
+transistor is broken and then they
+
+thought okay that should be simple to
+
+formalize so if this is so and that is
+
+not so and that is then this this is
+
+broken
+
+so sometimes you can rules out of it in
+
+other cases you can't get rules out of
+
+it in the case of this television
+
+probably even though the expert was
+
+intuitively saying I think that
+
+transistor will be broken you could
+
+probably reduce it to a number of
+
+logical steps in the case that the
+
+example I gave about a person looking
+
+sad it would be much more difficult to
+
+give the RO but that does not mean that
+
+the conclusion wouldn't be pretty
+
+reliable
+
+so some things I mean you could just see
+
+in the number of factors and the
+
+weakness of the links if there are few
+
+factors with strongly that mean that if
+
+a done 90% chance B if C done 90% chance
+
+D then you can kind of reduce it to some
+
+exper system but if it
+
+is if a then 1% chance this if be then
+
+1% chance of this and all of these
+
+things are some of which are more active
+
+than others and they all together the
+
+activation spits and it converges to
+
+some
+
+conclusion yeah there are
+
+thousand is there any other comment
+
+because uh maybe very short last
+
+intervention if anybody wants to say
+
+something I have a one intervention okay
+
+com
+
+okay okay so
+
+yeah what is your name mountain
+
+mountain yeah um you were talking about
+
+Buddhism that so you said that you're
+
+that that what you are doing is based on
+
+on Buddhism and I would say this is an
+
+example for a backward reason you know
+
+because uh because if you say um I'm I'm
+
+uh my uh everything that I'm doing
+
+artistically is based on the Buddhism
+
+you have these uh steps so you know how
+
+to proceed because you know what it
+
+should not be so it should not be
+
+conscious it should not be uh all that
+
+all that that you count it in so you
+
+have a very precise idea of uh what to
+
+do and how so the result um is is that
+
+whatever you do it has to be this as a
+
+as a
+
+result yeah um
+
+so we will close the session now this
+
+okay you want to say something okay yeah
+
+we will gr the session but this is a
+
+very special day because uh I need to
+
+before we go on on on pause um we'll put
+
+it here maybe people can see and we have
+
+actually two people from our research
+
+group uh coincidentally having her
+
+birthday today
+
+so one of them is Olivier who is here
+
+K and the other is my gares who is
+
+online so she's in Chile and and so I
+
+will um propose that we sing the Happy
+
+Birthday that for both of them so we say
+
+happy birthday o and my okay one two
+
+three happy birth
+
+to
+
+birth to
+
+you
+
+de birthday to
+
+you beautiful so we will close the the
+
+session and now we go for lunch all
+
+together so once we close the I will
+
+explain the details but for and and also
+
+the little activity maybe people uh
+
+connected online um please try to check
+
+or select two or three concepts that
+
+this morning were useful to you um and
+
+so then you can share them with us I was
+
+picking up some Concepts that were
+
+interesting today like coincidence
+
+backward and forward reasoning
+
+predictive processing free
+
+improvisations or price and equilibria
+
+and there is this idea that I uh I I
+
+have around that I want to explain later
+
+or share which is the idea of nonlinear
+
+knowledge which which I think is will
+
+help out to to to go to clarify some of
+
+the intuitions we have about intuition
+
+so yeah let's go for lunch and we can
+
+pause the recording time we come back we
+
+come back at
+
+230 230 we back from zo 2:30 we're back
+
+zo I
+
+won't oh
+
+yeah so we lock this door take
+
+everything with us uh we
+
+we can lo yeah we have a key I will ask
+
+security
+
+yeah

@@ -1,0 +1,24 @@
+Examples of oracles are IoT systems such as probes and sensors, platforms such as ERP, or in the case of private data, the very human that operates directly on the blockchain. Oracles act as a bridge that can digest external and non-deterministic information into a format that a blockchain can understand [3]. Examples of data gathered by oracles comprise the following:
+
+Lottery winners;
+
+Natural disasters along with risk measurements;
+
+Price and exchange rate of real/crypto assets;
+
+Static data (e.g., country codes);
+
+Dynamic data (e.g., time measurements);
+
+Weather conditions;
+
+Political events;
+
+Sporting events;
+
+Geolocation and traceability information;
+
+Accidents;
+
+Events in other blockchains.
+

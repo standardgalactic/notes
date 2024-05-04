@@ -1,0 +1,4 @@
+At Anthropic our motto has been “show, don’t tell”, and we’ve focused on releasing a steady stream of safety-oriented research that we believe has broad value for the AI community. We’re writing this now because as more people have become aware of AI progress, it feels timely to express our own views on this topic and to explain our strategy and goals. In short, we believe that AI safety research is urgently important and should be supported by a wide range of public and private actors.
+
+So in this post we will summarize why we believe all this: why we anticipate very rapid AI progress and very large impacts from AI, and how that led us to be concerned about AI safety. We’ll then briefly summarize our own approach to AI safety research and some of the reasoning behind it. We hope by writing this we can contribute to broader discussions about AI safety and AI progress.
+

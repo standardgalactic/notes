@@ -1,0 +1,12 @@
+There is a kind of "biophoton" that is very important, the one released when ATP is broken down into ADP. (hydrolysis / dephosphorylation) These biophotons can also be caught by ATP for storage. (condensation / phosphorylation)
+
+It's used to power most processes of metabolism and protein synthesis.
+
+ATP + H2O → ADP + Pi + energy (30.6 KJ/mole)
+
+Also, all molecules and atoms are absorbing energy and releasing it. 
+
+There is no specific difference between a biophoton and a photon but you don't generally see processes in nonliving things are storing photons and releasing it for signaling and all other processes.
+
+Literally the "biophoton" is stored in the extra electron energy needed to maintain the hydrogen bond holding the extra phosphate molecule and then released to power any energy requiring processes like ion channel pumps, catalysis, synthesis, and many other processes.
+ https://www.physio-pedia.com/Adenosine_triphosphate_(ATP)

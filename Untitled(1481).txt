@@ -1,0 +1,10 @@
+It is a matter of contention whether the concept of equipossibility, also called equispecificity (from equispecific), can truly be distinguished from the concept of equiprobability
+
+
+<ref>{{cite journal |last1=Wright |first1=J. N. |title=Book Reviews |journal=The Philosophical Quarterly |volume=1 |issue=2 |date=January 1951 |pages=179–180 |url=https://doi.org/10.2307/2216737}}</ref>
+
+
+The Principle of Indifference of Laplace states that equipossible alternatives may be accorded equal probabilities if nothing more is known about the underlying probability distribution. However, it is a matter of contention whether the concept of equipossibility, also called equispecificity (from equispecific), can truly be distinguished from the concept of equiprobability[citation needed].
+
+In Bayesian inference, one definition of equipossibility is "a transformation group which leaves invariant one's state of knowledge". Equiprobability is then defined by normalizing the Haar measure of this symmetry group[citation needed]. This is known as the principle of transformation groups.
+

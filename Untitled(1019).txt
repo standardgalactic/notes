@@ -1,0 +1,11 @@
+Meet LAMPP: A New AI Approach From MIT To Integrate Background Knowledge From Language Into Decision-Making Problems By Extracting Probabilistic Priors From Language Models
+
+By
+
+ Aneesh Tickoo
+
+-
+
+ February 19, 2023
+
+Common sense priors are essential to make decisions under uncertainty in real-world settings. Let’s say they want to give the scenario in Fig. 1 some labels. As a few key elements are recognized, it becomes evident that the image shows a restroom. This assists in resolving some of the labels for certain more difficult objects, such as the shower curtain in the scene rather than the window curtain and the mirror instead of the portrait on the wall. In addition to visual tasks, prior knowledge of expected item or event co-occurrences is crucial for navigating new environments and comprehending the actions of other agents. Moreover, such expectations are essential to object categorization and reading comprehension.

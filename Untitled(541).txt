@@ -1,0 +1,32 @@
+
+
+Jun 13, 2018
+
+
+Could studying swarm behaviors teach us how to help drones fly safely?
+
+by Tom Abate, Glen Martin , Stanford University
+
+
+
+
+A starling roost in the United Kingdom. Credit: Unsplash/James Wainscoat
+
+Anyone who's seen a flock of starlings twist and turn across the sky may have wondered: How do they maneuver in such close formation without colliding?
+
+"Many types of animals swarm or flock or otherwise move in coordinated ways," says Nicholas Ouellette, an associate professor of civil and environmental engineering at Stanford. "No individual animal knows what every other animal is doing, yet somehow they move cohesively as a group."
+
+Understanding precisely how they do this, Ouellette says, may be a key to helping engineers design "flocks" of aerial drones and driverless cars. Emulating animal swarms is attractive because they not only operate without central control but they're also fault-tolerant, to use an engineering term, meaning they can adapt quickly and gracefully to sudden or unexpected conditions. Swarms are also resilient in that they can operate in dirty, disturbed environments.
+
+So Ouellette and his team have embarked on a series of studies that explore how animal swarms develop the kind of self-organized and self-regulated systems that would allow devices such as drones and mobile sensors to operate safely and efficiently, without the sort of top-down controls that typify, for example, something like the air traffic control system.
+
+Rather than examine starlings or other birds, which would be impractical to study in the lab because of the space they need to fly, Ouellette and his crew look at non-biting midges, a type of flying insect often found near water or in the shade of trees. Unlike starlings, whose graceful formations, called murmurations, make us stare up at the sky, midges buzz around in chaotic, cloud-like masses. But, says Ouellette, midge swarms still share common features with bird flocks and other animal groups, in that the swarms stay cohesive without any outside control or leadership.
+
+"Midges are so small, they're easy to keep in a lab," Ouellette says. "They swarm at dusk and dawn and are easy to cue with lights." In his lab, the midges live in a roughly 5-foot plastic cube, surrounded by high-speed cameras that he uses to reconstruct 3-D trajectories for each insect—direction, acceleration—all the essential kinematic information needed to characterize swarm movements.
+
+Working in the lab allows Ouellette's team to run experiments to test different models. The team starts with observed data taken from the camera images. Then they use this data to test hypotheses about what sorts of rules might govern midge movements. But because natural swarm behavior does not provide enough information to distinguish between many hypotheses, the researchers also disrupt the swarm using light and sound to observe whether the real swarm is affected as their proposed rules had predicted.
+
+Ouellette says it's too early to design artificial systems that behave the same way as animal groups. But his team is developing the sort of experimental environment that other researchers may one day use to build and test high-tech systems based on the bottom-up wisdom of the swarms rather than the top-down rules that typify many technological undertakings.
+
+"As engineers we like to control things," Ouellette says. "But we have a lot to learn from insects and other animals that operate just fine without human command and control frameworks
+

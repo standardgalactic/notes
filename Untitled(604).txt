@@ -1,0 +1,11 @@
+I have no clue. I guess I was using it for whisper ai yesterday. I really am finding that aws is extremely complicated I made a bunch of servers and accounts and usernames there it seems like I had to use a dozen authentication protocols or something to spin up servers and I guess I have no idea how many factor authentication...
+
+Maybe it will seem easy after a few weeks or months or years. Actually maybe I accomplished a lot.
+
+Unless wait well I guess I am designing a pulp and mill slash recycling factory of some kind, and I built a deck with stairs, and today rebuilt another shower and installed a shower suround.
+
+I guess I figured out how to get the json out of my two openai chats and strip out my prompts and then using text to speech on the m1 made it into an audiobook.
+
+It was 33 hours, but I will have to take out extremely boring parts like code or something later.
+
+I made an audiobook mutools epub to text then send it to the mac to make it into a text and scp it back and then put it into cloud storage or onto my device or github or whatever I need it on. 

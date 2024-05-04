@@ -1,0 +1,8 @@
+Some Background
+
+Here are the current major AI art platforms:
+
+Stable Diffusion Stable Diffusion is free, open source, and can be run on your local machine! However, it’s not available as a single, easily installable application yet and its performance depends on the speed of your computer (even a 512x512 image may take about ten seconds to generate 😱). Once in place though it’s like having a good pro artist turn your vague (possibly terrible) ideas into high-quality artwork, for free, in minutes. No talent required, comparatively.
+
+Midjourney (Community Showcase here) Currently $8 per month but, in my opinion, a better tool than most, partly because it presents a user-friendly learning curve. It also has a good UI, produces great results and
+

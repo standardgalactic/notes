@@ -1,0 +1,17 @@
+The characteristic symmetry indicates the minimal symmetry that is always present in each crystal system: n-fold can represent any type of symmetry axis of order n, e.g. the 2-fold in the monoclinic crystal system could be a twofold rotation axis, a two-one screw axis (see section on screw symmetry), a bar-two axis (see section on rotary-inversion symmetry), or a glide plane (see section on glide symmetry). Strictly speaking, "≠" in the above table should not be read as "does not equal" but "not constrained by symmetry to equal". Also the monoclinic cell is conventionally chosen to have the angle β greater than 90°.
+
+￼ Note: In the trigonal system, the syngony of the lattice may have a higher symmetry than the characteristic symmetry of the crystal system depending on whether the lattice is primitive (P) or rhombohedrally centred (R).
+
+The rhombohedral system (R) is a subgroup of the trigonal system in which either a triply-centred hexagonal cell may be used (as in the table) or, alternatively, a primitive rhombohedral cell may be used with a = b = c, α = β = γ ≠ 90°. The number of cell parameters is two irrespective of the choice of unit cell.
+
+Authors:
+Jeremy Karl Cockcroft
+Huub Driessen
+David Moss
+Andreas Wostrack
+
+© Copyright 1995-2006.  Birkbeck College, University of London.
+
+http://pd.chem.ucl.ac.uk/pdnn/symm1/trans2.htm
+ 
+ 

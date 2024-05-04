@@ -1,0 +1,8 @@
+
+Samsung object remover
+
+LEDITS++
+https://huggingface.co/spaces/editing-images/leditsplusplus
+
+Interpolation 
+https://app.runwayml.com

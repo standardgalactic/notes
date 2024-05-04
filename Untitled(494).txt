@@ -1,0 +1,8 @@
+Large Language Models are fascinating.
+
+1. They can store and simulate other NNs inside their hidden layers and adapt to new tasks without new data.
+
+
+2. They can secretly perform gradient descent as Meta-Optimizers.
+
+v/@AlphaSignalAI

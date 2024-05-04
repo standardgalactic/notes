@@ -1,0 +1,30 @@
+Great! You're off to a good start. In Python, you can calculate the hypotenuse using the Pythagorean theorem just as you would in Bash, but Python has built-in support for floating-point arithmetic and more advanced mathematical functions through the `math` module. 
+
+Here's how you can complete your Python command to calculate the hypotenuse:
+
+```python
+import math
+
+a = 2.0
+b = 3.0
+hypotenuse = math.sqrt(a**2 + b**2)
+print("The length of the hypotenuse is:", hypotenuse)
+```
+
+In this code:
+- `math.sqrt()` is used to calculate the square root.
+- `a**2 + b**2` calculates the sum of the squares of sides `a` and `b`.
+- Finally, it prints out the length of the hypotenuse. 
+
+You can execute this in your Python interactive shell. If you want to make it interactive so that it prompts the user for the values of `a` and `b`, you could modify it like this:
+
+```python
+import math
+
+a = float(input("Enter the length of side a: "))
+b = float(input("Enter the length of side b: "))
+hypotenuse = math.sqrt(a**2 + b**2)
+print("The length of the hypotenuse is:", hypotenuse)
+```
+
+This way, it will ask the user to input the lengths of the sides.

@@ -1,0 +1,203 @@
+Self-organizing Systems 
+Scientists working with bionic computers are hopeful that 
+these strange thinking machines may help break the program- 
+ming bottleneck. Each step a present -day computer is to 
+take must be outlined in detail before the machine can 
+function. It frequently takes months of human time to pro- 
+a left. The mouse, equipped with red and green sensors, 
+won't be instructed- programmed, in computer language -to 
+pay attention to the lights. But, like a live mouse, it will 
+see them. If predictions hold, the mouse without being told 
+will figure out for itself that red means left and green right. 
+Then, when placed in a new maze equipped with lights, it 
+should run it properly the first time. 
+Bright Bionic Future 
+A bionic brain might eventually begin to perform feats 
+now completely out of the question for non -living systems, 
+indeed, might display true intelligence. Pattern recognition, 
+for example, is a field now in its infancy. A few machines 
+have been built which can read several handwritten numbers 
+or letters if they're written clearly enough. But human beings 
+recognize with ease patterns of astonishing complexity. A 
+child who can't add 2 -t- 2, for example, can recognize hun- 
+dreds of different people at a glance, by differentiating be- 
+tween the subtle changes in the patterns of their faces. 
+Elementary self -organizing pattern recognizing systems 
+called "Perceptrons" have already been built at Cornell and 
+other places. So far, they work, but do well to recognize 
+simple letters. But what scientists learn from these early 
+machines may help them build more versatile devices in the 
+future. 
+A highly sophisticated pattern recognizer would certainly 
+program a computer to solve a problem which it can complete 
+in a few minutes. 
+Man, animals -and now bionic computers, such as the one 
+which guides the mouse -on the other hand, fall into a cat- 
+egory labeled "self- organizing data -processing systems." One 
+man can tell another to make out a payroll, and no further 
+instructions are necessary. Man, in other words, is self -pro- 
+gramming. He operates on general instructions, filling in de- 
+tails for himself. But a computer has to be instructed on 
+each minute step: read certain names and amounts from the 
+memory, compute certain figures, etc. 
+Bionic computers are, to some extent, already self- program- 
+ming. The mouse doesn't have to be programmed to run the 
+maze -it figures out the process for itself. Furthermore, if 
+the maze is changed, it sets to work and learns the new 
+maze -again without being told. 
+A new mouse -one with 40 neurons -is now being built and 
+should be capable of even more complex behavior. In one 
+experiment, Air Force scientists plan to put red and green 
+lights on either side of the passageway. A green light will 
+shine where a right turn should be made; red will indicate 
+March, 1963 
+be a useful device. In a satellite, it could look at clouds, 
+spot important patterns and notify the ground station, ignore 
+everything else. A spy -in- the -sky could look out for missile 
+launchings, also for troop movements, armament buildups, 
+or other tell -tale signs. It could look at microphotographs 
+of blood samples and tissue sections and make diagnostic 
+decisions. (MIT already has a working model of one such 
+device which can recognize a certain type of cancer cell 
+by looking at it through a microscope. ) 
+Bionic brains, of course, wouldn't have abilities such as 
+these the moment they rolled off the assembly line. Unlike 
+ordinary computers which are ready to work as soon as the 
+last soldered connection cools, bionic computers would have 
+to learn their jobs. One Air Force scientist estimates that 
+a newly completed brain might sit on the shelf for a year 
+or more, soaking up information poured into it 24 hours 
+a day. Its "education" received in this way would be com- 
+parable in some respects to the education of a human being. 
+Learning ability isn't the only benefit we may get from 
+designing bionic computers to imitate living brains. Another 
+is reliability. You were born with some 10 billion neurons-
+
+In the early 1950's, the need for computer systems orders 
+of magnitude better than those then in existence became ob- 
+vious. So scientists, while continuing to improve conven- 
+tional computers as rapidly as possible, also began to look 
+around for new approaches to data processing. They found 
+one clue in the oldest data handling system in existence: 
+the brain. Scientists around the country set to work to 
+wrest useful secrets locked in the brain cells of animals 
+and men.
+
+In 1960 the Air Force called a con- 
+ference, coined the term "bionics" to de- 
+scribe what the meeting would be about. 
+(The word doesn't come from a combi- 
+nation of biology and electronics as has 
+been frequently reported, but from the 
+Greek word "bion," which means "unit 
+of life. ") To everyone's surprise, more 
+than 700 scientists showed up, pre- 
+sented dozens of papers reporting on 
+work they had done. 
+Bionic Pilots 
+Intensive investigation has been un- 
+derway in scores of company and uni- 
+versity laboratories ever since. The Air 
+Force is particularly interested in the 
+field, hopes eventually to have such ad- 
+vanced devices as bionic pilots. "Air- 
+planes," said one officer, "are getting too 
+fast and too complicated for men to 
+handle. If two 1500 -mph jets come out 
+of clouds 10 miles apart on collision 
+course, they'll smash into each other 
+before the pilots have a chance to react 
+and change course." 
+The effectiveness of a future bionic 
+pilot was demonstrated in an experiment 
+performed by Melpar under an Air Force 
+contract. During major overhauls, the 
+ailerons of an airplane are sometimes 
+wired up backwards. When the pilot 
+takes off and a wing dips, he automat- 
+ically tries to correct it. But with the 
+mis -wired aileron, his action makes the 
+dip worse instead of correcting it. "I've 
+never known a pilot to fly out of such 
+a situation alive," said one observer. 
+Melpar simulated the same situation 
+on a computer, found that a bionic brain 
+would react so fast that it would realize 
+what was wrong and retrain itself to ap- 
+ply the proper kind of corrective action 
+before a dangerous situation could de- 
+velop. 
+Bionic brains, if they live up to prom- 
+ise, seem perfectly suited for thousands 
+of jobs where the ability to assimilate 
+volumes of information, sift out the rele- 
+vant, and make logical decisions, is im- 
+portant. Weather forecasting, language 
+translation, predicting business trends: 
+all are possible examples. 
+No Unanimity 
+As is usually the case in areas of new 
+discovery, opinions of leaders in the field 
+are sharply divided as to the possible 
+future benefits to be gained from bionic 
+computing devices. L. D. Harmon of Bell 
+Labs, who has done much of the trail- 
+blazing work in artificial neurons, feels 
+that in general predictions tend to take 
+too rosy a view. Living brain systems, 
+says Harmon, are so complex that we 
+may never be able to understand them 
+completely -let alone build machines to 
+imitate them. What is needed now is a
+more basic knowledge of such dimly 
+understood attributes as thought, intel- 
+ligence, and reasoning ability. 
+Dr. Arthur Samuel of IBM tends to 
+agree that although some progress may 
+come out of bionic research, probably 
+the best way to advance toward machine 
+intelligence is to delve more deeply into 
+the basic mechanism of thought. "To call 
+to mind a rather trite analogy," he says, 
+"when man first attempted to fly, he 
+studied the birds, and the early, unsuc- 
+cessful flying machines were mechanical 
+birds. It was not until man stopped 
+studying birds and began to study aero- 
+dynamics that much progress was made. 
+The modern jet airplane," he continues, 
+"must cope with the same aerodynam- 
+ical problems with which birds contend, 
+but the mechanisms used in the solution 
+of the problem of flight are quite dif- 
+ferent." 
+Dr. Samuel believes that if and when 
+man really understands what thought is, 
+he'll probably be able to build machines 
+or even program conventional comput- 
+ers to think. Further, the process may 
+imitate the precise functions of the brain 
+about as accurately as a Boeing 707 imitates a seagull. Fastest progress, he feels, will probably come from research aimed at basic understanding of thought processes and intelligence, rather than from 
+attempts to imitate the brain.
+
+
+At the same time, Samuel and many 
+others who take the same general view, 
+believe that no promising approach to 
+the problem should be neglected, and 
+that the field of bionics, particularly in 
+view of its early accomplishments, is a 
+worthwhile line of investigation. 
+Others are more enthusiastic. Gordon 
+Pask, for example, of System Research, 
+Ltd. of Richmond, England, envisions 
+future bionic brains in almost human 
+terms. "A biological computer would be 
+capable of elaborating concepts we 
+could understand. We might argue with 
+it and lead it to modify its attitude. I 
+intend these remarks," he added for 
+skeptics, "quite literally." 
+Even the fact that little actual bionic 
+computing hardware now exists doesn't dampen the enthusiasm of some bionic voosters. "Bionics," said former RCA President John H. Burns, summing up 
+his feelings with no equivocation, "holds more promise for human benefit than any temporal force at work in our civilization today."

@@ -1,0 +1,39 @@
+Word Output
+3900
+Routine
+3905
+Num_Candidates > 0?
+No-
+3910
+Num_Candidates?
+Word _ Choice
+Yes
+3915
+Revert to default
+Word Choice =0
+3917
+Word_Output
+== TRUE?
+NO
+3919
+Oulput a space to the lext being
+generated at the insertion point
+3920
+Output
+Word_ Candidales/Word_Choic]
+to text belng generated at insertion
+point; Adjust frequency of use for
+selected word;
+Set Word_Ouput = TRUE
+3925
+Clear Word_Candidates[ table;
+Set Num_Candidates to 0;
+Set Max Metric _Value to MAX FLAG
+3930
+Clear TAP Word Len
+3935
+Cancel Word Choice List
+Display: First_Display =0
+3940
+Retumn
+Figure 3I

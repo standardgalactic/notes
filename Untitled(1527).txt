@@ -1,0 +1,41 @@
+'''David Ronfeldt''' (David Frederick Ronfeldt) is an American researcher known for his work on [[information-centric]] and [[network-centric warfare]]. He holds a doctoral degree from Stanford University and has been a prominent figure at the RAND Corporation. Ronfeldt has made significant contributions to the understanding of social evolution, particularly with his development of the TIMN framework (Tribes, Institutions, Markets, Networks). With John Arquilla, he coined the term '[[Noopolitik]],' which represents the network-based geopolitics of knowledge."<ref>Wilson, Ernest J. III ''Hard Power, Soft Power, Smart Power'' The Annals of the American Academy of Political and Social Science March 2008 vol. 616 no. 1 110–124</ref><ref>Nye, Joseph S. ''The Future of Power'' Public Affairs 2011</ref>
+
+
+They argue that the development of education and training in "noopolitik" will be critical for future strategists, addressing the current underuse of [[soft power]] due to its limited theoretical framework compared to [[hard power]].<ref>{{cite journal |last1=Norton |first1=Richard |last2=LeFanu |first2=Sarah |year=2021 |title=Something of Themselves: Kipling, Kingsley, Conan Doyle and the Anglo-Boer War |journal=Naval War College Review |volume=74 |issue=4 |url=https://digital-commons.usnwc.edu/nwc-review/vol74/iss4/22 }}</ref>
+
+
+
+===Early Life and Education===
+
+David Ronfeldt completed his doctoral studies at Stanford University, focusing on social science disciplines. His academic background laid the foundation for his future research endeavors, which intersected the fields of political science, sociology, and information technology.
+
+===Career at RAND Corporation===
+
+Ronfeldt's career at the RAND Corporation has spanned several decades, during which he has extensively researched the impact of information technology on warfare and society. His work has been pivotal in understanding how technological advancements influence political and social structures.
+
+===Key Publications===
+
+* "In Search of How Societies Work: Tribes — the First and Forever Form" (2007): exploring the fundamental role of tribal structures in societal evolution [[RAND Corporation|RAND]]<ref>{{cite web |url=https://www.rand.org/pubs/authors/r/ronfeldt_david.html |title=In Search of How Societies Work: Tribes — the First and Forever Form |publisher=RAND Corporation |date=2007}}</ref>.
+
+* "Swarming & The Future of Conflict" (2000): Co-authored with John Arquilla, this work delved into modern warfare tactics and the concept of 'swarming' as a strategic approach in conflict [[John Arquilla|Arquilla]]<ref>{{cite book |last1=Ronfeldt |first1=David |last2=Arquilla |first2=John |title=Swarming & The Future of Conflict |date=2000 |publisher=RAND}}</ref>.
+
+* "The Zapatista Social Netwar in Mexico" (1998)**: An analysis of the Zapatista movement in Mexico, highlighting the role of social networks in modern insurgencies [[Zapatista Army of National Liberation|Zapatista Movement]]<ref>{{cite book |last1=Ronfeldt |first1=David |title=The Zapatista Social Netwar in Mexico |date=1998 |publisher=RAND}}</ref>.
+
+* "Cyberocracy Is Coming" (1992): In this early work, Ronfeldt envisioned the rise of 'cyberocracy' – governance influenced by information technology, foreseeing the significant impact of the internet and digital communication on political systems [[Cyberocracy|Cyberocracy]]<ref>{{cite journal |last1=Ronfeldt |first1=David |title=Cyberocracy Is Coming |journal=Comparative Strategy |date=1992 |volume=12 |issue=2 |pages=141–165}}</ref>.
+
+===TIMN Framework===
+
+Ronfeldt's most notable contribution is the TIMN framework, which theorizes the evolution of societies through four forms of organization: Tribes, Institutions, Markets, and Networks. This framework provides a comprehensive lens to view social evolution and has been influential in various academic and policy-making circles [[Social Evolution|Social Evolution]]<ref>{{cite web |url=https://www.rand.org/pubs/authors/r/ronfeldt_david.html |title=David Ronfeldt at RAND |publisher=RAND Corporation}}</ref>.
+
+===Impact and Legacy===
+
+Ronfeldt's interdisciplinary approach to understanding the intersections of technology, warfare, and social organization has positioned him as a thought leader in the field. His foresight into the implications of information technology on global politics and social structures continues to influence contemporary discussions and research.
+
+===See also===
+* [[Cyber-terrorism]]
+* [[Cyberwar]]
+* [[Information warfare]]
+
+===References===
+
+<references />

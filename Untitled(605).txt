@@ -1,0 +1,38 @@
+Figure 2: A putative ability of neural networks to transiently select subnetworks. A) A
+schematic view on the transient selection hypothesis. i) The classical paradigm assumes that
+connection strengths are fixed across all tasks that a neuron performs. i) Transient selection proposes
+hat the routing of activity can temporarily change. Neurons are 'smart enough to use their receni
+activity as a source of information for temporarily 'rewiring' their dendritic trees and axonal branches.
+B) A cognitive operation such as perception of a grandmother is executed by transiently altering the
+wiring of a network: To perceive a grandmother is to temporarily activate a subnetwork specific for
+interactions with grandmothers (a "grandmother network"). Black: wires opened for traffic; gray:
+wires closed for traffic. C) By sending outputs, a neuron not only inhibits or excites its targets but also
+provides information on the basis of which the target rewires itself. This information can be sent (i)
+backwards, (i) laterally, (ii) forward and (iv) possibly also to neurons with which no direct synaptic
+connection is formed (disjoined interaction). D) Metabotropic receptors (MRs) and G protein-gated ion
+channels (GPGICs) are the membrane proteins proposed to be responsible for the transient selection
+capabilities of neural networks. An MR detects presence of a ligand in the extracellular space and
+eleases a G protein which the activates a GPGIC; GPGIC opens or closes and by doing so alters the
+electrical properties of the membrane. E) One source of ligands are 'runaway' neurotransmitters
+resulting from nearby synaptic activity. F) As subnetworks are transiently selected, formed are novel
+emporary sensory-motor loops specific for the current task. G) Example of a temporary sensory
+motor loop needed to drive a car - to keep the car within a lane by keeping constant a given visual
+angle making corrections by turning the steering wheel.
+The second requirement is that the changes to wiring are sturdy. The new state of some
+pathways being selected, and others being shut off must remain in place while the
+subnetwork is being bombarded with new inputs; incoming activity should not be able to
+wash away' the changes made to wiring. Again, sturdiness should not be brought about by
+introducing an auxiliary network that would for example, apply recurrent activity. Again, such
+additional networks would produce an explosion in required resources. Consequently, the
+system would not scale well In conclusion, everything needs to be implemented locally, the
+decisions and the maintenance of changes made.
+Finally, the third requirement is that the changes are made in a transient manner: each
+change should be reverted back after some time. Transiency ensures that one can return to
+previous tasks, thoughts and ideas. No change should cross the point of no return. The
+duration over which these transient changes should be valid i.e., until they revert back to the
+initial state, probably varies and can be estimated from the known duration of our sensory
+memory. The duration of the visual sensory memory (aka, iconic memory) has been
+estimated to 200 to 300 ms [22, 23] and that of the auditory sensory memory (aka, echoic
+memory) to up to 10 seconds [24]. These time windows are much longer than what the
+changes in neuron's hyper- or depolarization can hold, as the altered states of voltages last
+no longer than several miliseconds and can easily be 'washed away" by incoming inputs.

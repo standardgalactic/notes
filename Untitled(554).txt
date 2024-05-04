@@ -1,0 +1,45 @@
+(35:37) Like, for example, if the number was a lot bigger, the universe would be expanding a lot faster, in a way that would have precluded, for example, galaxies to form and planets to form, etc. So he made this anthropic argument that has something to it on the one hand. But at the same time, it makes a lot of physicists very uncomfortable because we want a theory of the universe, and we don’t like to have to refer to ourselves, put ourselves, humans, in the middle of some kind of big argument as to why things have to be this way. Right? It feels, it feels backwards, it feels like, like physics should go beyond this. Like, we have this idea that, you know, we are not special, like our place in the universe is not special in any way. So why do we have to refer to our own existence to explain this observation?
+
+(36:22) And then the discovery of the string landscape actually made that anthropic argument more precise, because actually, now, there is a landscape of vacua, where you can imagine scanning the value of, like, the cosmological constant and sort of making the arguments more precise and saying, “Well, there are actually all of these other possibilities where a universe like ours doesn’t exist. So it must be that we live in the one where a universe like ours is possible.” There are people in our field that are at peace with the idea that may be our only way to understand the size of the cosmological constant. But a lot of people also feel very uneasy.
+
+(36:59) And I think — I’m certainly one of those people, in that I feel like this is telling us that we’re actually missing something conceptual about the whole picture. And so, you know, one possible way out of having to make these anthropic arguments but that still kind of can coexist with the existence of a string theory landscape is, if, in fact, many of those other vacua are actually not fit for not only life like ours but, like, anything. Any life.
+
+(37:09) So that’s where the importance of understanding the stability of all of those different vacua comes in. If many of those other vacua are so short-lived, that only exist for a very small amount of time — so you know, an amount of time that is smaller than the current age of our universe — then those would not be allowed vacua for us to exist on.
+
+Strogatz (37:54): Right, that sounds like a very plausible kind of criterion to think about, of these 10500 possibilities, which ones… Not so much that they’re hospitable to life, as you say, but just hospitable to anything, to having any kind of structures or anything in them other than just… Is that the point? That universes that can sustain anything, as opposed to just like immediately collapsing into vacuums with nothing in them?
+
+Garcia Garcia (38:20): Yes. So there are different types of instabilities that these vacua can be susceptible to. You know, they can go from the current vacuum into like some other vacuum that looks similar, but a little bit different from the previous one. But then there is this remarkable possibility that was discovered by [Edward] Witten in the early ’80s, that in theories that have extra dimensions, a vacuum could actually decay to something that is true nothing. And by true nothing, we actually mean, a region where not even space-time is defined. Like, even space-time ceases to exist in that vacuum. So that would be a candidate for a true nothing in the context of, you know, quantum theory.
+
+Strogatz (39:04): Wow, should I be picturing sort of a hole? Like this is the end of space-time or something on the other side?
+
+Garcia Garcia (39:09): Yes. Let me explain first the simplest example in which such a dramatic possibility could take place. These types of instabilities can only occur in theories that contain extra dimensions. And as we discussed earlier, those extra dimensions have to be compactified. So we can imagine a four-dimensional universe with a fifth dimension that is, perhaps you know, a tiny circle. A bubble of nothing could nucleate in this four-dimensional vacuum and it would look very much like a spherical bubble inside of which nothing exists, the space-time no longer exists. So in a somewhat rigorous way, the surface of this bubble is the end of space-time. So this bubble sort of would nucleate. And then it would start expanding very quickly, very quickly approaching the speed of light. And eventually, as far as we can tell, you just completely eat the whole universe.
+
+Strogatz (40:05): And this is something that you and your colleagues calculated in a fairly recent paper,
+
+Garcia Garcia (40:10): Right. So Witten discovered this instability in the early ’80s. And he calculated the probability of that process happening, depending on the size of the extra dimension. What I did with my collaborators, Patrick Draper and Ben Lillard, we actually asked the question of, in more realistic theories where that extra dimension is dynamically stabilized, were there other fields responsible for the size of that extra dimension? It looks naively like that would make it very hard in practice for that type of instability to still be relevant. So we asked the question of, in a realistic model, in a realistic situation, how likely is this to happen? Or is this sort of like just a mathematical observation that cannot actually happen in a physical theory? And what we realized is that, in fact, this class of instabilities are more robust than was previously believed. They can actually exist under a more general set of circumstances than what was done previously.
+
+Strogatz (41:10): And is the condition that the curled-up dimensions are like your tiny circle that’s added to space-time at every point? What, those circles have to be below some size threshold? Is that the idea, or above, or how does that work?
+
+Garcia Garcia (41:23): Yeah, so the rates of nucleation dominantly depends on the size of the extra dimensions. So if extra dimensions are too large, it becomes too difficult for this process to take place. But that was already known. But moreover, the details of whatever sector is responsible for these extra dimensions being compactified? Under general assumptions, those details are largely irrelevant. So we also determine under what circumstances the dynamics of the sector that sort of determines the size of those extra dimensions can shut off this type of instability and under what circumstances it remains a viable way in which a universe could destroy itself.
+
+(41:23) For us, that was a way of starting to explore in a general four-dimensional landscape of vacua, trying to quantify whether some of these other vacua could actually be sensitive to this decay into a bubble of nothing, as opposed to decay into other, more reasonable final states.
+
+Strogatz (42:25): And so the big game that you’re trying to address here, just to go back to that point about the anthropic principle and the Weinberg argument, is that this kind of work — not to say your work exactly — but the spirit of your work may be a way out of these anthropic arguments for answering this great mystery.
+
+Garcia Garcia (42:43): Precisely. Precisely.
+
+Strogatz (42:45): The vacuum energy’s smallness.
+
+RELATED:
+How the Physics of Nothing Underlies Everything
+Physicists Use Quantum Mechanics to Pull Energy out of Nothing
+The Strange Second Life of String Theory
+How Will the Universe End?
+Garcia Garcia (42:47): Indeed, it would be a way of sort of like, still taking that concept of a huge landscape of vacua that is predicted by a theory of quantum gravity, like a string theory, but being able to sort of select the vacuum that actually hosts our universe in a way that does not necessitate these anthropic selection arguments that are so, kind of, in a sense, unlike physics in many ways.
+
+Strogatz (43:13): Exactly. Well, this has really been fun, Isabel. Thank you. We’ve been talking with theoretical physicist Isabel Garcia Garcia. Thanks again so much for shedding some light on nothingness.
+
+Garcia Garcia (43:24): Thank you for having me.
+
+
+

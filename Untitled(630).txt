@@ -1,0 +1,58 @@
+
+
+Home
+
+Nanotechnology
+
+Physics
+
+Earth
+
+Astronomy & Space
+
+Chemistry
+
+Biology
+
+Other Sciences
+
+Jul 21, 2016
+
+1
+
+Physics
+
+ 
+
+General Physics
+
+Scientists propose 'adaptive gravity' as a versatile model for collective animal behavior
+
+by Institute of Physics
+
+A team of researchers based in Israel and the US has found a mathematical resemblance between swarm dynamics and gravitational interactions. The study, which has just been published in the New Journal of Physics, could provide a big leap forward in understanding the mass movement of flying insects.
+
+Scientists have long been fascinated by the collective behaviour of animals. The coordinated motion of schools of fish or flocks of birds, for example, can be built up from short-range interactions where individuals tend to move much like their neighbours. So far, so good, until you get to the swarming of insects, where a different approach is required.
+
+Unlike fish or birds, insects don't align with each other when in motion and the dominant interaction keeping the swarm together appears to be much longer range. To find out more, the team decided to focus on midges as they are straightforward to raise and study in a controlled lab environment. The experiments were performed at Yale University in the US with theoretical input provided by researchers from the Weizmann Institute, Israel.
+
+In common with other insects such as fruit flies, moths and bees, midges have an organ that is sensitive to sound known as the Johnston's organ, which is a part of their antennae. To the researchers, this highlighted the likely importance of acoustic interactions in swarming, where sound is created as the flying insects beat their wings.
+
+"We started from the assumption that when one midge hears another, it reacts by accelerating towards the source with a strength that is proportional to the received sound intensity," said Dan Gorbonos, a member of Weizmann research team. "The decay rate of the sound intensity falls off according to an inverse-square law - just as the gravitational attraction between two masses does."
+
+In applying their model of collective animal behaviour, the scientists found a similarity in the structure of midge swarms and astrophysical objects such as globular clusters that consist of thousands of stars. However, there is a major difference between the real gravity that acts between masses and this effective acoustic interaction that the group dubs 'adaptive gravity'.
+
+To understand the team's approach, it's helpful to consider that for many animals the perception of sound is not fixed, but instead adapts to the total sound intensity. Our ears, for example, behave in this way. We find it easy to decipher a whisper in a quiet environment, but people have to shout to be understood in a noisy room.
+
+"Although not much is known about the physiology of the midge, we expect to find a similar mechanism in the Johnston's organ," commented Gorbonos. "Therefore, we would expect that the midges will reduce their sensitivity in a densely populated environment, and we found evidence for that in the experimental data."
+
+This 'adaptivity' feature helps to explain why the swarm doesn't collapse in on itself despite the gravity-like interaction. When the background buzzing noise is too high, and the local environment is too dense, the sensitivity is lowered and each individual midge reacts less to the attractive pull of its neighbours.
+
+Collaborative approach
+
+The video capture and analysis used by the team to generate the experimental data for testing its mathematical model was first developed to examine turbulent fluid flows. Nick Ouellette, now based at Stanford University, originally wrote the software for particle tracking and then later explored its application as a tool for measuring midge swarms. James Puckett and Rui Ni (who were then postdocs in Ouellette's lab) helped to demonstrate the process.
+
+"Our collaboration started when Ouellette visited the Weizmann Institute and gave a seminar about his midge research, which got Nir Gov's attention," said Gorbonos. "It was Gov's idea to borrow tools from gravitation to model the midges, which led to the results in this paper." Reuven Ianconescu joined the team led by Nir Gov to work on the simulations, followed by Gorbonos, whose background is in the area of gravitational physics.
+
+The group sees this adaptive model is a prototype for descriptions of various kinds of collective systems with long range interactions - ranging from other acoustic interactions in the animal kingdom through to much smaller scale biological systems such as swarming cells.
+

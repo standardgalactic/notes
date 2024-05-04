@@ -1,0 +1,28 @@
+Journal of Computational Chemistry
+
+Volume 34, Issue 15 p. 1321-1331
+
+Full Paper
+
+Pseudosymmetry analysis of molecular orbitals
+
+David Casanova, Pere Alemany, Andrés Falceto, Abel Carreras, Santiago Alvarez
+
+First published: 22 February 2013
+
+https://doi.org/10.1002/jcc.23257
+
+Citations: 6
+
+Read the full text
+
+About
+
+￼
+
+ 
+
+Abstract
+
+We introduce a pseudosymmetry analysis of molecular orbitals by means of the newly proposed irreducible representation measures. To do that we define first what we consider as molecular pseudosymmetry and the relationships of this concept with those of approximate symmetry and quasisymmetry. We develop a general algorithm to quantify the pseudosymmetry content of a given object within the framework of the finite group algebra. The obtained mathematical expressions are able to decompose molecular orbitals by means of the irreducible representations of any reference symmetry point group. The implementation and usefulness of the pseudosymmetry analysis of molecular orbitals is demonstrated in the study of σ and π orbitals in planar and nonplanar polycyclic aromatic hydrocarbons and the t2g and eg character of the d-orbitals in the [FeH6]3− anion in its high spin state along the Bailar twist pathway. © 2013 Wiley Periodicals, Inc.
+

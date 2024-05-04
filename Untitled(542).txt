@@ -1,0 +1,49 @@
+
+Dec 12, 2019
+
+0
+
+Biology
+
+ 
+
+Plants & Animals
+
+Biology
+
+ 
+
+Molecular & Computational biology
+
+Tiny insects become 'visible' to bats when they swarm
+
+by Public Library of Science
+
+￼
+
+The mesh model of the mosquito used in the simulations. Credit: Mor Taub.
+
+Small insects that would normally be undetectable to bats using echolocation suddenly become detectable when they occur in large swarms. Arjan Boonman of Tel-Aviv University and colleagues present these findings in PLOS Computational Biology.
+
+Bats use echolocation to hunt insects, many of which fly in swarms. In this process, bats emit a sound signal that bounces off the target object, revealing its location. However, few studies have addressed what swarms of insects—as opposed to single insects—"look" like in the world of bat echolocation.
+
+Now, Boonman and colleagues have combined 3-D computer simulations of insect swarms with real-world measurements of bat echolocation signals to examine how bats sense swarms that vary in size and density. They found that small insects that are probably undetectable alone, such as mosquitos, suddenly become "visible" to bats when they occur in large swarms.
+
+They also discovered that a feature of bat echolocation signals called Quasi Constant Frequency (QCF), whose function was previously unknown, turns out to be well suited to the task of detecting insect swarms. QCF signals appear to be ideal for detecting an object if more than one target is inside the signal beam at once.
+
+"With our simulations, we investigated something that could never have been measured in reality," Boonman says. "Modeling enabled us to have full control over any aspect of an insect swarm, even the full elimination of the shape of each insect within the swarm."
+
+The findings could provide new insights into the evolution of bat echolocation; bats may have been able to gradually improve their echolocation abilities by hunting swarms of insects without being limited to only very large insects. The findings could also explain why tiny insects are found in the diets of bats that seem to use frequencies too high to effectively detect them.
+
+Moreover, the algorithms developed for this study could potentially be applied to radar echoes of drone swarms in order to lower the probability of detection by enemy radar.
+
+More information: Arjan Boonman et al, The benefits of insect-swarm hunting to echolocating bats, and its influence on the evolution of bat echolocation signals, PLOS Computational Biology (2019). DOI: 10.1371/journal.pcbi.1006873
+
+Journal information: PLoS Computational Biology 
+
+Provided by Public Library of Science 
+
++ Explore further
+
+Bats use leaves as mirrors to find prey in the dark
+

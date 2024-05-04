@@ -1,0 +1,25 @@
+FOUNDATIONS OF GENETIC PROGRAMMING
+
+by
+
+W. B. Langdon and R. Poli
+
+Published by Springer. ISBN 3-540-42451-2
+Amazon USA UK.
+
+More information, table of contents and code.
+
+BibTeX citation
+
+Cute movie of a GP population evolving
+
+Not so cute picture of bill presenting the book at GECCO'2001.
+Complete tutorial slides for GECCO 2003 and (chapters 7 and 8) for CEC-2005 (PDF).
+Picture of Ricardo Landa Becerra being awarded a prize copy at GECCO 2005 by Micheal O'Neill.
+
+￼
+
+Table of Contents
+
+PrefaceAcknowledgementsChapter 1.Introduction11.1Problem Solving as Search21.2What is Genetic Programming?91.3Outline of the Book15Chapter 2.Fitness Landscapes172.1Exhaustive Search172.2Hill Climbing172.3Fitness Landscapes as Models of Problem Difficulty192.4An Example GP Fitness Landscape202.5Other Search Strategies212.6Difficulties with the Fitness Landscape Metaphor232.7Effect of Representation Changes252.8Summary26Chapter 3.Program Component Schema Theories273.1Price's Selection and Covariance Theorem283.2Genetic Algorithm Schemata333.3From GA Schemata\ to GP Schemata353.4Koza's Genetic Programming Schemata383.5Altenberg's GP Schema Theory393.6O'Reilly's Genetic Programming Schemata423.7Whigham's Genetic Programming Schemata443.8Summary46Chapter 4.Pessimistic GP Schema Theories474.1Rosca's Rooted Tree Schemata474.2Fixed-Size-and-Shape Schemata\ in GP494.3Point Mutation and One-Point Crossover in GP544.4Disruption-Survival GP Schema Theorem584.5Summary66Chapter 5.Exact GP Schema Theorems675.1Criticisms of Schema Theorems675.2The Role of Schema Creation695.3Stephens and Waelbroeck's GA Schema Theory715.4GP Hyperschema Theory725.5Examples815.6Exact Schema Theorem for GP with Standard Crossover875.7Summary93Chapter 6.Lessons from the GP Schema Theory956.1Effective Fitness956.2Operator Biases and Linkage Disequilibrium for Shapes1036.3Building Blocks in GAs and GP1056.4Practical Ideas Inspired by Schema Theories1076.5Convergence, Population Sizing, GP Hardness and Deception1086.6Summary109Chapter 7.The Genetic Programming Search Space1117.1Experimental Exploration of GP Search Spaces1117.2Boolean Program Spaces1127.3Symbolic Regression1217.4Side Effects, Iteration, Mixed Arity: Artificial Ant1227.5Less Formal Extensions1257.6Tree Depth1277.7Discussion1287.8Summary130Chapter 8.The GP Search Space: Theoretical Analysis1318.1Long Random Linear Programs1318.2Big Random Tree Programs1378.3XOR Program Spaces1438.4Summary148Chapter 9.Example I: The Artificial Ant1499.1The Artificial Ant Problem1499.2Size of Program and Solution Space1529.3Solution of the Ant Problem1559.4Fitness Landscape1569.5Fixed Schema Analysis1579.6The Solutions1659.7Discussion1669.8Reducing Deception1689.9Summary169Chapter 10.Example II: The Max Problem17310.1The MAX Problem17410.2GP Parameters17410.3Results17410.4Variety18110.5Selection Pressure18410.6Applying Price's Covariance and Selection Theorem18710.7Summary190Chapter 11.GP Convergence and Bloat19111.1Convergence19111.2Bloat19511.3Subquadratic Bloat20011.4Depth and Size Limits20911.5Discussion21011.6AntiBloat Techniques21211.7Summary214Chapter 12.Conclusions217AppendixGenetic Programming Resources221Bibliography223List of Special Symbols239Glossary245Index253
+

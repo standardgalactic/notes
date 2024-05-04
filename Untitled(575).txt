@@ -1,0 +1,20 @@
+1. AGI is happening soon. .
+Significant probability of it
+happening in less than 5 years.
+Five years ago, there were many obstacles on what
+we considered to be the path to AGI.
+But in the last few years, weve gotten:
+Powerful Agents (Agent57, GATO, Dreamer
+V3)
+Reliably good Multimodal Models
+(StableDiffusion, Whisper, Clip)
+Just about every language tasks
+(GPT3, ChatGPT, Bing Chat)
+Human and Social Manipulation
+Robots (Boston Dynamics)
+AIs that are superhuman at just about any
+task we can (or simply bother to) define a
+benchmark for
+We don't have any obstacle left in mind that we
+don't expect to get overcome in more than 6
+months after efforts are invested to take it down.

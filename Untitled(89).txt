@@ -1,0 +1,37 @@
+People are complaining that Deep Learning and other Neural Network technologies are opaque and inscrutable. If a self-driving car kills someone then we, as AI providers, cannot show the judge the line of code that caused the accident. There is a fair chance that we'll have to live with this. The moment you decide to use Neural Networks you lose the six advantages of Reductionism: Optimality, completeness, repeatability, parsimony, transparency (of process) and scrutability (of the results). Instead, you gain a lot, like the ability to solve problems you yourself don't understand, but that's a different post.
+
+The self-driving car manufacturers say "we will still have accidents but there will be much fewer of them if we allow self-driving cars everywhere".
+
+I believe they are on the right track; that is the correct reply to people that insist on only allowing 100% safe self-driving cars.
+
+AIs are not like computers. AIs don't solve normal logical problems like normal logic-based computers do - problems with well-defined inputs and a well-defined notion of what constitutes a correct output. Instead, AIs are solving problems of Reduction.
+
+Here's my shortest (so far) description of "Reduction":
+
+When you are solving a story problem you have to do three things:
+
+1. You need to understand the rich reality in the story so that you can write down or program an equation to solve (a Model)
+
+2. You solve the equation/Model (or let a computer solve it)
+
+3. You apply the result back to the rich reality
+
+This is known as Model Based (Reductionist) problem solving and it is the basis for most of our Science.
+
+In normal computer use, humans do #1, computers do #2, and humans do #3.
+
+Step #1 is called the Reduction step. Most of the time, we don't think of it as difficult because that's what our entire Reductionist education has been training us to do correctly.
+
+But now computers are starting to do #1. This is exactly what AI is about. Some AIs do it poorly; they make "Reduction Errors".
+
+We cannot compare these Reduction Errors to errors made by computers in regular computer use situations where a human makes the Reduction. They are different tasks, different situations, and with vastly different levels of complexity. Reductionism is a correct strategy only for simple problems. For context rich situations involving our rich reality you need to perform the Reduction before you can reason about the problem algebraically or use a computer.
+
+But even understanding all this doesn't really help the people who have been in auto accidents in self-driving cars (fatal or not). How can we explain to them that there is no "bug in the program", nothing specific we can point to as the cause of the accident. The AI may have done the Reduction as well as possible under the circumstances and a human may not have been able to do any better.
+
+Perhaps they would Understand better if we anthropomorphized the self-driving car. Turns out a lot of drivers already do that. So let's continue the trend.
+
+Many of the error types we encounter in our AIs are error types we also have recognized in humans. We have yet to see a "psychotic" AI and I hope we never let them out of the lab but lesser human errors also have names. Let's use those names for errors made by our AIs also !
+
+If nobody ever told you that doing X leads to problem Y, then you aren't necessarily stupid, only ignorant about this fact. This is equivalent to not providing examples of X and Y in an AI's training corpus. So auto manufacturers can say "Yes, your car was ignorant about tumbleweeds and we'll fix that in the next software release".
+
+My proposal now is to start using names for Reduction errors that match the names we're used to using for humans making the same errors. I think this will help non-AI people like customers, drivers, and judges understand how to think about these technically deep issues. This slide lists the first four I came up with. Feel free to add to the list.

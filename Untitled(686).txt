@@ -1,0 +1,14 @@
+Models and Languages for Description of Parallel Processes
+
+V. P. Kutepov 
+
+Journal of Computer and Systems Sciences International volume 57, pages471–481 (2018)Cite this article
+
+45 Accesses
+
+Metricsdetails
+
+Abstract
+
+This paper considers models and languages of parallel processes that make it possible to adequately describe the properties and relationships among real processes both at the level of events and in real time. The proposed models and languages are shown to provide more flexibility in the description of parallelism compared to similar well-known models and languages. We also discuss the practical application of models and languages for parallel processes to design high-level concurrent programming languages, as well as distributed computing and control systems.
+

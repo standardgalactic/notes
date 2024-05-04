@@ -1,0 +1,29 @@
+Functional programming is a programming paradigm that emphasizes the use of functions and immutable data structures. It is often contrasted with imperative programming, which emphasizes the use of variables and mutable data structures.
+
+Functional programming has a number of advantages over imperative programming, including:
+
+* **Simplicity:** Functional programs are often easier to read and understand than imperative programs.
+* **Reusability:** Functional programs can be easily reused, as they are not dependent on the state of the program.
+* **Efficiency:** Functional programs can often be more efficient than imperative programs, as they do not need to track the state of the program.
+
+There are a number of ways to write functional style programs in Python. One common way is to use lambda functions. Lambda functions are anonymous functions that can be used to create short, concise functions. For example, the following lambda function adds two numbers together:
+
+```python
+add = lambda x, y: x + y
+```
+
+Lambda functions can be used to create higher-order functions, which are functions that take other functions as arguments or return functions as values. For example, the following function takes a function as an argument and returns a new function that applies the original function to two numbers and adds 10 to the result:
+
+```python
+add_ten = lambda f: lambda x, y: f(x, y) + 10
+```
+
+Higher-order functions can be used to create powerful functional programs. For example, the following function takes a list of numbers and returns a new list that contains the squares of the numbers:
+
+```python
+squares = list(map(lambda x: x ** 2, numbers))
+```
+
+The `map()` function takes a function and a sequence as arguments and returns a new sequence where each element of the new sequence is the result of applying the function to the corresponding element of the original sequence.
+
+Functional programming is a powerful programming paradigm that can be used to create simple, efficient, and reusable programs. If you are interested in learning more about functional programming, there are a number of resources available online.

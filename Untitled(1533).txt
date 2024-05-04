@@ -1,0 +1,24 @@
+^h::Send, {Left}
+^j::Send, {Down}
+^k::Send, {Up}
+^l::Send, {Right}
+^;::Send, {Enter}  ;; like control+m   
+
+!h::Send, {Backspace}
+!j::Send, {Enter}
+!k::Send, {Enter}
+!l::Send, {Space}  
+
+;; repeat last command ;;
+
+::rpt::
+(
+while true; do !! `n
+    sleep 5 `n
+done `n
+)
+return
+
+
+::pls::sudo !!
+::huh:: man !!

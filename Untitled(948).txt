@@ -1,0 +1,16 @@
+a headword [1], which is shown in either black or red at the top of the entry;
+
+information about the word's meaning or meanings, called definition(s) [2]. At the top of the entry you can see the number of definitions [3] listed;
+
+information about the word's grammatical behaviour: word class [4] and any other relevant grammatical information.
+
+At the top of the entry there is an icon for the headword's spoken pronunciation [5] as well as the phonetic transcription of the word's pronunciation (using the International Phonetic Alphabet or IPA symbols [6]). This information is not provided for phrasal verbs, phrases, and entries that are added to the crowdsourced Open Dictionary (e.g. autofiction). Compouns will often have recorded pronunciations but not IPA transcriptions because those can be looked up separately at the contributing parts of the headword.
+
+The word's inflections can be seen by opening the 'Word Forms' [7] box.
+
+Sometimes next to it you will find information about how frequent the word is, in the form of Ngram views [8]. 
+
+How are meanings shown?
+
+If a word has more than one meaning, these are shown in separate numbered senses [9]. Meanings that are very closely related to the main meaning are shown in subsenses [10] (see further down the page for this) so that the connection is clear. Some entries contain derived words [11]. These are words related to the headword whose meaning is clear enough not to need a definition. These are found at the bottom of the entry.
+

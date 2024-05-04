@@ -1,0 +1,42 @@
+It's something like this
+Top
+PYq
+qp
+P2q
+pvq
+p[a)
+q[p)
+PWg
+p=q
+glp]
+Pq
+Pq
+pq
+OC
+Bottom
+Hasse Diagram of the 16 Logical Operators of Propositional Logic. The figure represents the projection on to the plane of a four-dimensional cube. The logical operators occupy points of intersecting lines, and the lines connecting points represent inclusion relations. Thus p⊃q≧pq, q[p], p ̅ [q], pq, p ̅ q, p ̅ q ̅ and o; but not pq ̅ . (After Rutherford 1966, Fig. 7)
+
+Source publication
+
+￼
+
+￼
+
+￼
+
+￼
+
+￼
+
+A Psychological Theory of Reasoning as Logical Evidence—a Piagetian Perspective
+
+Article
+
+Full-text available
+
+Dec 2021
+
+￼M. A. Winstanley
+
+Many contemporary logicians acknowledge a plurality of logical theories and accept that theory choice is in part motivated by logical evidence. However, just as there is no agreement on logical theories, there is also no consensus on what constitutes logical evidence. In this paper, I outline Jean Piaget’s psychological theory of reasoning and show...
+

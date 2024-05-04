@@ -1,0 +1,38 @@
+Visual commands
+
+> - shift text right
+
+< - shift text left
+
+y - yank (copy) marked text
+
+d - delete marked text
+
+~ - switch case
+
+Registers
+
+:reg - show registers content (can append selectors of which registers to show)
+
+"xy - yank into register x
+
+"xp - paste contents of register x
+
+"Xp - append contents to register x
+
+Tip: Registers are being stored in ~/.viminfo, and will be loaded again on next restart of vim. Tip: Register 0 always contains the value of the last yank command.
+
+Marks
+
+:marks - list of marks
+
+ma - set current position for mark a
+
+`a - jump to position of mark a
+
+'a - jump to the first non-blank character in the line of mark a
+
+y`a - yank text to position of mark a
+
+:delm <pattern> - delete marks. <pattern> can be 1 lowercase letter, any number of characters, range of letters or numbers
+

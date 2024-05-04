@@ -1,0 +1,16 @@
+The structure of short-term memory scanning: an investigation using response time distribution models
+
+Chris Donkin et al. Psychon Bull Rev. 2012 Jun.
+
+Show details
+
+   
+
+Abstract    PubMed    PMID  
+
+Full text linksCite
+
+Abstract
+
+A classic question in cognitive psychology concerns the nature of memory search in short-term recognition. Despite its long history of investigation, however, there is still no consensus on whether memory search takes place serially or in parallel or is based on global access. In the present investigation, we formalize a variety of models designed to account for detailed response time distribution data in the classic Sternberg (Science 153: 652-654, 1966) memory-scanning task. The models vary in their mental architectures (serial exhaustive, parallel self-terminating, and global access). Furthermore, the component processes within the architectures that make match/mismatch decisions are formalized as linear ballistic accumulators (LBAs). In fast presentation rate conditions, the parallel and global access models provide far better accounts of the data than does the serial model. LBA drift rates are found to depend almost solely on the lag between study items and test probes, whereas response thresholds change with memory set size. Under slow presentation rate conditions, even simple versions of the serial-exhaustive model provide accounts of the data that are as good as those of the parallel and global access models. We provide alternative interpretations of the results in our General Discussion.
+

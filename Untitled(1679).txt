@@ -1,0 +1,20 @@
+
+
+1. **Binary Operations**: 
+   - Introduction to binary operations on numbers and other objects.
+   - Effects and properties of binary operations, such as associativity and commutativity.
+   - Discussion on binary operations in relation to modular arithmetic, functions, matrices, symmetries, and permutations.
+   - Binary operations as functions and closure.
+
+2. **What is a Binary Operation?**: 
+   - Definition: A binary operation takes two elements from a set and produces another.
+   - Use of tables to represent and understand binary operations.
+   - Commutativity: Order of elements can be switched without changing the result (e.g., multiplication is commutative).
+   - Multiplicative identity: For the integers, 1 is the identity.
+
+3. **Associativity and Commutativity**: 
+   - Distinction between associativity (order in which operations are performed) and commutativity (order in which elements appear).
+   - Definitions of associativity and commutativity.
+   - Associativity and commutativity in arithmetic.
+   - Exploration of various binary operations (e.g., "take the mean of") and their properties of associativity and/or commutativity.
+

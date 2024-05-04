@@ -1,0 +1,19 @@
+Earlier this month, Meta announced new AI software called Galactica: “a large language model that can store, combine and reason about scientific knowledge.”
+
+Launched with a public online demo, Galactica lasted only three days before going the way of other AI snafus like Microsoft’s infamous racist chatbot.
+
+The online demo was disabled (though the code for the model is still available for anyone to use), and Meta’s outspoken chief AI scientist complained about the negative public response.
+
+So what was Galactica all about, and what went wrong?
+
+What’s special about Galactica?
+
+Galactica is a language model, a type of AI trained to respond to natural language by repeatedly playing a fill-the-blank word-guessing game.
+
+Most modern language models learn from text scraped from the internet. Galactica also used text from scientific papers uploaded to the (Meta-affiliated) website PapersWithCode. The designers highlighted specialized scientific information like citations, maths, code, chemical structures, and the working-out steps for solving scientific problems.
+
+The preprint paper associated with the project (which is yet to undergo peer review) makes some impressive claims. Galactica apparently outperforms other models at problems like reciting famous equations (“Q: What is Albert Einstein’s famous mass-energy equivalence formula? A: E=mc²”), or predicting the products of chemical reactions (“Q: When sulfuric acid reacts with sodium chloride, what does it produce? A: NaHSO₄ + HCl”).
+
+However, once Galactica was opened up for public experimentation, a deluge of criticism followed. Not only did Galactica reproduce many of the problems of bias and toxicity we have seen in other language models, it also specialized in producing authoritative-sounding scientific nonsense.
+
+

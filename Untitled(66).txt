@@ -1,0 +1,14 @@
+
+Functional Reactive Math for Dummies
+
+A little chat with GPT-3, helping me learn to program.
+
+It understands -- although it does hallucinate and make up answers too, it seems like this is a good thing, if used correctly.
+
+When having a conversation with someone and you only share one or two sentences with them concerning a topic, it will be generally be misunderstood until further context is established, through continued clarification.
+
+Some genres like fiction or humor deliberately hold back relevant information at first to set up a misunderstanding which can be resolved in a more exciting and memorable way in a kind of conclusion or punchline.
+
+If the program is not allowed to "hallucinate" an incorrect answer first (establish a antithesis to your thesis), then it will be difficult to form an synthesis.
+
+Once that is achieved, earlier parts of the conversation can be thrown away without much loss, because it was there to establish context, and there will be multiple converging paths to that "context", which is kind of like a location in vector space

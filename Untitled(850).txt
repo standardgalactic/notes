@@ -1,0 +1,21 @@
+
+Xonsh
+https://en.wikipedia.org/w/index.php?title=Xonsh&action=edit
+
+'''Xonsh''' is a Python-powered, Unix-like shell language and command prompt. The language integrates features of [[Python (programming language))]] 3.6+ and common shell primitives, providing a unique platform for system interactions. It is designed to work on all major systems, including [[Linux]], [[macOS]], and [[Windows]].
+
+==Overview==
+Created for both daily use and expert-level scripting, Xonsh offers a blend of the user-friendly interactive [[command prompt]] seen in [[Unix shells]] with the powerful scripting capabilities of Python. The shell language allows users to run and mix Python and shell commands directly, offering an enriched command-line experience.
+
+==See Also==
+[[Bash]]
+[[Z shell|zsh]]
+[[Fish (shell)]]
+==References==
+{{Reflist}}
+
+
+[[Category:Command shells]]
+[[Category:Python (programming language) software]]
+[[Category:Unix programming tools]]
+[[Category:Free software programmed in Python]]

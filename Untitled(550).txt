@@ -1,0 +1,36 @@
+# Import required libraries
+import numpy as np
+
+# Define a sample fuzzy membership function (triangular)
+def triangular_mf(x, a, b, c):
+    if x <= a or x >= c:
+        return 0
+    elif a < x <= b:
+        return (x - a) / (b - a)
+    else:
+        return (c - x) / (c - b)
+
+# Define a sample fuzzy inference system with two rules
+def fuzzy_inference(input_value):
+    # Define fuzzy rules
+    rule1 = min(triangular_mf(input_value, 1, 2, 3), triangular_mf(input_value, 4, 5, 6))
+    rule2 = min(triangular_mf(input_value, 7, 8, 9), triangular_mf(input_value, 2, 3, 4))
+    
+    # Aggregate the rules (maximum operator)
+    aggregated_output = max(rule1, rule2)
+    
+    # Defuzzify using the centroid method
+    centroids = [2.5, 5.5]  # Centers of gravity for the two rules
+    defuzzified_output = sum(np.multiply(centroids, [rule1, rule2])) / sum([rule1, rule2])
+    
+    return defuzzified_output
+
+# Input value
+input_value = 3.5
+
+# Calculate the defuzzified output
+output = fuzzy_inference(input_value)
+
+# Print the result
+print(f"Input value: {input_value}")
+print(f"Defuzzified output: {output}")

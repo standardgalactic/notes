@@ -1,0 +1,13 @@
+I can see a lot of people are trying to export the whole conversation.
+
+Once you have it generated, open browser console (ctrl+shift+i), paste in following script and it will download your conversation into simple HTML file to your disk.
+
+let nodeList = document.querySelectorAll('.text-base .whitespace-pre-wrap');
+let html = '';
+nodeList.forEach(function(node) {
+html += node.outerHTML;
+});
+let link = document.createElement('a');
+link.href = 'data:text/html,' + encodeURIComponent(html);
+link.download = 'file.html';
+link.click();

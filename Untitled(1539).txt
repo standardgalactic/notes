@@ -1,0 +1,8 @@
+Introduction to 🔗🌳 and MERA:
+
+Tree Tensor Networks (🔗🌳) are hierarchical structures resembling binary trees.
+
+🔗🌳s are efficient due to their loop-free structure.
+
+Multi-scale Entanglement Renormalization Ansatz (🔮📉) is a type of 🔮📉 designed for systems with long-range correlations.
+

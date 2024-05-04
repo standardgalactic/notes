@@ -1,0 +1,1 @@
+automation. I spoke about this in my keynote at the 2021 IEEE International Requirements of Engineering Conference, deconstructing why these problems are inherently about human values, equity, and justice, and not syntax, semantics, algorithms, and data structures

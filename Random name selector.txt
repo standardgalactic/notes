@@ -1,0 +1,6 @@
+Response
+
+Markdown
+
+import random # Create a dictionary of first names and last names. first_names = { "male": ["John", "James", "Robert", "Michael", "William"], "female": ["Mary", "Susan", "Elizabeth", "Jennifer", "Linda"], } last_names = { "male": ["Smith", "Jones", "Brown", "Williams", "Johnson"], "female": ["Miller", "Anderson", "Wilson", "Taylor", "Thomas"], } # Create a Markov chain. chain = {} for gender in ["male", "female"]: for first_name in first_names[gender]: for last_name in last_names[gender]: chain[first_name + " " + last_name] = [ first_name + " " + random.choice(last_names[gender]), last_name + " " + random.choice(first_names[gender]), ] # Generate a random name. while True: current
+

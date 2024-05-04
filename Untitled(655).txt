@@ -1,0 +1,194 @@
+Liquid Time-constant Networks 
+Ramin Hasani,1,3*Mathias Lechner,2*Alexander Amini,1Daniela Rus,1Radu Grosu3 
+1 Massachusetts Institute of Technology (MIT) 
+2 Institute of Science and Technology Austria (IST Austria) 
+3 Technische Universita¨t Wien (TU Wien) 
+rhasani@mit.edu, mathias.lechner@ist.ac.at, amini@mit.edu, rus@csail.mit.edu, radu.grosu@tuwien.ac.at 
+Abstract 
+We introduce a new class of time-continuous recurrent neural 
+network models. Instead of declaring a learning system’s dy- 
+namics by implicit nonlinearities, we construct networks of 
+linear i rst-order dynamical systems modulated via nonlinear 
+interlinked gates. The resulting models represent dynamical 
+systems with varying (i.e., liquid) time-constants coupled to 
+their hidden state, with outputs being computed by numeri- 
+cal differential equation solvers. These neural networks ex- 
+hibit stable and bounded behavior, yield superior expressivity 
+within the family of neural ordinary differential equations, 
+and give rise to improved performance on time-series predic- 
+tion tasks. To demonstrate these properties, we i rst take a 
+theoretical approach to i nd bounds over their dynamics, and 
+compute their expressive power by the trajectory length mea- 
+sure in a latent trajectory space. We then conduct a series of 
+time-series prediction experiments to manifest the approxi- 
+mation capability of Liquid Time-Constant Networks (LTCs) 
+compared to classical and modern RNNs.1 
+1Introduction 
+Recurrent neural networks with continuous-time hidden 
+states determined by ordinary differential equations (ODEs), 
+are effective algorithms for modeling time series data that 
+are ubiquitously used in medical, industrial and business set- 
+tings. The state of a neural ODE, x(t) ∈ RD, 
+is def i ned by 
+the solution of this equation (Chen et al. 2018): dx(t)/dt = 
+f(x(t),I(t),t,θ), with a neural network f parametrized by 
+θ. One can then compute the state using a numerical ODE 
+solver, and train the network by performing reverse-mode 
+automatic differentiation (Rumelhart, Hinton, and Williams 
+1986), either by gradient descent through the solver (Lech- 
+ner et al. 2019), or by considering the solver as a black-box 
+(Chen et al. 2018; Dupont, Doucet, and Teh 2019; Gholami, 
+Keutzer,andBiros2019)andapplytheadjointmethod (Pon- 
+tryagin 2018). The open questions are: how expressive are 
+neural ODEs in their current formalism, and can we improve 
+their structure to enable richer representation learning and 
+expressiveness? 
+*Authors with equal contributions 
+Copyright © 2021, Association for the Advancement of Artif i cial 
+Intelligence (www.aaai.org). All rights reserved. 
+1Code and data are available at: https://github.com/raminmh/ 
+liquid time constant networks 
+Rather than def i ning the derivatives of the hidden-state 
+directly by a neural network f, one can determine a more 
+stable continuous-time recurrent neural network (CT-RNN) 
+by the following equation (Funahashi and Nakamura 1993): 
+dx(t) 
+dt = −x(t) 
+τ + f(x(t),I(t),t,θ), in which the term −x(t) 
+τ 
+assists the autonomous system to reach an equilibrium state 
+with a time-constant τ. x(t) is the hidden state, I(t) is the 
+input, t represents time, and f is parametrized by θ. 
+Weproposeanalternativeformulation:letthehiddenstate 
+l ow of a network be declared by a system of linear ODEs of 
+the form: dx(t)/dt = −x(t)/τ + S(t), and let S(t) ∈ RM 
+represent the following nonlinearity determined by S(t) = 
+f(x(t),I(t),t,θ)(A−x(t)), with parameters θ and A. Then, 
+by plugging in S into the hidden states equation, we get: 
+dx(t) 
+dt = − h1 
+τ + f(x(t),I(t),t,θ) i 
+x(t)+ 
+f(x(t),I(t),t,θ)A. 
+(1) 
+Eq. 1 manifests a novel time-continuous RNN instance 
+with several features and benef i ts: 
+Liquid time-constant. A neural network f not only de- 
+termines the derivative of the hidden state x(t), but also 
+serves as an input-dependent varying time-constant (τsys= 
+τ 
+1+τf(x(t),I(t),t,θ)) for the learning system (Time constant is 
+a parameter characterizing the speed and the coupling sen- 
+sitivity of an ODE).This property enables single elements 
+of the hidden state to identify specialized dynamical sys- 
+tems for input features arriving at each time-point. We re- 
+fer to these models as liquid time-constant recurrent neural 
+networks (LTCs). LTCs can be implemented by an arbitrary 
+choiceofODEsolvers.InSection2,weintroduceapractical 
+i xed-step ODE solver that simultaneously enjoys the stabil- 
+ity of the implicit Euler and the computational eff i ciency of 
+the explicit Euler methods. 
+Reverse-mode automatic differentiation of LTCs. LTCs 
+realize differentiable computational graphs. Similar to neu- 
+ral ODEs, they can be trained by variform of gradient-based 
+optimization algorithms. We settle to trade memory for nu- 
+merical precision during a backward-pass by using a vanilla 
+backpropagation through-time algorithm to optimize LTCs 
+instead of an adjoint-based optimization method (Pontrya- 
+gin 2018). In Section 3, we motivate this choice thoroughly. 
+arXiv:2006.04439v4 
+[cs.LG] 
+14 
+Dec 
+2020 
+Bounded dynamics- stability. In Section 4, we show that 
+the state and the time-constant of LTCs are bounded to a i- 
+nite range. This property assures the stability of the output 
+dynamics and is desirable when inputs to the system relent- 
+lessly increase. 
+Superior expressivity. In Section 5, we theoretically and 
+quantitativelyanalyzetheapproximationcapabilityofLTCs. 
+We take a functional analysis approach to show the univer- 
+sality of LTCs. We then delve deeper into measuring their 
+expressivity compared to other time-continuous models. We 
+perform this by measuring the trajectory length of activa- 
+tions of networks in a latent trajectory representation. Tra- 
+jectory length was introduced as a measure of expressivity 
+of feed-forward deep neural networks (Raghu et al. 2017). 
+We extend these criteria to the family of continuous-time re- 
+current models. 
+Time-series modeling. In Section 6, we conduct a series 
+of eleven time-series prediction experiments and compare 
+the performance of modern RNNs to the time-continuous 
+models. We observe improved performance on a majority of 
+cases achieved by LTCs. 
+Why this specif i c formulation? There are two primary jus- 
+tif i cations for the choice of this particular representation: 
+I) LTC model is loosely related to the computational mod- 
+els of neural dynamics in small species, put together with 
+synaptic transmission mechanisms (Hasani et al. 2020). The 
+dynamics of non-spiking neurons’ potential, v(t), can be 
+written as a system of linear ODEs of the form (Lapicque 
+1907; Koch and Segev 1998): dv/dt = −glv(t) + S(t), 
+where S is the sum of all synaptic inputs to the cell from 
+presynaptic sources, and glis a leakage conductance. 
+All synaptic currents to the cell can be approximated 
+in steady-state by the following nonlinearity (Koch and 
+Segev 1998; Wicks, Roehrig, and Rankin 1996): S(t) = 
+f(v(t),I(t)),(A − v(t)), where f(.) is a sigmoidal nonlin- 
+earity depending on the state of all neurons, v(t) which are 
+presynaptic to the current cell, and external inputs to the cell, 
+I(t). By plugging in these two equations, we obtain an equa- 
+tion similar to Eq. 1. LTCs are inspired by this foundation. 
+II) Eq. 1 might resemble that of the famous Dynamic Causal 
+Models (DCMs) (Friston, Harrison, and Penny 2003) with a 
+Bilinear dynamical system approximation (Penny, Ghahra- 
+mani, and Friston 2005). DCMs are formulated by tak- 
+ing a second-order approximation (Bilinear) of the dynam- 
+ical system dx/dt = F(x(t),I(t),θ), that would result in 
+the following format (Friston, Harrison, and Penny 2003): 
+dx/dt = (A + I(t)B)x(t) + CI(t) with A = 
+dF 
+dx, B = 
+dF2 
+dx(t)dI(t), C = 
+dF 
+dI(t). DCM and bilinear dynamical sys- 
+tems have shown promise in learning to capture complex 
+fMRI time-series signals. LTCs are introduced as variants of 
+continuous-time (CT) models that are loosely inspired by bi- 
+ology, show great expressivity, stability, and performance in 
+modeling time series. 
+2LTCs forward-pass by a fused ODE solvers 
+SolvingEq.1analytically,isnon-trivialduetothenonlinear- 
+ity of the LTC semantics. The state of the system of ODEs, 
+however, at any time point T, can be computed by a numeri- 
+Algorithm 1 LTC update by fused ODE Solver 
+Parameters: θ = {τ(N×1)= 
+time-constant, γ(M×N)= 
+weights, γ(N×N) 
+r = recurrent weights, µ(N×1)= biases}, 
+A(N×1)= bias vector, L = Number of unfolding steps, 
+∆t = step size, N = Number of neurons, 
+Inputs: M-dimensional Input I(t) of length T, x(0) 
+Output: Next LTC neural state xt+∆t 
+Function: FusedStep(x(t), I(t), ∆t, θ) 
+x(t + ∆t)(N×T)= x(t) + ∆tf(x(t),I(t),t,θ)?A 
+1+∆t?1/τ+f(x(t),I(t),t,θ)? 
+. f(.), and all divisions are applied element-wise. 
+. ? is the Hadamard product. 
+end Function 
+xt+∆t= x(t) 
+for i = 1...L do 
+xt+∆t= FusedStep(x(t), I(t), ∆t, θ) 
+end for 
+return xt+∆t 
+cal ODE solver that simulates the system starting from a tra- 
+jectory x(0), to x(T). An ODE solver breaks down the con- 
+tinuous simulation interval [0,T] to a temporal discretiza- 
+tion, [t0,t1,...tn]. As a result, a solver’s step involves only 
+the update of the neuronal states from tito ti+1. 
+LTCs’ ODE realizes a system of stiff equations (Press 
+et al. 2007). This type of ODE requires an exponential num- 
+ber of discretization steps when simulated with a Runge- 
+Kutta (RK) based integrator. Consequently,

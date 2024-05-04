@@ -1,0 +1,65 @@
+Polygon based 3D morphing
+Manolis Kellis, Krzysztof Gajos, Matt Blum, Hooman Vassef, Seth Teller
+MIT Graphics Group
+3D Morphing 3D Morphing 3D Morphing
+3D Morphing 3D Morphing 3D Morphing
+Back at MIT I took a computer graphics class and as a final project I proposed and implemented a 3D morphing algorithm. The project explored the question of transforming a three-dimensional polygonal model into another while minimizing the energy lost in creating and destroying polygons and maximizing the uniformity of the polygon flow. Following these constraints, a polygon can spawn another polygon from one of its edges (birth), and a polygon can collapse onto another polygon's edge (death). From there followed two algorithms I called Edge Ordering and Incremental Edge Ordering that solve the general problem of scheduling a multitude of agents to satisfy a set of tasks, for example a set of robots extinguishing small fires. Further constraints were applied on the birth and death edges to preserve the uniformity of the polygon flow, and the aesthetic results were very appealing, yet biased by the cost metric I used. (you can find 3D morphing examples online)
+
+
+Gaussian curve morphing
+Manolis Kellis, Berthold Horn
+MIT AI Lab
+Gaussian Morphing Project
+In search of a purely mathematical solution, I further explored the problem of morphing in the continuous case. Instead of having a discrete set of polygons as the input, this problem addressed an arbitrary convex shape. Inspired by Professor Berthold Horn's Robot Vision class, I mapped the two shapes to be morphed to their corresponding Extended Gaussian Images, and simply matched the normals on the surface of one unit sphere with normals on the other. The matching algorithm is a function that distributes each source to all destinations, the amount displaced between any two normals inversely exponential to a combination of their difference in angle and weight. This combination depended on an input parameter that favored matching normals of similar weights or normals of neighboring angles. This parameter ended up incorporating the different intuitive approaches we have about transforming a square into a triangle: in one case we round off the corners (minimizing length variation of the sides), and in the other case we progressively shrink one of the square's edges until it becomes a triangle (minimizing angle variation). Both approaches were supported by different users of the morphing program. This purely mathematical solution thus yielded intuition on a problem for which there was no base of argumentation. (you can test the Gaussian Morphing applet yourself!).
+
+Robotics
+An interacting reprogrammable robot
+Manolis Kellis, Jeremy Lueck, Chris Rohrs
+MIT
+RoboLogo Project
+I made this system a reality in my 6.115 final project, RoboLogo, in a team of three people. Inspired from Seymour Papert's work with children and Logo, we developed iLogo (interactive Logo), to extend the Logo language with primitives for interacting with the environment, reading sensors, and reacting accordingly to external events. We designed the new language and its grammar; we built a compiler that translated programs from iLogo to assembly code; we wrote a library of low-level routines and initialization code to be linked with the generated files; we designed and laid out a printed circuit board to incorporate a processor, RAM, ROM, motor controllers, sensor drivers, AD converter; finally we put everything together on a mechanical truck on which we mounted sensors and actuators. Children can control the robot by writing simple high level commands in iLogo, and see a working robot bounce between two walls with only six lines of code. This new abstraction layer allows for more complicated behaviors to be expressed in smaller, simpler programs, with an overhead that is negligible when the speed of the processor is compared to the speed of external events. Building the entire RoboLogo environment from the ground was a very rewarding experience and went a step further than 6.270 where the circuit board was provided along with the iC language and compiler. Making RoboLogo happen was like constructing our own 6.270 class. (on to the RoboLogo page).
+
+Modular Reconfigurable Robots
+Mark Yim, Manolis Kellis
+Xerox PARC, SPL
+PolyPod Project
+At Xerox PARC, the summer of 98, I worked on a larger-scale robotics project and I concentrated on the control of the robots rather than the low-level construction of the hardware. I worked with Mark Yim on Polypod, a unit-modular reconfigurable robot, and I was responsible of the control architecture for coordinating the actions of the different modules. The model I proposed is a combination between a global bus carrying one or multiple values shared among all modules and a message passing mechanism that provides an interpretation for the shared values. The architecture is designed to be adaptive to the environment and robust against isolated module failures. To decentralize the control it distributes the computational power throughout the robot and specifies local behavioral rules at the module level, so that global communication be not necessary for simple decisions that need only local information. Global behavior then emerges at the robot level when Polypod interacts with the environment. While working on Polypod, my graphics background helped in the making of a Java3D simulation to visualize the modules; my geometry background helped me work out the forward and inverse kinematics; my background in AI helped me develop an architecture for decision making and control arbitration; my mathematical background helped me address scalability issues and design algorithms for information propagation and storing; moreover, having dealt with both mechanical and electronics issues during my robotics experience at MIT, I had an intuition about what was feasible to undertake in a mechatronics system. (see more at the PolyPod page)
+
+
+Old Projects
+Predicting the stock market
+Manolis Kellis, Shishir Mehrotra, Nimrod Warshawsky, Tomás Lozano Perez
+MIT AI Lab
+Invest Project
+My interest in artificial intelligence arose as a mathematical curiosity first. In an introductory AI class, I was presented with a series of small independent problems and smart ideas with which to approach them. I applied those ideas in different projects in an intensive class by Tomás Lozano Perez, for which I trained a Neural Network to recognize human faces, I used Temporal Difference Learning for a board game in which the machine grew sometimes stronger than the user, and for my final project, I experimented with different machine learning methods to extract patterns from the stock market. (more about Invest)
+
+
+Autonomous Lego Robot
+Panayiotis Kellis, Maria Kellis, Manolis Kellis
+MIT
+RoboAnt
+My interest in building and controlling robots was first expressed when I participated in 6.270, the autonomous robot design competition. My brother was a junior in course VI, my sister a sophomore in course II and I was a freshman at the time. Together, we constructed a robot out of Lego pieces, and we programmed it in iC (interactive C) using a provided circuit board. The goal was to create insect-like robots, or more specially, ants. The "ants" were supposed to collect as much "food" as possible during each 60-second face-off. The food was represented by styrofoam blocks. Robots received more points for picking up the blocks and stacking them on top of each other in its "nest," a raised rubber platform. This experience taught me a lot about the difference between programming and reality, and how many things one needed to take care of when programming a system that interacts with the real world, even in an overconstrained environment like the contest table. (visit the RoboAnt contest page). I was thinking that children in high school, and even primary school should have the same opportunity to program autonomous robots. However the overhead from mechanical, electronics and low-level aspects should be reduced for younger children. They should start in a system with instant gratification, where they can write their "Hello, World!" program in a high level language on the first day. Writing complex programs, more complete reactions to the environment, and understanding the tools that make their program really work should be part of further lessons. They should however, immediately see the robot act and react around the lab under their commands and bridge the gap between concrete world actions and abstract programming commands.
+
+Constraint model for a web crawler
+Manolis Kellis, Henrik Frystyk Nielsen
+World Wide Web Consortium
+Webbot ProjectThe summer and fall of 96 i worked at the world wide web consortium, where i developped a simple constraint model for a web robot. The code was written in Tcl and allowed for arbitrarily rules to be expressed in a simple form of recursive deifinitions. (more about the w3c mini Webbot)
+Scheme implementation of a Universal Turing Machine
+Manolis Kellis
+MIT
+Turing ProjectThe fourth core computer science class at MIT, 6.004, also known as Computational Structures, introduces students to Turing Machines. I implemented a Universal Turing Machine that can read in the descriptions of machines and simulate them. The code is written in Scheme. A year later, Mark Hershberg ported this tool online for 6.004 students to use when they want to test their FSM descriptions on sample inputs (the entire Turing code is available for download).
+Ray Tracing, Lighting, Modelling
+Manolis Kellis, Seth Teller
+MIT LCS
+Graphics
+The picture on the right was generated by a ray tracer that I wrote using C and OpenGL (see example 1 or 2). Other parts of the graphics pipeline I implemented were color interpolation, normal interpolation for Gourauld shading, casting shadows, and handling transparency. Other graphics work I did included a 3D model of the MIT campus (with some artistic liberties taken), including animations of a rowing race and traffic cars. Here's a contact-inspired graphic. The rings were animated.
+
+Online Information Sharing
+Manolis Kellis
+MIT
+HKN Knowledge MarketThe spring of 1997 i created the HKN Knowledge Market, a online meeting place where students can exchange ideas, information, hints, and advice about classes, problem sets, internships, research. The project is sponsored by HKN (more about Knowledge Market)
+
+How meta-information directs evolution
+Manolis Kellis
+MIT
+Evolution PaperAt the same time, in Marvin Minsky's Society of Mind I explored a different approach to AI, interested more in understanding how the human brain works from a computational standpoint rather than in creating powerful machines unrelated to human capabilities. For Minsky's class, I did some research on evolution and the human DNA and wrote a paper on how along with the genetic data, meta-information can be propagated to direct the interpretation of the raw data. This theory allowed for the evolving species' DNA to learn not only about surviving, but also about evolving. This twist provided a simple answer to some questions Darwin left unexplained, such as the exponential increase in evolutionary speed as species evolve, and the evolutionary bursts that disturb otherwise steady evolutionary periods. Minsky's class helped me understand the human 

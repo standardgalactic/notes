@@ -1,0 +1,10 @@
+Submitted on 11 Jul 2017]
+
+Coarsening with non-trivial in-domain dynamics: correlations and interface fluctuations
+
+Barton L. Brown, Michel Pleimling
+
+Download PDF
+
+Using numerical simulations we investigate the space-time properties of a system in which spirals emerge within coarsening domains, thus giving rise to non-trivial internal dynamics. Initially proposed in the context of population dynamics, the studied six-species model exhibits growing domains composed of three species in a rock-paper-scissors relationship. Through the investigation of different quantities, such as space-time correlations and the derived characteristic length, autocorrelation, density of empty sites, and interface width, we demonstrate that the non-trivial dynamics inside the domains affects the coarsening process as well as the properties of the interfaces separating different domains. Domain growth, aging, and interface fluctuations are shown to be governed by exponents whose values differ from those expected in systems with curvature driven coarsening.
+

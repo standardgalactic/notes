@@ -1,0 +1,668 @@
+1.5. Why “Life as Computation” Matters
+
+The transfer of knowledge between the disciplines of biology and computation forms a positive feedback loop for increasing the insight within both. Biological examples help to widen the range of implementations for computing devices and provide novel ideas for architectures [54,55,56,57,58]; unconventional computing platforms include fungal networks, ant colonies, and DNA. In complement, computer science and its idea of functionalist substrate independence (multiple realizability) helps biologists to focus on essential, rather than contingent, design principles, expanding biology beyond zoology and botany. This has been most prevalent in neuroscience [59,60,61], but more recently has been extended far beyond it, in recognition of the fact that neural dynamics are only an extension of far older biological problem solving architectures [28,62,63,64].
+
+A key conceptual insight from computer science that informs biology concerns the nature of computation. For example, the field of physical reservoir computing [65], in which a neural network is trained to map the dynamics occurring within an inorganic, biological, or technological system (the “reservoir”) into an output desired by a human observer, helps us to see the observer-dependent aspect of biology. This offers ways to think about biology as nested societies of elements which are exploiting the information-processing capacities [66] of their living environment. Cells, parasites, conspecifics, commensal organisms, and evolution itself are all hackers in the sense of using their parts and neighbors as affordances in whatever way they can, rather than in some single, unique, privileged, and objective way that reflects “true” functionality.
+
+The concepts of superposition in quantum mechanics and the primacy of observer frames in relativity have transformed the understanding of this phenomena on very small and very large scales, respectively. Polycomputing challenges us to apply the same concepts to computation and life at mesoscales. Here, we overview the concepts of superposition and observer frames as they are applied to mesoscales and argue that the polycomputing lens, like the agential matter lens [67,68], helps us to understand, predict, and control new classes of evolved and designed materials, with numerous applications ranging from regenerative medicine to engineering.
+
+2. Current Debates: Dissolving Dichotomous Thinking
+
+Whenever technological progress within a particular domain begins to slow, researchers often look to nature for fresh inspiration. Examples of this include the use of photosynthesis for new energy capture devices [69] and flapping wings for new drone designs [70]. Following this tradition, the increasing difficulty of packing more computing ability into microchips [71] challenges us to seek new paths forward by considering how computation is embedded within living systems. Comparing how organisms and machines compute requires one to view an organism as a kind of machine; otherwise, no comparison is possible. The debate about how or whether organisms are machines has a long history, and has become more intense in recent years [16,17,18,37,62,72,73], as various disciplines not only compare life to machines, but attempt to merge the two (reviewed in [38]).
+
+Our usage of the term “machine” in what follows will denote a subset of machines that are capable of computation. Such machines include robots and physical computers but exclude simple mechanical devices such as combustion engines and flywheels, for which no way to stimulate or exploit them to produce computation has yet been invented (if such interventions are discovered, these technologies can then be considered as belonging more to the class of computational machines). In the spirit of our thesis, we acknowledge that there is no clear dividing line between these two “types” of machines, as circuitry-free machines such as mechanical computers, physical reservoir computers, [65] and computational metamaterials [8] can still compute. As always, there is a continuum: in this case, it is across machines capable of more or less computation. A possible exception may exist for machines that compute by exploiting quantum effects, although even there the notion of an observer plays a key role in deriving binary outcomes from a fundamentally indeterminate reality. The usage of the term “machine” rather than “computer” in what follows is meant to remind the reader that we are considering organisms vis-a-vis human-made things that compute, rather than just comparing them to traditional computers.
+
+
+
+
+
+￼
+
+
+
+Author Contributions
+
+J.B. and M.L. contributed equally to this work. All authors have read and agreed to the published version of the manuscript.
+
+Funding
+
+M.L. gratefully acknowledges the support of the Templeton World Charity Foundation (grant TWCF0606) and the John Templeton Foundation (grant 62212). J.B. gratefully acknowledges the support of the National Science Foundation (NAIRI award 2020247; DMREF award 2118988).
+
+Institutional Review Board Statement
+
+Not Applicable.
+
+Informed Consent Statement
+
+Not Applicable.
+
+Acknowledgments
+
+We thank Oded Rechavi and Aimer G. Diaz for useful pointers to relevant biological phenomena, and Julia Poirier and Susan Lewis for assistance with the manuscript. We thank the reviewers as well, who in addition to providing much useful feedback also proposed several specific and actionable research paths forward from the described work.
+
+Conflicts of Interest
+
+M.L. and J.B. are co-founders of Fauna Systems, an AI-biorobotics company; we declare no other competing interests.
+
+References
+
+Feynman, R. There’s plenty of room at the bottom. Eng. Sci. 1960, 23, 22–36. [Google Scholar]
+
+Levin, M. Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds. Front. Syst. Neurosci. 2022, 16, 768201. [Google Scholar] [CrossRef] [PubMed]
+
+Zhou, J.; Lai, J.; Menda, G.; Stafstrom, J.A.; Miles, C.I.; Hoy, R.R.; Miles, R.N. Outsourced hearing in an orb-weaving spider that uses its web as an auditory sensor. Proc. Natl. Acad. Sci. USA 2022, 119, e2122789119. [Google Scholar] [CrossRef]
+
+Cariani, P.; Baker, J.M. Time Is of the Essence: Neural Codes, Synchronies, Oscillations, Architectures. Front. Comput. Neurosci. 2022, 16, 898829. [Google Scholar] [CrossRef]
+
+Pietsch, P. Shufflebrain; Houghton Mifflin: Boston, MA, USA, 1981; 273p. [Google Scholar]
+
+Yasuda, H.; Buskohl, P.R.; Gillman, A.; Murphey, T.D.; Stepney, S.; Vaia, R.A.; Raney, J.R. Mechanical computing. Nature 2021, 598, 39–48. [Google Scholar] [CrossRef] [PubMed]
+
+Wood, C.C. The computational stance in biology. Philos. Trans. R. Soc. Lond. B Biol. Sci. 2019, 374, 20180380. [Google Scholar] [CrossRef][Green Version]
+
+Parsa, A.; Wang, D.; O’Hern, C.S.; Shattuck, M.D.; Kramer-Bottiglio, R.; Bongard, J. Evolving Programmable Computational Metamaterials. In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO ’22), Boston, MA, USA, 9–13 July 2022; pp. 122–129. [Google Scholar]
+
+Li, S.; Batra, R.; Brown, D.; Chang, H.D.; Ranganathan, N.; Hoberman, C.; Rus, D.; Lipson, H. Particle robotics based on statistical mechanics of loosely coupled components. Nature 2019, 567, 361–365. [Google Scholar] [CrossRef]
+
+Gondarenko, A.; Preble, S.; Robinson, J.; Chen, L.; Lipson, H.; Lipson, M. Spontaneous emergence of periodic patterns in a biologically inspired simulation of photonic structures. Phys. Rev. Lett. 2006, 96, 143904. [Google Scholar] [CrossRef]
+
+Thompson, A. An evolved circuit, intrinsic in silicon, entwined with physics. In Proceedings of the International Conference on Evolvable Systems, Tsukuba, Japan, 7–8 October 1996; pp. 390–405. [Google Scholar]
+
+Brodbeck, L.; Hauser, S.; Iida, F. Morphological Evolution of Physical Robots through Model-Free Phenotype Development. PLoS ONE 2015, 10, e0128444. [Google Scholar] [CrossRef][Green Version]
+
+Abolafia, D.A.; Norouzi, M.; Shen, J.; Zhao, R.; Le, Q.V. Neural program synthesis with priority queue training. arXiv 2018, arXiv:1801.03526. [Google Scholar] [CrossRef]
+
+Sobania, D.; Briesch, M.; Rothlauf, F. Choose your programming copilot: A comparison of the program synthesis performance of github copilot and genetic programming. In Proceedings of the Genetic and Evolutionary Computation Conference, Boston, MA, USA, 9–13 July 2022; pp. 1019–1027. [Google Scholar]
+
+Karmaker, S.K.; Hassan, M.M.; Smith, M.J.; Xu, L.; Zhai, C.X.; Veeramachaneni, K. AutoML to Date and Beyond: Challenges and Opportunities. ACM Comput. Surv. 2021, 54, 175. [Google Scholar] [CrossRef]
+
+Bongard, J.; Levin, M. Living Things Are Not (20th Century) Machines: Updating Mechanism Metaphors in Light of the Modern Science of Machine Behavior. Front. Ecol. Evol. 2021, 9, 147. [Google Scholar] [CrossRef]
+
+Nicholson, D.J. Is the cell really a machine? J. Theor. Biol. 2019, 477, 108–126. [Google Scholar] [CrossRef] [PubMed]
+
+Nicholson, D.J. The machine conception of the organism in development and evolution: A critical analysis. Stud. Hist. Philos. Biol. Biomed. Sci. 2014, 48 Pt B, 162–174. [Google Scholar] [CrossRef][Green Version]
+
+Witzany, G.; Baluska, F. Life’s code script does not code itself. The machine metaphor for living organisms is outdated. EMBO Rep. 2012, 13, 1054–1056. [Google Scholar] [CrossRef][Green Version]
+
+Box, G.E.P. Robustness in the Strategy of Scientific Model Building. In Robustness in Statistics; Launer, R.L., Wilkinson, G.N., Eds.; Academic Press: New York, NY, USA; London, UK, 1979; pp. 201–236. [Google Scholar]
+
+James, W. Pragmatism, a New Name for Some Old Ways of Thinking; Longmans, Green, and Co.: New York, NY, USA, 1907. [Google Scholar]
+
+Fields, C.; Levin, M. Competency in Navigating Arbitrary Spaces as an Invariant for Analyzing Cognition in Diverse Embodiments. Entropy 2022, 24, 819. [Google Scholar] [CrossRef]
+
+Prakash, C.; Fields, C.; Hoffman, D.D.; Prentner, R.; Singh, M. Fact, Fiction, and Fitness. Entropy 2020, 22, 514. [Google Scholar] [CrossRef] [PubMed]
+
+Fields, C.; Friston, K.; Glazebrook, J.F.; Levin, M. A free energy principle for generic quantum systems. Prog. Biophys. Mol. Biol. 2022, 173, 36–59. [Google Scholar] [CrossRef]
+
+Fields, C. Sciences of Observation. Philosophies 2018, 3, 29. [Google Scholar] [CrossRef][Green Version]
+
+Dennett, D.C. The Intentional Stance; MIT Press: Cambridge, MA, USA, 1987; 388p. [Google Scholar]
+
+Pezzulo, G.; Levin, M. Top-down models in biology: Explanation and control of complex living systems above the molecular level. J. R. Soc. Interface 2016, 13, 20160555. [Google Scholar] [CrossRef][Green Version]
+
+Pezzulo, G.; Levin, M. Re-membering the body: Applications of computational neuroscience to the top-down control of regeneration of limbs and other complex organs. Integr. Biol. 2015, 7, 1487–1517. [Google Scholar] [CrossRef][Green Version]
+
+Nanos, V.; Levin, M. Multi-scale Chimerism: An experimental window on the algorithms of anatomical control. Cells Dev. 2022, 169, 203764. [Google Scholar] [CrossRef]
+
+Manicka, S.; Levin, M. Modeling somatic computation with non-neural bioelectric networks. Sci. Rep. 2019, 9, 18612. [Google Scholar] [CrossRef][Green Version]
+
+Grozinger, L.; Amos, M.; Gorochowski, T.E.; Carbonell, P.; Oyarzún, D.A.; Stoof, R.; Fellermann, H.; Zuliani, P.; Tas, H.; Goñi-Moreno, A. Pathways to cellular supremacy in biocomputing. Nat. Commun. 2019, 10, 5250. [Google Scholar] [CrossRef][Green Version]
+
+Solé, R.V.; Macia, J. Expanding the landscape of biological computation with synthetic multicellular consortia. Nat. Comput. 2013, 12, 485–497. [Google Scholar] [CrossRef]
+
+Macia, J.; Posas, F.; Solé, R.V. Distributed computation: The new wave of synthetic biology devices. Trends Biotechnol. 2012, 30, 342–349. [Google Scholar] [CrossRef]
+
+Ausländer, S.; Ausländer, D.; Müller, M.; Wieland, M.; Fussenegger, M. Programmable single-cell mammalian biocomputers. Nature 2012, 487, 123–127. [Google Scholar] [CrossRef]
+
+Regot, S.; Macia, J.; Conde, N.; Furukawa, K.; Kjellén, J.; Peeters, T.; Hohmann, S.; de Nadal, E.; Posas, F.; Solé, R. Distributed biological computation with multicellular engineered networks. Nature 2011, 469, 207–211. [Google Scholar] [CrossRef]
+
+Qian, L.; Winfree, E.; Bruck, J. Neural network computation with DNA strand displacement cascades. Nature 2011, 475, 368–372. [Google Scholar] [CrossRef]
+
+Nicholson, D.J. Organisms not equal Machines. Stud. Hist. Philos. Biol. Biomed. Sci. 2013, 44, 669–678. [Google Scholar] [CrossRef]
+
+Clawson, W.P.; Levin, M. Endless Forms Most Beautiful: Teleonomy and the bioengineering of chimeric and synthetic organisms. Biol. J. Linn. Soc. 2022, blac073. [Google Scholar] [CrossRef]
+
+Ollé-Vila, A.; Duran-Nebreda, S.; Conde-Pueyo, N.; Montañez, R.; Solé, R. A morphospace for synthetic organs and organoids: The possible and the actual. Integr. Biol. 2016, 8, 485–503. [Google Scholar] [CrossRef]
+
+Langton, C.G. Artificial Life: An Overview; MIT Press: Cambridge, MA, USA, 1995; pp. xi+340+346 of plates. [Google Scholar]
+
+Doursat, R.; Sánchez, C. Growing fine-grained multicellular robots. Soft Robot. 2014, 1, 110–121. [Google Scholar] [CrossRef]
+
+Doursat, R.; Sayama, H.; Michel, O. A review of morphogenetic engineering. Nat. Comput. 2013, 12, 517–535. [Google Scholar] [CrossRef][Green Version]
+
+Ebrahimkhani, M.R.; Levin, M. Synthetic living machines: A new window on life. iScience 2021, 24, 102505. [Google Scholar] [CrossRef]
+
+Ebrahimkhani, M.R.; Ebisuya, M. Synthetic developmental biology: Build and control multicellular systems. Curr. Opin. Chem. Biol. 2019, 52, 9–15. [Google Scholar] [CrossRef]
+
+Kamm, R.D.; Bashir, R.; Arora, N.; Dar, R.D.; Gillette, M.U.; Griffith, L.G.; Kemp, M.L.; Kinlaw, K.; Levin, M.; Martin, A.C.; et al. Perspective: The promise of multi-cellular engineered living systems. APL Bioeng. 2018, 2, 040901. [Google Scholar] [CrossRef][Green Version]
+
+Kamm, R.D.; Bashir, R. Creating living cellular machines. Ann. Biomed. Eng. 2014, 42, 445–459. [Google Scholar] [CrossRef][Green Version]
+
+Levin, M. Life, death, and self: Fundamental questions of primitive cognition viewed through the lens of body plasticity and synthetic organisms. Biochem. Biophys. Res. Commun. 2021, 564, 114–133. [Google Scholar] [CrossRef]
+
+Levin, M. The Computational Boundary of a “Self”: Developmental Bioelectricity Drives Multicellularity and Scale-Free Cognition. Front. Psychol. 2019, 10, 2688. [Google Scholar] [CrossRef][Green Version]
+
+Levin, M. Bioelectrical approaches to cancer as a problem of the scaling of the cellular self. Prog. Biophys. Mol. Biol. 2021, 165, 102–113. [Google Scholar] [CrossRef]
+
+Friston, K. Life as we know it. J. R. Soc. Interface 2013, 10, 20130475. [Google Scholar] [CrossRef][Green Version]
+
+Ramstead, M.J.D.; Badcock, P.B.; Friston, K.J. Answering Schrodinger’s question: A free-energy formulation. Phys. Life Rev. 2018, 24, 1–16. [Google Scholar] [CrossRef]
+
+Constant, A.; Ramstead, M.J.D.; Veissière, S.P.L.; Campbell, J.O.; Friston, K.J. A variational approach to niche construction. J. R. Soc. Interface 2018, 15, 20170685. [Google Scholar] [CrossRef]
+
+Allen, M.; Friston, K.J. From cognitivism to autopoiesis: Towards a computational framework for the embodied mind. Synthese 2018, 195, 2459–2482. [Google Scholar] [CrossRef][Green Version]
+
+Resnick, M. Turtles, Termites, and Traffic Jams: Explorations in Massively Parallel Microworlds, 1st ed.; MIT Press: Cambridge, MA, USA, 1997; pp. xviii+163p. [Google Scholar]
+
+Adamatzky, A. Towards fungal computer. Interface Focus 2018, 8, 20180029. [Google Scholar] [CrossRef]
+
+Siccardi, S.; Adamatzky, A. Models of Computing on Actin Filaments. In Advances in Unconventional Computing: Volume 2: Prototypes, Models and Algorithms; Adamatzky, A., Ed.; Springer International Publishing: Cham, Switzerland, 2017; pp. 309–346. [Google Scholar]
+
+Maley, C.C. DNA computation: Theory, practice, and prospects. Evol. Comput. 1998, 6, 201–229. [Google Scholar] [CrossRef]
+
+Dorigo, M.; Di Caro, G. Ant colony optimization: A new meta-heuristic. In Proceedings of the 1999 Congress on Evolutionary Computation-CEC99 (Cat. No. 99TH8406), Washington, DC, USA, 6–9 July 1999; pp. 1470–1477. [Google Scholar]
+
+Churchland, P.S.; Sejnowski, T.J. The Computational Brain, 25th Anniversary ed.; The MIT Press: Cambridge, MA, USA, 2017; pp. xix+544p. [Google Scholar]
+
+Friston, K.J.; Stephan, K.E.; Montague, R.; Dolan, R.J. Computational psychiatry: The brain as a phantastic organ. Lancet Psychiatry 2014, 1, 148–158. [Google Scholar] [CrossRef]
+
+Corlett, P.R.; Fletcher, P.C. Computational psychiatry: A Rosetta Stone linking the brain to mental illness. Lancet Psychiatry 2014, 1, 399–402. [Google Scholar] [CrossRef]
+
+Bray, D. Wetware: A Computer in Every Living Cell; Yale University Press: New Haven, CT, USA, 2009; pp. xii+267p. [Google Scholar]
+
+Bray, D. Protein molecules as computational elements in living cells. Nature 1995, 376, 307–312. [Google Scholar] [CrossRef]
+
+Fields, C.; Bischof, J.; Levin, M. Morphological Coordination: A Common Ancestral Function Unifying Neural and Non-Neural Signaling. Physiology 2020, 35, 16–30. [Google Scholar] [CrossRef]
+
+Tanaka, G.; Yamane, T.; Heroux, J.B.; Nakane, R.; Kanazawa, N.; Takeda, S.; Numata, H.; Nakano, D.; Hirose, A. Recent advances in physical reservoir computing: A review. Neural Netw. 2019, 115, 100–123. [Google Scholar] [CrossRef]
+
+Jose, A.M. Replicating and Cycling Stores of Information Perpetuate Life. BioEssays 2018, 40, e1700161. [Google Scholar] [CrossRef]
+
+Davies, J.; Levin, M. Synthetic morphology via active and agential matter. Nat. Rev. Bioeng. 2022, 1, 46–59. [Google Scholar] [CrossRef]
+
+Manicka, S.; Levin, M. The Cognitive Lens: A primer on conceptual tools for analysing information processing in developmental and regenerative morphogenesis. Philos. Trans. R. Soc. Lond. B Biol. Sci. 2019, 374, 20180369. [Google Scholar] [CrossRef][Green Version]
+
+Nocera, D.G. The artificial leaf. Acc. Chem. Res. 2012, 45, 767–776. [Google Scholar] [CrossRef]
+
+Chin, Y.W.; Kok, J.M.; Zhu, Y.Q.; Chan, W.L.; Chahl, J.S.; Khoo, B.C.; Lau, G.K. Efficient flapping wing drone arrests high-speed flight using post-stall soaring. Sci. Robot. 2020, 5, eaba2386. [Google Scholar] [CrossRef]
+
+Leiserson, C.E.; Thompson, N.C.; Emer, J.S.; Kuszmaul, B.C.; Lampson, B.W.; Sanchez, D.; Schardl, T.B. There’s plenty of room at the Top: What will drive computer performance after Moore’s law? Science 2020, 368, eaam9744. [Google Scholar] [CrossRef]
+
+Rahwan, I.; Cebrian, M.; Obradovich, N.; Bongard, J.; Bonnefon, J.F.; Breazeal, C.; Crandall, J.W.; Christakis, N.A.; Couzin, I.D.; Jackson, M.O.; et al. Machine behaviour. Nature 2019, 568, 477–486. [Google Scholar] [CrossRef][Green Version]
+
+Boldt, J. Machine metaphors and ethics in synthetic biology. Life Sci. Soc. Policy 2018, 14, 12. [Google Scholar] [CrossRef][Green Version]
+
+Boyle, E.A.; Li, Y.I.; Pritchard, J.K. An Expanded View of Complex Traits: From Polygenic to Omnigenic. Cell 2017, 169, 1177–1186. [Google Scholar] [CrossRef][Green Version]
+
+Plaut, D.C.; McClelland, J.L. Locating object knowledge in the brain: Comment on Bowers’s (2009) attempt to revive the grandmother cell hypothesis. Psychol. Rev. 2010, 117, 284–288. [Google Scholar] [CrossRef][Green Version]
+
+Bongard, J.C. Evolutionary robotics. Commun. ACM 2013, 56, 74–83. [Google Scholar] [CrossRef][Green Version]
+
+Wright, L.G.; Onodera, T.; Stein, M.M.; Wang, T.; Schachter, D.T.; Hu, Z.; McMahon, P.L. Deep physical neural networks trained with backpropagation. Nature 2022, 601, 549–555. [Google Scholar] [CrossRef]
+
+Kriegman, S.; Blackiston, D.; Levin, M.; Bongard, J. Kinematic self-replication in reconfigurable organisms. Proc. Natl. Acad. Sci. USA 2021, 118, e2112672118. [Google Scholar] [CrossRef]
+
+Kriegman, S.; Blackiston, D.; Levin, M.; Bongard, J. A scalable pipeline for designing reconfigurable organisms. Proc. Natl. Acad. Sci. USA 2020, 117, 1853–1859. [Google Scholar] [CrossRef][Green Version]
+
+Floridi, L.; Chiriatti, M. GPT-3: Its Nature, Scope, Limits, and Consequences. Minds Mach. 2020, 30, 681–694. [Google Scholar] [CrossRef]
+
+Ramesh, A.; Dhariwal, P.; Nichol, A.; Chu, C.; Chen, M. Hierarchical text-conditional image generation with clip latents. arXiv 2022, arXiv:2204.06125. [Google Scholar] [CrossRef]
+
+Ortiz, C.L., Jr. Why we need a physically embodied Turing test and what it might look like. AI Mag. 2016, 37, 55–62. [Google Scholar] [CrossRef][Green Version]
+
+Giselbrecht, S.; Rapp, B.E.; Niemeyer, C.M. The chemistry of cyborgs--interfacing technical devices with organisms. Angew. Chem. Int. Ed. Engl. 2013, 52, 13942–13957. [Google Scholar] [CrossRef]
+
+Nam, Y.; Wheeler, B.C. In vitro microelectrode array technology and neural recordings. Crit. Rev. Biomed. Eng. 2011, 39, 45–61. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Rothschild, R.M. Neuroengineering tools/applications for bidirectional interfaces, brain-computer interfaces, and neuroprosthetic implants—A review of recent progress. Front. Neuroeng. 2010, 3, 112. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Kuchling, F.; Friston, K.; Georgiev, G.; Levin, M. Morphogenesis as Bayesian inference: A variational approach to pattern formation and control in complex biological systems. Phys. Life Rev. 2020, 33, 88–108. [Google Scholar] [CrossRef] [PubMed]
+
+Friston, K.; Levin, M.; Sengupta, B.; Pezzulo, G. Knowing one’s place: A free-energy approach to pattern regulation. J. R. Soc. Interface 2015, 12, 20141383. [Google Scholar] [CrossRef][Green Version]
+
+Friston, K. A free energy principle for a particular physics. arXiv 2019, arXiv:1906.10184. [Google Scholar] [CrossRef]
+
+Genty, G.; Salmela, L.; Dudley, J.M.; Brunner, D.; Kokhanovskiy, A.; Kobtsev, S.; Turitsyn, S.K. Machine learning and applications in ultrafast photonics. Nat. Photonics 2021, 15, 91–101. [Google Scholar] [CrossRef]
+
+Nakajima, K. Physical reservoir computing—An introductory perspective. Jpn. J. Appl. Phys. 2020, 59, 060501. [Google Scholar] [CrossRef]
+
+Gyongyosi, L.; Imre, S. A Survey on quantum computing technology. Comput. Sci. Rev. 2019, 31, 51–71. [Google Scholar] [CrossRef]
+
+Paul, C. Morphological computation—A basis for the analysis of morphology and control requirements. Robot. Auton. Syst. 2006, 54, 619–630. [Google Scholar] [CrossRef]
+
+Zahedi, K.; Ay, N. Quantifying Morphological Computation. Entropy 2013, 15, 1887–1915. [Google Scholar] [CrossRef][Green Version]
+
+Heimburg, T.; Jackson, A.D. On soliton propagation in biomembranes and nerves. Proc. Natl. Acad. Sci. USA 2005, 102, 9790–9795. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Hoel, E.P. Agent Above, Atom Below: How Agents Causally Emerge from Their Underlying Microphysics. In Wandering towards a Goal: How Can Mindless Mathematical Laws Give Rise to Aims and Intention? Aguirre, A., Foster, B., Merali, Z., Eds.; Springer International Publishing: Cham, Switzerland, 2018; pp. 63–76. [Google Scholar]
+
+Hoel, E.P. When the Map Is Better Than the Territory. Entropy 2017, 19, 188. [Google Scholar] [CrossRef][Green Version]
+
+Albantakis, L.; Marshall, W.; Hoel, E.; Tononi, G. What Caused What? A Quantitative Account of Actual Causation Using Dynamical Causal Networks. Entropy 2019, 21, 459. [Google Scholar] [CrossRef][Green Version]
+
+Hoel, E.P.; Albantakis, L.; Marshall, W.; Tononi, G. Can the macro beat the micro? Integrated information across spatiotemporal scales. Neurosci. Conscious. 2016, 2016, niw012. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Hoel, E.P.; Albantakis, L.; Tononi, G. Quantifying causal emergence shows that macro can beat micro. Proc. Natl. Acad. Sci. USA 2013, 110, 19790–19795. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Klein, B.; Hoel, E. Uncertainty and causal emergence in complex networks. arXiv 2019, arXiv:1907.03902. [Google Scholar] [CrossRef]
+
+Kim, H.; Sayama, H. How Criticality of Gene Regulatory Networks Affects the Resulting Morphogenesis under Genetic Perturbations. Artif. Life 2018, 24, 85–105. [Google Scholar] [CrossRef][Green Version]
+
+Graudenzi, A.; Serra, R.; Villani, M.; Colacci, A.; Kauffman, S.A. Robustness analysis of a Boolean model of gene regulatory network with memory. J. Comput. Biol. 2011, 18, 559–577. [Google Scholar] [CrossRef]
+
+Darabos, C.; Di Cunto, F.; Tomassini, M.; Moore, J.H.; Provero, P.; Giacobini, M. Additive functions in boolean models of gene regulatory network modules. PLoS ONE 2011, 6, e25110. [Google Scholar] [CrossRef][Green Version]
+
+Bassel, G.W. Information Processing and Distributed Computation in Plant Organs. Trends Plant Sci. 2018, 23, 994–1005. [Google Scholar] [CrossRef]
+
+Calvo, P.; Friston, K. Predicting green: Really radical (plant) predictive processing. J. R. Soc. Interface 2017, 14, 20170096. [Google Scholar] [CrossRef][Green Version]
+
+Zhu, L.; Kim, S.J.; Hara, M.; Aono, M. Remarkable problem-solving ability of unicellular amoeboid organism and its mechanism. R. Soc. Open Sci. 2018, 5, 180396. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Solé, R.; Amor, D.R.; Duran-Nebreda, S.; Conde-Pueyo, N.; Carbonell-Ballestero, M.; Montañez, R. Synthetic collective intelligence. Biosystems 2016, 148, 47–61. [Google Scholar] [CrossRef] [PubMed]
+
+Reid, C.R.; MacDonald, H.; Mann, R.P.; Marshall, J.A.; Latty, T.; Garnier, S. Decision-making without a brain: How an amoeboid organism solves the two-armed bandit. J. R. Soc. Interface 2016, 13, 20160030. [Google Scholar] [CrossRef][Green Version]
+
+Vallverdú, J.; Castro, O.; Mayne, R.; Talanov, M.; Levin, M.; Baluška, F.; Gunji, Y.; Dussutour, A.; Zenil, H.; Adamatzky, A. Slime mould: The fundamental mechanisms of biological cognition. Biosystems 2018, 165, 57–70. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Mugler, A.; Kittisopikul, M.; Hayden, L.; Liu, J.; Wiggins, C.H.; Süel, G.M.; Walczak, A.M. Noise Expands the Response Range of the Bacillus subtilis Competence Circuit. PLoS Comput. Biol. 2016, 12, e1004793. [Google Scholar] [CrossRef]
+
+Prindle, A.; Liu, J.; Asally, M.; Ly, S.; Garcia-Ojalvo, J.; Süel, G.M. Ion channels enable electrical communication in bacterial communities. Nature 2015, 527, 59–63. [Google Scholar] [CrossRef][Green Version]
+
+Larkin, J.W.; Zhai, X.; Kikuchi, K.; Redford, S.E.; Prindle, A.; Liu, J.; Greenfield, S.; Walczak, A.M.; Garcia-Ojalvo, J.; Mugler, A.; et al. Signal Percolation within a Bacterial Community. Cell Syst. 2018, 7, 137–145.e133. [Google Scholar] [CrossRef][Green Version]
+
+Baluška, F.; Reber, A.S.; Miller, W.B., Jr. Cellular sentience as the primary source of biological order and evolution. Biosystems 2022, 218, 104694. [Google Scholar] [CrossRef]
+
+Baluška, F.; Miller, W.B.; Reber, A.S. Cellular and evolutionary perspectives on organismal cognition: From unicellular to multicellular organisms. Biol. J. Linn. Soc. 2022, blac005. [Google Scholar] [CrossRef]
+
+Reber, A.S.; Baluška, F. Cognition in some surprising places. Biochem. Biophys. Res. Commun. 2021, 564, 150–157. [Google Scholar] [CrossRef] [PubMed]
+
+Baluška, F.; Levin, M. On Having No Head: Cognition throughout Biological Systems. Front. Psychol. 2016, 7, 902. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Levin, M. Bioelectric signaling: Reprogrammable circuits underlying embryogenesis, regeneration, and cancer. Cell 2021, 184, 1971–1989. [Google Scholar] [CrossRef]
+
+Harris, M.P. Bioelectric signaling as a unique regulator of development and regeneration. Development 2021, 148, dev180794. [Google Scholar] [CrossRef] [PubMed]
+
+Bonzanni, M.; Rouleau, N.; Levin, M.; Kaplan, D.L. Optogenetically induced cellular habituation in non-neuronal cells. PLoS ONE 2020, 15, e0227230. [Google Scholar] [CrossRef] [PubMed]
+
+Adams, D.S.; Uzel, S.G.; Akagi, J.; Wlodkowic, D.; Andreeva, V.; Yelick, P.C.; Devitt-Lee, A.; Paré, J.F.; Levin, M. Bioelectric signalling via potassium channels: A mechanism for craniofacial dysmorphogenesis in KCNJ2-associated Andersen-Tawil Syndrome. J. Physiol. 2016, 594, 3245–3270. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Adams, D.S.; Lemire, J.M.; Kramer, R.H.; Levin, M. Optogenetics in Developmental Biology: Using light to control ion flux-dependent signals in Xenopus embryos. Int. J. Dev. Biol. 2014, 58, 851–861. [Google Scholar] [CrossRef] [PubMed]
+
+Adams, D.S.; Tseng, A.S.; Levin, M. Light-activation of the Archaerhodopsin H(+)-pump reverses age-dependent loss of vertebrate regeneration: Sparking system-level controls in vivo. Biol. Open 2013, 2, 306–313. [Google Scholar] [CrossRef][Green Version]
+
+Fields, C.; Levin, M. Scale-Free Biology: Integrating Evolutionary and Developmental Thinking. BioEssays 2020, 42, e1900228. [Google Scholar] [CrossRef]
+
+Bizzari, M.; Brash, D.E.; Briscoe, J.; Grieneisen, V.A.; Stern, C.D.; Levin, M. A call for a better understanding of causation in cell biology. Nat. Rev. Mol. Cell Biol. 2019, 20, 261–262. [Google Scholar] [CrossRef]
+
+Stern, C.D. Reflections on the past, present and future of developmental biology. Dev. Biol. 2022, 488, 30–34. [Google Scholar] [CrossRef] [PubMed]
+
+Xiao, L.; Jianying, H.; Mingjie, Z.; Tiangui, D.; Hui, L.; Yuhong, R. Optical holographic data storage—The time for new development. Opto-Electron. Eng. 2019, 46, 180642. [Google Scholar] [CrossRef]
+
+Kim, J.Z.; Bassett, D.S. A Neural Programming Language for the Reservoir Computer. arXiv 2022, arXiv:2203.05032. [Google Scholar] [CrossRef]
+
+Cardelli, L.; Csikász-Nagy, A. The cell cycle switch computes approximate majority. Sci. Rep. 2012, 2, 656. [Google Scholar] [CrossRef][Green Version]
+
+Bray, D.; Gilbert, D. Cytoskeletal elements in neurons. Annu. Rev. Neurosci. 1981, 4, 505–523. [Google Scholar] [CrossRef] [PubMed]
+
+Aubin, C.A.; Gorissen, B.; Milana, E.; Buskohl, P.R.; Lazarus, N.; Slipher, G.A.; Keplinger, C.; Bongard, J.; Iida, F.; Lewis, J.A.; et al. Towards enduring autonomous robots via embodied energy. Nature 2022, 602, 393–402. [Google Scholar] [CrossRef] [PubMed]
+
+Sanford, E.M.; Emert, B.L.; Cote, A.; Raj, A. Gene regulation gravitates toward either addition or multiplication when combining the effects of two signals. Elife 2020, 9, e59388. [Google Scholar] [CrossRef]
+
+Hameroff, S.R.; Craddock, T.J.; Tuszynski, J.A. “Memory bytes”—Molecular match for CaMKII phosphorylation encoding of microtubule lattices. J. Integr. Neurosci. 2010, 9, 253–267. [Google Scholar] [CrossRef][Green Version]
+
+Craddock, T.J.; Beauchemin, C.; Tuszynski, J.A. Information processing mechanisms in microtubules at physiological temperature: Model predictions for experimental tests. Biosystems 2009, 97, 28–34. [Google Scholar] [CrossRef]
+
+Hentschel, H.G.; Fine, A.; Pencea, C.S. Biological computing with diffusion and excitable calcium stores. Math. Biosci. Eng. 2004, 1, 147–159. [Google Scholar] [CrossRef]
+
+Habibi, I.; Cheong, R.; Lipniacki, T.; Levchenko, A.; Emamian, E.S.; Abdi, A. Computation and measurement of cell decision making errors using single cell data. PLoS Comput. Biol. 2017, 13, e1005436. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Timsit, Y.; Gregoire, S.P. Towards the Idea of Molecular Brains. Int. J. Mol. Sci. 2021, 22, 11868. [Google Scholar] [CrossRef] [PubMed]
+
+Johnston, I.G.; Bassel, G.W. Identification of a bet-hedging network motif generating noise in hormone concentrations and germination propensity in Arabidopsis. J. R. Soc. Interface 2018, 15, 20180042. [Google Scholar] [CrossRef][Green Version]
+
+Ray, S.K.; Valentini, G.; Shah, P.; Haque, A.; Reid, C.R.; Weber, G.F.; Garnier, S. Information Transfer During Food Choice in the Slime Mold Physarum polycephalum. Front. Ecol. Evol. 2019, 7, 67. [Google Scholar] [CrossRef][Green Version]
+
+Iwayama, K.; Zhu, L.P.; Hirata, Y.; Aono, M.; Hara, M.; Aihara, K. Decision-making ability of Physarum polycephalum enhanced by its coordinated spatiotemporal oscillatory dynamics. Bioinspir. Biomim. 2016, 11, 036001. [Google Scholar] [CrossRef] [PubMed]
+
+Tarabella, G.; D’Angelo, P.; Cifarelli, A.; Dimonte, A.; Romeo, A.; Berzina, T.; Erokhin, V.; Iannotta, S. A hybrid living/organic electrochemical transistor based on the Physarum polycephalum cell endowed with both sensing and memristive properties. Chem. Sci. 2015, 6, 2859–2868. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Adamatzky, A. Slime mould processors, logic gates and sensors. Philos. Trans. A Math. Phys. Eng. Sci. 2015, 373, 20140216. [Google Scholar] [CrossRef][Green Version]
+
+Jones, J.; Adamatzky, A. Towards Physarum binary adders. BioSystems 2010, 101, 51–58. [Google Scholar] [CrossRef][Green Version]
+
+Katz, Y.; Goodman, N.D.; Kersting, K.; Kemp, C.; Tenenbaum, J.B. Modeling Semantic Cognition as Logical Dimensionality Reduction. In Proceedings of the 30th Annual Conference of the Cognitive Science Society (CogSci 2008), Washington, DC, USA, 23–26 July 2008. [Google Scholar]
+
+Katz, Y. Embodying probabilistic inference in biochemical circuits. arXiv 2018, arXiv:1806.10161. [Google Scholar] [CrossRef]
+
+Katz, Y.; Springer, M. Probabilistic adaptation in changing microbial environments. PeerJ 2016, 4, e2716. [Google Scholar] [CrossRef][Green Version]
+
+Tay, S.; Hughey, J.J.; Lee, T.K.; Lipniacki, T.; Quake, S.R.; Covert, M.W. Single-cell NF-kappaB dynamics reveal digital activation and analogue information processing. Nature 2010, 466, 267–271. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Pezzulo, G.; LaPalme, J.; Durant, F.; Levin, M. Bistability of somatic pattern memories: Stochastic outcomes in bioelectric circuits underlying regeneration. Philos. Trans. R. Soc. Lond. B Biol. Sci. 2021, 376, 20190765. [Google Scholar] [CrossRef] [PubMed]
+
+Levin, M.; Pietak, A.M.; Bischof, J. Planarian regeneration as a model of anatomical homeostasis: Recent progress in biophysical and computational approaches. Semin. Cell Dev. Biol. 2018, 87, 125–144. [Google Scholar] [CrossRef] [PubMed]
+
+Pietak, A.; Levin, M. Bioelectric gene and reaction networks: Computational modelling of genetic, biochemical and bioelectrical dynamics in pattern regulation. J. R. Soc. Interface 2017, 14, 20170425. [Google Scholar] [CrossRef] [PubMed]
+
+Fields, C.; Levin, M. Multiscale memory and bioelectric error correction in the cytoplasm—Cytoskeleton-membrane system. Wiley Interdiscip. Rev. Syst. Biol. Med. 2017, 10, e1410. [Google Scholar] [CrossRef]
+
+Law, R.; Levin, M. Bioelectric memory: Modeling resting potential bistability in amphibian embryos and mammalian cells. Theor. Biol. Med. Model. 2015, 12, 22. [Google Scholar] [CrossRef][Green Version]
+
+Raman, K.; Wagner, A. The evolvability of programmable hardware. J. R. Soc. Interface 2011, 8, 269–281. [Google Scholar] [CrossRef][Green Version]
+
+Manicka, S.; Levin, M. Minimal Developmental Computation: A Causal Network Approach to Understand Morphogenetic Pattern Formation. Entropy 2022, 24, 107. [Google Scholar] [CrossRef]
+
+Durant, F.; Bischof, J.; Fields, C.; Morokuma, J.; LaPalme, J.; Hoi, A.; Levin, M. The Role of Early Bioelectric Signals in the Regeneration of Planarian Anterior/Posterior Polarity. Biophys. J. 2019, 116, 948–961. [Google Scholar] [CrossRef][Green Version]
+
+Stepney, S.; Kendon, V. The representational entity in physical computing. Nat. Comput. 2021, 20, 233–242. [Google Scholar] [CrossRef]
+
+Berend, D.; Dolev, S.; Frenkel, S.; Hanemann, A. Towards holographic “brain” memory based on randomization and Walsh-Hadamard transformation. Neural Netw. 2016, 77, 87–94. [Google Scholar] [CrossRef] [PubMed]
+
+Wess, O.; Roder, U. A holographic model for associative memory chains. Biol. Cybern. 1977, 27, 89–98. [Google Scholar] [CrossRef]
+
+Levin, M. Collective Intelligence of Morphogenesis as a Teleonomic Process. In Evolution “on Purpose”: Teleonomy in Living Systems; Corning, P.A., Kauffman, S.A., Noble, D., Shapiro, J.A., Vane-Wright, R.I., Pross, A., Eds.; MIT Press: Cambridge, MA, USA, 2023; pp. 175–198. [Google Scholar]
+
+Sajid, N.; Parr, T.; Hope, T.M.; Price, C.J.; Friston, K.J. Degeneracy and Redundancy in Active Inference. Cereb. Cortex 2020, 30, 5750–5766. [Google Scholar] [CrossRef] [PubMed]
+
+Madhani, H.D. The frustrated gene: Origins of eukaryotic gene expression. Cell 2013, 155, 744–749. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Soen, Y.; Knafo, M.; Elgart, M. A principle of organization which facilitates broad Lamarckian-like adaptations by improvisation. Biol. Direct 2015, 10, 68. [Google Scholar] [CrossRef][Green Version]
+
+Elgart, M.; Snir, O.; Soen, Y. Stress-mediated tuning of developmental robustness and plasticity in flies. Biochim. Biophys. Acta 2015, 1849, 462–466. [Google Scholar] [CrossRef]
+
+McEwen, B.S. Stress, adaptation, and disease. Allostasis and allostatic load. Ann. N. Y. Acad. Sci. 1998, 840, 33–44. [Google Scholar] [CrossRef]
+
+Ball, J.M.; Chen, S.; Li, W. Mitochondria in cone photoreceptors act as microlenses to enhance photon delivery and confer directional sensitivity to light. Sci. Adv. 2022, 8, eabn2070. [Google Scholar] [CrossRef]
+
+Wrabl, J.O.; Gu, J.; Liu, T.; Schrank, T.P.; Whitten, S.T.; Hilser, V.J. The role of protein conformational fluctuations in allostery, function, and evolution. Biophys. Chem. 2011, 159, 129–141. [Google Scholar] [CrossRef]
+
+Freddolino, P.L.; Yang, J.; Momen-Roknabadi, A.; Tavazoie, S. Stochastic tuning of gene expression enables cellular adaptation in the absence of pre-existing regulatory circuitry. Elife 2018, 7, e31867. [Google Scholar] [CrossRef]
+
+Freddolino, P.L.; Tavazoie, S. Beyond homeostasis: A predictive-dynamic framework for understanding cellular behavior. Annu. Rev. Cell Dev. Biol. 2012, 28, 363–384. [Google Scholar] [CrossRef] [PubMed]
+
+Schreier, H.I.; Soen, Y.; Brenner, N. Exploratory adaptation in large random networks. Nat. Commun. 2017, 8, 14826. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Biswas, S.; Clawson, W.; Levin, M. Learning in Transcriptional Network Models: Computational Discovery of Pathway-Level Memory and Effective Interventions. Int. J. Mol. Sci. 2023, 24, 285. [Google Scholar] [CrossRef] [PubMed]
+
+Biswas, S.; Manicka, S.; Hoel, E.; Levin, M. Gene Regulatory Networks Exhibit Several Kinds of Memory: Quantification of Memory in Biological and Random Transcriptional Networks. iScience 2021, 24, 102131. [Google Scholar] [CrossRef] [PubMed]
+
+McGregor, S.; Vasas, V.; Husbands, P.; Fernando, C. Evolution of associative learning in chemical networks. PLoS Comput. Biol. 2012, 8, e1002739. [Google Scholar] [CrossRef] [PubMed]
+
+Watson, R.A.; Buckley, C.L.; Mills, R.; Davies, A. Associative memory in gene regulation networks. In Proceedings of the Artificial Life Conference XII, Odense, Denmark, 19–23 August 2010; pp. 194–201. [Google Scholar]
+
+Szabó, Á.; Vattay, G.; Kondor, D. A cell signaling model as a trainable neural nanonetwork. Nano Commun. Netw. 2012, 3, 57–64. [Google Scholar] [CrossRef]
+
+Herrera-Delgado, E.; Perez-Carrasco, R.; Briscoe, J.; Sollich, P. Memory functions reveal structural properties of gene regulatory networks. PLoS Comput. Biol. 2018, 14, e1006003. [Google Scholar] [CrossRef]
+
+Chen, Z.; Linton, J.M.; Zhu, R.; Elowitz, M.B. A synthetic protein-level neural network in mammalian cells. bioRxiv 2022. [Google Scholar] [CrossRef]
+
+Lau, M.W.; Ferré-D’Amaré, A.R. Many Activities, One Structure: Functional Plasticity of Ribozyme Folds. Molecules 2016, 21, 1570. [Google Scholar] [CrossRef][Green Version]
+
+Müller, F.; Escobar, L.; Xu, F.; Wegrzyn, E.; Nainyte, M.; Amatov, T.; Chan, C.Y.; Pichler, A.; Carell, T. A prebiotically plausible scenario of an RNA-peptide world. Nature 2022, 605, 279–284. [Google Scholar] [CrossRef]
+
+Couzigou, J.M.; Lauressergues, D.; Bécard, G.; Combier, J.P. miRNA-encoded peptides (miPEPs): A new tool to analyze the roles of miRNAs in plant biology. RNA Biol. 2015, 12, 1178–1180. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Raina, M.; King, A.; Bianco, C.; Vanderpool, C.K. Dual-Function RNAs. Microbiol. Spectr. 2018, 6, 6. [Google Scholar] [CrossRef] [PubMed]
+
+Burnstock, G. Historical review: ATP as a neurotransmitter. Trends Pharmacol. Sci. 2006, 27, 166–176. [Google Scholar] [CrossRef] [PubMed]
+
+Makalowska, I.; Lin, C.F.; Makalowski, W. Overlapping genes in vertebrate genomes. Comput. Biol. Chem. 2005, 29, 1–12. [Google Scholar] [CrossRef]
+
+Wright, B.W.; Molloy, M.P.; Jaschke, P.R. Overlapping genes in natural and engineered genomes. Nat. Rev. Genet. 2022, 23, 154–168. [Google Scholar] [CrossRef] [PubMed]
+
+Tosteson, M.T.; Kim, J.B.; Goldstein, D.J.; Tosteson, D.C. Ion channels formed by transcription factors recognize consensus DNA sequences. Biochim. Biophys. Acta 2001, 1510, 209–218. [Google Scholar] [CrossRef][Green Version]
+
+Meléndez García, R.; Haccard, O.; Chesneau, A.; Narassimprakash, H.; Roger, J.; Perron, M.; Marheineke, K.; Bronchain, O. A non-transcriptional function of Yap regulates the DNA replication program in Xenopus laevis. Elife 2022, 11, e75741. [Google Scholar] [CrossRef]
+
+Elhage, N.; Hume, T.; Olsson, C.; Schiefer, N.; Henighan, T.; Kravec, S.; Hatfield-Dodds, Z.; Lasenby, R.; Drain, D.; Chen, C.; et al. Toy Models of Superposition. arXiv 2022, arXiv:2209.10652. [Google Scholar] [CrossRef]
+
+Solé, R.; Seoane, L.F. Polysemy and power: Ambiguity in language networks. Linguist. Rev. 2015, 32, 5–35. [Google Scholar] [CrossRef][Green Version]
+
+Noguchi, W.; Iizuka, H.; Yamamoto, M.; Taguchi, S. Superposition mechanism as a neural basis for understanding others. Sci. Rep. 2022, 12, 2859. [Google Scholar] [CrossRef]
+
+Lahoz-Beltra, R.; Hameroff, S.R.; Dayhoff, J.E. Cytoskeletal logic: A model for molecular computation via Boolean operations in microtubules and microtubule-associated proteins. Biosystems 1993, 29, 1–23. [Google Scholar] [CrossRef] [PubMed]
+
+Craddock, T.J.; Tuszynski, J.A.; Hameroff, S. Cytoskeletal signaling: Is memory encoded in microtubule lattices by CaMKII phosphorylation? PLoS Comput. Biol. 2012, 8, e1002421. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Larson, B.T.; Garbus, J.; Pollack, J.B.; Marshall, W.F. A unicellular walker controlled by a microtubule-based finite-state machine. Curr. Biol. 2022, 32, 3745–3757.e3747. [Google Scholar] [CrossRef]
+
+Tuszynski, J.A.; Friesen, D.; Freedman, H.; Sbitnev, V.I.; Kim, H.; Santelices, I.; Kalra, A.P.; Patel, S.D.; Shankar, K.; Chua, L.O. Microtubules as Sub-Cellular Memristors. Sci. Rep. 2020, 10, 2108. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Priel, A.; Tuszynski, J.A.; Woolf, N.J. Neural cytoskeleton capabilities for learning and memory. J. Biol. Phys. 2010, 36, 3–21. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Cantero, M.D.R.; Villa Etchegoyen, C.; Perez, P.L.; Scarinci, N.; Cantiello, H.F. Bundles of Brain Microtubules Generate Electrical Oscillations. Sci. Rep. 2018, 8, 11899. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Priel, A.; Ramos, A.J.; Tuszynski, J.A.; Cantiello, H.F. A biopolymer transistor: Electrical amplification by microtubules. Biophys. J. 2006, 90, 4639–4643. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Tuszynski, J.A.; Portet, S.; Dixon, J.M.; Luxford, C.; Cantiello, H.F. Ionic wave propagation along actin filaments. Biophys. J. 2004, 86, 1890–1903. [Google Scholar] [CrossRef][Green Version]
+
+Hameroff, S.; Nip, A.; Porter, M.; Tuszynski, J. Conduction pathways in microtubules, biological quantum computation, and consciousness. Biosystems 2002, 64, 149–168. [Google Scholar] [CrossRef]
+
+Jibu, M.; Hagan, S.; Hameroff, S.R.; Pribram, K.H.; Yasue, K. Quantum optical coherence in cytoskeletal microtubules: Implications for brain function. Biosystems 1994, 32, 195–209. [Google Scholar] [CrossRef]
+
+Rosen, M.R.; Binah, O.; Marom, S. Cardiac memory and cortical memory: Do learning patterns in neural networks impact on cardiac arrhythmias? Circulation 2003, 108, 1784–1789. [Google Scholar] [CrossRef][Green Version]
+
+Zoghi, M. Cardiac memory: Do the heart and the brain remember the same? J. Interv. Card. Electrophysiol. 2005, 11, 177–182. [Google Scholar] [CrossRef]
+
+Chakravarthy, S.V.; Ghosh, J. On Hebbian-like adaptation in heart muscle: A proposal for ‘cardiac memory’. Biol. Cybern. 1997, 76, 207–215. [Google Scholar] [CrossRef]
+
+Fusi, S.; Miller, E.K.; Rigotti, M. Why neurons mix: High dimensionality for higher cognition. Curr. Opin. Neurobiol. 2016, 37, 66–74. [Google Scholar] [CrossRef]
+
+Quach, K.T.; Chalasani, S.H. Flexible reprogramming of Pristionchus pacificus motivation for attacking Caenorhabditis elegans in predator-prey competition. Curr. Biol. 2022, 32, 1675–1688.e1677. [Google Scholar] [CrossRef]
+
+Baars, B.J.; Franklin, S. An architectural model of conscious and unconscious brain functions: Global Workspace Theory and IDA. Neural Netw. 2007, 20, 955–961. [Google Scholar] [CrossRef]
+
+Dorahy, M.J.; Brand, B.L.; Şar, V.; Krüger, C.; Stavropoulos, P.; Martínez-Taboas, A.; Lewis-Fernández, R.; Middleton, W. Dissociative identity disorder: An empirical overview. Aust. N. Z. J. Psychiatry 2014, 48, 402–417. [Google Scholar] [CrossRef][Green Version]
+
+Dodd, A.N.; Kudla, J.; Sanders, D. The language of calcium signaling. Annu. Rev. Plant Biol. 2010, 61, 593–620. [Google Scholar] [CrossRef]
+
+De Pitta, M.; Volman, V.; Levine, H.; Ben-Jacob, E. Multimodal encoding in a simplified model of intracellular calcium signaling. Cogn. Process. 2009, 10 (Suppl. 1), S55–S70. [Google Scholar] [CrossRef]
+
+Chakraborty, A.; Alam, M.; Dey, V.; Chattopadhyay, A.; Mukhopadhyay, D. A survey on adversarial attacks and defences. CAAI Trans. Intell. Technol. 2021, 6, 25–45. [Google Scholar] [CrossRef]
+
+Martinez-Corral, R.; Liu, J.; Prindle, A.; Süel, G.M.; Garcia-Ojalvo, J. Metabolic basis of brain-like electrical signalling in bacterial communities. Philos. Trans. R. Soc. Lond. B Biol. Sci. 2019, 374, 20180382. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Lee, D.D.; Galera-Laporta, L.; Bialecka-Fornal, M.; Moon, E.C.; Shen, Z.; Briggs, S.P.; Garcia-Ojalvo, J.; Süel, G.M. Magnesium Flux Modulates Ribosomes to Increase Bacterial Survival. Cell 2019, 177, 352–360.e313. [Google Scholar] [CrossRef][Green Version]
+
+Martinez-Corral, R.; Liu, J.; Süel, G.M.; Garcia-Ojalvo, J. Bistable emergence of oscillations in growing Bacillus subtilis biofilms. Proc. Natl. Acad. Sci. USA 2018, 115, E8333–E8340. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Liu, J.; Martinez-Corral, R.; Prindle, A.; Lee, D.D.; Larkin, J.; Gabalda-Sagarra, M.; Garcia-Ojalvo, J.; Süel, G.M. Coupling between distant biofilms and emergence of nutrient time-sharing. Science 2017, 356, 638–642. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Lee, D.D.; Prindle, A.; Liu, J.; Süel, G.M. SnapShot: Electrochemical Communication in Biofilms. Cell 2017, 170, 214–214.e211. [Google Scholar] [CrossRef] [PubMed]
+
+Jablonka, E.; Lamb, M.J.; Zeligowski, A. Evolution in Four Dimensions: Genetic, Epigenetic, Behavioral, and Symbolic Variation in the History of Life, revised edition; A Bradford Book; The MIT Press: Cambridge, MA, USA; London, UK, 2014; pp. xii+563p. [Google Scholar]
+
+Jablonka, E.; Lamb, M.J.; Avital, E. ‘Lamarckian’ mechanisms in darwinian evolution. Trends Ecol. Evol. 1998, 13, 206–210. [Google Scholar] [CrossRef]
+
+Blackiston, D.; Lederer, E.K.; Kriegman, S.; Garnier, S.; Bongard, J.; Levin, M. A cellular platform for the development of synthetic living machines. Sci. Robot. 2021, 6, eabf1571. [Google Scholar] [CrossRef]
+
+Kouvaris, K.; Clune, J.; Kounios, L.; Brede, M.; Watson, R.A. How evolution learns to generalise: Using the principles of learning theory to understand the evolution of developmental organisation. PLoS Comput. Biol. 2017, 13, e1005358. [Google Scholar] [CrossRef][Green Version]
+
+Žliobaite, I.; Stenseth, N.C. Improving Adaptation through Evolution and Learning: A Response to Watson and Szathmary. Trends Ecol. Evol. 2016, 31, 892–893. [Google Scholar] [CrossRef]
+
+Watson, R.A.; Szathmáry, E. How Can Evolution Learn? Trends Ecol. Evol. 2016, 31, 147–157. [Google Scholar] [CrossRef][Green Version]
+
+Watson, R.A.; Mills, R.; Buckley, C.L.; Kouvaris, K.; Jackson, A.; Powers, S.T.; Cox, C.; Tudge, S.; Davies, A.; Kounios, L.; et al. Evolutionary Connectionism: Algorithmic Principles Underlying the Evolution of Biological Organisation in Evo-Devo, Evo-Eco and Evolutionary Transitions. Evol. Biol. 2016, 43, 553–581. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Livnat, A.; Papadimitriou, C. Evolution and Learning: Used Together, Fused Together. A Response to Watson and Szathmáry. Trends Ecol. Evol. 2016, 31, 894–896. [Google Scholar] [CrossRef]
+
+Blackiston, D.; Kriegman, S.; Bongard, J.; Levin, M. Biological Robots: Perspectives on an Emerging Interdisciplinary Field. arXiv 2022, arXiv:2207.00880. [Google Scholar] [CrossRef]
+
+Sullivan, K.G.; Emmons-Bell, M.; Levin, M. Physiological inputs regulate species-specific anatomy during embryogenesis and regeneration. Commun. Integr. Biol. 2016, 9, e1192733. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Emmons-Bell, M.; Durant, F.; Hammelman, J.; Bessonov, N.; Volpert, V.; Morokuma, J.; Pinet, K.; Adams, D.S.; Pietak, A.; Lobo, D.; et al. Gap Junctional Blockade Stochastically Induces Different Species-Specific Head Anatomies in Genetically Wild-Type Girardia dorotocephala Flatworms. Int. J. Mol. Sci. 2015, 16, 27865–27896. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Levin, M.; Dennett, D.C. Cognition all the way down. Aeon Essays 2020. Available online: chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://ase.tufts.edu/cogstud/dennett/papers/Levin_Dennett_Aeon.pdf (accessed on 23 February 2023).
+
+Jakobi, N.; Husbands, P.; Harvey, I. Noise and the reality gap: The use of simulation in evolutionary robotics. In Advances in Artificial Life. ECAL 1995; Lecture Notes in Computer Science; Morán, F., Moreno, A., Merelo, J.J., Chacón, P., Eds.; Springer: Berlin/Heidelberg, Germany, 1995; pp. 704–720. [Google Scholar]
+
+Tobin, J.; Fong, R.; Ray, A.; Schneider, J.; Zaremba, W.; Abbeel, P. Domain randomization for transferring deep neural networks from simulation to the real world. In Proceedings of the 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Vancouver, BC, Canada, 24–28 September 2017; pp. 23–30. [Google Scholar]
+
+Bickhard, M.H.; Campbell, D.T. Emergence. In Downward Causation: Minds, Bodies and Matter; Andersen, P.B., Christiansen, P.V., Emmeche, C., Finnemann, N.O., Eds.; Aarhus University Press: Aarhus, Denmark, 2000; pp. 322–348. [Google Scholar]
+
+Whitehead, A. Process and Reality: An Essay in Cosmology; Free Press: New York, NY, USA, 1978. [Google Scholar]
+
+Hofstadter, D.R. Godel, Escher, Bach: An Eternal Golden Braid; Basic Books: New York, NY, USA, 1979; pp. xxi+777p. [Google Scholar]
+
+Blackiston, D.J.; Levin, M. Ectopic eyes outside the head in Xenopus tadpoles provide sensory data for light-mediated learning. J. Exp. Biol. 2013, 216, 1031–1040. [Google Scholar] [CrossRef][Green Version]
+
+Vandenberg, L.N.; Morrie, R.D.; Adams, D.S. V-ATPase-dependent ectodermal voltage and pH regionalization are required for craniofacial morphogenesis. Dev. Dyn. 2011, 240, 1889–1904. [Google Scholar] [CrossRef]
+
+Vandenberg, L.N.; Adams, D.S.; Levin, M. Normalized shape and location of perturbed craniofacial structures in the Xenopus tadpole reveal an innate ability to achieve correct morphology. Dev. Dyn. 2012, 241, 863–878. [Google Scholar] [CrossRef][Green Version]
+
+Blackiston, D.J.; Vien, K.; Levin, M. Serotonergic stimulation induces nerve growth and promotes visual learning via posterior eye grafts in a vertebrate model of induced sensory plasticity. npj Regen. Med. 2017, 2, 8. [Google Scholar] [CrossRef][Green Version]
+
+Blackiston, D.J.; Anderson, G.M.; Rahman, N.; Bieck, C.; Levin, M. A novel method for inducing nerve growth via modulation of host resting potential: Gap junction-mediated and serotonergic signaling mechanisms. Neurotherapeutics 2015, 12, 170–184. [Google Scholar] [CrossRef][Green Version]
+
+Kauffman, S.A. The Origins of Order: Self Organization and Selection in Evolution; Oxford University Press: New York, NY, USA, 1993; pp. xviii+709. [Google Scholar]
+
+Alvarez-Buylla, E.R.; Balleza, E.; Benítez, M.; Espinosa-Soto, C.; Padilla-Longoria, P. Gene regulatory network models: A dynamic and integrative approach to development. SEB Exp. Biol. Ser. 2008, 61, 113–139. [Google Scholar] [PubMed]
+
+Sauka-Spengler, T.; Bronner-Fraser, M. A gene regulatory network orchestrates neural crest formation. Nat. Rev. Mol. Cell Biol. 2008, 9, 557–568. [Google Scholar] [CrossRef] [PubMed]
+
+Peter, I.S.; Davidson, E.H. Evolution of gene regulatory networks controlling body plan development. Cell 2011, 144, 970–985. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Abramson, C.I.; Levin, M. Behaviorist approaches to investigating memory and learning: A primer for synthetic biology and bioengineering. Commun. Integr. Biol. 2021, 14, 230–247. [Google Scholar] [CrossRef]
+
+Süel, G.M.; Garcia-Ojalvo, J.; Liberman, L.M.; Elowitz, M.B. An excitable gene regulatory circuit induces transient cellular differentiation. Nature 2006, 440, 545–550. [Google Scholar] [CrossRef]
+
+Ho, C.; Morsut, L. Novel synthetic biology approaches for developmental systems. Stem Cell Rep. 2021, 16, 1051–1064. [Google Scholar] [CrossRef]
+
+Toda, S.; Blauch, L.R.; Tang, S.K.Y.; Morsut, L.; Lim, W.A. Programming self-organizing multicellular structures with synthetic cell-cell signaling. Science 2018, 361, 156–162. [Google Scholar] [CrossRef][Green Version]
+
+Chater, N. The Mind Is Flat: The Illusion of Mental Depth and the Improvised Mind; Yale University Press: New Haven, CT, USA; London, UK, 2018. [Google Scholar]
+
+Nasser, A.; Al Haj Hassan, H.; Abou Chaaya, J.; Mansour, A.; Yao, K.C. Spectrum Sensing for Cognitive Radio: Recent Advances and Future Challenge. Sensors 2021, 21, 2408. [Google Scholar] [CrossRef]
+
+Ronellenfitsch, H.; Lasser, J.; Daly, D.C.; Katifori, E. Topological Phenotypes Constitute a New Dimension in the Phenotypic Space of Leaf Venation Networks. PLoS Comput. Biol. 2015, 11, e1004680. [Google Scholar] [CrossRef][Green Version]
+
+Wagner, G.P.; Stadler, P.F. Quasi-independence, homology and the unity of type: A topological theory of characters. J. Theor. Biol. 2003, 220, 505–527. [Google Scholar] [CrossRef][Green Version]
+
+Stadler, B.M.; Stadler, P.F.; Wagner, G.P.; Fontana, W. The topology of the possible: Formal spaces underlying patterns of evolutionary change. J. Theor. Biol. 2001, 213, 241–274. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+Mynard, F.; Seal, G.J. Phenotype spaces. J. Math. Biol. 2010, 60, 247–266. [Google Scholar] [CrossRef] [PubMed]
+
+Wells, D.A. The extended phenotype(s): A comparison with niche construction theory. Biol. Philos. 2015, 30, 547–567. [Google Scholar] [CrossRef]
+
+Scholl, B.J.; Tremoulet, P.D. Perceptual causality and animacy. Trends Cogn. Sci. 2000, 4, 299–309. [Google Scholar] [CrossRef] [PubMed]
+
+Bloom, P.; Veres, C. The perceived intentionality of groups. Cognition 1999, 71, B1–B9. [Google Scholar] [CrossRef] [PubMed]
+
+Gunji, Y.P.; Nishiyama, Y.; Adamatzky, A. Robust soldier crab ball gate. AIP Conf. Proc. 2011, 1389, 995. [Google Scholar] [CrossRef][Green Version]
+
+Adamatzky, A.; Erokhin, V.; Grube, M.; Schubert, T.; Schumann, A. Physarum Chip Project: Growing Computers from Slime Mould. Int. J. Unconv. Comput. 2012, 8, 319–323. [Google Scholar]
+
+Adamatzky, A. A brief history of liquid computers. Philos. Trans. R. Soc. Lond. B Biol. Sci. 2019, 374, 20180372. [Google Scholar] [CrossRef][Green Version]
+
+Rendell, P. Turing Universality of the Game of Life. In Collision-Based Computing; Adamatzky, A., Ed.; Springer: London, UK, 2002; pp. 513–539. [Google Scholar]
+
+Boudry, M.; Pigliucci, M. The mismeasure of machine: Synthetic biology and the trouble with engineering metaphors. Stud. Hist. Philos. Biol. Biomed. Sci. 2013, 44, 660–668. [Google Scholar] [CrossRef][Green Version]
+
+Bayne, T. On the axiomatic foundations of the integrated information theory of consciousness. Neurosci. Conscious. 2018, 2018, niy007. [Google Scholar] [CrossRef][Green Version]
+
+Kaspar, C.; Ravoo, B.J.; van der Wiel, W.G.; Wegner, S.V.; Pernice, W.H.P. The rise of intelligent matter. Nature 2021, 594, 345–355. [Google Scholar] [CrossRef] [PubMed]
+
+Koseska, A.; Bastiaens, P.I. Cell signaling as a cognitive process. EMBO J. 2017, 36, 568–582. [Google Scholar] [CrossRef] [PubMed][Green Version]
+
+McNerney, M.P.; Doiron, K.E.; Ng, T.L.; Chang, T.Z.; Silver, P.A. Theranostic cells: Emerging clinical applications of synthetic biology. Nat. Rev. Genet. 2021, 22, 730–746. [Google Scholar] [CrossRef] [PubMed]
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
+© 2023 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+
+Share and Cite
+
+      
+
+MDPI and ACS Style
+
+Bongard, J.; Levin, M. There’s Plenty of Room Right Here: Biological Systems as Evolved, Overloaded, Multi-Scale Machines. Biomimetics 2023, 8, 110. https://doi.org/10.3390/biomimetics8010110
+
+AMA Style
+
+Bongard J, Levin M. There’s Plenty of Room Right Here: Biological Systems as Evolved, Overloaded, Multi-Scale Machines. Biomimetics. 2023; 8(1):110. https://doi.org/10.3390/biomimetics8010110
+
+Chicago/Turabian Style
+
+Bongard, Joshua, and Michael Levin. 2023. "There’s Plenty of Room Right Here: Biological Systems as Evolved, Overloaded, Multi-Scale Machines" Biomimetics 8, no. 1: 110. https://doi.org/10.3390/biomimetics8010110
+
+Find Other Styles
+
+Article Metrics
+
+Citations
+
+Crossref
+
+ 
+
+3
+
+PubMed
+
+ 
+
+1
+
+PMC
+
+ 
+
+1
+
+Scopus
+
+ 
+
+2
+
+Web of Science
+
+ 
+
+1
+
+Google Scholar
+
+ 
+
+[click to view]
+
+Article Access Statistics
+
+Article access statisticsArticle Views12. Jul13. Jul14. Jul15. Jul16. Jul17. Jul18. Jul19. Jul20. Jul21. Jul22. Jul23. Jul24. Jul25. Jul26. Jul27. Jul28. Jul29. Jul30. Jul31. Jul1. Aug2. Aug3. Aug4. Aug5. Aug6. Aug7. Aug8. Aug9. Aug10. Aug11. Aug12. Aug13. Aug14. Aug15. Aug16. Aug17. Aug18. Aug19. Aug20. Aug21. Aug22. Aug23. Aug24. Aug25. Aug26. Aug27. Aug28. Aug29. Aug30. Aug31. Aug1. Sep2. Sep3. Sep4. Sep5. Sep6. Sep7. Sep8. Sep9. Sep10. Sep11. Sep12. Sep13. Sep14. Sep15. Sep16. Sep17. Sep18. Sep19. Sep20. Sep21. Sep22. Sep23. Sep24. Sep25. Sep26. Sep27. Sep28. Sep29. Sep30. Sep1. Oct2. Oct3. Oct4. Oct5. Oct6. Oct7. Oct8. Oct9. Oct0k2k4k6k8k
+
+For more information on the journal statistics, click here.
+
+Multiple requests from the same IP address are counted as one view.
+
+Biomimetics, EISSN 2313-7673, Published by MDPI 
+
+RSS Content Alert
+
+Further Information
+
+Article Processing ChargesPay an InvoiceOpen Access PolicyContact MDPIJobs at MDPI
+
+Guidelines
+
+For AuthorsFor ReviewersFor EditorsFor LibrariansFor PublishersFor SocietiesFor Conference Organizers
+
+MDPI Initiatives
+
+SciforumMDPI BooksPreprints.orgScilitSciProfilesEncyclopediaJAMSProceedings Series
+
+Follow MDPI
+
+LinkedInFacebookTwitter
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+ 
+
+Acoustics Actuators Administrative Sciences Adolescents Advances in Respiratory Medicine Aerobiology Aerospace Agriculture AgriEngineering Agrochemicals Agronomy AI Air Algorithms Allergies Alloys Analytica Analytics Anatomia Anesthesia Research Animals Antibiotics Antibodies Antioxidants Applied Biosciences Applied Mechanics Applied Microbiology Applied Nano Applied Sciences Applied System Innovation AppliedChem AppliedMath Aquaculture Journal Architecture Arthropoda Arts Astronomy Atmosphere Atoms Audiology Research Automation Axioms Bacteria Batteries Behavioral Sciences Beverages Big Data and Cognitive Computing BioChem Bioengineering Biologics Biology Biology and Life Sciences Forum Biomass Biomechanics BioMed Biomedicines BioMedInformatics Biomimetics Biomolecules Biophysica Biosensors BioTech Birds Blockchains Brain Sciences Buildings Businesses C Cancers Cardiogenetics Catalysts Cells Ceramics Challenges ChemEngineering Chemistry Chemistry Proceedings Chemosensors Children Chips CivilEng Clean Technologies Climate Clinical and Translational Neuroscience Clinics and Practice Clocks & Sleep Coasts Coatings Colloids and Interfaces Colorants Commodities Complications Compounds Computation Computer Sciences & Mathematics Forum Computers Condensed Matter Conservation Construction Materials Corrosion and Materials Degradation Cosmetics COVID Crops Cryptography Crystals Current Issues in Molecular Biology Current Oncology Dairy Data Dentistry Journal Dermato Dermatopathology Designs Diabetology Diagnostics Dietetics Digital Disabilities Diseases Diversity DNA Drones Drugs and Drug Candidates Dynamics Earth Ecologies Econometrics Economies Education Sciences Electricity Electrochem Electronic Materials Electronics Emergency Care and Medicine Encyclopedia Endocrines Energies Eng Engineering Proceedings Entropy Environmental Sciences Proceedings Environments Epidemiologia Epigenomes European Burn Journal European Journal of Investigation in Health, Psychology and Education Fermentation Fibers FinTech Fire Fishes Fluids Foods Forecasting Forensic Sciences Forests Fossils Foundations Fractal and Fractional Fuels Future Future Internet Future Pharmacology Future Transportation Galaxies Games Gases Gastroenterology Insights Gastrointestinal Disorders Gastronomy Gels Genealogy Genes Geographies GeoHazards Geomatics Geosciences Geotechnics Geriatrics Gout, Urate, and Crystal Deposition Disease Grasses Hardware Healthcare Hearts Hemato Hematology Reports Heritage Histories Horticulturae Hospitals Humanities Humans Hydrobiology Hydrogen Hydrology Hygiene Immuno Infectious Disease Reports Informatics Information Infrastructures Inorganics Insects Instruments International Journal of Environmental Research and Public Health International Journal of Financial Studies International Journal of Molecular Sciences International Journal of Neonatal Screening International Journal of Plant Biology International Journal of Translational Medicine International Journal of Turbomachinery, Propulsion and Power International Medical Education Inventions IoT ISPRS International Journal of Geo-Information J Journal of Ageing and Longevity Journal of Cardiovascular Development and Disease Journal of Clinical & Translational Ophthalmology Journal of Clinical Medicine Journal of Composites Science Journal of Cybersecurity and Privacy Journal of Developmental Biology Journal of Experimental and Theoretical Analyses Journal of Functional Biomaterials Journal of Functional Morphology and Kinesiology Journal of Fungi Journal of Imaging Journal of Intelligence Journal of Low Power Electronics and Applications Journal of Manufacturing and Materials Processing Journal of Marine Science and Engineering Journal of Molecular Pathology Journal of Nanotheranostics Journal of Nuclear Engineering Journal of Otorhinolaryngology, Hearing and Balance Medicine Journal of Personalized Medicine Journal of Respiration Journal of Risk and Financial Management Journal of Sensor and Actuator Networks Journal of Theoretical and Applied Electronic Commerce Research Journal of Vascular Diseases Journal of Xenobiotics Journal of Zoological and Botanical Gardens Journalism and Media Kidney and Dialysis Kinases and Phosphatases Knowledge Land Languages Laws Life Limnological Review Liquids Literature Livers Logics Logistics Lubricants Lymphatics Machine Learning and Knowledge Extraction Machines Macromol Magnetism Magnetochemistry Marine Drugs Materials Materials Proceedings Mathematical and Computational Applications Mathematics Medical Sciences Medical Sciences Forum Medicina Medicines Membranes Merits Metabolites Metals Meteorology Methane Methods and Protocols Metrology Micro Microbiology Research Micromachines Microorganisms Microplastics Minerals Mining Modelling Molbank Molecules Multimodal Technologies and Interaction Muscles Nanoenergy Advances Nanomanufacturing Nanomaterials NDT Network Neuroglia Neurology International NeuroSci Nitrogen Non-Coding RNA Nursing Reports Nutraceuticals Nutrients Obesities Oceans Onco Optics Oral Organics Organoids Osteology Oxygen Parasitologia Particles Pathogens Pathophysiology Pediatric Reports Pharmaceuticals Pharmaceutics Pharmacoepidemiology Pharmacy Philosophies Photochem Photonics Phycology Physchem Physical Sciences Forum Physics Physiologia Plants Plasma Platforms Pollutants Polymers Polysaccharides Poultry Powders Proceedings Processes Prosthesis Proteomes Psych Psychiatry International Psychoactives Publications Quantum Beam Science Quantum Reports Quaternary Radiation Reactions Real Estate Receptors Recycling Religions Remote Sensing Reports Reproductive Medicine Resources Rheumato Risks Robotics Ruminants Safety Sci Scientia Pharmaceutica Sclerosis Seeds Sensors Separations Sexes Signals Sinusitis Smart Cities Social Sciences Societies Software Soil Systems Solar Solids Spectroscopy Journal Sports Standards Stats Stresses Surfaces Surgeries Surgical Techniques Development Sustainability Sustainable Chemistry Symmetry SynBio Systems Targets Taxonomy Technologies Telecom Textiles Thalassemia Reports Thermo Tomography Tourism and Hospitality Toxics Toxins Transplantology Trauma Care Trends in Higher Education Tropical Medicine and Infectious Disease Universe Urban Science Uro Vaccines Vehicles Venereology Veterinary Sciences Vibration Virtual Worlds Viruses Vision Waste Water Wind Women World World Electric Vehicle Journal Youth Zoonotic Diseases 
+
+Select options
+
+ Subscribe

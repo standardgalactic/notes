@@ -1,0 +1,59 @@
+So in the Sec. 2 we will introduce void-dominated cosmic l uid 
+and by the drops-bubbles mixed l uid model show that in such a 
+l uid we will have an ef f ective negative pressure at large scale. In the 
+Sec. 3 and 4, by a dimensional calculating of the surface tension, 
+we will obtain a possible estimation for the values of cosmological 
+constants for two groups of cosmic objects 푖.푒. superclusters and 
+galaxies. Some results, predictions and discussions on the model 
+will be presented in i nal section. 
+Figure 1. The cosmic web is mostly occupied by supervoids: The 
+wight and red areas are superclusters and i laments of galaxies, blue 
+areas are voids and wight dots are single galaxies inside the cos- 
+mic voids (https://sci.esa.int/web/planck/-/51104-numerical-simulation-of- 
+the-cosmic-web; with permission). 
+Figure 2. Schematic of void-dominated cosmic l uid that occupied by super- 
+voids: Negative pressure with ef f ective force of supervoids on galaxies in the 
+walls (black circle) acts as the positive pressure with ef f ective attractive force 
+on local scale (yellow circle) . 
+2 PRESSURE AND SURFACE TENSION OF COSMIC 
+VOIDS 
+Let’sconsider the current cosmic web in Fig. 1 containing a network 
+of the voids, in which several clusters and i laments, small and vast 
+voids are merging to each other (see the area bounded to the black 
+rectangularinFig.2).Whatiscertainisthattheuniverseisinthevoid- 
+dominated state in the large scale overview. The continuous merging 
+of voids causes the bubbles to grow larger, and this increasing in 
+the bubble radius results in an extra ef f ective repulsive force on 
+the particles(i.e., galaxies) on the surface of the bubbles (i.e., voids). 
+Undersuchconditions,cosmicf l uidisclusteredlikemergingbubbles 
+and is situated in the void-dominated phase. 
+In the model proposed in this paper, we imagine galaxies and their 
+clusters as ’drops’ and under dense spaces (voids) between them 
+as ’bubbles’ Yusof i & Mohsenzadeh (2010). In a mixture of water 
+drops and bubbles, bubbles on their surface move the i ne drops 
+away from their center to make themselves larger, while large drops 
+MNRAS 000, 1–?? (2021) 
+Dark Energy in Void-dominated Cosmology3 
+attract i ne drops to their center to grow larger. If the void wall forms 
+a set of galaxy clusters and superclusters, we will have a bubble 
+whose dif f erence in internal and external pressure comes from the 
+Young-Laplace formula (Butt et al. 2003; Reichl 2016) 
+Δ푃 = 
+2훾 
+¯ 푟 
+.(1) 
+Here, 훾 represents the surface tension for drop (bubble) with average 
+radius ¯ 푟. The clusters of galaxies behave like drops, so their pressure 
+on the test particles/galaxies is positive with an attractive gravity 
+ef f ect (yellow circle in Fig. 2). These galaxies experience attractive 
+force in the clusters-dominated areas at local scales, but at large 
+scale that we have void-dominated areas, the situation is completely 
+dif f erent. Galaxies that mostly accumulate on the surface of voids, 
+would experience ef f ective negative pressure, because of thefact that 
+voids inclosed by superclusters are expanding, and hence pushing 
+the galaxies away from each other. Therefore, inspired by (1), two 
+factorsareef f ectiveinthepressureofvoidsoncosmicscales.Thef i rst 
+factor is the surface tension 훾, due to the attraction between material 
+particlesthatmakeupthedisk-shaped objectsonthesurfaceofvoids, 
+andthesecondfactorisduetothecurvature(1 
+¯ 푟)ofthesecosmicvoids

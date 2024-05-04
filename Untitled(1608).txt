@@ -1,0 +1,17 @@
+Observation requires resources and involves a process of forming an impression of something.
+- The process involves equivalencing different configurations of inputs to a final conclusion, often leading to a simplification of the initial information.
+- The computational resources involved in observation can be measured in terms of steps and elements involved.
+- Observers like us are computationally bounded, limiting the extent to which they can come to conclusions about complex processes.
+- In quantum computing, observing the results requires knitting together different branches of history, which may involve a significant effort.
+- The effort of observation is comparable to the effort of computation, with both being measurable in terms of computational operations.
+- Attractors play a role in observation, leading to discrete conclusions from complex initial states.
+- Reversibility in physics and the need for observers to determine when an observation is complete introduce a degree of circularity.
+- The fundamental scale of observers can be thought of as a fundamental constant of nature.
+- A formal theory of observation can be developed based on the concept of equivalencing and boundedness of observers.
+- More explicit models of the mechanics of observation are needed to further develop the theory.
+- Human experience and neural nets can provide practical grounding for observer theory.
+- A more formal notion of an observer using category theory can be developed.
+- The characterization of observers like us can help explain why we perceive the world the way we do and attribute certain laws to it.
+- Observers can go beyond human experience, but we can only imagine it through technology and collective minds.
+- Exploring observer theory involves imagining having different kinds of experiences to understand how we attribute laws to the universe.
+- Observer theory provides a way to formally characterize the subjective element in science and draw robust conclusions.

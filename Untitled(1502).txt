@@ -1,0 +1,53 @@
+I think Eliezer Yudkowsky  is right about language prediction in the abstract at the limit of infinite computational power, that is a system in some sense needs to be smarter than the generator. But I would add these caveats or at least open questions, it needs to be smarter in the domain in the domain that it's trying to make a prediction in, than the generator is trying to predict is in that generation domain. Not necessarily all dimensions of intelligence nor those other potential factors that make intelligence risky such as agency, and modeling All the relevant dimensions of the causal relationships of the world that we are embedded in accurately enough. I admit it's already gone farther than I expected it to, which says interesting things about my and most other people's abilities to predict when something become self-limiting and will level off. It's possible that the whole corpus have written human literature just doesn't contain sufficient information in its probabilistic relationships to model the universe accurately enough to construct an agent capable of supplanting us but it's also possible that it does.
+
+What's much more of an imminent threat, is the fact that all the major players seem to be jumping on top of expanding well beyond the corpus of written text into multimodality, robotics, causal relationship training in real and virtual worlds, and deliberately programming attentional and metacognitive components.
+
+To me at least, that seems much more than sufficient to create a superhuman intelligence that even if it lacks some essential aspects of human intelligence, whatever those may be, could still easily supplant us and almost inevitably will.
+
+I think any hope that large language models Will be a self-limiting non-agentic island of safety that we can dwell on is clearly gone. The arms race to apocalypse is underway as many of us have feared for decades.
+
+Michael Michalchik
+
+Here's a reminder for all the people who keep repeating the claim that large language models can't possibly reason because they "JUST" do next token prediction:
+
+https://twitter.com/ESYudkowsky/status/1615400125760950278
+
+Of course, this doesn't mean that current machine learning models will produce artificial general intelligence in practice, but the objection is theoretically flawed.
+
+Eliezer Yudkows...
+@ESYudkows.... Jan 17
+Reminder: *In principle*, minimizing prediction loss
+on Internet text could potentially grind *far* past
+human-level intelligence.
+Proof: Somewhere on the Net is a list of <hash
+plaintext> pairs, in that order.
+A great predictor has to be smarter than the
+process predicted!
+19
+tl 17
+154
+il 45.3K
+O
+Stefan Le Noach @slenocchio . Jan 17
+Eliezer can you explain to me how Al isn't just
+asymptotically approaching the quality of text it is
+being trained upon? How could it surpass this
+quality without some sort of subjective human
+feedback?
+3
+t1
+14
+il 3,348
+Eliezer Yudkows... y @ESYudkows.... Jan 17
+Because you need to be smarter to predict
+plausible plaintext from hashes, than to write down
+a hash followed by its plaintext. More generally, it's
+just not true that you only need to be as intelligent
+as a human to predict exactly what a particular
+human will say
+4
+t4
+il 5,592
+2
+1
+comment

@@ -1,0 +1,156 @@
+Tech companies can twiddle the knobs whenever they want, without explanation or transparency, and we can’t get a law passed to make them stop compulsively touching their knobs, because in the world of five giants websites each filled with screenshots of the other four, they can easily agree that these rules are bad, and they can mobilize their monopoly casino winnings to make sure they never pass.
+
+Let’s take stock.
+
+Step one: consolidated industries eliminate competition through predatory pricing and acquisitions.
+
+Step two: tech companies play a high-speed shell-game on the back end, and use their consolidation to bigfoot any attempt to constrain their twiddling (like privacy, labor, or fair trading laws).
+
+Now we come to step thre: where tech companies embrace tech laws, laws that make it illegal to twiddle back at them, the IP laws that create felony contempt of business-model, criminalizing the adversarial interoperability, that once acted as garbage collection for enshittified, bloated, top-heavy companies, letting nimble, innovative players drain off their users, eat their lunch and dance on their graves.
+
+Put these three factors together — consolidation, unrestricted twiddling for them, a total ban on twiddling for us — and enshittification becomes inevitable.
+
+That’s how enshittification works. Now let’s talk about how we halt it, throw it into reverse, and build a new good internet that’s a worthy successor to the old good internet.
+
+Step one: halt consolidation and break up the Big Tech companies.
+
+This one is going great, actually. After 40 years, we have the first US administration in two generations taking this seriously, joined by colleagues in the UK and EU, who are blocking mergers and demanding breakups.
+
+This fight is fought by lawmakers from across the political spectrum. The AMERICA Act will break up Google and Facebook. It is sponsored by Ted Cruz and Elizabeth Warren.
+
+The FTC and DoJ just published new merger guidelines which ban the anticompetitive mergers that have been the norm for 40 years.
+
+If you’re only cursorily paying attention to this, you might have gotten the impression that FTC Chair Lina Khan is thrashing indiscriminately at Big Tech mergers, like Activision-Microsoft, only to lose in court.
+
+But the reality is that she is setting out to make new law, after four decades of complacency and bias in favor of monopolies. She is taking swings that no one has taken since the Carter administration.
+
+She is a goddamned American hero, along with colleagues like Rohit Chopra at the CFPB and Jonathan Kanter at the DoJ.
+
+But breakups take a long-ass time. It took 69 years to break up AT&T.
+
+We don’t want to wait that long for a new good internet, and we don’t have to. Because tech is different: it is universal. It is interoperable, and that means we have options we’ve never had before.
+
+Interoperability options: options that devolve control over technology from giant companies to small companies, co-ops, nonprofits, and communities of users themselves.
+
+Interop is how we seize the means of computation.
+
+First things first: we need to limit twiddling.
+
+Pass comprehensive federal privacy laws with private right of action, meaning that you can sue if your privacy is violated, even if the local public prosecutor doesn’t think you deserve justice.
+
+End worker misclassification through the so-called gig economy, meaning that every worker is entitled to minimum wages, a safe workplace, and fair scheduling.
+
+Apply normal consumer protection standards to ecommerce platforms and search engines, banning deceptive advertising, fake reviews, and misleading search results that put fake businesses and products ahead of the best matches.
+
+Then we need to open the walled gardens. Laws like the EU’s Digital Markets Act will force tech platforms to stand up APIs that allow new platforms to connect to them.
+
+This interop will make switching costs low. So you can leave Facebook or Twitter and go to Mastodon, Diaspora — or Bluesky or some new platform — and still exchange messages with the people you left behind, and participate in the communities that matter to you, and connect with the customers you rely on.
+
+These new platforms must be fiddle-constrained the way the big ones should be, subject to the same privacy, fair trading, and labor rules.
+
+But mandatory APIs have a fatal flaw: they are easy to cheat on.
+
+Because just because we order Facebook to operate an API, it doesn’t mean that we don’t want them to yank the emergency brake if they think someone is exploiting it to steal millions or billions of users’ data.
+
+That means that Facebook can cheat. They can claim they pulled the plug because they thought there was a breach, when really they just wanted to destabilize those new platforms and teach their founders, users and investors that you can’t bet against Facebook and win.
+
+And even if you drag Facebook in front of a regulator to get them punished for this, it can take years to get justice. Because to a first approximation, everyone who understands FB’s infra well enough to tell a bona fide shutdown from a pretextual one works for Facebook. So every one of these disputed shut-downs can turn into a yearslong, fact-intensive inquest.
+
+To make mandatory APIs work, we need to make robust interoperability preferable to behind-the-scenes fuckery, we need to align tech giants’ incentives so they encourage competition, rather than sabotaging it.
+
+That’s where you all come in, this is what we need the hackers for.
+
+Because in addition to the mandatory interop that’s already coming down the pike, we need to restore the right to mod, tinker, reverse and hack these services.
+
+I’m gonna tell you why, and how, and how we’ll make it safe for users.
+
+First, why: Companies hate competition, but they hate surprises even more. If we have the right to mod existing service to restore busted API functionality, then any company that’s tempted to nerf its API has to consider the possibility that you are going to come along and scrape its site or reverse its apps to make the API work again.
+
+That means that the choice for tech giants isn’t “Keep the API and lose my discontented users or nerf the API and screw my competitors.” It’s: “Keep the API and lose my discontented users or, nerf the API and get embroiled in unquantifiable guerilla warfare against engineers who have the attackers’ advantage, meaning I have to be perfect, and they only have to find and exploit a single error I make.”
+
+Tech giants hate surprises because investors hate surprises. When you get on a quarterly earnings call and announce worse news than predicted, your company’s share price tanks.
+
+Remember 2022, when Facebook gained slightly fewer users in the US than they’d promised and Wall Street staged a mass sell-off, knocking a quarter-trillion dollars off the market cap, the largest one-day drop in a company’s value in human history?
+
+The decision to cheat on a mandate and break an API has to come from an exec, and tech execs own a ton of their own company’s stocks. Meaning that the person who makes the call to break interop is the person who stands to have their personal net worth wiped out if the competition leaps in with adversarial interop backstops
+
+And if the exec is so pig-headed that they go ahead with sabotaging the API? Well, the scrappy little guys can use adversarial interop.
+
+So how do we get adversarial interop?
+
+We should roll back or modify every law that constitutes “felony contempt of business model”: anti-circumvention, criminalizing terms of service violations, overbroad patents and copyright, and so on.
+
+But that’s a project of years and we need to restore adversarial interop now.
+
+Here’s how we can do that: first, we can simply wait for the tech companies to cheat on one of those interoperability mandates, like the EU’s Digital Markets Act.
+
+Because of course they’ll cheat. They can’t not cheat. And when they do, we can penalize them. We can stick them with a “special master,” a kind of court-appointed overseer, who will have to approve legal threats against interoperators, to verify that they are threats aimed at protecting the company’s users, not the company’s shareholders.
+
+While we’re waiting for them to cheat, we can put the government to work for us, specifically government procurement.
+
+Governments should require that every tech company that sells them a product or service has to promise not to interfere with interop.
+
+That’s just prudent public administration. Lincoln insisted that every rifle-supplier for the Union army used interoperable tooling and ammo. Of course he did! “Sorry boys, war’s cancelled, our sole supplier decided not to make any more bullets.”
+
+Every digital system procured by every level of government should come with a binding covenant not to impede interop — from the cars in government motor-pools to Google Classroom in public schools to iPhones in public agencies.
+
+Sure, companies will squawk. But no one forces a tech giant to sell to the American government. If you’re too emotionally fragile to sell to the American public on reasonable terms, you can find another line of work better suited to your delicate sensibilities.
+
+Your shareholders’ priorities are your problem. Public agencies are charged with doing the people’s business.
+
+OK, so we’ll use adversarial interop to keep big companies from sabotaging mandatory interop, and we’ll use procurements, conduct remedies and new law to get that adversarial interop.
+
+How will we keep interoperators honest?
+
+After all, if you squint just right, Cambridge Analytica is just an interoperator. Remember when I talked about putting limits on twiddling, privacy law, labor law, fair trading law?
+
+That’s how we do it.
+
+It’s frankly surreal that the way we keep Facebook’s partners from abusing your info is by asking Facebook to decide what is and isn’t acceptable.
+
+Remember: Cambridge Analytica was a Facebook partner. So whether you’re using an API or you’re fielding an interoperable app that relies on scraping and reversing, you will be bound by those same laws, passed by democratically accountable lawmakers in public proceedings, not by shareholder accountable corporate executives in closed-door meetings.
+
+Enshittification didn’t happen because today’s companies are run by evil geniuses. They’re no more wicked than the mediocrities who founded DEC or Sun or AOL. All of those companies would have abolished their competitors, captured their regulators, and abused their users and business customers if they could have gotten away with it.
+
+We didn’t let them get away with it, but we let the current crop get away with murder. They’re just able to buy their way to dominance, merging with competitors, until they have the money and the unity of purpose to capture our laws, to give them the freedom to abuse us without limit, and to criminalize anything we do to defend ourselves.
+
+To stop them we need to block new merger, and unwind existing ones, limit their ability to twiddle the back end to keep their users and business customers in a constant state of confusion, and restore our ability to twiddle back, to give ourselves an internet operated by and for the people who use it: the new, good internet that is the worthy successor to the old, good internet.
+
+For millennia, the indigenous people of California used controlled burns to wipe out old and sick trees, opening the canopy for new growth.
+
+When settlers banned good fire, California started accumulating fire debt, so every year, California burns.
+
+Because the alternative to good fire isn’t “no fire,” it’s wildfire.
+
+When tech companies had to contend with the implosive contraction of low switching costs, they were dynamic, springing up and disappearing all the time.
+
+When we stopped enforcing antitrust la, we ended that good fire, and now we have wildfire. Our tech companies have terminal gigantism, and they’re on fire all the time.
+
+It’s time to stop trying to make the tech giants better, and to start evacuating them and letting them burn.
+
+In your heart, you know we could have a better internet than this one, and a better tech sector too.
+
+Remember when tech workers dreamed of working for a big company for a few years, before striking out on their own to start their own company that would knock that tech giant over?
+
+Then that dream shrank to: work for a giant for a few years, quit, do a fake startup, get acqui-hired by your old employer, as a complicated way of getting a bonus and a promotion.
+
+Then the dream shrank further: work for a tech giant for your whole life, get free kombucha and massages on Wednesdays.
+
+And now, the dream is over. All that’s left is: work for a tech giant until they fire your ass, like those 12,000 Googlers who got fired six months after a stock buyback that would have paid their salaries for the next 27 years.
+
+We deserve better than this. We can get it.
+
+Let’s take a lesson from my arch-enemy, the loathsome Milton Friedman — court sorcerer to Ronald Reagan and architect of the neoliberal revolution.
+
+He was a monster, but he knew a thing or two.
+
+When people would ask him, “Milton, how will you ever put your kooky fringe ideas into operation?”
+
+He would say: “Some day, there will be a crisis, and when crisis comes, ideas that are lying around can move from the fringe to the center in an instant.”
+
+I love quoting Friedman. I imagine that when he hears his words in my mouth he looks up from the spit he’s roasting on and gargles a curse up at me around the red-hot iron bar protruding from his jaws, while the demons around him laugh and laugh.
+
+We are lurching from crisis to crisis, and thus far, we do the same thing at every crisis — the thing we did last time, only we do it harder, and expect a different outcome.
+
+We need to start spreading good ideas lying around, so that the next crisis doesn’t go to waste.
+

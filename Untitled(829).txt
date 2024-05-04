@@ -1,0 +1,63 @@
+The Levin Lab
+
+￼
+
+Research
+
+Spatial Information
+
+Bioelectric Morphogenesis Projects in the Levin Lab
+
+￼
+
+Cancer as a disease of geometry
+
+Detection of cancer via bioelectric signatures
+
+Neoplastic conversion without genetic damage
+
+Tumor normalization by enlarging computational boundary of cells
+
+Development
+
+Crarniofacial patterning
+
+Morphogenesis of new synthetic organisms
+
+Left-right asymmetry scaling from cytoskeleton to whole body axis
+
+Regeneration
+
+Limb regeneration in amphibians and mammals
+
+Head-tail regenerative polarity (planaria)
+
+Planarian shape control and species' attractors in morphospace
+
+Spinal cord (tail) regeneration
+
+Summary
+
+The capacity to generate a complex organism from the single cell of a fertilized egg is one of the most amazing qualities of multicellular creatures. The processes involved in laying out a basic body plan and defining the structures that will ultimately be formed depend upon a constant flow of information between cells and tissues. The Levin laboratory studies the molecular mechanisms that cells use to communicate with one another in the 4-dimensional dynamical system known as the developing embryo. We also study the flow of information necessary for an injured system to recognize what structures must be rebuilt, and the algorithms that coordinate individual cell activity towards specific patterning outcomes during remodeling and cancer suppression. Through experimental approaches and mathematical modeling, we examine the processes governing large-scale pattern formation and biological information storage during animal embryogenesis and regeneration. Our investigations are directed toward understanding the mechanisms of signaling between cells and tissues that allows a biological system to reliably generate, maintain, and repair a complex morphology as a kind of navigation of morphospace. We study these processes in the context of embryonic development, regeneration and cancer, with a particular emphasis on the biophysics of cell behavior. In complement to other groups focusing on gene expression networks and biochemical signaling factors, we are pursuing, at a molecular level, the roles of endogenous voltages, and bioelectric gradients as epigenetic carriers of morphological information and as a kind of "cognitive glue" that binds individual cells toward common purpose in their activity. Using gain- and loss-of-function techniques to specifically modulate cells' ion flow we have the ability to regulate large-scale morphogenetic events relevant to limb formation, eye induction, craniofacial and neural patterning, limb regeneration, head remodeling, etc. While our focus is on the fundamental mechanisms of pattern regulation, this information will also result in important clinical advances through harnessing bioelectrical controls of cell behavior for regenerative medicine. Our goal is to understand how to use low-complexity triggers (morphogenetic subroutine calls) to kickstart, not micromanage, a complex repair cascade. An example is the 24-hour bioreactor treatment of an adult frog leg which causes a year and a half of autonomous regeneration.
+
+Bioelectrical controls of vertebrate appendage regeneration
+
+￼￼￼
+
+Regeneration is a fascinating example of pattern regulation, and has important biomedical implications. A regenerating system must not only recognize damage, but also pursue a goal-directed process of restoring the missing structures (and crucially, know to stop when this process is complete, thus avoiding cancerous overgrowth). Interestingly, systems with high regenerative ability have low susceptibility to neoplasm, contrary to the simple view in which cellular plasticity and propensity for proliferation should go together in cancer and regeneration. Instead, data suggest that the morphogenetic controls imposed during regeneration can prevent cells from ignoring the patterning cues of the host (as occurs in many cancers). What is the mechanistic nature of these controls? Our lab studies the role of voltage gradients, and how these biophysical controls couple to genetic and epigenetic pathways in the induction of regeneration and the imposition of correct morphology on the restored tissue. We mainly use two model systems to understand these processes: Xenopus laevis tadpoles and planarian flatworms. An important part of our mission is the development of molecular reagents, protocols, databases, transgenic animals, and conceptual (modeling) tools to facilitate others' study of bioelectrical signals in many aspects of morphogenesis in diverse model systems.
+
+While vertebrate regeneration is considered to be limited, the Xenopus tadpole is able to regenerate its tail - a complex appendage containing spinal neurons, muscle, skin, and vasculature. We identified three electrogenic proteins whose activity is required for the production of a depolarization zone that underlies regeneration in the blastema and demonstrated that a proton flux from the wound epithelium is necessary and sufficient to drive the downstream events of regeneration, including cell proliferation, innervation, and expression of regeneration-specific markers. We are currently working on inducing regeneration of limbs, eyes, tails, and craniofacial structures in normally non-regenerating species by providing the appropriate bioelectric signals to the cells at the wound site. While ion flows control cell-level behaviors such as migration, differentiation, and proliferation, bioelectric signals also function as master regulators of large-scale shape in many contexts: a simple signal can induce complex, highly orchestrated, self-limiting downstream morphogenetic cascades. For example, an unmodulated flux of protons can cause the formation of a complete tail of the right rise and tissue composition. Inducing the host to form structures it already knows how to make is a very desirable property for regenerative medicine approaches since avoids the inevitable complexity explosion of having to micromanage (directly bioengineer) the creation of complex organs and appendages. We are also pursuing novel long-range sources of patterning information for regeneration, such as the body-wide bioelectric cues that regulate formation of the nascent brain and suppression of tumorigenesis.
+
+Bioelectrical, non-local controls of regenerative polarity in planaria
+
+￼￼
+
+Planarian flatworms have an impressive capacity for regeneration. They are able to regenerate large parts of the body, and are continuously maintained by a well-characterized resident population of adult stem cells. Upon cutting, these organisms are able to regenerate the head and tail at their appropriate locations. What mechanisms determine the polarity and allow tissue re-patterning to take place? Consider: after bisection, cells on one side of the cut (in the head fragment's posterior end) will form a tail, while cells which were their immediate neighbors before the cut will make a head (the tail fragment's anterior half). Our data suggest that the mechanism by which blastema cells polls the rest of the host (to determine where the wound is located and what other tissues already exist in the fragment and thus don't need to be recreated) is mediated by physiological signals passing through nerves and long-range gap junctional paths. We have identified endogenous ion fluxes and voltage gradients maintained by specific ion pumps which are crucial for the determination of anterior-posterior polarity during regeneration; manipulating these signals allows us to specify tissue identity and thus control the anatomical structure of regenerating worms. Through studying the roles of electrical polarity (maintained by ion channel and gap junction systems) in planarian regeneration we are gaining insight into the control of regeneration and morphogenesis by endogenous ion fluxes and into the mechanisms by which stem cell differentiation is integrated into functional organ/tissue systems within the organism. Most importantly, we've recently shown that a rapid, transient alteration of the physiological signals underlying morphostasis and regeneration is maintained in perpetuity! That is, worms forming 2 heads (one at each end) because of a 2-day disruption of gap junctional signals will continue to form 2 heads through subsequent months of amputation or fission in normal conditions. These data illustrate how information embedded in physiological networks can be solidified into permanent alteration of the large-scale structure bodyplan. More broadly, this work identifies a molecular glimpse of how the "target morphology" of an animal (the form towards which regeneration regulates) can be permanently reset, and reveals that a drastic change in body structure and behavior can be maintained across a complex metazoan's organism's normal mode of reproduction without any change in DNA sequence.
+
+Cancer as a problem of morphogenetic 
+
+"Artificial Life is the study of man-made systems that exhibit behaviors characteristic of natural living systems. It complements the traditional biological sciences concerned with the analysis of living organisms by attempting to synthesize life-like behaviors within computers and other artificial media. By extending the empirical foundation upon which biology is based beyond the carbon-chain life that has evolved on Earth, Artificial Life can contribute to theoretical biology by locating life-as-we-know-it within the larger picture of life-as-it-could-be.
+—Chris Langton
+
+© 2022 Michael Levin
+

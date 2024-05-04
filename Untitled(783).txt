@@ -1,0 +1,30 @@
+Theor Biol Med Model. 2011; 8: 4. 
+
+Published online 2011 Mar 29. doi: 10.1186/1742-4682-8-4
+
+PMCID: PMC3080324
+
+PMID: 21447162
+
+The self-organizing fractal theory as a universal discovery method: the phenomenon of life
+
+Alexei Kurakin￼1
+
+Author information Article notes Copyright and License information Disclaimer
+
+Go to:
+
+Abstract
+
+A universal discovery method potentially applicable to all disciplines studying organizational phenomena has been developed. This method takes advantage of a new form of global symmetry, namely, scale-invariance of self-organizational dynamics of energy/matter at all levels of organizational hierarchy, from elementary particles through cells and organisms to the Universe as a whole. The method is based on an alternative conceptualization of physical reality postulating that the energy/matter comprising the Universe is far from equilibrium, that it exists as a flow, and that it develops via self-organization in accordance with the empirical laws of nonequilibrium thermodynamics. It is postulated that the energy/matter flowing through and comprising the Universe evolves as a multiscale, self-similar structure-process, i.e., as a self-organizing fractal. This means that certain organizational structures and processes are scale-invariant and are reproduced at all levels of the organizational hierarchy. Being a form of symmetry, scale-invariance naturally lends itself to a new discovery method that allows for the deduction of missing information by comparing scale-invariant organizational patterns across different levels of the organizational hierarchy.
+
+An application of the new discovery method to life sciences reveals that moving electrons represent a keystone physical force (flux) that powers, animates, informs, and binds all living structures-processes into a planetary-wide, multiscale system of electron flow/circulation, and that all living organisms and their larger-scale organizations emerge to function as electron transport networks that are supported by and, at the same time, support the flow of electrons down the Earth's redox gradient maintained along the core-mantle-crust-ocean-atmosphere axis of the planet. The presented findings lead to a radically new perspective on the nature and origin of life, suggesting that living matter is an organizational state/phase of nonliving matter and a natural consequence of the evolution and self-organization of nonliving matter.
+
+The presented paradigm opens doors for explosive advances in many disciplines, by uniting them within a single conceptual framework and providing a discovery method that allows for the systematic generation of knowledge through comparison and complementation of empirical data across different sciences and disciplines.
+
+Go to:
+
+Introduction
+
+It is a self-evident fact that life, as we know it, has a natural tendency to expand in space and time and to evolve from simplicity to complexity. Periodic but transient setbacks in the form of mass extinctions notwithstanding, living matter on our planet has been continuously expanding in terms of its size, diversity, complexity, order, and influence on nonliving matter. In other words, living matter as a whole appears to evolve spontaneously from states of relative simplicity and disorder (i.e., high entropy states) to states of relative complexity and order (i.e., low entropy states). Moreover, when considered over macroevolutionary timescales, the expansion and ordering of living matter appears to proceed at an accelerating pace [1,2]. Yet this empirical trend stands in stark contrast with one of the fundamental laws of physics, the second law of thermodynamics, which states that energy/matter can spontaneously evolve only from states of lower entropy (order) to states of higher entropy (disorder), i.e., in the opposite direction. The apparent conflict between theory and empirical reality is normally dismissed by pointing out that the second law does not really contradict biological evolution because local decreases in entropy (i.e., ordering) are possible as long as there are compensating increases in entropy (i.e., disordering) somewhere else, so that net entropy always increases. Albeit, how exactly the apparent decrease of entropy on the planet Earth is compensated by an increase in entropy somewhere else is less clear. Since "somewhere else" can potentially include the whole Universe, the Universe as a whole is believed to undergo natural disorganization on the way to its final destination, i.e., to a state of maximum entropy, where all changes will cease, and disorder and simplicity will prevail forever. A gloomy future indeed, so that one may ask oneself why to bother, to excel, and to create, and why not simply enjoy by destroying, since this is the natural and inevitable order of things anyway? Yet, most of us do bother, excel, and create, for this makes our lives meaningful. A logical conclusion is that either most people are mad, being in denial of reality and behaving irrationally, or that the accepted theory presents us with a false image of reality that conflicts sharply with our deep-seated beliefs, intuition, and common sense.
+

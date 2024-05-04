@@ -1,0 +1,51 @@
+Second-order Elegance
+
+"As I peruse this list of intriguing correspondences, my mind is filled with wonder at the elegance of the universe. Second-order phase transitions reveal their infrared fixed points through the lens of the renormalization group.
+
+The Curry-Howard correspondence unites the worlds of classical logic and computation, unveiling the duality between call-by-name and call-by-value evaluation strategies. Correspondence theories assert that true beliefs and statements align with the actual state of affairs.
+
+In languages, words can be broken down into sequences of graphemes or letters, each with their own unique form and meaning. Letters themselves are an abstraction, loosely corresponding to phonemes in spoken language.
+
+Eigenvalues of observables are real numbers, representing possible values for dynamical variables. Social relations of production, essential and independent of individual will, correspond to a specific stage of material forces.
+
+Equal quotients share an equivalence that extends to ratios. Indeed, the correspondence between these varied phenomena hints at a deeper unity, a grand tapestry woven by the fabric of the cosmos."
+
+Kenneth Udut
+
+The application of ‘elegance’ to machine behavior
+
+by John Payne
+
+30 January 2010
+
+
+
+share this:
+
+ 
+
+ 
+
+ 
+
+We all have some idea of what elegance means, whether our notion of it is tied up with silky evening dresses, polished wood and brass, chandeliers and stained glass windows, exotic carpets, and expensive sports cars, or with youthful bodies that are tanned and fit, knowing the local language well enough to use it sparingly with assurance, being appropriately dressed for the weather, good posture, fluid movement, a varied diet of moderate proportions, giving every task as much time as it requires, and so on.
+
+ 
+
+Applying the notion of elegance to machine behavior may resonate for some and not for others. What could it possibly mean, elegant machine behavior, wouldn’t that be a contradiction in terms?
+
+ 
+
+In this piece on another blog, I suggest that Apple should get into robotics, partly because to fail to do so would be to leave the largest looming growth market to others, and partly because I believe the company has something to contribute, something relating to elegance. I think Apple would set a high standard for machine behavior, and then exceed it, providing a tangible example of first-order elegance.
+
+ 
+
+I say “first-order elegance” to suggest that there is also a “second-order” or “meta-elegance” that looks beyond present behavior to its ultimate effects. For example, formality may appear elegant, but if children are subjected to it all the time they may fail to develop emotional intelligence, an inelegant result.
+
+ 
+
+As applied here, it is second-order or meta-elegance that is more important. It matters far less whether machines that tend land appear deft in their actions than whether the result of those actions appears more garden or desert-like. That’s not to say that first-order elegance is unimportant. Efficient movement, of the entire machine and of its parts, is an important aspect of cost-effectiveness, but efficiently producing a undesirable result gains nothing.
+
+ 
+I believe that second-order elegance is achievable in this context, that machines can be programmed to understand complex living systems and nurture them, while raising food and fiber for market in their midst. If I didn’t believe that I would never have bothered trying to explain this vision of a greener future founded on robotics.
+

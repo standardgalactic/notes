@@ -1,0 +1,31 @@
+Our goal is to i nd new embedding vectors that represent new, 
+specif i c concepts. 
+We represent a new embedding vector with a new pseudo-word (Rathvon, 2004) which we denote by S∗. 
+This pseudo-word is then treated like any other word, and can be used to compose novel textual queries for 
+the generative models. One can therefore ask for “a photograph of S∗on the beach”, “an oil painting of 
+a S∗hanging on the wall”, or even compose two concepts, such as “a drawing of S1 
+∗ in the style of S2 ∗”. 
+Importantly, this process leaves the generative model untouched. In doing so, we retain the rich textual 
+understanding and generalization capabilities that are typically lost when i ne-tuning vision and language 
+models on new tasks. 
+To i nd these pseudo-words, we frame the task as one of inversion. We are given a i xed, pre-trained text-to- 
+image model and a small (3-5) image set depicting the concept. We aim to i nd a single word embedding, 
+such that sentences of the form “A photo of S∗” will lead to the reconstruction of images from our small set. 
+This embedding is found through an optimization process, which we refer to as “Textual Inversion”. 
+We further investigate a series of extensions based on tools typically used in Generative Adversarial Network 
+(GAN) inversion. Our analysis reveals that, while some core principles remain, applying the prior art in a 
+na¨ ıve way is either unhelpful or actively harmful. 
+We demonstrate the effectiveness of our approach over a wide range of concepts and prompts, showing that 
+it can inject unique objects into new scenes, transform them across different styles, transfer poses, diminish 
+biases, and even imagine new products. 
+In summary, our contributions are as follows: 
+• We introduce the task of personalized text-to-image generation, where we synthesize novel scenes 
+of user-provided concepts guided by natural language instruction. 
+• We present the idea of “Textual Inversions” in the context of generative models. Here the goal is to 
+i nd new pseudo-words in the embedding space of a text encoder that can capture both high-level 
+semantics and i ne visual details. 2 
+• We analyze the embedding space in light of GAN-inspired inversion techniques and demonstrate 
+that it also exhibits a tradeoff between distortion and editability. We show that our approach resides 
+on an appealing point on the tradeoff curve. 
+• We evaluate our method against images generated using user-provided captions of the concepts and 
+demonstrate that our embeddings provide higher visual i delity, and also enable more robust editing.

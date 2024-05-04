@@ -1,0 +1,42 @@
+
+
+Preschool
+Elementary
+
+-- junior high --
+Janitor
+
+-- high school --
+Catchumen
+Acolyte
+Neuromancer
+
+-- University undergraduate-- 
+1.
+Algebra
+Trigonometry
+Stoichiometry
+Critical thinking skills
+
+2.
+Symbolic logic operator competence
+Visual complex analysis
+
+3.
+Multidimensional geometric vector chaining
+
+4.
+Quantum wave mechanics
+
+-- Graduate --
+Quaternions
+Octonions
+Dynamic Markov blankets
+Topology optimization
+Variational energy minimization
+Principal component analysis
+Lambda calculus with categorical type theory
+
+
+
+

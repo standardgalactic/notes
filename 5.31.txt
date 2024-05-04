@@ -1,0 +1,52 @@
+Evolutionary-based NDP 
+The NDP consists of a series of developmental cycles ap- 
+plied to an initial seeding graph; our experiments always use 
+a seeding graph consisting of a single node or a minimal 
+network connecting the neural network’s inputs directly to 
+its outputs. Each of the nodes of the graph has an internal 
+state represented as n−dimensional latent vector whose val- 
+ues are updated during the developmental process through 
+local communication. The node state-vectors —or embed- 
+dings— encode the cells’ states and are used by the NDP 
+to determine which nodes will duplicate to make new nodes. 
+Similarly to how most cells in biological organisms con- 
+tain the same program in the form of DNA, each node’s 
+growth and the synaptic weights are controlled by a copy 
+of the same NDP, resulting in a distributed self-organized 
+process that incentives the reuse of information.An 
+overview of the approach is shown in Fig. 1. 
+The NDP architecture consists of a Multilayer Percep- 
+tron (MLP) —acting as a Graph Cellular Automata (GNCA) 
+(Grattarola et al., 2021)— which updates the node embed- 
+dings after each message-passing step during the develop- 
+mental phase.Subsequently, a replication model in the 
+form of a second MLP queries each node state and predicts 
+whether a new node should be added; if so, a new node is 
+connected to the parent node and its immediate neighbors. 
+Finally, if the target network is weighted, a third MLP deter- 
+mines the edge weights based on the concatenation of each 
+pair of node embeddings. The grown network can now be 
+evaluated on the task at hand by assigning a subset of nodes 
+as the input nodes and another subset as the output nodes. In 
+our case, we select the i rst —and last— rows of the adja- 
+cency matrix representing the network to act as input — and 
+output— nodes, respectively. During evaluation the activa- 
+tions of the nodes are scalars (that is, R1instead of the Rn 
+vectors used during development), and all node activations 
+are initialized to zero. 
+We refer to the NDP as the set of these MLPs which are 
+identical for each cell in the policy network; in order to keep 
+the number of parameters of the NDP low, the reported 
+experiments make use of small MLPs with a single hidden 
+layer. However, it’s worth noticing that because the NDP is 
+a distributed model (i.e. the same models are being applied 
+to every node), the number of parameters is constant with re- 
+spect to the size of the graph in which it operates. Therefore, 
+any neural network of arbitrary size or architecture could be 
+used, provided that it was deemed necessary to grow a more 
+complex graph. The NDP’s neural networks can be trained 
+with any black-box optimization algorithm to satisfy any ob- 
+jective function. In this paper, we demonstrate how the approach allows to grow neural networks capable of solving 
+reinforcement learning and classif i cation tasks, or exhibiting 
+some topological properties such as small-worldness. The 
+pseudocode of the approach is detailed in Algorithm 1.

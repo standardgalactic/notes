@@ -1,0 +1,5 @@
+Mufflerizer
+
+Removes explosions, gunshots, crashes, screams, yelling, and other extremely loud sounds from movies, replacing them with dubstep like sound effects.
+
+Learns from watching volume and mute button usage, from facial expressions (cringe detector) and heart beat, as well as manual labeling, sentiment analysis.

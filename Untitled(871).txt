@@ -1,0 +1,25 @@
+
+**Title:** Designing Free Energy Surfaces That Match Experimental Data with Metadynamics
+
+**Authors:** Andrew D. White, James F. Dama, and Gregory A. Voth
+
+**Publication Date:** April 30, 2015
+
+**DOI:** [10.1021/acs.jctc.5b00178](https://doi.org/10.1021/acs.jctc.5b00178)
+
+**Summary:**
+
+In molecular modeling, creating models that align with experimental data is crucial. This is often achieved by iteratively tuning the molecular force field in simulations. An alternative approach involves biasing simulations, resulting in hybrid models composed of the original force field and biasing terms. The authors previously introduced an experiment directed simulation (EDS) method that minimally biases simulations to match average values. 
+
+In this paper, a new method called experiment directed metadynamics (EDM) is introduced, which creates minimal biases for matching entire free energy surfaces, such as radial distribution functions and phi/psi angle free energies. EDM allows for a tunable mixture of experimental data and the free energy of the unbiased ensemble with explicit ratios. The method is proven to be convergent, and a maximum entropy argument proves that the final bias is minimal and unique.
+
+Examples of its use include constructing ensembles that follow a desired free energy. The example systems studied are a Lennard-Jones fluid to match a radial distribution function, an atomistic model augmented with bioinformatics data, and a three-component electrolyte solution where ab initio simulation data is used to improve a classical empirical model.
+
+Can you explain how EDM compares to
+other methods for matching experimental
+data?
+How does EDM handle cases where
+experimental data is limited or
+incomplete?
+Can you provide an example of how EDM
+has been used in a real-world application?

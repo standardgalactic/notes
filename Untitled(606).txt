@@ -1,0 +1,10 @@
+Peter Diamandis's latest tech blog is regarding AI and ethics. It's an interesting topic I've long been engaged with. Alas, it's always discussed in generalities/nostrums. Seldom mentioned? The basic boundary conditions. e.g. "Laws of Robotics" won't work, for several reasons that I found when completing Isaac Asimov's universe for him.  
+  . . There ARE two groups on this planet working hard on embedded AI "laws!" Alas, they are the wrong laws.
+
+For at least 6000 years, priests and gurus etc have preached ethical behavior in humans... and only marginally affected the behavior of those who were already inclined to behave ethically. Almost never did ethics-preaching affect the actions of predators.
+
+There is a way that works.  We've been developing it for 250 years.  It's reciprocal accountability in a society that's transparent enough so that victims can usefully denounce bad behavior. It's never perfect. But it is the only thing that ever worked...
+
+... and not a single one of the AI mavens out there - not one - is even remotely talking about it. 
+Alas.
+

@@ -1,0 +1,70 @@
+** Differences between Art and Science **
+
+Art and science both arise from the desire to create and discover new knowledge and understanding of the world.
+
+Both involve the process of gathering and analyzing data, whether through observation, experimentation, or other methods of inquiry. The main difference between the two is in their approach and focus.
+
+Art tends to be more subjective and expressive, focusing on the emotional 
+and aesthetic aspects of the world. It often involves creative interpretation and personal expression.
+
+Science is more objective and analytical, seeking to understand the underlying principles and laws that govern the world through systematic observation and experimentation.
+
+Despite these differences, both art and science involve the process of gathering and organizing data in a way that allows for new insights and understanding.
+
+The goal of both is to create new knowledge that is compressible, or able to be understood and communicated in a clear and concise way.
+
+So, in this sense, art and science are both driven by the desire to create and discover more data that can be compressed in hitherto unknown ways.
+
+** Similarities between Art and Science **
+
+Art and science are both ways of seeking and creating novel patterns and understanding the world around us. 
+
+While they may seem like opposing fields, they are both driven by the desire to discover and comprehend the world in new and innovative ways.
+
+Art, in particular, is often seen as a way of expressing and exploring emotions and experiences that cannot be easily conveyed through language or logical reasoning. 
+
+It allows us to express and explore the intangible aspects of human experience, such as feelings, emotions, and values.
+
+On the other hand, science is focused on understanding the world through empirical evidence and logical reasoning.
+
+It seeks to understand and explain the natural world through the use of theories, hypotheses, and experiments.
+
+Despite their differences, both art and science rely on the ability to recognize and comprehend patterns and connections in the world around us.
+
+They both require the ability to find meaning and significance in the data and information that we encounter, and to use that understanding to create something new and innovative.
+
+In this sense, art and science are both by-products of the search for novel patterns and ways of understanding the world.
+
+They both rely on the ability to compress and comprehend data in ways that are novel and unknown, and to use that understanding to create new knowledge and insights.
+
+** Schmidhuber on Novelty **
+
+In this passage, Schmidhuber discusses the idea that both art and science are driven by a desire for novelty and the search for patterns that can be compressed in new and previously unknown ways.
+
+He proposes that the subjective interestingness or novelty of a piece of data, such as a work of art or a scientific discovery, can be measured by the difference in the number of bits needed to encode it before and after learning.
+
+This suggests that as an observer's understanding of the data improves, the data becomes more regular and subjectively more beautiful, requiring fewer bits for its encoding.
+
+At the same time, the data remains interesting as long as the process of improving the encoding algorithm is ongoing, but eventually becomes boring even if it is still aesthetically pleasing.
+
+Schmidhuber also mentions that there have been previous attempts to implement and describe this concept in discrete time.
+
+** Bayesian decision making ** 
+
+In Bayesian decision making, an individual or system makes decisions based on the probability of an event occurring.
+
+This probability is determined by considering all available evidence and using it to update their prior belief about the likelihood of the event.
+
+Subjective interestingness or novelty can be seen as a form of Bayesian decision making, in that the observer is making a decision about the interestingness or value of the data based on their prior knowledge and the new information they are presented with.
+
+As the observer continues to learn and update their understanding of the data, their decisions about its interestingness or value may change as they discover new patterns or regularities that allow them to better compress the data.
+
+** Schmidhuber on Art **
+
+Schmidhuber suggests that art and music serve as a means of discovering novel patterns in the world around us. 
+
+These patterns can deepen our understanding and insights, and can also be aesthetically pleasing.
+
+According to Schmidhuber, the creation and perception of art is driven by a desire to discover and learn new things, and the resulting sense of reward or pleasure is simply a by-product of this process.
+
+In other words, Schmidhuber argues that the pursuit of novelty and knowledge is a fundamental aspect of human nature, and that art and music serve as a means of satisfying this desire.

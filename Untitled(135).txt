@@ -1,0 +1,17 @@
+—A Bubble Bath—
+
+There are three components to ring behavior: the wavefront flow, the bubble flow, and the slowest oscillation period in the ring.
+
+According to Karl Fant's Invocation Model of Process Invocation, which
+Uses Null-Convention Logic.
+
+Oscillation Ring
+
+- Oscillation Path
+- Oscillation Bubble Path
+- Oscillation Wavefront Path
+- Ring Wavefront Path Oscillation Wavefront Paths
+- Ring Bubble Path Oscillation Bubble Path
+
+TL;DR:
+Bubbles are awesome!

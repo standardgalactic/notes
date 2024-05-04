@@ -1,0 +1,108 @@
+Horn Torus Models for the Riemann 
+Sphere and Division by Zero 
+Wolfgang W. Däumler, Perouse, GERMANY, 
+Hiroshi Okumura, Maebashi, Gunma, 371-0123, JAPAN, 
+Vyacheslav V. Puha 
+Kola Science Center, Russian Academy of Sciences, 
+Apatity, Murmansk oblast, 184209, RUSSIA and 
+Saburou Saitoh 
+Institute of Reproducing Kernels 
+Kawauchi-cho, 5-1648-16, Kiryu 376-0041, JAPAN 
+February 13, 2019 
+Abstract:In this paper, we will introduce a beautiful horn torus model 
+by Puha and Däumler for the Riemann sphere in complex analysis attaching 
+the zero point and the point at inf i nity. Surprisingly enough, we can introduce 
+analytical structure of conformality to the model. 
+Key Words: Inf i nity, discontinuous, point at inf i nity, stereographic pro- 
+jection, Riemann sphere, horn torus, Laurent expansion, conformal mapping, 
+division by zero. 
+Mathematics Subject Classif i cation (2010): 30C25, 30F10 
+Introduction 
+In this paper we introduce a new horn torus model for the classical Rie- 
+mann sphere from the viewpoint of the division by zero. In the model, the 
+zero point and the point at inf i nity are attaching and surprisingly enough, 
+we can introduce analytical structure of conformality in the horn torus. This 
+model seems to be fundamental and important for us. 
+1 
+In Section 1, we introduce the horn torus model with the Puha mapping 
+that gives one to one mapping from the extended complex plane onto a horn 
+torus through the stereographic projection mapping from the Riemann sphere 
+onto the extended complex plane and in Section 2, we state simple properties 
+of the Puha mapping. 
+In Section 3, we will introduce a conformal mapping from the extended 
+complex plane onto the horn torus by modifying the Puha mapping. This 
+introduction by Däumler is geometrical and delicate, and the mapping will 
+be very complicated. Therefore, we will give a complete conf i rmation for 
+his conformal mapping analytically in Section 5. In Section 4, we give the 
+elementary properties of the Däumler conformal mapping. In Section 5, we 
+will simply refer to the division by zero in connection with the horn torus 
+model.
+1Horn torus model 
+We will consider the three circles represented by 
+ξ2+ ( ζ − 
+1 
+2 )2 
+= (1 
+2 )2 
+, 
+( ξ − 
+1 
+4 )2 
++ ( ζ − 
+1 
+2 )2 
+= (1 
+4 )2 
+,(1.1) 
+and ( 
+ξ + 
+1 
+4 )2 
++ ( ζ − 
+1 
+2 )2 
+= (1 
+4 )2 
+. 
+By rotation on the space (ξ,η,ζ) on the (x,y) plane as in ξ = x,η = y around 
+ζ axis, we will consider the sphere with 1/2 radius as the Riemann sphere 
+and the horn torus made in the sphere. 
+The stereographic projection mapping from (x,y) plane to the Riemann 
+sphere is given by ξ = 
+x 
+x2+ y2+ 1, 
+η = 
+y 
+x2+ y2+ 1, 
+and ζ = 
+x2+ y2 
+x2+ y2+ 1. 
+2 
+Of course, ξ2+ η2= ζ(1 − ζ), 
+and x = 
+ξ 
+1 − ζ 
+,y = 
+η 
+1 − ζ 
+.(1.2) 
+The mapping from (x,y) plane to the horn torus is given by 
+ξ = 2x√x2+ 
+y2 
+(x2+ y2+ 1)2 
+, 
+η = 2y√x2+ 
+y2 
+(x2+ y2+ 1)2 
+, 
+and ζ = 
+(x2+ y2− 1)√x2+ 
+y2 
+(x2+ y2+ 1)2 
++ 
+1 2. 
+This Puha mapping has a simple and beautiful geometrical correspon- 
+dence. At i rst for the plane we consider the stereographic mapping to the 
+Riemann sphere and next, we consider the common point of the line con- 
+necting the point and the center (0,0,1/2) and the horn torus. This is the 
+desired point on the horn torus for the plane point.

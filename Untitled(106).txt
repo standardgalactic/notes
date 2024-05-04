@@ -1,0 +1,15 @@
+Yeah I'm going to have issues with any possible rule, I like a no images rule, but I've already broken it and there are lots of visual poems like "a mouse's tail" that need to be in an image or a fixed width font in order to have meaning.
+
+Likewise, there is calligraphy and design, and you could easily do a painting that contains only text.
+
+The unedited output rule makes no sense, because I can just include all of my edits into the prompt, or just ask it to reword it and format it until it looks like I want.
+
+Here I asked it to summarize the wikipedia page on high culture and then write a poem based it.
+
+I came up with the title, but I stole it from someone else. And what if I write a poem specifically for AI to interpret?
+
+I could think of a poem and then give it prompts until it writes the exact poem I wanted.
+
+Actually I think that pretty soon is going to be really silly to say AI generated poetry, we don't say keyboard generated text, or spelling-corrected prose.
+
+If you mean poetry generated with no input from humans, that is a different thing, I would call it "asemic writing" or "noise".

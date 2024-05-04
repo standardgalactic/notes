@@ -1,0 +1,13 @@
+If an AI will have an ethical systen, it's going to be necessarily hybrid (consequentialist/deontological), much like there always needs to be some system 1/system 2 divide due to resource constraints. A combination of heuristics, rules, calculations.
+
+However, like language being a symptom of meaning and ultimately meaning being grounded in subjectivity, so too our morality grounded in it. See Prinz's and Haidt's work for an idea on that. So, without such grounding, there is no caring of the sort we care about.
+
+The next issue is kinship, which we piggyback heavily on and which masks our many defficiencies as agents. From the superficiality or our judgments and assumptions of other agents, to obscuring the lack of generality in some domains, or the small extent to which we have it.
+
+Another point is that empathy due the intersubjectivity collapse breaks down. You might think super-empathy module may solve this, but carefully speculating about sich models I have run into fundamental issues and hard limits on what they can cover. I will cover this in a follow-up post to the intersubjectovity collapse.
+
+Last but not least is that we as autonomous agents are beholden to several loops of awarenes thst are constrained constant, with some but only minor deviations. What does that mean? It means that future entities with many fewer such constraints and control over them have much more variable minds and their valence, capabalities, modules and aforementioned loops can be modified and switched off at will. See psychopaths for what a relatively small deviation may result in.
+
+#chatgpt #agi #AIEthics #GPT
+
+Pawel Pachniewski

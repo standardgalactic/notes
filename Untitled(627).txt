@@ -1,0 +1,254 @@
+Einstein and the Electron
+
+Milo Wolff,
+Mass. Inst. Tech. (retired)
+
+Geoff Haselhurst,
+Nornalup, West Australia
+
+Introduction
+
+Querying Einstein
+
+During his later years, high-energy physicists queried Einstein about the huge numbers of short-lived heavy particles found using high-energy accelerators. They were seeking basic matter and wanted to know Einstein’s thoughts. Einstein was a careful thinker not given to theatrics and was very serious when he replied, I would just like to know what an electron is. Why did he say this? His answer implied that the pedestrian electron, was more important to science than billions of dollars spent on accelerators. Little attention was paid to his remark.
+
+But Einstein saw the electron as the leading player in the universe, as could any careful scientist because most activity of the Universe is electromagnetic energy transfers between electrons. At the time, neither Einstein nor others understood the wave-mechanism of the electron. Although the force between ‘electrons’ can be calculated using elementary rules of Physics 101, the rules did not always match Nature. The electron did not appear to be a discrete particle. Something was wrong and Einstein knew it.
+
+Answering Einstein.
+
+This article shows that the electron is indeed the leading player in the universe, deeply involved with the laws of nature. The way to find this is to follow a suggestion by Clifford and Schroedinger that rejects the discrete material electron (and all material particles) and replaces it with a wave-structured electron. 
+
+The mathematics turns out to be easy because scalar* quantum waves in an un-seen quantum space are the only choice. Further, only a space medium and two principles are needed to obtain all the laws of nature – no more. Amazingly, it is found that the wave structure has all the experimental properties of the electron and you learn the origins of all the laws, thus fulfilling Einstein’s intuition.
+
+NOTE: *A scalar quantity has a single value at each point in space. For example, sound waves (pressure), temperature, and quantum waves are scalar quantities at each point.
+
+The value of philosophy. Einstein was greatly concerned about the electron because he felt that the answer to his question might have a world-wide impact on industry, medicine, our lives, and human affairs, as well as science and the universe. His concern was due to his philosophical understanding of the roots of modern industrial society. In his mind the electron appeared to be an important manifestation of Nature revealing the origins of the natural laws that are the basis of the industry and technology of the modern world. 
+
+Thus knowing the electron would open an enormous window on the world of human affairs. This article will reveal that his intuition was right, as well as that of other pioneer scientists of the electron. As often happens in basic science you, the reader, will find that many of the treasured concepts that you learned and believed to be true, are not true. You must like an ancient philosopher, carefully re-evaluate the evidence for the truth of Nature.
+
+The Problem of the Discrete Electron Seen by Einstein
+
+The structure of the electron had always been a puzzle but in hindsight the obstacle was the erroneous belief (still existing) that it is a discrete material particle. Einstein had already deduced this was impossible since Nature’s forces and properties do not match the discrete particle. Einstein realized that matter is inseparable from the space it occupies. Recognizing this, only a simple amendment is needed: Replace the material point electron with a spherical quantum-wave electron. Then, its wave structure is easily found as a solution of the scalar wave equation to get a quantum-wave electron that is based upon only two fundamental principles of Nature.
+
+This is a new electron in current main-stream thinking, but fulfills early proposals by William Clifford and Schroedinger. Surprisingly, all the natural laws are found embedded in the wave structure of the electron. Unfortunately, this took a long time; Electron research was not as attractive as the richly funded military and industrial programs begun after WWII. ‘Truth is no match for emotions.’
+
+C. Historical Proposals for a Wave Structure of Matter (WSM)
+
+William Clifford (1845-1879) a brilliant mathematician whose legacy includes modern Clifford Algebras, lectured before the Cambridge Philosophical Society [1] on The postulates of the Science of Space. He discussed our ability to deduce the geometry of space at astronomical distances and in space too small (i.e. particles) to be observed, stating: I hold:
+
+That small portions of space are in fact analogous to little hills on a surface which is on the average flat, namely that the ordinary laws of geometry are not valid in them.
+
+That this property of being curved or distorted is continually being passed on from one portion of space to another after the manner of a wave.
+
+That this variation of the curvature of space is what really happens in that phenomenon which we call the motion of matter, whether ponderable or ethereal.
+
+That in this physical world nothing else takes place but this variation subject to the law of continuity.
+
+He concluded that the entire physical world (motion of all matter) therefore all of science and the Universe, was a result of this property of space. This implied that all matter and motion was contained in ONE entity – space. In hindsight, this paper shows that his analysis of the geometric properties of space, more than a century ago, before quantum waves were discovered, were correct. Clifford’s deductions about space were revolutionary at the time because space was not yet a concept that many scientists recognized.
+
+When J. J. Thompson discovered the electron in 1904 using cathode-ray tubes that enabled him to calculate the charge to mass ratio, everyone was convinced that electrons were discrete material particles. This discrete particle belief began to be questioned about 1930, because the ‘wave functions’ of the Schroedinger Equation need not be attached to individual electrons unless you assume that electrons are discrete.
+
+The Equation allows one to assume that discrete material electrons exist, or do not exist. The mathematics of quantum mechanics is neutral and takes no position. The wave functions provide exact values of energy transfers but only hint at how transfer happens. But knowing how was what Einstein wanted. We will see below that it is not possible to know unless you abandon the notion of a discrete particle and instead accept that the electron is a quantum wave structure. Waves can transfer energy, particles cannot.
+
+In 1937, Irwin Schroedinger, the father of quantum theory, proposed [2] to eliminate point particles by using a quantum wave structure. He wrote: What we observe as material bodies and forces are nothing but shapes and variations in the structure of space. Particles are just schaumkommen (appearances). That is, quantum wave structures are real and discrete material particles are not. He was adding one element to the work of Clifford – that the structure of the waves of space lead to the appearances we observe of discrete particles.
+
+These appearances underlie the rules we create to describe the macro world of present day science but only indirectly do we see the real quantum world of Nature itself. Again, by including all material bodies and forces, he was concurring with Clifford and the ancient philosophers, that the space medium is the one substance of everything.
+
+A partial wave structure was found by Wheeler and Feynman [3] in a 1945 pioneer attempt to find the energy-transfer mechanism of the electron. He sought a response of the universe to the acceleration of an electron, by calculating waves traveling inward and outward from the location of the electron center. This is reviewed in Section E below.
+
+In 1950, Einstein [4] thought about the mechanism of the transmission of force from one particle to another and concluded that space must possess a property that extends throughout space to connect particles. His knowledge of Nature told him that discrete particles cannot exist because their borders would be an abrupt discontinuity. Particles and space must be continuous. Further, assuming the Bohr concept were true, he asserted the notion of a discrete particle being everywhere at once is impossible to imagine. He pointed out that the Bohr ideas are never found in Nature. He rejected the point particle and Maxwell’s field Equations that had become the bible of electrical engineering, writing: The combination of the idea of a continuous field with that of material points discontinuous in space appears inconsistent. Hence the material particle has no place as a fundamental concept in a field theory. Thus even apart from the fact that gravitation is not included, Maxwell's electrodynamics cannot be considered a complete theory.
+
+Ancient Greek philosophers, and modern mathematicians asserted that all matter and motion (the entire universe) was derived from ONE substance. As Leibniz wrote; Reality cannot be found except in One single source, because of the interconnection of all things with one another. … I maintain also that substances, whether material or immaterial, cannot be conceived in their bare essence without any activity, activity being of the essence of substance in general. (Gottfried Leibniz, 1670)
+
+Einstein agreed with this view, thus he rejected the discrete particle conception of matter and tried to represent matter as spherical fields in one thing Space-Time. But later he stated: Time and space and gravitation have no separate existence from matter. We will see below that ordinary space fulfills this role as the unique wave medium of the Universe.
+
+Eric Storri a science historian at Bradley University carefully studied [5] the accuracy of the periodic table of the elements, a foundation stone of chemistry. He found the rules of counting electrons in orbits do not always work. He questioned the assumption that electrons exist inside the wave functions, writing, According to quantum mechanics the very notion of individual electrons in stationary states was shown to be invalid. He concluded, like Einstein, that a full understanding of the Atomic Table requires a better knowledge of the electron.
+
+These leading scientists had concluded that the structure of matter must be formed of quantum waves in space. Recently this has been mathematically worked out by Wolff [6,7], and Mead [8] and is summarized in section H below.
+
+D. Understanding Energy Exchange
+
+We cannot measure anything in Nature without an energy exchange that tells us something has happened. Experience tells us that communication or acquisition of knowledge of any kind occurs only with an energy transfer. Storage of information, whether in a computer disk or in our brain, always requires an energy transfer. Energy is required to move a needle, to magnetize a tape, to stimulate a neuron. There are no exceptions. This rule of nature is embedded in biology and our instruments. Thus, finding the energy transfer mechanism between particles is part and parcel of understanding the electron and the natural laws. Thus we must probe energy deeply. We cannot accept any statement about the measurement of a natural event unless we verify the energy exchange that allowed it. This is the test that distinguishes true from false. Skepticism is good for science.
+
+To understand the mechanism of energy exchange, we first need to understand energy. Most people assume that they understand energy exchange because they buy and use it every day; Accordingly no further thought is needed. This is a logical trap because our human scale experiences are not a guide for the real energy exchanges that take place on the quantum level of electron and atoms.
+
+The mechanism of energy transfer had often been sought using Maxwell's Equations (ME) and electromagnetic waves but the method has problems: The electron has spherical symmetry but MEs have no wave solutions in spherical coordinates. Another problem was the infinite fields (singularities) at the center of the discrete point electron. Singularity avoidance was attempted using mathematical "renormalization" wherein infinity was subtracted from infinity to obtain the desired result. In 1937, Paul Dirac commented [9]: This is just not sensible mathematics. Sensible mathematics involves neglecting a quantity when it turns out to be small - not neglecting it just because it is infinitely great and you do not want it.
+
+Feynman also commented on the renormalization problem: But no matter how clever the word, it is what I call a dippy process! Having to resort to such hocus pocus has prevented us from proving that the theory of quantum electrodynamics is mathematically self consistent. I suspect that renormalization is not mathematically legitimate.
+
+E. Wheeler and Feynman’s Calculation to Find Energy Transfer
+
+In 1945 Wheeler and Feynman (W&F) sought [3] the mechanism of energy transfer by calculating electro-magnetic radiation from an accelerated electron. Their electron generated outward and inward spherical waves and evoked a response of the universe from absorber charges. They discussed this with Einstein who suggested a proposal by Tetrode [10] that light was two-way communication exchange between source and receiver utilizing in- and out-waves. Tetrode wrote, An atom that emits light from a star one hundred light years away, knew then, one hundred years ago, that it would enter my eye today, before I was even born. They considered his proposal realizing it was controversial because in-waves appear to violate the causality principle: Actions should not appear before their causes. W&F wished to use the in-waves but avoid violation. Their mathematical goal was to verify a formula for radiation force found by Dirac using in/out quantum waves.
+
+Their accelerated electron generated both in- and out-waves. The out-waves then stimulated absorber charges elsewhere in the universe whose waves returned to the initial charge, a response of the Universe. Upon arrival, those waves became in-waves of the initial charge. Remarkably (but as they intended) causality was not violated because in-waves from the absorbers were cancelled upon arrival at the initial charge by opposite in-waves from the charge! Force on the electron was assumed to be the product of charge times half the difference of total in- and out-wave amplitudes. Dirac's formula was verified, independent of absorber properties provided that absorption was complete.
+
+W&F described the wave behavior: Absorber charges at a large distance produce spherical waves headed towards the source. At the moment the source is accelerated these waves just touch the source. Thus all the waves from the absorber charges form an array of approximately plane waves marching towards the source. The Huygens envelope of these plane waves is a spherical in-going wave. The sphere collapses on the source, and then pours out again as a divergent outward wave.
+
+This description above of in-and out-waves is almost identical to the quantum waves of the electron that can be obtained rigorously using a scalar wave equation in Section H below. In hindsight, the partial success of W&F’s method was due to changing the vector e-m waves to scalar waves, during their calculation so that in effect they were calculating scalar quantum waves, even though they assumed the final sum of waves had vector properties. This was not proper math, but nevertheless pointed to quantum waves as the real structure of the electron. They were also forced to assume an illogical behavior of the absorber – the absorber out-waves began before the initial acceleration - in order to arrive at the electron at the moment of acceleration. This switching from vector e-m waves to scalar quantum waves was needed in order to reach their goal.
+
+F. Philosophical Importance
+
+W&F’s work goes beyond explaining radiation forces because energy transfer and the motion of matter are important fundamental processes of nature. Further their concept, that the absorbers in the whole universe contribute to each electron, implies an inter-connection, i.e., Every charged particle is part of the universe and the universe is part of each charged particle. This implies that each of us, you, and me, are connected together as part of the observable universe. It caused much speculation and others, such as Hoyle & Narlikar [11], and Cramer [12] used W&F's work to examine the universe. This fundamental but revolutionary concept is still not recognized by mainstream physics.
+
+G. The Answer to Einstein’s Question
+
+Einstein wished to resolve the disparity between the experimental properties of the electron and the common discrete electron model. He also wanted to know why it appears that "God plays dice" according to the uncertainty interpretation of quantum mechanics, that he did not believe.
+
+Wolff [6,7], Mead [8], and Haselhurst [13] explored the Scalar Wave Equation and found that its solutions form a quantum-wave structure, possessing all the electron’s experimental properties, eliminating the paradoxes of quantum mechanics and cosmology. This wave structure completely replaces the material particle. This is what Einstein wanted to know. Finding that the discrete particle electron does not exist, removes the Bohr interpretation of the wave functions and assures us that God does not play dice as well as removing the infamous wave-particle paradoxes. The mathematical approach below describes the electron, its origin and role in the universe.
+
+Solutions of the Scalar Wave Equation
+
+Waves without Mathematics. You need not be a mathematician to understand the wave structure of the Universe, so I have written the description below in ordinary prose. At the same time, I have also written the related equations. You can read either or both.
+
+Principle I – The scalar wave equation in Space. The universe abounds with things that oscillate, such as; the ocean surface, a violin string, a drum head, a child on a swing, and the structure of electrons and atomic matter. Mathematicians use a wave equation to calculate position and speed of the moving thing but you can also understand the wave process without math if you know what the equation is stating. It describes the energy changes in a wave: i.e. Energy of motion is changing back and forth with energy of position so that the total energy is constant. It is precisely this energy exchanging property that is the heart and role of a wave equation. There is always a wave medium such as: water, a string, a membrane, or a rope. For atomic matter, the medium is space – a quantum-wave medium. To understand the electron we need to assume Principle I:
+
+Quantum waves exist in space and are solutions of a scalar wave equation
+
+Since the universe is three-dimensional, we must use the well-known scalar 3D wave equation. It is pointless to consider an electromagnetic (vector) wave equation – commonly used for radar wave guides – because it has no solutions in free space. Thus this step was easy – only one choice.
+
+Where F is a scalar amplitude, c is the wave velocity ( origin of light velocity), and t is time. The first term describes the energy of position, and the second term describes energy of motion. The whole equation says they must always be equal. There are only two possible spherical wave solutions; again an easy result. They are oscillators:
+
+X
+
+X
+
+Where Fo is the scalar wave amplitude, frequency w = 2πmc2/h, k = wave number, h = Planck’s constant, m = electron mass = hw/c2. The physical dimension r is the radius from a center of the spherical waves. There are only two combinations of these two waves. They form the structure of the electron or positron. They have opposite phase and spin rotation in the electron as compared to the positron as discussed below. Although the variety of molecules in the universe is enormous, the building bricks are just two.
+
+You can picture the waves as continually expanding (F) or converging (Fin) spheres of oscillating energy as drawn in Figure 1. In our human scale perspective we perceive the wave centers as the location of the ‘particles’. But better yet - a trip to your computer will show you moving animated waves of the electron – the four best web sites are:
+
+http: //www.QuantumMatter.com/see.html (dead Lrink: Shows (the first ever) animated electron waves made by Winston Wolff in Berkeley, California.
+
+daugerresearch.com/orbitals/index.html It shows waves of the H atom by Dean Dauger at UCLA, Los Angeles.
+
+www.SpaceAndMotion.com/Physics Provides deeply thought philosophy of the universe by Geoff Haselhurst in Nornalup, Australia.
+
+www.almaden.ibm.com/vis/stm/ Shows atomic wave structure in a copper sheet.
+
+Waves of the electron-positron. Equations (2a and 2b) are combinations of the in- and out-waves (1a and 1b) that Einstein wished to know:
+
+ (2a)
+
+ (2b)
+
+Both waves exist together converging and diverging from a center. They are actually one continuous wave where the in-wave part reverses direction at the center to become the out-wave part. The reversal is expressed mathematically [14] by rotation (spin) operators, symbolized here by CW and CCW. This rotation is not that of a wheel but is a unique property of 3D space, well known to group theorists, who call it spherical rotation. These operators, that must not tangle up the coordinates of space, allow 720o motions, termed here ‘clockwise’ or ‘counter-clockwise’. Thus the inward wave spherically rotates twice to convert it to an outward wave as is Figure 1. These rotations fulfill a geometric requirement of wave continuity and yield the formerly mysterious quantum spin of value h/4π. Both the amplitude of the waves and the direction of spin are opposite to each other in the electron and positron. This is the reason that superposing an electron and a positron experimentally produces annihilation. Notice how simple Nature makes the electron/positron by choosing the simplest and only means of oscillating in free space!
+
+Look above in Section E above, where W&F approximately described the behavior of the waves of the electron or positron, even though their wave structure were not known at that time. Their description of the in-waves as a Huygens superposition of out-waves from other particles (absorbers) in the universe, as shown in Figure 2, accords with these calculations. Missing from the W&F description was the 720o spherical rotation of the in-wave that changes it to an out-wave. This origin of electron spin was not known before the work of Wolff [6] and Batty-Pratt [14].
+
+The second Principle II of the WSM is used to calculate the density of the quantum wave medium – the space all around us. The role of the medium was foreseen in 1883 by Ernst Mach [15] who noticed that the inertia of a body depended on the presence of the visible stars. His deduction of the familiar law F=ma, arose from two different methods of measuring rotation. First, without looking at the sky one can measure the centrifugal force on a rotating mass m and use the inertia law F = ma to find circumferential speed and position, as in a gyroscope. The second method is to compare the object’s angular position with the fixed (distant) stars. Both methods give exactly the same result. He asserted: "Every local inertial frame is determined by the composite matter of the fixed stars (the universe)" and jokingly, "When the subway jerks, it is the fixed stars that throw you down."
+
+At first, Mach’s Principle was criticized because it appeared to predict instantaneous action-at-a-distance across empty space. How can information travel from here to the stars and back again in an instant? It cannot. The reason is that space is not empty; it is a universal quantum wave medium created by waves from every particle in the universe. Inertia, gravity, and other forces are seen by us as effects of the wave interaction with the surrounding space medium. There is no need to travel across the universe.
+
+Mach’s principle of inertia was the first recognition of the formation and role of space. That is, the matter of the universe creates the wave medium in all space of the Universe. Thus the inertial force of an accelerated object is an energy exchange to the waves in the space around it. In hindsight there is firm evidence: Rotational inertia spinning on a piano stool, the laser gyro, and the observation that space coincides with the fixed stars. The laser gyro used in commercial aircraft is an important application of Principle II.
+
+How is Principle II obtained mathematically? Wolff [6] extended Mach’s Principle by calculating the density of the wave medium as the sum of the squares of the waves from every particle in the universe, each diminished by the inverse square of the distance. Space density, that determines c, is almost constant everywhere because there are so many (about 1080) particles contributing waves. Nevertheless, space density and c vary slightly near large masses like the Sun.
+
+It is important to realize that inertia is an interaction between an accelerated object and its surrounding space. You should not try to imagine the object is interacting with the distant stars. Instead the density of the surrounding space is already created by the waves from the distant stars. This agrees with laboratory experience using gyroscopes, accelerometers, and the laser gyros that navigate aircraft. Before knowledge of the space medium, inertia was a paradox stated by Newton as: action-at-a-distance.
+
+General Relativity. If you think Principle II over carefully, you will see a strange feedback loop in Nature, as follows: The matter of the universe combines to tell the space medium what it is and in turn the medium tells all matter how to behave. In other words: The matter of the universe determines the particles and the particles determine the matter.
+
+The reader may be inclined to disbelieve this strange result. But there are several confirmations, one is Einstein’s General Relativity (GTR) which contains the same feedback loop: Reduced to basics, GTR calculates the density of space-time at each point in space using the density of matter and energy everywhere in the universe. A non-uniform density is referred to as curvature of space. This curvature is then used to determine the paths of moving matter and of light that follow the curvature. Archibald Wheeler expressed this: All the matter of the universe tells space what it is and conversely space tells matter how it must move. The feed back loop is the same. This is not surprising because we have already found that all physical laws are a result of the WSM and its space medium. If GTR were not part of the WSM this would be unexpected indeed. Nevertheless, this feedback in Nature is puzzling and perhaps the reader can find its cause and further meaning.
+
+Equation of the Cosmos. A simple calculation [16] using Principle II also yields an eye-opening relationship between the effective radius r of the electron center, the radius R of the Hubble universe and the number N of particles in the universe, termed the Equation of the Cosmos:
+
+r2 = R2/√ [3N]
+
+The meaning is remarkable! The smallest things of the universe, r, depend only on the largest things, R and N. This equation also expresses the connectivity of matter – each particle depends upon all others in the universe. The computed value of r corresponds with the classical electron radius, approximately 10-15 m. It is the logical common thread between Mach’s Principle, General Relativity, and the philosopher’s concept of ONE substance, which are brought together as consequences of the Wave Structure of matter.
+
+Why can’t we feel ‘space’? Feeling requires a human sensor of energy exchange. We don't have this sense because our survival as an animal species depends mostly on our ability to fight with other animals seeking food, and to compete for mates that produce children. Sensing the medium would not help our survival so Nature has not equipped us to do it. In our self-focused human perspective few of us are aware of the wave medium in which we exist. As Sir Oliver Lodge quipped: A fish cannot comprehend the existence of water. He is too deeply immersed in it.
+
+I. Origin of the Natural Laws
+
+The wave structure of the electron Eqns. (2a & 2b) contains the experimentally observed natural laws. The mathematics are derived by Wolff [6,16] and summarized as follows:
+
+Doppler. The most surprising consequence of the WSM is found from the Doppler effect between two relatively moving wave centers. Say, one is an observer electron and the other is a source (another electron). Using Doppler math, you will find the relativistic mass increase, the Compton and deBroglie wavelengths, and consequently the Schroedinger Equation. At first it seems astonishing that all these occur together but upon reflection it is logical since each of them depends on relative velocity. They are calculated by writing two waves, like Eqns. 2a or 2b, for the two relatively moving electrons. The Doppler effect is then inserted into both the inward and outward waves. Then you find that in each term of the resulting total Doppler shifted wave that contains mass or frequency, there is a relativistic mass-increase factor
+
+The Doppler wavelength becomes the deBroglie wavelength, and, the phase velocity contains the Compton wavelength – the basis of QM! Before the WSM there was no theoretical explanation of either QM or SRT or their common origin. Now the reason is immediately clear from the wave algebra. Note that the in- and the out-waves have symmetrical roles in the Doppler. This means there is no dependence on the direction of the relative velocity, as is experimentally observed.
+
+ 
+
+Annihilation of electron and positron waves occurs when super-imposed. This is immediately obvious because Eqn. 2a = - Eqn.2b.
+
+Spin of h/4π occurs due to 3D spherical rotation of the in-wave at the center to become an out-wave. This rotation is. described by the SU2 group theory of Battey-Pratt [14]. The two opposite rotations produce matter and anti-matter that make up the binary universe in which we live. This is especially interesting because group-math theorists have shown that this type of rotation is a property of 3D space only, not 4D, or 10D or 11D etc. Thus matter and anti-matter can occur only in a 3D world.
+
+Energy Conservation occurs because only identical wave states can resonate with each other, producing equal and opposite frequency (energy) shifts.
+
+Electric force interactions appear to us (as proposed by Schroedinger) at the high-density centers. Thus the wave centers look like point charges, as in Figure 3.
+
+Gravity is a property of the behavior of wave centers [13]. It occurs because the in-wave, on arrival at the center, establishes the position and motion of a particle. Matter nearby modifies the density of the surrounding medium, according to Principle II. Then, the changed medium density causes the in-wave to slow down and move the wave-center towards the nearby matter. We observe this motion as a gravity force. Other forces are also produced by a similar change of medium density.
+
+The CPT (charge, parity and time) transformation properties of an electron have been observed in experimental QM for many years but the reasons have not been known. CPT means that if you switch a particle to its opposite property in the order C >P >T you will arrive back to the initial particle. Switching parity is a mirror reflection. That is, r becomes –r. You can easily show with a little algebra that Eqns. 2a and 2b contain the CPT property.
+
+Inertia - The acceleration of matter changes its Doppler frequency relative to the surrounding wave medium. Restoring frequency equilibrium produces energy exchanges with the medium that appears as a local force F=ma. This has been known experimentally since Galileo and Newton, but the reason has not been known until the WSM incorporated Mach’s Principle.
+
+The New Electrodynamics
+
+Prof. Carver Mead, an engineer at Cal Tech investigated the e-m consequences of the WSM in his 2000 book "Collective Electrodynamics" [8]. This book is very popular in Silicon Valley because it shows correct ways to solve the electromagnetics of transistor circuits. He recognized that the electron is not a point particle but a wave structure. Thus the approximations of Maxwell’s Equation do not work when dimensions approach the quantum region, especially magnetism. Mead made use of the electron wave structure observed at low temperatures [17] to derive a vector potential analogous to Principle II. This replaced the erroneous magnetism of Maxwell Equations – an error foreseen by Einstein. Mead’s work begins an important future for wave-based electromagnetism.
+
+Conclusions
+
+The proposals of Clifford and Schroedinger were correct that an electron is a continuous wave structure in space not a material particle, and our observation of point particles and electromagnetic waves are merely appearances (schaumkommen). The Schroedinger wave functions must be interpreted as the electron itself, as seen at the Dean Dauger (UCLA) animation site above. As a result, the classic paradoxes, ‘renormalization’, wave-particle duality, and Copenhagen uncertainty, no longer exist.
+
+Unity of the Universe. The wave medium - the space around us - is the ONE source of matter and the natural laws. Since the waves of each particle are inter-mingled with the waves of other matter and all contribute to the density of the medium, it follows that every charged particle is part of the universe and the universe is part of each charged particle.
+
+Principle II (extended Mach principle) shows that the stars and galaxies of the universe are essential to the laws of Nature and to the existence of the Earth and ourselves. This important fact is not presently familiar to the science community. For example, the present Standard Model of the universe contain no recognition of Mach’s Principle, nor our inter-connection with the universe.
+
+Why has the science community not sought the WSM? There is a dark side to the development of science. It is tempting to imagine scientists as noble pioneers, questing for the greater good of humanity, and transfixed by the wonderful mysteries of the world. However scientists are no different than you or I. The day-to-day history of nearly every radical discovery tells an entirely different story portraying a community that will eat its own in the name of progress and where each member usually votes his pocketbook.
+
+All the deadly sins of man and womankind are found in the hearts of scientists. Knowing this helps understand why the science community has not sought the Wave Structure of Matter. It will take a long time to dispel treasured scientific illusions even though following the path of the discrete particle leads science down a dead end street. Figure 4.
+
+L. The Future
+
+There will be new valuable applications of the WSM in technologies concerned with the behavior of matter at small molecular dimensions: especially, nanotechnology, the design of new alloys and catalysts, more efficient power transmission, understanding the mechanisms of biology and medicine, building molecular computers and memories.
+
+References:
+
+1. Wm. Clifford,(1876) "On the Space Theory of Matter" in The World of Mathematics, p568, Simon and Schuster, NY (1956).
+
+2. E. Schroedinger. In Schroedinger- Life and Thought, Cambridge U. Press, p327 (1989).
+
+3. J. A. Wheeler, and R. Feynman, Rev. Mod. Phys. 17, 157 (1945).
+
+4. A. Einstein, Relativity, Crown Books (1950).
+
+5. E. R. Storri, American Scientist 85, Nov-Dec, pp 546-553 (1997).
+
+6. M. Wolff, Physics Essays 6, No 2, 181-203 (1993).
+
+7. M. Wolff, Gravitation and Cosmology in From the Hubble Radius to the Planck Scale, R. L. Amoroso et al (Eds.), pp 517-524, Kluwer Acad. Publ. (2002).
+
+8. C. Mead, Collective Electrodynamics, MIT Press (2000).
+
+9. P.A.M. Dirac, Proc. Roy. Soc. London A117, 610 (1929).
+
+10. H. Tetrode, Zeits. F. Physik 10, 312 ((1922).
+
+11. F. Hoyle and J. Narlikar, Rev. Mod. Phys. 67, No. 1, 113 (1995).
+
+12. J. Cramer, Rev. Mod. Phys. 58, 647 (1986).
+
+13. G. Haselhurst, (to be published in) What is the Electron, Apeiron Press (2005).
+
+14. E. Batty-Pratt and T. Racey, Int. J. Theor. Phys. 19, 437 (1980).
+
+15. E. Mach, (1883 German). English: The Science of Mechanics, Open Court (1960).
+
+16. M. Wolff, Exploring the Physics of the Unknown Universe, Technotran Press, (1990).
+
+17. B.S. Deaver and W.M. Fairbank, Phys. Rev. Ltrs. 7, 42 (1961).
+
+Anyone may copy and paste this complete presentation to their web page providing they paste it in its entirety.
+
+To paste any of my pages to your desktop in their entirety, FREE, do as follows.
+
+1. Right click link of page.
+2. Click - send target as.
+3. Click - save.
+
+Daniel P. Fitzpatrick Jr.©
+
+If any of your work seems to correlate to my findings then please write to me at:
+
+Daniel P. Fitzpatrick Apt. 314
+Belmont Village
+4310 Bee Cave Road
+West Lake Hills, TX 78746

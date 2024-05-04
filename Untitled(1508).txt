@@ -1,0 +1,291 @@
+Skip to content
+
+standardgalactic /technobabble
+
+￼
+
+Code
+
+Issues
+
+Pull requests
+
+More
+
+Esoteric Terminology
+
+License
+
+ GPL-3.0 license
+
+Code of conduct
+
+ Code of conduct
+
+ 0 stars 0 forks
+
+ 2 watching
+
+ Activity
+
+Public repository
+
+standardgalactic/technobabble
+
+ main 
+
+ Branches Tags
+
+Latest commit
+
+￼
+
+standardgalactic
+
+…
+
+3 days ago
+
+Git stats
+
+Files
+
+Type
+
+Name
+
+Commit time
+
+Advancing Algebra Education.mhtml
+
+3 months ago
+
+Advancing Algebra Education.mhtml
+
+Alignment Objectives.mhtml
+
+3 months ago
+
+Alignment Objectives.mhtml
+
+Automatic Differentiation.mhtml
+
+3 months ago
+
+Automatic Differentiation.mhtml
+
+Axion Cloud Dynamics.mhtml
+
+last month
+
+Axion Cloud Dynamics.mhtml
+
+Benchmarking Language Models.mhtml
+
+3 months ago
+
+Benchmarking Language Models.mhtml
+
+Byobu for Nuspeak Engineers.mhtml
+
+3 months ago
+
+Byobu for Nuspeak Engineers.mhtml
+
+Convergent Solutions to Frame Problem.mhtml
+
+3 months ago
+
+Convergent Solutions to Frame Problem.mhtml
+
+Counterfactual Scenarios.mhtml
+
+3 months ago
+
+Counterfactual Scenarios.mhtml
+
+Decoding Quantum Entanglement.mhtml
+
+last month
+
+Decoding Quantum Entanglement.mhtml
+
+Deep Learning Architectures.mhtml
+
+3 months ago
+
+Deep Learning Architectures.mhtml
+
+Defining Machine Intelligence.mhtml
+
+last month
+
+Defining Machine Intelligence.mhtml
+
+Efficient Software Development Decisions.mhtml
+
+3 days ago
+
+Efficient Software Development Decisions.mhtml
+
+Entropy-Based Universe.mhtml
+
+3 months ago
+
+Entropy-Based Universe.mhtml
+
+Forth Quine Example.mhtml
+
+3 months ago
+
+Forth Quine Example.mhtml
+
+Fourier Analysis.ipynb
+
+3 months ago
+
+Fourier Analysis.ipynb
+
+Free-Energy Framework.mhtml
+
+3 months ago
+
+Free-Energy Framework.mhtml
+
+Function Application Expansion.mhtml
+
+3 months ago
+
+Function Application Expansion.mhtml
+
+Futuristic Tech.mhtml
+
+3 months ago
+
+Futuristic Tech.mhtml
+
+Geometric Comparisons.mhtml
+
+3 months ago
+
+Geometric Comparisons.mhtml
+
+Harmonic Algebraic Existence Theory.mhtml
+
+3 months ago
+
+Harmonic Algebraic Existence Theory.mhtml
+
+Image Resizing with Entropy.mhtml
+
+3 months ago
+
+Image Resizing with Entropy.mhtml
+
+Instructions to Shuruppak.mhtml
+
+3 months ago
+
+Instructions to Shuruppak.mhtml
+
+Ising Sync Visualisation.ipynb
+
+3 months ago
+
+Ising Sync Visualisation.ipynb
+
+LICENSE
+
+3 months ago
+
+LICENSE
+
+Making Connections.mhtml
+
+3 months ago
+
+Making Connections.mhtml
+
+Math Topics Overview.mhtml
+
+3 months ago
+
+Math Topics Overview.mhtml
+
+Mathematical Foundations for Compositional Bayesian Brain.mhtml
+
+3 months ago
+
+Mathematical Foundations for Compositional Bayesian Brain.mhtml
+
+Potent Potables.mhtml
+
+last month
+
+Potent Potables.mhtml
+
+Principia Metaphysica Dilucidatio.mhtml
+
+3 months ago
+
+Principia Metaphysica Dilucidatio.mhtml
+
+README.md
+
+3 months ago
+
+README.md
+
+Radiation from Curved Black Holes.mhtml
+
+3 months ago
+
+Radiation from Curved Black Holes.mhtml
+
+Relaxation in Disordered Interacting Systems.mhtml
+
+3 months ago
+
+Relaxation in Disordered Interacting Systems.mhtml
+
+Space-Time Structure.mhtml
+
+3 months ago
+
+Space-Time Structure.mhtml
+
+Starts with S.mhtml
+
+3 months ago
+
+Starts with S.mhtml
+
+Symbiotic Aquatic Filtration.mhtml
+
+3 months ago
+
+Symbiotic Aquatic Filtration.mhtml
+
+Understanding the Wave-Particle Duality in Quantum Physics.mhtml
+
+last month
+
+Understanding the Wave-Particle Duality in Quantum Physics.mhtml
+
+Untyped Lambda Foundations.mhtml
+
+3 months ago
+
+Untyped Lambda Foundations.mhtml
+
+ising_animation.gif
+
+3 months ago
+
+ising_animation.gif
+
+README.md
+
+technobabble
+
+Esoteric Terminology

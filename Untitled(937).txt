@@ -1,0 +1,86 @@
+Principles of Transistor Circuits. Introduction to the Design of Amplifiers, Receivers and Digital Circuits
+│ ├ Prior Processes and Their Applications  Nonparametric Bayesian Estimation
+│ ├ Pro Android with Kotlin
+│ ├ Pro Devops with Google Cloud Platform  With Docker, Jenkins, and Kubernetes
+│ ├ Pro Docker  Learn how to use Containers as a Service for development and deployment
+│ ├ Pro Java Clustering and Scalability  Building Real-Time Apps with Spring, Cassandra, Redis, WebSocket and RabbitMQ
+│ ├ Pro MERN Stack  Full Stack Web App Development with Mongo, Express, React, and Node
+│ ├ Pro REST API Development with Node.js
+│ ├ Pro SQL Server on Linux  Including Container-Based Deployment with Docker and Kubernetes
+│ ├ Probabilistic Forecasting and Bayesian Data Assimilation
+│ ├ Probabilistic Graphical Models  Principles and Techniques
+│ ├ Probabilistic Programming in Julia
+│ ├ Probabilistic finite element model updating using Bayesian statistics   applications to aeronautical and mechanical engineering
+│ ├ Process Control System Fault Diagnosis  A Bayesian Approach
+│ ├ Programmable Logic Controllers  A Practical Approach to IEC 61131-3 using CoDeSys
+│ ├ Programming JavaScript Applications  Robust Web Architecture with Node, HTML5, and Modern JS Libraries
+│ ├ Programming Rust
+│ ├ Programming WebAssembly with Rust
+│ ├ Programming in Haskell 2nd edition
+│ ├ Programming in D
+│ ├ Python 3 Text Processing with NLTK 3 Cookbook  Over 80 practical recipes on natural language processing techniques using Python's NLTK 3.0
+│ ├ Python Algorithms  Mastering Basic Algorithms in the Python Language
+│ ├ Python Data Analytics  With Pandas, NumPy, and Matplotlib
+│ ├ Python Programming.  Python Programming for Beginners, Python Programming for Intermediates
+│ ├ Python  Learn Python Regular Expressions FAST!   The Ultimate Crash Course to Learning the Basics of Python Regular Expressions In No Time
+│ ├ Quantum Physics For Dummies
+│ ├ Rapid Prototyping with JS  Agile JavaScript Development
+│ ├ Rasmussen-2010-A Bayesian Approach for Fast and Accurate Gene Tree
+│ ├ Raspberry Pi Home Automation with Arduino, 2nd Edition  Unleash the power of the most popular microboards to build convenient, useful, and fun home automation projects
+│ ├ Reach For the Stars-Manual
+│ ├ Ready, Study, Go!  Smart Ways to Learn
+│ ├ Real-Time Web Application Development   With ASP.NET Core, SignalR, Docker, and Azure
+│ ├ Reasoning with data   an introduction to traditional and Bayesian statistics using R
+│ ├ Refactoring  Improving the Design of Existing Code
+│ ├ Regular Expression Pocket Reference  Regular Expressions for Perl, Ruby, PHP, Python, C, Java and .NET
+│ ├ Regularization and Bayesian Methods for Inverse Problems in Signal and Image Processing
+│ ├ Reliability and Risk  A Bayesian Perspective
+│ ├ Remote Sensing and Image Interpretation
+│ ├ Rigorously Bayesian Multitarget Tracking and Localization
+│ ├ Robot Operating System for Absolute Beginners  Robotics Programming Made Easy
+│ ├ Robot-Proof  Higher Education in the Age of Artificial Intelligence
+│ ├ Rocket Locomotive Modeling PDF Tutorial - Blender 3D Design 
+│ ├ Science Year by Year.  A Visual History, From Stone Tools to Space Travel
+│ ├ Scientific Programming and Computer Architecture
+│ ├ Scientific Reasoning  The Bayesian Approach
+│ ├ Security analysis of Docker containers in a production environment
+│ ├ Semantic Web Approach to the GitHub Database Proce
+│ ├ Service-Oriented Architecture  Analysis and Design for Services and Microservices
+│ ├ Seven Databases in Seven Weeks  A Guide to Modern Databases and the NoSQL Movement
+│ ├ Seven More Languages in Seven Weeks  Languages That Are Shaping the Future
+│ ├ Shah The Bayesian Case
+│ ├ Shoorangiz, Mohammadreza Final PhD Thesis
+│ ├ Simplifying JavaScript  Writing Modern JavaScript with ES5, ES6, and Beyond
+│ ├ Simulating Nonlinear Circuits with Python Power Electronics  An Open-Source Simulator, Based on Python™
+│ ├ Smashing Node.js  JavaScript Everywhere
+│ ├ Smithsonian  The Dinosaur Book  And Other Wonders of the Prehistoric World
+│ ├ Snakes, Sunrises, and Shakespeare  How Evolution Shapes Our Loves and Fears
+│ ├ Social Cognition  How Individuals Construct Social Reality (Social Psychology  A Modular Course
+│ ├ Solar, Stellar and Galactic Connections between Particle Physics and Astrophysics (Astrophysics and Space Science Proceedings)
+│ ├ Some Bayesian and non-Bayesian procedures for the analysis of com
+│ ├ Spark  The Definitive Guide  Big Data Processing Made Simple
+│ ├ Spatial2proceedings
+│ ├ Special Subjects  Basic Color Theory  An Introduction to Color for Beginning Artists
+│ ├ Spectral Theory and Quantum Mechanics  Mathematical Foundations of Quantum Theories, Symmetries and Introduction to the Algebraic Formulation
+│ ├ Speed Math for Kids  The Fast, Fun Way To Do Basic Calculations
+│ ├ Spooky Action at a Distance  The Phenomenon That Reimagines Space and Time—and What It Means for Black Holes, the Big Bang, and Theories of Everything
+│ ├ Spring Microservices in Action
+│ ├ Stability and Coalescence of Bubbles in Salt Solutions in a Bubble
+│ ├ Star Formation in Galaxy Evolution  Connecting Numerical Models to Reality  Saas-Fee Advanced Course 43. Swiss Society for Astrophysics and Astronomy
+│ ├ Statistical Arabic Grammar Analyzer Based on Rules Mining Approach Using Naïve Bayesian 
+│ ├ Statistical Data Analytics  Foundations for Data Mining, Informatics, and Knowledge Discovery
+│ ├ Statistical Inference and Prediction in Climatology  A Bayesian Approach
+│ ├ Statistical Rethinking  A Bayesian Course with Examples in R and Stan
+│ ├ Statistical classifiers  Bayesian decision theory and 
+│ ├ Statistically sound machine learning for algorithmic trading of financial instruments
+│ ├ Statistics Without Tears  A Primer for Non Mathematicians
+│ ├ Statistics in Plain English, Third Edition
+│ ├ Statistics  A Bayesian Perspective
+│ ├ Statistics Chkrebtii FINAL
+│ ├ Steels  Metallurgy and Applications, Third Edition
+│ ├ Stevedores and Dockers  A Study of Trade Unionism in the Port of London, 1870–1914
+│ ├ Stochastic Simulation and Monte Carlo Methods  Mathematical Foundations of Stochastic Simulation
+│ ├ Stochastic Weather Generation with Approximate Bayesian Computation
+│ ├ Structural Equation Modeling A Bayesian Approach(2007)
+│ ├ Structures  or, Why things don't fall down
+│ ├ 

@@ -1,0 +1,15 @@
+Plan: Search for information about the Standard Galactic alphabet
+Evidence: Commander Keen is a series of side-scrolling platform video games developed primarily by id Software...
+Answer: No information about the Standard Galactic alphabet was provided in this evidence. Further research is needed. 
+
+Plan: Learn how to write a message using the Standard Galactic alphabet
+Evidence: Write in Standard Galactic Alphabet.
+Answer: No message was provided. It is not possible to learn how to write in the Standard Galactic alphabet with this evidence. 
+
+Plan: Translate a message from English to the Standard Galactic alphabet
+Evidence: In Basic, Shyriiwook translates to "tongue of the tree people. ... It also had fifteen separate words meaning "violence." ... ("Hello. How are you?") Ruow.
+Answer: The message "Hello. How are you?" translates to "Ruow" in the Standard Galactic alphabet. 
+
+Plan: Decode a message written in the Standard Galactic alphabet
+Evidence: Decrypt.
+Answer: No message written in the Standard Galactic alphabet was provided. It is not possible to decode a message with this evidence.

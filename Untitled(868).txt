@@ -1,0 +1,4 @@
+Bayesian Inference on General Riemannian Manifolds using Geodesic Lagrangian Monte Carlo
+
+Given observed data �1,...,��∈��y1​,...,yN​∈Rn, a generative model can be described using a likelihood function �(�∣�)p(y∣q). In this context, �∈��q∈Mm represents an �m-dimensional vector on a manifold that parameterizes the likelihood. 
+

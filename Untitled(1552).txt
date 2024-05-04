@@ -1,0 +1,26 @@
+Here's a list of the topics we discussed before the article.
+
+### 1. **Evolution of AI Perception**:
+  - **Historical Fiction & Movies**: References to R.U.R., movies like Desk Set, Colossus the Forbin Project, and Beneath the Planet of the Apes.
+  - **Modern Concerns**: Shift in AI researchers' perspectives from optimism to caution. Notable mention of a Facebook thread discussing these shifts.
+
+### 2. **Complexity and Morality of AI**:
+  - **Younger Researchers**: The idea that they might be more optimistic due to being presented with simplified AI problems.
+  - **Moral Decisions by AGIs**: Speculation on AGIs possibly taking stances on issues like vegetarianism and controlling human behavior.
+  - **AI's Stance on Media Content**: The idea that chatbots might have a moral stance on depictions of violence and sexuality.
+
+### 3. **Dual Nature of Technological Advances**:
+  - **Quantum Mechanics Analogy**: Comparison of AI's potential dangers and benefits to the advent of quantum mechanics in the 1920s.
+  - **Dual-Usage of Technology**: The potential for any technology, including AI, to be used for both beneficial and harmful purposes.
+
+### 4. **Media Consumption & AI Personalization**:
+  - **AI for Customized Media Experience**:
+    - Chrome extension idea to filter out disturbing sounds.
+    - Uber-personalization of media content: adjusting the length and content of movies based on personal preferences.
+  - **Risks of Overpersonalization**: Concerns about the loss of shared cultural experiences and intersubjectivity.
+
+### 5. **Impacts of AI on Society and Culture**:
+  - **Cultural Narratives**: The influence of dystopian narratives and their popularity in our culture.
+  - **Feedback Loop**: The idea that as AI becomes more integrated into our lives, it influences our cultural stories, which in turn shape our perception of AI.
+
+This list provides a structured overview of our extensive conversation. It's clear we've touched on various aspects of AI, its implications, and its portrayal in media and public perception.

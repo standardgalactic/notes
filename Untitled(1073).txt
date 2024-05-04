@@ -1,0 +1,44 @@
+LAMMPS[edit]
+
+From Wikipedia, the free encyclopedia
+
+￼77 revisions since 2006-07-24 (+152 days), 49 editors, 1,061 pageviews (30 days), created by: BenFrantzDale (13,927) · See full page statistics
+
+Jump to navigationJump to search
+
+￼
+
+This article relies excessively on references to primary sources. Please improve this article by adding secondary or tertiary sources.
+Find sources: "LAMMPS" – news · newspapers · books · scholar · JSTOR (April 2012) (Learn how and when to remove this template message)
+
+Large-scale Atomic/Molecular Massively Parallel Simulator￼Original author(s)Steve Plimpton, Aidan Thompson, Stan Moore, Axel Kohlmeyer, Richard BergerDeveloper(s)Sandia National Laboratories
+Temple UniversityInitial release1995; 28 years agoStable release
+
+23June2022 / June 23, 2022; 12 months ago
+
+Repositorygithub.com/lammps/lammpsWritten inC++Operating systemCross-platform: Linux, macOS, Windows, FreeBSDPlatformx86, x86-64, ARM, POWER9Size480 MBAvailable inEnglishTypeMolecular dynamicsLicenseGNU General Public LicenseWebsitewww.lammps.org
+
+Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS) is a molecular dynamics program from Sandia National Laboratories.[1] LAMMPS makes use of Message Passing Interface (MPI) for parallel communication and is free and open-source software, distributed under the terms of the GNU General Public License.[1]
+
+LAMMPS was originally developed under a Cooperative Research and Development Agreement (CRADA) between two laboratories from United States Department of Energy and three other laboratories from private sector firms.[1] As of 2016, it is maintained and distributed by researchers at the Sandia National Laboratories and Temple University.[1]
+
+Contents
+
+1Features
+
+2See also
+
+3References
+
+4External links
+
+Features[edit]
+
+For computing efficiency, LAMMPS uses neighbor lists (Verlet lists) to keep track of nearby particles. The lists are optimized for systems with particles that repel at short distances, so that the local density of particles never grows too large.[2]
+
+On parallel computers, LAMMPS uses spatial-decomposition techniques to partition the simulation domain into small 3d sub-domains, one of which is assigned to each processor. Processors communicate and store ghost atom information for atoms that border their subdomain. LAMMPS is most efficient (in a parallel computing sense) for systems whose particles fill a 3D rectangular box with approximately uniform density.
+
+LAMMPS also allows for coupled spin and molecular dynamics in an accelerated fashion.[3]
+
+LAMMPS is coupled to many analysis tools and engines as well.[4][5][6]
+

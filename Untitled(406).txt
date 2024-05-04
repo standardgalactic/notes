@@ -1,0 +1,28 @@
+** Some examples of multiscale models. **
+
+Multiscale models are mathematical models that describe systems that operate at multiple different scales or levels of resolution. Some examples of systems that can be modeled using multiscale techniques include:
+
+Materials: Multiscale models can be used to predict the properties and behavior of materials, such as the strength and conductivity of metals, the elasticity and fracture toughness of ceramics, and the viscosity and surface tension of fluids.
+
+Biological systems: Multiscale models can be used to understand the behavior of biological systems, such as the dynamics of gene regulation, the mechanisms of protein folding, and the functioning of the immune system.
+
+Environmental systems: Multiscale models can be used to study environmental systems, such as the water cycle, the carbon cycle, and the impacts of climate change on ecosystems and the Earth's climate.
+
+Social and economic systems: Multiscale models can be used to analyze social and economic systems, such as the spread of diseases, the dynamics of financial markets, and the impacts of social networks on human behavior.
+
+
+** Explain the difficulty of determining boundary layers. **
+
+Determining boundary layers, or the thin regions of fluid that exist near solid boundaries, can be challenging for several reasons.
+
+One reason is that boundary layers are often very thin, and can be difficult to measure or resolve accurately using experimental or computational techniques.
+
+This can make it difficult to obtain accurate data on the properties and behavior of boundary layers, and can limit the precision and reliability of models that seek to describe them.
+
+Another reason that determining boundary layers can be difficult is that they are often affected by a variety of factors, such as the shape and roughness of the solid boundary, the properties of the fluid, and the presence of external forces or flows.
+
+These factors can interact in complex ways and can make it difficult to predict the behavior of boundary layers accurately.
+
+Finally, boundary layers can be affected by a variety of physical phenomena, such as turbulence, viscous forces, and heat and mass transfer, which can further complicate their behavior and make it difficult to model them accurately.
+
+Overall, the combination of these factors can make it challenging to determine boundary layers and to develop accurate and reliable models of their behavior.

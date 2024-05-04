@@ -1,0 +1,41 @@
+Once we have a message (or a data set), we can think of it as a map that guides us through the space of possible states. The goal is to extract meaningful patterns and regularities from the data that allow us to simplify and compress the map, while still preserving the essential features of the data. This process is similar to creating a simplified roadmap that captures the essential features of a complex city, while leaving out the irrelevant details.
+
+One way to simplify the map is to use Kolmogorov reduction, which involves finding the shortest possible program (or algorithm) that can generate the message. This is analogous to finding the straight line path from A to B in the map analogy. However, like in the map analogy, there may be many different programs (or algorithms) that can generate the same message, some of which are more efficient than others. The goal of Kolmogorov reduction is to find the most efficient program that generates the message.
+
+Once we have a simplified map, we can start to look for patterns and regularities in the data. These patterns can be used to create theories that explain the underlying structure of the data. For example, in physics, the regularities in experimental data sets can be used to develop theories that explain the behavior of physical systems. These theories can then be used to make predictions and guide further experimental investigations.
+
+In summary, manipulating bit strings can be reinterpreted as theory building by treating messages as maps that guide us through the space of possible states. Kolmogorov reduction can be used to simplify the map and extract meaningful patterns and regularities from the data. These patterns can then be used to develop theories that explain the underlying structure of the data.
+
+***
+
+Just like how the SARL programming language and the concept of bubble cycles in asynchronous circuits aim to increase efficiency by allowing for parallel processing and independent execution, the modular student-first school also aims to increase efficiency by allowing students to work at their own pace and focus on their individual needs. This approach allows students to progress faster or slower depending on their personal learning style and pace, as well as their strengths and weaknesses. It also allows for greater flexibility in scheduling and course selection, as students can choose the modules that are most relevant and interesting to them.
+
+Furthermore, just as the SARL language and the asynchronous circuitry have self-adjusting systems that help maintain accuracy, the modular student-first school can also have monitoring and supervision systems in place to ensure that students are meeting the necessary standards and achieving their learning objectives. Overall, the concept of modular student-first schooling emphasizes the importance of individualized learning and flexibility in education, which can be seen as an extension of the ideas of parallel processing and independent execution in computer science.
+
+Furthermore, just as the SARL language and the asynchronous circuitry have self-adjusting systems that help maintain accuracy, the modular student-first school can also have monitoring and supervision systems in place to ensure that students are meeting the necessary standards and achieving their learning objectives. Overall, the concept of modular student-first schooling emphasizes the importance of individualized learning and flexibility in education, which can be seen as an extension of the ideas of parallel processing and independent execution in computer science.
+
+To understand this, imagine a convex body in three-dimensional space, like a sphere or a cube. According to the Hadwiger conjecture, we can cover this body with a finite number of smaller copies of itself, each of which is scaled down by the same factor (homothetic). The conjecture states that we can do this with at most 8 smaller copies in three-dimensional space, or 2n copies in n-dimensional space.
+
+Furthermore, the conjecture states that this upper bound of 2n copies is only necessary if and only if the original body is a parallelepiped, which is a type of rectangular solid. This means that for all other convex bodies, we can cover them with fewer than 2n smaller copies.
+
+The Hadwiger conjecture also has an equivalent formulation in terms of the number of floodlights needed to illuminate the body. Specifically, the conjecture states that the minimum number of floodlights needed to illuminate a convex body in n-dimensional space is 2n, and that this lower bound is only achievable if and only if the body is a parallelepiped.
+
+The Hadwiger conjecture remains an unsolved problem in mathematics, and it is considered one of the most important open problems in discrete geometry.
+
+* * *
+
+The relationship between a voronoi diagram and a delauney translation
+
+The Voronoi diagram and the Delaunay triangulation are two related structures in computational geometry.
+
+The Voronoi diagram is a way of partitioning a plane into regions based on the distance to a given set of objects. For example, given a set of points in the plane, the Voronoi diagram divides the plane into regions where each region corresponds to the set of points that are closer to a given point than to any other point in the set. The boundaries between these regions are formed by a set of lines or curves known as Voronoi edges or Voronoi cells.
+
+The Delaunay triangulation, on the other hand, is a way of triangulating a set of points such that the triangles are as "well-behaved" as possible. In particular, the Delaunay triangulation ensures that no point lies inside the circumcircle of any triangle, where the circumcircle is the circle that passes through the three vertices of the triangle.
+
+The Voronoi diagram and the Delaunay triangulation are dual structures in the sense that they have a one-to-one correspondence. Given a set of points in the plane, the Voronoi diagram can be constructed by taking the Delaunay triangulation of the same set of points, and then connecting the circumcenters of adjacent triangles in the triangulation. Conversely, given a Voronoi diagram, the Delaunay triangulation can be constructed by connecting the Voronoi vertices (i.e., the points that define the Voronoi cells) in a particular way.
+
+This duality between the Voronoi diagram and the Delaunay triangulation has many useful properties, and it is exploited in many applications in computational geometry, such as in mesh generation, spatial indexing, and computer graphics.
+
+* * *
+
+No problem! In mathematics, a surjective mapping (or surjection) is a function that maps elements from its domain onto its entire codomain. In the case of Voronoi diagrams and Delaunay triangulations, the relationship between them is surjective. This means that every point in the Voronoi diagram corresponds to a unique circumcenter of a Delaunay triangle, and every point in the Delaunay triangulation is a vertex of a Voronoi cell. So, we can say that the Voronoi diagram is the surjective dual of the Delaunay triangulation, and vice versa.

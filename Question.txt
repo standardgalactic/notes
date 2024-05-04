@@ -1,0 +1,20 @@
+Q: If the weight of a conv layer is zero, the gradient will also be zero, and the network will not learn anything. Why "zero convolution" works?
+
+A: This is wrong. Let us consider a very simple
+
+y=wx+b
+
+and we have
+
+∂y/∂w=x,∂y/∂x=w,∂y/∂b=1
+
+and if w=0 and x≠0, then
+
+∂y/∂w≠0,∂y/∂x=0,∂y/∂b≠0
+
+which means as long as x≠0, one gradient descent iteration will make w non-zero. Then
+
+∂y/∂x≠0
+
+so that the zero convolutions will progressively become a common conv layer with non-zero weights.
+

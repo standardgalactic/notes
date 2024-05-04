@@ -1,0 +1,61 @@
+Global value   how to spot bubbles, avoid market crashes, and earn big returns in the stock market
+│ ├ Go Programming by Example
+│ ├ Go Web Programming
+│ ├ Go in Action
+│ ├ Graph-based Knowledge Representation  Computational Foundations of Conceptual Graphs
+│ ├ Graphviz Tutorial
+│ ├ Gravity's Engines  How Bubble-Blowing Black Holes Rule Galaxies, Stars, and Life in the Cosmos
+│ ├ Gray hat Python   Python programming for hackers and reverse
+│ ├ Griftopia  Bubble Machines, Vampire Squids, and the Long Con That Is Breaking America
+│ ├ H-Point  The Fundamentals of Car Design & Packaging
+│ ├ Habli Nada 2016 thesis
+│ ├ Han-2009-Code Completion From Abbreviated Input
+│ ├ Handbook in Monte Carlo Simulation  Applications in Financial Engineering, Risk Management, and Economics
+│ ├ Handbook of  Graph Grammars and Computing by Graph Transformation, Volume 1  Foundations (Handbook of Graph Grammars and Computing by Graph Transformation)
+│ ├ Handbook of Evolution, Volume 1  The Evolution of Human Societies and Cultures
+│ ├ Handbook of Evolution. Volume 2  The Evolution of Living Systems
+│ ├ Handbook of Face Recognition
+│ ├ Handbook of Scientific Methods of Inquiry for Intelligence Analysis (Scarecrow Professional Intelligence Education Series)
+│ ├ Handbook of Structural Equation Modeling
+│ ├ Handbook of approximate Bayesian computation
+│ ├ Handbook of the History of Logic, Volume 8  The Many Valued and Nonmonotonic Turn in Logic
+│ ├ Handbook of the History of Logic. Volume 01  Greek, Indian and Arabic Logic
+│ ├ Handbook of the History of Logic. Volume 02  Mediaeval and Renaissance Logic
+│ ├ Handbook of the History of Logic. Volume 03  The Rise of Modern Logic  From Leibniz to Frege
+│ ├ Handbook of the History of Logic. Volume 04  British Logic in the Nineteenth Century
+│ ├ Handbook of the History of Logic. Volume 05  Logic from Russell to Church
+│ ├ Handbook of the History of Logic. Volume 06  Sets and Extensions in the Twentieth Century
+│ ├ Handbook of the History of Logic. Volume 07  Logic and the Modalities in the Twentieth Century
+│ ├ Handbook of the History of Logic. Volume 08  The Many Valued and Nonmonotonic Turn in Logic
+│ ├ Handbook of the History of Logic. Volume 10  Inductive Logic
+│ ├ Handbook of the History of Logic. Volume 11  Logic  A History of its Central Concepts
+│ ├ Handbook of the history of logic. Vol. 09. Computational logic
+│ ├ Head First Algebra  A Learner's Guide to Algebra I
+│ ├ Head First C#  A Learner's Guide to Real-World Programming with C#, XAML, and .NET
+│ ├ Head First Kotlin
+│ ├ Hello, Haskell!
+│ ├ Hierarchical Bayesian Modeling with Ensemble MCMC
+│ ├ Hierarchical Bayesian Optimization Algorithm  Toward a new Generation of Evolutionary Algorithms
+│ ├ Histoire de la Logique
+│ ├ Histoire de problemes, histoire des mathematiques
+│ ├ Histoire des sciences et des savoirs   Tome 1, De la Renaissance aux Lumières
+│ ├ Histoire des sciences et des savoirs   Tome 2, Modernité et globalisation
+│ ├ Histoire des sciences et des savoirs   Tome 3, Le siècle des technosciences
+│ ├ Homemade bath bombs, salts and scrubs  300 natural recipes for luxurious soaks
+│ ├ How software works   the magic behind encryption, CGI, search engines, and other everyday technologies
+│ ├ How Improving the efficiency of Bayesian
+│ ├ Human-centered design considered harmful
+│ ├ Husserl-Ideas-First-Book
+│ ├ Hypercubeorder.svg (1)
+│ ├ Hypercubeorder.svg
+│ ├ Hyperparameter optimization using Bayesian optimization on transfer learning for medical image
+│ ├ IRON MAKING AND STEELMAKING  THEORY AND PRACTICE
+│ ├ Ignition!  An Informal History of Liquid Rocket Propellants
+│ ├ Illustrious Americans   their lives and great achievements
+│ ├ Industrial Automation and Robotics  An Introduction
+│ ├ Infants as causal agents. In A. Gopnik & L. E.
+│ ├ Information Warfare  The Meme is the Embryo of the Narrative Illusion
+│ ├ Inkscape Beginner's Guide
+│ ├ Inkscape  Guide to a Vector Drawing Program (4th Edition)
+│ ├ Innovations in Bayesian Networks  Theory and Applications
+│ ├ 

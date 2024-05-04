@@ -1,0 +1,17 @@
+Randy Hall:
+Honest question: when you say "crossover" what is being exchanged? A certain few lines of code? A subroutine? Some sort of defined function? Of course I'm familiar with the biological (genetic) concept of crossover, but how does this happen in computer science?
+
+Monica Anderson:
+GAs all do contain a genome of some sort. Part of the design challenge for the crossover and the goal function is that the practitioner needs to understand the problem well enough to determine which individual is better, but also to be able to determine the parameters that comprise all solutions.
+
+There really is not a Phenotype in simple GAs. We evaluate the genotype directly using the goal function. This is a pretty radical shortcut 😃 but one that is actually starting to get used in wetlab genomics: Labs make grains with better yields without the bother to grow the seeds for a year, because they know what a higher yield DNA genome looks like.
+
+Suppose you wanted to use GA to optimize shipping cost to design a square cornered box big enough for shipping a bicycle. The genome would contain the X, Y, and Z sizes of the box and those would initially be totally randomized in each individual. The goal function returns zero fitness for every box that cannot fit the bicycle (You would need to put this computation into the goal function) and otherwise returns the length and circumference so that we can compute the shipping cost the traditional way.
+
+The crossover function might take two parents and use X from one and Y and Z from the other, and sometimes X and Y from one and Z from the other.
+
+Very rapidly we will note that the best boxes in each generation become smaller and smaller and cheaper to ship. When the Elite is stable, they all have the same X, Y, and Z which is the optimal solution.
+
+Now imagine a problem with 2000 parameters, some boolean, some numbers, and a goal function that uses every single one of them. This may be expensive, but if it is the only way forward, we'll take it. Well-behaved problems will converge rapidly.
+
+A typical individual would keep those values in an array and crossover would brutally merge the first part of one parent's array with the rest from the other parent... for one or more randomly chosen switchpoints.

@@ -1,0 +1,37 @@
+Cite
+
+Click here to open pdf in another windowPDFfor
+
+Permissions
+
+Share 
+
+Views 
+
+Search Site
+
+Abstract
+
+We review the coevolution of hardware and software dedicated to neuromorphic systems. From modest beginnings, these disciplines have become central to the larger field of computation. In the process, their biological foundations become more relevant, and their realizations increasingly overlap. We identify opportunities for significant steps forward in both the near and more distant future.
+
+1  Introduction
+
+Since before the dawn of computation devices, deep thinkers have mused on the capabilities of brains and whether there could be machines that could emulate some of their capabilities. With the advent of each new technology, it became the model of “the kind of thing that must be going on in the brain.” The brain must be like a clockwork, then a telegraph system, then a telephone system, then a digital computer, and now like the Internet. So the quest to make something that “works like the brain” has come to mean very different things to different people.
+
+The first issue of Neural Computation in 1989 contained papers based on two seemingly totally unrelated views, leading to divergent threads of endeavor:
+
+The use of backpropagation in training multilayer neural networks, based on the ability of computer programs running on general-purpose computers to receive inputs and learn from them
+
+The creation of special-purpose, low-power silicon integrated circuits to analyze real-time sensory signals, based on the ability of living creatures to respond to their environment in “intelligent” ways
+
+Fast-forward to 2022, when, ironically, Moore's law has propelled the first thread onto the center stage of industrial computation, while the second has only recently seen commercial development. We will find that this divergence is illusory and that at a deeper level, the two threads are actually converging. We explore how this came about and what it might be telling us about the future.
+
+2  General-Purpose Computing
+
+In 1989, neural networks were assumed to be computer programs that ran on general-purpose computers. The evolution of general-purpose computing machines is well portrayed in Figure 1. Notice that computation is the number of operations per second: we can always get more operations by waiting longer.
+
+
+How do we understand this remarkable evolution? Historically, over the long run, the cost of computation has been directly related to the energy used in that computation. Today's electronic wristwatch does far more computation than the Whirlwind did when it was built (Redmond & Smith, 1980). It is not just the computation itself that costs; it is the energy consumed and the system overhead required to supply that energy and get rid of the heat: the boxes, the connectors, the circuit boards, the power supply, the fans—all of the superstructure that makes the system work. As the technology has evolved, it has always moved, in fits and spurts, in the direction of lower energy per unit computation. That trend took us from mechanical gadgets to relays to vacuum tubes to transistors to integrated circuits. It was the force behind the transition from NMOS to CMOS technology that happened around 1980.1 Today, it is still, by Moore's law, pushing us down to nanometer sizes in semiconductor technology.
+
+The energy dissipated in a digital switching event is 12CV212CV2⁠, where CC is the capacitance and VV is the signal voltage. As the individual elements of the integrated circuit (transistors and wires) have been made smaller over the years, the capacitance CC of each electrical node has decreased and the power-supply voltage VV has decreased accordingly. Thus, the energy required to charge an electrical node from a logic-0 to a logic-1 has decreased. As the transistors are made smaller, the length of the path an electron travels to move from one side of a transistor to the other gets shorter. The time required for a transistor logic circuit to switch is directly proportional to this “transit time.” As the dimensions shrink, the distance from one transistor to another decreases, the wire connecting them will thus be shorter, so it will take signals less time to get from one end to the other. The net result is that smaller feature sizes create computing circuits that run faster and use much less energy. That trend is shown in Figure 2. When we compare the two graphs for 2010, a server operation cost an energy of ≈10−3≈10-3 J, and switching a single transistor cost ≈10−16≈10-16 J. There is a factor of ≈1013≈1013 between the energy to make a transistor work and that required to do an operation the way we do it in a digital computer.
+

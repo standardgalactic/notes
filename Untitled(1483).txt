@@ -1,0 +1,192 @@
+Connections with the following:
+
+The Autonomous System 
+A Foundational Synthesis of 
+the Sciences of the Mind
+
+Szabolcs Michael de Gyurky 
+with Mark A. Tarbell
+
+2014
+
+Chapter 5
+
+This chapter describes the functional architecture and operation of the 
+Intellect system. 
+The idea and concept of the Intellect’s architecture are derived from 
+the referenced works of Immanuel Kant, Arthur Schopenhauer, G.F.W. 
+Hegel, and from personal experience as systems architect of numerous 
+large software systems. 
+The role of the Intellect system is that of the “librarian” of the 
+autonomous system. The primary functional attribute is to create 
+knowledge out of abstract data and experience data. 
+This chapter describes the Level II architecture and operation of its 
+subsystems: Abstraction, Experience, and Knowledge. The servers are 
+described in their functional architectures and roles. 
+The external and internal interfaces are also covered in suff i cient 
+detail for the development of the autonomous system in keeping with 
+sound and strict software engineering practices. 
+5.1 THE INTELLECT AS A SYSTEM 
+In the autonomous system, the Intellect is a system unto itself, and 
+in the sense that the mind is the software hosted on the brain as the 
+processor, it is in agreement with Arthur Schopenhauer’s position on 
+The Architecture of 
+the Intellect System 
+CHAPTER 5 
+The Autonomous System: A Foundational Synthesis of the Sciences of the Mind, 
+First Edition. Szabolcs Michael de Gyurky and Mark A. Tarbell. 
+© 2014 John Wiley & Sons, Inc. Published 2014 by John Wiley & Sons, Inc. 
+5.1 The Intellect as a System 75 
+this subject.1 Strictly from a design necessity, there must be a place 
+where knowledge is generated. 
+5.1.1 Practical Knowledge 
+By generation of knowledge, it is meant practical or real knowledge, 
+for want of a better term. Recall from Section 1.5.3 that there are two 
+basic types of knowledge in the mind: the abstract and the experiential; 
+together, these form a derived, practical knowledge. The two types of 
+knowledge are often misused, used interchangeably, or one is used at 
+the exclusion of the other. Abstract knowledge is that which is acquired 
+secondhand through lectures, reading, and viewing without participa­ 
+tion; this is academic or “book” learning, and is often mistaken for 
+knowledge. Experiential knowledge is that which is acquired by per­
+
+5.1.1 Practical Knowledge 
+By generation of knowledge, it is meant practical or real knowledge, 
+for want of a better term. Recall from Section 1.5.3 that there are two 
+basic types of knowledge in the mind: the abstract and the experiential; 
+together, these form a derived, practical knowledge. The two types of 
+knowledge are often misused, used interchangeably, or one is used at 
+the exclusion of the other. Abstract knowledge is that which is acquired 
+secondhand through lectures, reading, and viewing without participa­ 
+tion; this is academic or “book” learning, and is often mistaken for 
+knowledge. Experiential knowledge is that which is acquired by per­ 
+sonal or group participation, repetition, and practice. When an indi­ 
+vidual possessing either abstract or experiential knowledge about a 
+thing has validated this knowledge by the other, this results in a new 
+type of knowledge, namely, practical knowledge: the abstract that is 
+validated by experience, or experience that is validated by the abstract. 
+Arthur Schopenhauer was not a man to give credit where it was 
+not deserved. He fi rmly labeled the information we humans acquire 
+through reading, in lectures, storytelling, and so on, as abstract knowl­ 
+edge. What he meant by this is that even the famous professors of his 
+day, if they lacked the mental elasticity and experience required, were 
+only possessors of abstract knowledge. He was very insulting and 
+unforgiving with his colleagues for not having real knowledge. Many 
+of those we have had in the past as teachers and professors and still 
+hold in high esteem often taught us in the classrooms on unsubstanti­ 
+ated information. There are too many examples encountered in this area 
+of abstract knowledge not validated by experience to ignore. 
+Since the Intellect system is the librarian of the mind, it receives, 
+sorts, and stores the two major types of information, abstract and expe­ 
+riential,2 which for design purposes is called data or information. The 
+Intellect system then formats these data and creates databases that it 
+continuously expands, updates, and modif i es through interaction with 
+the other systems of the constellation. The most important of the tasks 
+it performs is the generation of real or practical knowledge. 
+Practical knowledge is therefore the primary product of the Intel­ 
+lect system. Without the Intellect system, or with an underdeveloped 
+76 CHAPTER 5 The Architecture of the Intellect System 
+or incomplete Intellect system, there is little to very little knowl edge 
+in the mind.3 An incomplete Intellect system would be one with only 
+abstract data received from reading, viewing, and listening, and received 
+in the form of studies, lectures, and stories. Without experience to 
+validate and reinforce the data sets and convert them into true, 
+practical knowledge, they amount to no more than mere “academic” 
+knowledge. 
+Therefore, as the mind’s librarian, the Intellect is the custodian, 
+repository, and producer of knowledge. This postulate is as interesting 
+as it is intriguing. Certainly from a software systems engineering per­ 
+spective, it contains the solution to a few serious modeling problems.
+
+5.1.2 Of Modeling and Languages 
+Obviously, the philosophers Kant, Hegel, and Schopenhauer did not 
+write with a possible computer design and implementation in mind. 
+Outside of Charles Babbage’s theoretical compute engines, theirs was 
+not a world of computers, and certainly not of software requirements 
+or architectural design—precisely the reasons Babbage failed to con­ 
+struct a working engine. Theirs was a world of thought, research, and 
+publication, and yet their materials are very pertinent to the develop­ 
+ment of the autonomous system. Thus, we are called to go one step 
+beyond their work, to design the model for a machine capable of all 
+functions performed by the most intelligent human beings. Bridging 
+the gap from cognitive philosophy to software architecture, we hold 
+fast to the sum of the work of these great thinkers. However, we prepare 
+a model that is easier to understand for the development of software 
+requirements and design. Without modeling, which is then followed by 
+detailed requirements and a detailed design, very large, complex proj­ 
+ects work only by accident, and the costs are prohibitively high. 
+The German language of the eighteenth and nineteenth centuries is 
+cumbersome for articulation in our technical English of today. Using 
+the technique of modeling is a handy approach. This method of tran­ 
+sition from classical philosophy to modern computer science by build­ 
+ing a model is very important. A model is a viewable object, whereas 
+simple text can convey only half the presentation (Anschauung) 
+for an engineering effort required by a serious complex software sys­ 
+tems design. Text, in whatever language it is written, is also subject 
+to misinterpretation. There were many instances of misinterpretation 
+5.2 The Nature of the Intellect 77 
+personally experienced by the authors during various projects, all of 
+which serve to underscore the dire need for fl uency in English to be an 
+imperative and absolute necessity. A successful project is dependent on 
+the individuals participating in the design team. Their absolute mastery 
+of the language used by the design is the fi rst and most important factor. 
+Experience has shown how costly it is for a design team to have 
+individuals with limited command of the design language, especially 
+technical English. It is worthwhile to give a pertinent reference to how 
+problems are solved by modeling, in this case, how Dr. Theodore von 
+Kármán eff i ciently solved the problem that caused the collapse of the 
+Tacoma Bridge over the Tacoma Narrows in 1940.4 This is important 
+reading for software engineers, managers, and architects because it 
+involves both a priori and a posteriori judgments, and human involve­ 
+ment at all levels. Similarly, in the same book, von Kármán discusses 
+the requirements he had to meet to be awarded his BS degree in engi­ 
+neering. He had to design, build, test, and demonstrate an electromotor 
+from scratch. Utilization of all the faculties of his mind was required, 
+but primarily understanding, presentation, intellect, reason, and practi­ 
+cal skills. 
+5.2 THE NATURE OF THE INTELLECT 
+Schopenhauer argues that the Intellect is located in the brain. He does 
+this to drive home the idea that the Intellect is dependent on an organ 
+of the physical body, meaning that if the brain (Gehirn) dies, so does 
+the Intellect. Recall that to Schopenhauer’s generation of researchers, 
+the Will was distributed throughout the physical body; the brain could 
+die, but the Will would live on.5 Das Ding an sich—the thing unto 
+itself—as an object without mass and therefore endless and without
+
+...
+
+The fact that the spacecraft system mentioned earlier ended up 
+being extremely well documented and fully tested, without any delivery 
+slips, aroused even greater interest in cognitive philosophy as a tool to 
+better understanding computer software. The reading of Hegel’s Science 
+of Logic and Science of Being brought into focus the idea that computer 
+software is an abstraction of the human thought system. Arthur Scho- 
+penhauer’s great work, The World as Will and Presentation, was a 
+natural for understanding the organization and operation of the human 
+Will and its interfaces with the Reason, the Understanding, and the 
+Intellect. The resulting discovery of the connectivity to philosophy and 
+its meaning led to the examination of the ongoing work in artif i cial 
+intelligence and the efforts to come up with an architecture of a machine 
+that could think and act independently of human direction. 
+It is a strange feeling to have completed this book, knowing that 
+this is just the beginning of a new appreciation for computer science 
+as a science. Indeed, it is just a small step in the continuous evolution 
+of a great science as it takes its rightful place amid the others. There 
+are new worlds of the mind to explore because computer science incor- 
+porates all of the sciences that involve the human thought system, its 
+development and training process: logic, mathematics, ontology, ratio- 
+nal psychology, cosmology, speculative philosophy, dialectic reason- 
+ing, music, art, and so on.9 
+We now have a new insight into why we have heretofore not been 
+able to build an autonomous system, why we have been stopped in our 
+pursuit of autonomy short of our goals. The preparation of this book 
+reveals a very interesting phenomenon, in fact a startling truth that leads 
+back to Hegel and Schopenhauer. This new truth is that computer 
+science ultimately is made up of two segments: The fi rst segment com- 
+prises the physical or “empirical” sciences, while the second and com- 
+plementary segment comprises the metaphysical sciences, such as 
+logic, mathematics, and ontology (being). The sciences of the mind and 
+the way we think play an indispensable role in how we model and 
+replicate the process of dynamic thought. 
+Thus we have arrived, with the help of computer science rediscov- 
+ered, at a foundational synthesis of the sciences of the human mind.

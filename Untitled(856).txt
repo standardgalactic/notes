@@ -1,0 +1,31 @@
+As hinted at by the comments, this is by no means an exhaustive or a general solution. At the moment there is no real way to save or export the actions you perform in Blender as a script or macro.
+
+So the only way to automate things is to learn and understand the Blender Python API well, and to write a specific script to automate each task. You'll often be able to reuse code from one script in other scripts, and even to write generalized libraries that perform specific tasks, but it won't really allow you to tackle ANY problem or to automate all cases.
+
+So here's a script that automates the creation of a rock like object from a cube, and will show you:
+
+How to add primitive objects (in the example: cube, camera)
+
+How to add modifiers and to set their properties.
+
+How to add materials and set their properties.
+
+How to add textures and set their properties.
+
+How to set the render output path.
+
+How to render to a file.
+
+There's lots of things it does not show, including:
+
+How to add and set up lighting.
+
+How to change render settings (resolution, etc).
+
+A zillion other things like animation, rigging, compositing, creating complex node based materials in cycles, simulations, particles... and more.
+
+For these you'll have to read and learn other specific techniques and APIs.
+
+Here's the code:
+
+import bpy from math import radians # Add the base cube shape bpy.ops.mesh.primitive_cube_add() # Create a reference to the active object (which is the cube since we just added it) cube = bpy.data.objects[ bpy.context.object.name ] # Add a new subdivision surface modifier and set its view and render subdivision levels to 4 subsurf1 = cube.modifiers.new( "Subsurf", "SUBSURF" ) subsurf1.levels = subsurf1.render_levels = 4 # Add a new displacement modifier, set its texture to a new noise texture, and set the displacement strength to 0.15 disp = cube.modifiers.new( "Disp", "DISPLACE" ) disp.texture = bpy.data.textures.new( "DisplaceNoise", "NOISE" ) disp.strength = 0.15 # Add a 2nd subdivision surface modifier, and set its view and render levels to 2 subsurf2 = cube.modifiers.new( "Subsurf", "SUBSURF" ) subsurf2.levels = subsurf1.render_levels = 2 # Add a camera and set its location and rotation values bpy.ops.object.camera_add( location = (0, -4, 0 ), rotation = (radians(90),0,0) ) camera = bpy.data.objects[ bpy.context.object.name ] bpy.context.scene.camera = camera # Give our rock object a new material cube.active_material = bpy.data.materials.new("Rock.Mat") mat = cube.active_material # Create a shorter reference variable to the material # Set material properties mat.diffuse_intensity = 0.45 mat.specular_intensity = 0.1 mat.use_shadeless = True # Create a new musgrave texture and apply it to our materials as its active texture mat.active_texture = bpy.data.textures.new( "Diffuse", "MUSGRAVE" ) mat.texture_slots[0].color = (0,0,0) # Set base texture color to black mat.texture_slots[0].texture_coords = 'ORCO' # Set texture coordiantes to object # Set render filepath and render bpy.context.scene.render.filepath = "/tmp/rock.png" bpy.ops.render.render( write_still = True )

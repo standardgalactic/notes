@@ -1,0 +1,70 @@
+Hmm I think I can partially answer that.
+
+(With the risk of sounding like a space alien.)
+
+It sounds like you are thinking about minimal functional completeness. The only functionally complete operators (universal gates) are Nand and Nor (the Apollo computers were made using only Nor gates. (https://en.wikibooks.org/wiki/Digital_Circuits/NOR_Logic)
+
+If you want a functionally complete system with 2 operators using XOR, you need an "If then" (imply) or a "converse implication" gate as well.
+
+Of the 26 functionally complete systems, only 6 use XOR, because you can can get equivalent functionally by chaining together other gates.
+
+For example, you could simulate XOR with just ORs, ANDs, and NOT like this:
+
+A ↮ B = (A ∨ B) ∧ ¬(A ∧ B)
+
+Or like this:
+
+A ↮ B = ( A ∧ B) ∨ (¬A ∧ B)
+
+(https://en.m.wikipedia.org/wiki/Exclusive_or)
+
+Using three operators, you could use XOR and IFF and an OR or an AND, or XOR and TOP and an AND or an OR.
+
+(https://en.wikipedia.org/wiki/Functional_completeness)
+
+I asked GPT for the 16 logical operators, but it got it wrong. They should have been and ∧, or ∨, xor ↮, if then (implication) →, converse implication ←,  equivalence ↔, nand ↑, nor ↓, but not (nimply, nonimplication)↛, converse nonimplication ↚, 
+top (tautology) ⊤, bottom (contradiction) ⊥, A, B, not A, ¬A, and not B, ¬B.
+
+Good luck trying to type any of that, it seems no one can agree on the correct symbols. (There is no reason equivalence (IFF, XNOR, XAND) should be an emoji, like it shows up on facebook.)
+
+Human:
+WHAT ARE THE 16 logical operators for a Boolean calculus of two variables? 
+
+AI:
+The sixteen logical operators in the Boolean calculus of two variables are: 
+AND: A ∧ B 
+OR: A ∨ B 
+XOR: A ⊕ B 
+NOT: ¬A 
+IMPLICATION: A → B 
+CONVERSE IMPLICATION: A ← B 
+EQUIVALENCE: A ≡ B 
+NAND: A ↑ B 
+NOR: A ↓ B 
+EXCLUSIVE-OR: A ⊻ B 
+CONVERSE 
+EXCLUSIVE-OR: A △ B 
+IFF: A <→ B 
+COMPLEMENT: A ⌐ B 
+CONVERSE COMPLEMENT: A ◊ B 
+EQUIVALENT: A = B
+
+GPT3, December 4, 2022
+
+See also: https://en.wikipedia.org/wiki/List_of_logic_symbols
+
+(With a lot of arguing just now, I got it to give me a better list. I had to explain it was like counting in Binary.
+
+Could you tell me how to ask for this table or chart again, in a different session?
+
+Sure, in a different session, you can ask me "What is the table or chart of the 16 functions corresponding to all subsets of vertices of B2?" or "How can I retrieve the table or chart of the 16 functions corresponding to all subsets of vertices of B2, including the Boolean function expressions and their equivalent forms in binary logic?"
+
+Unfortunately this doesn't work.
+
+And obviously I think XNOR/ IFF should be represented as ⌐ (A↮B) or A ↔ B. 
+
+It is surprising that we should have to teach logic to computers.)
+
+Functional complete
+
+One element{↑}, {↓}.Two elements{\displaystyle \{\vee ,\neg \}}￼, {\displaystyle \{\wedge ,\neg \}}￼, {\displaystyle \{\to ,\neg \}}￼, {\displaystyle \{\gets ,\neg \}}￼, {\displaystyle \{\to ,\bot \}}￼, {\displaystyle \{\gets ,\bot \}}￼, {\displaystyle \{\to ,\nleftrightarrow \}}￼, {\displaystyle \{\gets ,\nleftrightarrow \}}￼, {\displaystyle \{\to ,\nrightarrow \}}￼, {\displaystyle \{\to ,\nleftarrow \}}￼, {\displaystyle \{\gets ,\nrightarrow \}}￼, {\displaystyle \{\gets ,\nleftarrow \}}￼, {\displaystyle \{\nrightarrow ,\neg \}}￼, {\displaystyle \{\nleftarrow ,\neg \}}￼, {\displaystyle \{\nrightarrow ,\top \}}￼, {\displaystyle \{\nleftarrow ,\top \}}￼, {\displaystyle \{\nrightarrow ,\leftrightarrow \}}￼, {\displaystyle \{\nleftarrow ,\leftrightarrow \}.}￼Three elements{\displaystyle \{\lor ,\leftrightarrow ,\bot \}}￼, {\displaystyle \{\lor ,\leftrightarrow ,\nleftrightarrow \}}￼, {\displaystyle \{\lor ,\nleftrightarrow ,\top \}}￼, {\displaystyle \{\land ,\leftrightarrow ,\bot \}}￼, {\displaystyle \{\land ,\leftrightarrow ,\nleftrightarrow \}}￼, {\displaystyle \{\land ,\nleftrightarrow ,\top \}.}￼

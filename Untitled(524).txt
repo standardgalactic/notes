@@ -1,0 +1,70 @@
+
+Stack Overflow
+
+Products
+
+￼
+
+Standard Galactic
+
+What are the benefits of functional programming? [closed]
+
+Ask Question
+
+Asked 14 years, 6 months ago
+
+Modified 3 years, 8 months ago
+
+Viewed 61k times
+
+110
+
+As it currently stands, this question is not a good fit for our Q&A format. We expect answers to be supported by facts, references, or expertise, but this question will likely solicit debate, arguments, polling, or extended discussion. If you feel that this question can be improved and possibly reopened, visit the help center for guidance.
+
+Closed 10 years ago.
+
+What do you think the benefits of functional programming are? And how do they apply to programmers today?
+
+What are the greatest differences between functional programming and OOP?
+
+functional-programming
+
+Share
+
+Edit
+
+Follow
+
+edited Aug 8, 2012 at 19:43
+
+￼
+
+Bill the Lizard
+
+396k209209 gold badges563563 silver badges877877 bronze badges
+
+asked Sep 24, 2008 at 16:03
+
+￼
+
+Rayne
+
+31k1717 gold badges8686 silver badges101101 bronze badges
+
+6
+
+The Blub Paradox. paulgraham.com/avg.html 
+
+– missingfaktor
+
+ May 24, 2010 at 2:51
+
+See c2.com/cgi/wiki?AdvantagesOfFunctionalProgramming 
+
+– EliuX
+
+ Jan 31, 2016 at 20:57
+
+Add a comment
+
+

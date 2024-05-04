@@ -1,0 +1,33 @@
+Thank you for the clarification. I apologize for the confusion earlier. The lecture you are referring to is titled "Dual Process Theory and the Frame Problem in AI" by Monica Anderson, the founder of Syntience Inc. In this lecture, Anderson discusses the idea of Dual Process Theory, which proposes that the human mind has two modes of thinking - subconscious intuitive understanding and conscious logical reasoning. She also introduces the Frame Problem, which suggests that making comprehensive models of the world is impossible because the world changes constantly, making any model obsolete. Anderson argues that AI research has been solving the wrong problem since the 1950s and proposes an alternative path to AI through Model-Free Methods such as Deep Neural Networks, which are capable of sidestepping the Frame Problem and providing true understanding.
+
+Sure, here's a longer outline of Monica Anderson's talk on Dual Process Theory and the Frame Problem:
+
+I. Introduction
+
+Introduces herself as the founder of Syntience Inc. and originator of a theory for learning called "Artificial Intuition"
+
+Outlines the talk's focus on Dual Process Theory and the Frame Problem, and their consequences for AI research
+
+II. Dual Process Theory
+
+Defines Dual Process Theory as the idea that the human mind has two disparate modes of thinking: subconscious intuitive understanding and conscious logical reasoning
+
+Explores how these two modes interact and how they relate to AI research
+
+Argues that AI has largely focused on logical reasoning to the neglect of intuitive understanding, resulting in false promises of AI success
+
+III. The Frame Problem
+
+Defines the Frame Problem as the idea that we cannot make comprehensive models of the world because the world changes behind our backs and any model we make is immediately obsolete
+
+Discusses the challenges this poses for AI research, particularly in the context of rule-based systems and logical reasoning
+
+Introduces a group of algorithms called Model Free Methods (such as Deep Neural Networks) as an alternative path to AI, capable of sidestepping the Frame Problem and providing true understanding
+
+IV. Conclusions
+
+Summarizes the main points of the talk, including the need to balance logical reasoning with intuitive understanding and the potential of Model Free Methods for advancing AI research
+
+Encourages continued exploration of these ideas and their implications for AI development
+
+

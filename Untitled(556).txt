@@ -1,0 +1,49 @@
+￼LMQL Playground
+
+￼Explore LMQL
+
+faff95d
+
+Program
+
+from·lmql.lib.actions·import·inline_use,·calc,·
+
+wiki
+
+argmax
+
+····"Q:·What·is·the·population·of·humans·and·
+
+animals·on·Earth·combined?\n"
+
+····"A:·Let's·think·step·by·step\n"
+
+····"[REASONING]\n"
+
+····"Therefore·the·answer·is[ANSWER]"
+
+from·
+
+····'openai/text-davinci-003'
+
+where
+
+····inline_use(REASONING,·[wiki,·calc])·and·INT
+
+(ANSWER)
+
+··········
+
+▶ Run
+
+Ready
+
+Model Response
+
+ Color By Variable
+
+Q: What is the population of humans and animals on Earth combined?⏎ A: Let's think step by step⏎ REASONING⏎ ⏎ ⏎ Instructions: In your reasoning, you can use the following tools:⏎ - wiki: Searches Wikipedia (always use this for factual information). Usage: <<wiki("Basketball") | Basketball is a team sport in which two teams, most comm...>>⏎ - calc: Evaluate the provided arithmetic expression in Python syntax. Usage: <<calc("1+2*3") | 7>> Example Use: ... this means they had <<calc("5-2") | 3 >> 3 apples left...⏎ You can also use the tools multiple times in one reasoning step.⏎ ⏎ Reasoning with Tools:⏎ ⏎ Step 1: Let's start by finding the population of humans on Earth. ⏎ <<wiki("World population") | In demographics, the world population is the total number of humans currently living. It was estimated by the United Nations to have exceeded eight billion in mid-November 2022. It took over 200,000 years of human prehistory and history for the human population to reach one billi>>⏎ ⏎ Step 2: Now let's find the population of animals on Earth. ⏎ <<REASONINGwiki("Animal population") |
+
+...
+
+

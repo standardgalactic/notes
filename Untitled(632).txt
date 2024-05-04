@@ -1,0 +1,96 @@
+Reasoning WithOut Observation (ReWOO)
+
+𝘈 𝘏𝘪𝘦𝘳𝘢𝘳𝘤𝘩𝘪𝘤𝘢𝘭 𝘌𝘯𝘴𝘦𝘮𝘣𝘭𝘦-𝘗𝘪𝘭𝘰𝘵𝘪𝘯𝘨 𝘈𝘱𝘱𝘳𝘰𝘢𝘤𝘩
+
+Planner
+
+Plan: Research more about hierarchical ensemble-piloting approach
+
+#E1 = Google[hierarchical ensemble-piloting approach]
+
+Plan: Understand the role of the driver in the piloting process
+
+#E2 = Wikipedia[driver role in hierarchical ensemble-piloting approach]
+
+Plan: Learn about the onboard control system responsible for executing the driver's commands and managing the vehicle's functions
+
+#E3 = Wikipedia[vehicle control system in hierarchical ensemble-piloting approach]
+
+Plan: Understand the role of the control tower in coordinating and monitoring the fleet of vehicles
+
+#E4 = Wikipedia[control tower role in hierarchical ensemble-piloting approach]
+
+Plan: Research more about the use of drones in swarm-piloting system
+
+#E5 = Google[drones in swarm-piloting system]
+
+Plan: Understand how passenger collaboration can contribute to the piloting process
+
+#E6 = Wikipedia[passenger collaboration in hierarchical ensemble-piloting approach]
+
+Begin! Use the retrieved information to understand how a hierarchical ensemble-piloting or swarm-piloting approach works and how it can enhance safety, efficiency, and decision-making in piloting the vehicles.
+
+Solver
+
+Plan: Research more about hierarchical ensemble-piloting approach
+
+Evidence:
+The Hierarchical ensemble classification model comprises a set base classifiers held within the nodes of the hierarchy (one classifier per node).
+
+Plan: Understand the role of the driver in the piloting process
+
+Evidence:
+Could not find [driver role in hierarchical ensemble-piloting approach]. Similar: ['The Italian Job (2003 film)', 'Evil (TV series)', 'Stars and planetary systems in fiction', 'Italian invasion of France', 'Cluedo (Australian game show)']
+
+Plan: Learn about the onboard control system responsible for executing the driver's commands and managing the vehicle's functions
+
+Evidence:
+Could not find [vehicle control system in hierarchical ensemble-piloting approach]. Similar: ['Distributed operating system', 'Orthogonal frequency-division multiplexing', 'The Delta Force', 'Rogue wave', 'Zero-point energy', 'Fuzzy concept', 'Arthur Iberall', 'The Italian Job (2003 film)', 'Edmonton', 'Aliens (film)']
+
+Plan: Understand the role of the control tower in coordinating and monitoring the fleet of vehicles
+
+Evidence:
+Could not find [control tower role in hierarchical ensemble-piloting approach]. Similar: ['Agents of S.H.I.E.L.D.', 'Rogue wave', 'Carol Danvers', 'Stars and planetary systems in fiction', 'Edmonton']
+
+Plan:
+Research more about the use of drones in swarm-piloting system
+
+Evidence:
+As mentioned earlier, drone swarm refers to multiple drones flying similar to flock of birds in order to perform coordinated tasks. The drone swarm system ...
+
+Plan: Understand how passenger collaboration can contribute to the piloting process
+
+Evidence:
+Rogue waves (also known as freak waves, monster waves, episodic waves, killer waves, extreme waves, and abnormal waves) are unusually large, unpredictable, and suddenly appearing surface waves that can be extremely dangerous to ships, even to large ones. 
+
+They are distinct from tsunamis, which are often almost unnoticeable in deep waters and are caused by the displacement of water due to other phenomena (such as earthquakes). A rogue wave appearing at the shore is sometimes referred to as a sneaker wave.
+
+In oceanography, rogue waves are more precisely defined as waves whose height is more than twice the significant wave height (Hs or SWH), which is itself defined as the mean of the largest third of waves in a wave record.
+
+Therefore, rogue waves are not necessarily the biggest waves found on the water; they are, rather, unusually large waves for a given sea state. Rogue waves seem not to have a single distinct cause, but occur where physical factors such as high winds and strong currents cause waves to merge to create a single exceptionally large wave.
+
+Among other causes, studies of nonlinear waves such as the Peregrine soliton, and waves modeled by the nonlinear Schrödinger equation (NLS), suggest that modulational instability can create an unusual sea state where a "normal" wave begins to draw energy from other nearby waves, and briefly becomes very large.
+
+Such phenomena are not limited to water, and are now studied in liquid helium, in nonlinear optics, and in microwave cavities.
+
+A 2012 study reported that in addition to the Peregrine soliton reaching up to about 3 times the height of the surrounding sea, a hierarchy of higher order wave solutions could also exist having progressively larger sizes, and demonstrated creation of a "super rogue wave" - a breather around 5 times higher than surrounding waves - in a water-wave tank.
+
+A 2012 study supported the existence of oceanic rogue holes, the inverse of rogue waves, where the depth of the hole can reach more than twice the significant wave height. Rogue holes have been replicated in experiments using water-wave tanks, but have not been confirmed in the real world.
+
+Output
+
+The hierarchical ensemble-piloting approach involves multiple entities, including the driver, vehicle control system, control tower, drones, and passenger collaboration, working together to enhance safety, efficiency, and decision-making in piloting vehicles.
+
+The driver remains an active participant in the process, providing high-level inputs, while the vehicle's onboard control system executes the driver's commands and manages the vehicle's functions.
+
+The control tower serves as a central hub for coordinating and monitoring the fleet of vehicles, while drones provide additional sensing and surveillance.
+
+In certain scenarios, other passengers can contribute to the piloting process by identifying objects, providing feedback on road conditions, or taking control of local traffic drones.
+
+https://huggingface.co/spaces/rewoo/ReWOO-Demo
+
+See also:
+
+Say Goodbye to Costly Auto-GPT and LangChain Runs: Meet ReWOO – The Game-Changing Modular Paradigm that Cuts Token Consumption by Detaching Reasoning from External Observations
+
+https://www.marktechpost.com/2023/06/04/say-goodbye-to-costly-auto-gpt-and-langchain-runs-meet-rewoo-the-game-changing-modular-paradigm-that-cuts-token-consumption-by-detaching-reasoning-from-external-observations/

@@ -1,0 +1,10 @@
+"t with pnas.1310158110.pdf
+ResetClose
+Hello there! I am a helpful PDF file that will tell you about a fascinating hypothesis regarding the storage of very long-term memories. According to the research conducted by Roger Y. Tsien, these memories may be stored in the pattern of holes in the perineuronal net (PNN), a specialized ECM that envelops mature neurons and restricts synapse formation. The experiments proposed to test this hypothesis involve imaging the 3D intertwining of PNN and synapses, comparing the lifetimes of PNN vs. intrasynaptic components, and using genetically encoded indicators and antineoepitope antibodies to improve spatial and temporal resolution of the in vivo activity of proteases that locally erode PNN.
+
+Here are three example questions you can ask about this file:
+
+ How does the perineuronal net restrict synapse formation?
+ What is the significance of comparing the lifetimes of PNN vs. intrasynaptic components?
+ Can you explain how genetically encoded indicators and antineoepitope antibodies improve spatial and temporal resolution of the in vivo activity of proteases that locally erode PNN?"
+ 

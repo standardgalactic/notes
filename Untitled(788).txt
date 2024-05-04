@@ -1,0 +1,24 @@
+Contraharmonic Mean
+The contraharmonic mean of x and y is (x2 +
+y2)/(x + y). For n values, the contra- harmonic mean is
+(x12 + x22 + ... + xn2)/(x1 + x2 + ... + xn)
+For example, the contraharmonic mean of 1, 3, 5, and 7 is
+(1+9+25+49)/(1+3+5+7) = 84/16 = 5.25
+Other Means
+[(xp + yp)/2]1/p (Power Mean)
+[(xp - yp)/(p(x - y))]1/(p-1) (Stolarsky Mean)
+sqrt[(x2 + xy + y2)/3] when p = 3
+(xp + yp)/(xp-1 + yp-1) (Lehmer Mean)
+[(xp + yp)/(xr + yr)]1/(p-r)
+[(r(xp - yp))/(p(xr - yr))]1/(p-r)
+[(xpyr + xryp)/2]1/(p+r)
+(x - y)/(Ln(x) - Ln(y)) (Log Mean)
+(xLn(x) + yLn(y))/(Ln(x) + Ln(y))
+(x + sqrt(xy) + y)/3 (Heronian Mean)
+(1/e)(xx/yy)1/(x-y), e = 2.718281828.... (Identric Mean)
+(e)(xy/yx)1/(y-x)
+(xxyy)1/(x+y)
+(xyyx)1/(x+y)
+Mean Inequalities
+Some means are in a constant relationship to one another. If we denote the arithmentic mean of x and y by A, their geometric mean by G, their harmonic mean by H, their root mean square by R, and their contraharmonic mean by C, then the following chain of inequalities is always true
+C ≥ R ≥ A ≥ G ≥ H

@@ -1,0 +1,11 @@
+A decoupling capacitor is an electrical
+component that is used in electronic
+circuits to provide a local reserve of
+energy, helping to stabilize the power
+supply and reduce voltage
+fluctuations. Decoupling capacitors
+are often placed close to a device that
+requires a stable voltage supply, such
+as a microcontroller or integrated
+circuit, to help ensure reliable
+operation.

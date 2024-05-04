@@ -1,0 +1,161 @@
+Theorems for free! 
+Philip Wadler 
+University of Glasgow* 
+Abstract 
+From the type of a polymorphic function we can de- 
+rive a theorem that it satisfies. Every function of the 
+same type satisfies the same theorem. This provides 
+a free source of useful theorems, courtesy of Reynolds’ 
+abstraction theorem for the polymorphic lambda calcu- 
+lus. 
+1 Introduction 
+Write down the definition of a polymorphic function on 
+a piece of paper. Tell me its type, but be careful not 
+to let me see the function’s definition. I will tell you a 
+theorem that the function satisfies. 
+The purpose of this paper is to explain the trick. But 
+first, let’s look at an example. 
+Say that r is a function of type 
+r : vx. x* + X’. 
+Here X is a type variable, and X’ is the type “list of 
+X”. From this, as we shall see, it is possible to conclude 
+that r satisfies the following theorem: for all types A 
+and A’ and every total function tz : A -V A’ we have 
+a*orA =rAtoa*. 
+Here o is function composition, and a* : A* + A’* is 
+the function “map a” that applies a elementwise to a 
+list of A yielding a list of A’, and rA : A* ---t A’ is the 
+instance of r at type A. 
+The intuitive expIanation of this result is that r must 
+work on lists of X for any type X. Since r is provided 
+with no operations on values of type X, all it can do is 
+*Author’s address: Department of Computing Science, Uni- 
+veraity of Glasgow, G12 SQQ, ScotIand. Electronic mail: 
+wadlsrOcr . glamgow. l c . uk. 
+Permission to copy without fee all or part of this material is granted provided that 
+the copies are not made or distributed for direct commercial advantage, the ACM 
+copyright notice and the title of the publication and its date appear, and notice is 
+given that copying is by permission of the Association for Computing Machinery. 
+To copy otherwise, or to republish, requires a fee and/or specific permission. 
+0 1989 ACM 0-89791-328-0/89/0009/‘0347 $1.50 
+rearrange such lists, independent of the values contained 
+in them. Thus applying a to each element of a list and 
+then rearranging yields the same result as rearranging 
+and then applying a to each element. 
+For instance, r may be the function reverse : 
+VX. X* + X* that reverses a list, and a may be the 
+function code : Char + Int that converts a character to 
+its ASCII code. Then we have 
+code* (reuersech,, [‘a’, ‘b’, ‘c’)) 
+= (99,98,97] 
+= reversel,,t (code* [‘a’, ‘b’, ‘c’]) 
+which satisfies the theorem. Or r may be the function 
+tail : VX. X* + X* that returns all but the first element 
+of a list, and a may be the function inc : Int + Int that 
+adds one to an integer. Then we have 
+inc’ ( tailrat [ 1,2,3]) 
+1 y ht (inc* [LZ 31) 
+which also satisfies the theorem. 
+On the other hand, say r is the function odds : Int* -+ 
+Int’ that removes all odd elements from a list of inte- 
+gers, and say a is inc as before. Now we have 
+inc* (oddsI,,, [ 1,2,3]) 
+z !:;“’ 
+= odds~,~(inc* [l&3]) 
+and the theorem is not satisfied. But this is not a coun- 
+terexample, because odds has the wrong type: it is too 
+specific, Int* -+ Int’ rather than t/X. X’ ----* X’. 
+This theorem about functions of type VX. X’ -+ X* is 
+pleasant but not earth-shaking. What is more exciting 
+is that a similar theorem can be derived for every type. 
+The result that allows theorems to be derived from 
+types will be referred to as the parametricity result, be- 
+cause it depends in an essential way on parametric poly- 
+morphism (types of the form VX. 2’). Parametricity is 
+just a reformulation of Reynolds’ abstraction theorem: 
+terms evaluated in related environments yield related 
+values [Rey33]. The key idea is that types may be read 
+347 
+as relations. This result will be explained in Section 2 
+and stated more formally in Section 6. 
+Some further applications of parametricity are shown 
+in Figure 1, which shows several types and the corre- 
+sponding theorems. Each name was chosen, of course, 
+to suggest a particular function of the named type, but 
+the associated theorems hold for any function that has 
+the same type (so long as it can be defined as a term in 
+the pure polymorphic lambda calculus). For example, 
+the theorem given for head also holds for last, and the 
+theorem given for sort also holds for nub (see Section 3). 
+The theorems are expressed using operations on func- 
+tions that correspond to operations on types. Corre- 
+sponding to the list type A* is the map operation a* 
+that takes the function a : A -+ A’ into the func- 
+tion a* : A* --) A’*. Similarly, corresponding to the 
+product type A x B is the operation a x b that takes 
+the functions a : A -+ A’ and b : B + B’ into the 
+function a x b : A x B ---) A’ x B’; it is defined by 
+(a x b) (2, Y) = ( a z, b y). As we shall see, it will be 
+necessary to generalise to the case where a, b, a*, and 
+a x b are relations. 
+How useful are the theorems so generated? Only time 
+and experience will tell, but some initial results are en- 
+couraging: 
+l In general, the laws derived from types are of a 
+form useful for algebraic manipulation. For exam- 
+ple, many of the laws in Figure 1 allow one to Upush 
+map through a function”. 
+l Three years ago I co-authored a paper on the 
+derivation of an algorithm for compiling pattern- 
+matching in functional languages [BWSS]. The 
+derivation used nine general theorems about 
+higher-order functions such as map and sort. Of 
+the nine theorems, five follow immediately from the 
+types. 
+l Sheeran has developed a formal approach to the 
+design of VLSI circuits that makes heavy use of 
+mathematical laws. She has found that many of 
+the laws she needs can be generated from types 
+using the methods described here, and has already 
+written a paper describing how to do so [She89]. 
+Not surprisingly, using a more specific type system al- 
+lows even more theorems to be derived from the type of 
+a function; this has already been explored to a certain 
+extent by Sheeran [She89]. So there is reason to believe 
+that further research will further extend the applicabil- 
+ity of this method. 
+Many functional languages, including Standard 
+ML [Mil84,Mil87], Miranda’ [Tur85], and Haskell 
+‘Miranda is a trademark of Research Software Limited. 
+[HWSS], are based on the Hindley/Milner type system 
+[Hin69,Mi178,DM82]. This system is popular because 
+types need not, be given explicitly; instead, the principal 
+(most general) type of a function can be inferred from 
+its definition. However, for the purposes of this paper 
+it is more convenient to use the Girard/Reynolds type 
+system [Gir72,Gir86,Rey74,Rey83] (also known as the 
+polymorphic lambda calculus, the second order lambda 
+calculus, and System F). In the Girard/Reynolds sys- 
+tem it is necessary to give the types of bound vari- 
+ables explicitly. Further, if a function has a polymorphic 
+type then type applications must be explicitly indicated. 
+This is done via subscripting; for example, the instance 
+of the function r : VX. X* + X‘ at the type A is written 
+rA : A’ *A’. 
+Every program in the Hindley/Milner system can 
+automatically be translated into one in the Gi- 
+rard/Reynolds system. All that is required is a straight- 
+forward modification of the type inference algorithm to 
+decorate programs with the appropriate type informa- 
+tion. On the other hand, the inverse translation is not 
+always possible, because the Girard/Reynolds system is 
+more powerful than Hindley/Milner. 
+Both the Hindley/Milner and the G&-d/Reynolds 
+system satisfy the strong normalisation property: every 
+term has a normal form, and every reduction sequence 
+leads to this normal form. As a corollary, it follows that 
+the fixpoint operator, 
+cannot be defined as a term in these systems. For many 
+purposes, we can get along fine without the fixpoint 
+operator, because many useful functions (including all 
+those shown in Figure 1) may be defined in the Gi-

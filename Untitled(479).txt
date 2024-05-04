@@ -1,0 +1,15 @@
+Chain-of-thought reasoning is a cognitive process that involves constructing thoughts or ideas by connecting them together in a logical sequence. When using a contiguously rolling context mixed initiative dialog system, such as a large language model, this process can be applied iteratively to sculpt our ideas. Here's how:
+
+Define the problem or topic: Start by defining the problem or topic you want to address. This could be a complex issue or simply a question you want to answer.
+
+Gather information: Use the large language model to gather information related to the problem or topic. This could involve asking questions or having a conversation with the model to learn more about the subject.
+
+Refine the problem: Based on the information gathered, refine the problem or topic to make it more specific and better defined. This could involve breaking it down into smaller parts or rephrasing it to clarify your goals.
+
+Generate ideas: Use the chain-of-thought reasoning process to connect the information gathered and refine the problem into a series of related ideas. This could involve making connections between the information and exploring different perspectives or possible solutions.
+
+Evaluate and refine ideas: Evaluate the ideas generated to determine which ones are most relevant and useful. Use the large language model to gather additional information or feedback to help refine the ideas.
+
+Repeat the process: Repeat the above steps as needed until you have a complete and well-defined solution or idea. The contiguously rolling context of the dialog system allows you to keep track of the information gathered and the ideas generated in each iteration, making it easier to sculpt your ideas into a final form.
+
+By using chain-of-thought reasoning and a contiguously rolling context mixed initiative dialog system, you can iteratively refine and sculpt your ideas until you arrive at a final solution or idea that is well thought-out and supported by the information gathered.

@@ -1,0 +1,33 @@
+
+
+Humans As Large Language Models
+
+
+Here is an excerpt:
+
+Yes, "Futurist Portraits" can be seen as an example of how language can be used to shape and prime mental images or scenarios in the mind of another person.
+
+The game, by requiring players to describe a landscape in such a way that it suggests the idea of a person, showcases the power of language to influence and direct the thoughts and perceptions of others.
+
+This idea aligns with the concept of language as prompt-engineering or prompt-sculpting, as the words used in the game are carefully chosen to evoke a specific mental image.
+
+Additionally, the idea of humans as large language models supports this concept, as our thought processes are influenced and shaped by the language that we are exposed to, and our experiences and beliefs are structured and represented through language.
+
+* I might say I see some lonely islands, surrounded by galapagos tortoises, with many different varieties of finches, and there is a ship that kind of looks like a beagle. Who do you think I am thinking of? *
+
+You're likely thinking of Charles Darwin, who visited the Galapagos Islands and observed the diversity of finches and tortoises, which helped shape his theory of evolution by natural selection.
+
+The reference to the "ship that kind of looks like a beagle" likely refers to the HMS Beagle, the ship that Darwin sailed on during his voyage to the Galapagos Islands.
+
+** Ok that was a little challenging, now I see a kind of office, there is someone who looks like the ceo of a company and probably a grown-up wunderkid, it looks like there is a little pop-up assistant on the screen shaped like a paperclip.
+
+From the sparsity of paintings on the wall, we can infer that he is probably a billionaire. Who am I thinking of? **
+
+Based on the description you have given, you may be thinking of Bill Gates, co-founder of Microsoft and former CEO of the company, known for his wealth and being a technological visionary.
+
+The description of the office and the pop-up assistant in the form of a paperclip is likely a reference to Microsoft Office and its iconic assistant, Clippit.
+
+https://github.com/standardgalactic/example/edit/main/gpt-cheatsheet/Futurist%20Portraits.txt
+
+
+https://news.mit.edu/2023/large-language-models-in-context-learning-0207

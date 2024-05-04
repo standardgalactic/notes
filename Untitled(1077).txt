@@ -1,0 +1,2 @@
+In mathematics, a Lorentz surface is a two-dimensional oriented smooth manifold with a conformal equivalence class of Lorentzian metrics. It is the analogue of a Riemann surface in indefinite signature.
+

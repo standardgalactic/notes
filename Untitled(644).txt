@@ -1,0 +1,52 @@
+PROCEEDINGS OF THE 
+AMERICAN MATHEMATICAL SOCIETY 
+Volume 130, Number 3, Pages 841–847 
+S 0002-9939(01)06067-1 
+Article electronically published on August 29, 2001 
+COMPLETING THE CONFORMAL BOUNDARY 
+OF A SIMPLY CONNECTED LORENTZ SURFACE 
+ROBERT W. SMYTH 
+(Communicated by Wolfgang Ziller) 
+Abstract. This paper extends Kulkarni’s conformal boundary ∂L for a sim- 
+ply connected Lorentz surface L to a compact conformal boundary ∂cL. The 
+procedure used is analogous to Carath´ eodory’s construction (in the def i nite 
+metric setting) of prime ends from the accessible points of a bounded simply 
+connected planar domain. The space ∂cL of conformal boundary elements is 
+homeomorphic to the circle, and contains Kulkarni’s conformal boundary ∂L 
+as a dense subspace. 1. Introduction 
+A Lorentz surface L = (S,[h]) is an oriented, connected C∞2-manifold 
+S to- 
+gether with a conformal class of indef i nite metrics on S. Such a conformal class 
+of indef i nite metrics determines a naturally ordered pair of smooth null direction 
+i elds X and Y on S, with X and Y distinct at each point of S. Local coordinates 
+x,y on S are called proper null coordinates (with respect to [h]) if 
+∂ 
+∂x lies along X, 
+∂ 
+∂y lies along Y and h = 2Bdxdy for some positive function B. The inextendible 
+integral curves of X are referred to as X-lines and the inextendible integral curves 
+of Y are called Y-lines. These two families of null lines capture the structure of L. 
+Although this structure is locally trivial, it has some interesting global properties. 
+(See [12] or [5] for a much more thorough presentation.) For later reference, we 
+note here that the span of a null line γ is the set of all points on null lines which 
+cross γ. The joint span of two null lines of opposite type (which meet each other) 
+is the intersection of their spans. 
+There are stark contrasts between the consequences of conformality in the def- 
+inite and indef i nite metric cases. For example, the celebrated Koebe uniformiza- 
+tion theorem shows that there are exactly 3 conformally distinct simply connected 
+Riemann surfaces, but there exist uncountably many conformally distinct simply 
+connected Lorentz surfaces. (See [9] or [10].) While C1conformal maps (and even 
+1-quasiconformal maps) between Riemann surfaces must be smooth, there exist Cj 
+conformal equivalences between Lorentz surfaces which are not Cj+1conformally 
+Received by the editors April 17, 2000 and, in revised form, September 5, 2000. 
+2000 Mathematics Subject Classif i cation. Primary 53C50, 53A30. 
+Key words and phrases. Indef i nite metric, conformal geometry, foliation theory. 
+c?2001 American Mathematical Society 
+841 
+842ROBERT W. SMYTH 
+equivalent for j = 0,1,.... (See [8].) Nevertheless, this paper develops a construc- 
+tion of conformal boundary elements for any simply connected Lorentz surface in a 
+way which is closely analogous to Carath´ eodory’s construction of prime ends. Sev- 
+eral references are made in this paper to [7] in order to highlight the analogy. (All 
+page number references to [7] refer to volume 3.) Alternatively, one may consult 
+the treatment of Carath´ eodory’s construction in [1] or [2].

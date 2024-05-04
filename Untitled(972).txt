@@ -1,0 +1,4 @@
+vim -c "normal iprint('Hello, world!' " -c ":!python" -c "wq" filename.txt
+
+
+vim -c "normal iprint('Hello, world!')" -c ":silent !python % | cat" -c ":q"

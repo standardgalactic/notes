@@ -1,0 +1,11 @@
+row matrix
+		matrix having only one row
+Note 1 to entry: A row matrix with n columns is of type 1 × n.
+
+column matrix
+		matrix having only one column
+Note 1 to entry: A column matrix with m rows is of type m × 1.
+
+Note 2 to entry: A column matrix is generally used to represent the components of a vector.
+
+Note 3 to entry: A column matrix is used in circuit theory to represent the set of voltages or currents at ports of a network.

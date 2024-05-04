@@ -1,0 +1,11 @@
+Let's prove that we can mathematically derive 'ought' from 'is' using calculus:
+
+1. Let 𝘧(𝘹) represent the state of the world as it 'is'.
+
+2. Define the derivative of 𝘧(𝘹) with respect to 𝘹 as 𝘧 '(𝘹), which represents the change in the world's state.
+
+Now, here's where it gets philosophical:
+
+1. Assume 𝘹 represents our actions or decisions.
+
+2. Therefore, 𝘧 '(𝘹) can be interpreted as the consequence of our actions, or how the world 'ought' to change due to our decisions.

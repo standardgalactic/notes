@@ -1,0 +1,11 @@
+
+
+TOMHESKES THE USE OF BEING STUBBORN AND INTROSPECTIVE1 1. INTRODUCTION Like humans, artificial neural networks can leam from examples. In super- vised leaming, an example consists of a "question" and its "answer." The answer is provided by a "teacher" and used by the "student" to update her2 intemal representation, i.e. the values of her neural weights. Using tech- 
+
+In the introduction of his paper, "The Use of Being Stubborn and Introspective," Tom Heskes explores the concept of learning under imperfect conditions, specifically focusing on "learning with unreliable teachers" – teachers who do not always provide the correct answers. He uses the metaphor of an "absent-minded professor" to illustrate such a teacher, whose incorrect answers are evenly distributed across the entire input space.
+
+Heskes suggests the development of a learning strategy where the student (artificial neural network) eventually becomes wiser than their teacher, regardless of the teacher's unreliability. He argues that this strategy can be made more effective if the student learns to extract useful information from her own learning behavior, a process he terms as being "introspective".
+
+He provides context by discussing the broader field of supervised learning where examples consist of a question and its answer. The student (here, an artificial neural network) uses this information to update its internal representation or neural weights. He mentions that the one-layer perceptron has been a popular model for these studies due to its balance of complexity and analytical tractability.
+
+Heskes also emphasizes the importance of the student's "generalization ability" – the performance on questions it has never seen before, which is the measure of its success. He notes that generalization properties have been explored under different learning recipes and conditions, and highlights the need for studying learning under less ideal circumstances.

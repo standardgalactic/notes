@@ -1,0 +1,112 @@
+Deep Thinking  Where Machine Intelligence Ends and Human Creativity Begins
+│ ├ Dependence of bubble size and peak rarefractional pressure on maximum bubble response during
+│ ├ Deploying Rails with Docker, Kubernetes and ECS
+│ ├ Derivatives analytics with Python   data analysis, models, simulation, calibration and hedging
+│ ├ Design It!  From Programmer to Software Architect
+│ ├ Design and Implementation of Advanced Bayesian Networks with Comparative Probability
+│ ├ Design by Evolution  Advances in Evolutionary Design
+│ ├ Designing Data-Intensive Applications  The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+│ ├ Diagonalization as rotation
+│ ├ Diagrammatology  An Investigation on the Borderlines of Phenomenology, Ontology, and Semiotics
+│ ├ Digital Design (VHDL)  An Embedded Systems Approach Using VHDL  
+│ ├ Digital Design Using VHDL  A Systems Approach
+│ ├ Digital Logic & Computer Design
+│ ├ Digital Principles and Logic Design 
+│ ├ Digital System Design with FPGA  Implementation Using Verilog and VHDL
+│ ├ Digital Systems Design Using VHDL
+│ ├ Digital electronics  a practical approach with VHDL
+│ ├ Dilbert 2.0  The Dot-Com Bubble, 1998 to 2000
+│ ├ Diploma democracy   the rise of political meritocracy
+│ ├ Dire presque la même chose   Expériences de traduction
+│ ├ Discrete Mathematics   Proofs, Structures and Applications, Third Edition
+│ ├ Dispositions and IDO
+│ ├ Docker  The Complete Beginners Guide to Starting with Docker
+│ ├ Docker Compose Philosophie de Docker
+│ ├ Docker Deep Dive
+│ ├ Docker Hands on  Deploy, Administer Docker Platform
+│ ├ Docker Management Design Patterns  Swarm Mode on Amazon Web Services
+│ ├ Docker for Data Science  Building Scalable and Extensible Data Infrastructure Around the Jupyter Notebook Server
+│ ├ Docker for Sysadmins  Linux Windows VMware
+│ ├ Docker in Practice
+│ ├ Docker in Production  Lessons from the Trenches
+│ ├ Docker, Microservices, and Kubernetes
+│ ├ Docker  Up & Running  Shipping Reliable Containers in Production
+│ ├ Doing Bayesian Data Analysis, Second Edition  A Tutorial with R, JAGS, and Stan
+│ ├ Dynamic Bayesian Networks
+│ ├ Dynamic Programming and Bayesian Inference, Concepts and Applications
+│ ├ Dysfunctional Paradigms in Clinical Trials 
+│ ├ Early Speculative Bubbles & Increases in the Money Supply
+│ ├ Effective Robotics Programming with ROS
+│ ├ Effective Software Test Automation  Developing an Automated Software Testing Tool
+│ ├ Electromagnetic Brain Imaging  A Bayesian Perspective
+│ ├ Electromagnetics, Microwave Circuit, And Antenna Design for Communications Engineering, Second Edition (Artech House Antennas and Propagation Library)
+│ ├ Eledman Array operators
+│ ├ Elementary linear algebra 10th edition
+│ ├ Elements of probability and statistics  de Finetti's approach, Bayesian statistics
+│ ├ Embedded Systems Design with Platform FPGAs  Principles and Practices
+│ ├ Emerging technologies for health and medicine  virtual reality, augmented reality, artificial intelligence, internet of things, robotics, industry 4.0
+│ ├ Engineering Metallurgy - Applied Physical Metallurgy
+│ ├ Environmental Engineering Dictionary and Directory
+│ ├ Epics of Sumerian Kings - The Matter of Aratta
+│ ├ Erlang and Elixir for Imperative Programmers
+│ ├ Essential Algorithms  A Practical Approach to Computer Algorithms Using Python and C#
+│ ├ Essential Docker for ASP.NET Core MVC
+│ ├ Everyday Math Demystified
+│ ├ Excel to Graphviz Relationship Visualizer
+│ ├ Exploring the Universe  From Near Space to Extra-Galactic  A Collection of Research Reviews on Contemporary Astrophysics and Space Science
+│ ├ Express.js  Guide Book on Web framework for Node.js
+│ ├ Extrapyramidal-symptoms
+│ ├ F-Droid.apk
+│ ├ FPGA Prototyping by VHDL Examples
+│ ├ FPGA-based Implementation of Signal Processing Systems
+│ ├ FPGAs   Fundamentals, advanced features, and applications in industrial electronics
+│ ├ FablesEgypt1
+│ ├ Fake News, Propaganda, and Plain Old Lies  How to Find Trustworthy Information in the Digital Age
+│ ├ False Profits  Recovering from the Bubble Economy
+│ ├ Famous First Bubbles  The Fundamentals of Early Manias
+│ ├ Fascinate  Your 7 Triggers to Persuasion and Captivation
+│ ├ Feathers  The Evolution of a Natural Miracle
+│ ├ Figure Drawing Methods for Artists  Over 130 Methods for Sketching, Drawing, and Artistic Discovery
+│ ├ Finite Math for Dummies
+│ ├ Finite element modeling and simulation with ANSYS Workbench
+│ ├ Forecasting with Bayesian Vector Autoregressions - Örebro universitet
+│ ├ Forge Your Future with Open Source  Build Your Skills. Build Your Network. Build the Future of Technology
+│ ├ Forget OpenMC
+│ ├ Foundations of Bayesianism
+│ ├ Frames of Mind  The Theory of Multiple Intelligences
+│ ├ Free-Form Deformations in a Constructive Solid Geometry Modeling
+│ ├ From Atoms to Galaxies  A Conceptual Physics Approach to Scientific Awareness
+│ ├ From Bacteria to Bach and Back  The Evolution of Minds
+│ ├ Full Kotlin Reference
+│ ├ Full Stack JavaScript  Learn Backbone.Js, Node.Js, and Mongodb
+│ ├ Functional Programming in C#  How to write better C# code
+│ ├ Functional Programming in JavaScript  How to improve your JavaScript programs using functional techniques
+│ ├ Functional Reactive Programming
+│ ├ Functions-in-BFO
+│ ├ Fundamental Astronomy
+│ ├ Fundamental Techniques for Geometric and Solid Modeling
+│ ├ Fundamentals of Galaxy Dynamics, Formation and Evolution
+│ ├ Fundamentals of Logic Design
+│ ├ Fundamentos de Lógica Digital con Diseño VHDL
+│ ├ Funny Memes  An ebook with funny memes, duhhh
+│ ├ GARCIAHORTON-DISSERTATION-2015
+│ ├ GIMP Starter  Learn the basics of GIMP through practical examples
+│ ├ GIMP for Absolute Beginners
+│ ├ GNU Image Manipulation Program - The Gimp - Linux
+│ ├ Galactic Encounters  Our Majestic and Evolving Star-System, From the Big Bang to Time's End
+│ ├ Galactic High-Energy Astrophysics High-Accuracy Timing and Positional Astronomy 
+│ ├ Galileo and the Mountains of the Moon Analogical R
+│ ├ GalvesLocherbach - Low resolution
+│ ├ Game On!  Gamification, Gameful Design, and the Rise of the Gamer Educator
+│ ├ Game Programming Patterns
+│ ├ Game Theory and Its Applications.djvu
+│ ├ Games and information  an introduction to game theory
+│ ├ Gaussian processes in Bayesian modeling  User guide for Matlab 
+│ ├ Gene Regulatory Network Reconstruction Using Dynamic Bayesian Net
+│ ├ General Topology [John L. Kelley]
+│ ├ Generalized Linear Models  A Bayesian Perspective
+│ ├ Get Programming with Go
+│ ├ Get Programming with Haskell
+│ ├ Getting MEAN with Mongo, Express, Angular, and Node
+│ ├ Global Asset Allocation  A Survey of the World’s Top Asset Allocation Strategies
+│ ├ 

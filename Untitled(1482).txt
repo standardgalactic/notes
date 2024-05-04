@@ -1,0 +1,75 @@
+alphanumeric Pertaining to a character sct
+that includes letters, digits, and, usually,
+other special punctuation character marks.
+analog computer A device that operates on
+data in the form of continuously variable
+physical quantities.
+analystSce system analyst.
+unnotation symbol A symbol used to add
+messages or notes to a flowchart.
+ANSI (American National Standards Insti-
+tute) An organization that develops and
+approves standards in many fields
+APL (A Programming Language) A mathe-
+matically oriented high-level language fre-
+quently used in tmesharing
+Software designed
+application program
+for a specific purpose (such as accounts re-
+ceivable, billing, or inventory control).
+architecture The organization and inter-
+connection of cemputer system components.
+arithmetic-logic unit The part of a com-
+puting system containing the circuitry that
+does the adding. subtracting, multiplying.
+dividing, and comparing.
+artificial intelligence (Al)_ A computer sci-
+ence branch that's involved with using com-
+puters to solve problems that appear to re-
+quire human imagination or intelligence.
+ASCII (American National Standard Code
+for Information Interchange) A standard
+code used to exchange information among
+data processing and communications sys-
+tems.
+assembler programA computer program
+that takes nonmachine-language instructions prepared by a programmer and converts
+them into a form that may be used by the
+computer.
+assembly languageA means of communi-
+cating with a computer at a low level. This
+language lics between high-level languages
+(such as BASIC and COBOL) and machine
+language (the ls and 0s the computer under-
+stands).
+automated office A general term that refers
+to the merger of computers, office electronic
+devices, and telecommunications technology
+in an office environment.
+auxiliary storage A storage that supple-
+ments the primary internal storage of a com-
+puter. Often referred to as secondary stor-
+age.
+back-end processor A computer that
+serves as an interface between a larger CPU
+and data bases stored on direct-access stor-
+age devices.
+background processing The automatic
+execution of lower-priority (background)
+computer programs during periods when the
+system resources are not required to process
+higher-priority (foreground) programs.
+backup Alternate programs or equipment
+used in case the original is incapacitated
+bank switched memory The use of soft-
+ware-controlled switches that allow a central
+processor to switch between memory loca-
+tions in primary and supplementary memory
+banks so that the apparent size of primary
+storage is increased.
+BASIC (Beginners All-Purpose Symbolic
+Instruction Code) A high-level interactive programming language frequently used with
+personal computers and in timesharing environments. 
+batch processing A technique in which a number of similar items or transactions to be
+processed are grouped (batched) and processed in a designated sequence during amachine run. Often referred to as sequential processing
+

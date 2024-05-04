@@ -1,0 +1,13 @@
+She argues that AI approaches problems differently than traditional computers, using a process called "reduction" to understand and solve complex problems.
+
+Anderson acknowledges that AI systems can make mistakes, but she believes that they are still valuable tools because they can solve problems that humans might not be able to understand.
+
+She also points out that explaining the mistakes made by AI systems can be difficult, as there may not be a specific error or line of code that can be identified as the cause of the problem.
+
+She believes that holistic methods, such as those used in machine learning, can be successful in solving these kinds of problems and have already demonstrated success in areas such as protein folding and language understanding.
+
+According to Monica Anderson, understanding requires epistemic reduction, or the process of breaking down a problem into simpler parts in order to understand it.
+
+Anderson argues that deep neural networks (DNNs) can provide this kind of reduction, allowing them to learn and provide predictions about complex and nuanced problems.
+
+This view is supported by numerous papers in the field of artificial intelligence, which have demonstrated the ability of DNNs to learn and make predictions about a wide range of tasks.

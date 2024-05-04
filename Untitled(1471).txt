@@ -1,0 +1,10 @@
+Bayesian interpretation
+
+Main article: Bayesian interpretation of regularization
+
+Further information: Minimum mean square error § Linear MMSE estimator for linear observation process
+
+Although at first the choice of the solution to this regularized problem may look artificial, and indeed the matrix {\displaystyle \Gamma }￼ seems rather arbitrary, the process can be justified from a Bayesian point of view.[29] Note that for an ill-posed problem one must necessarily introduce some additional assumptions in order to get a unique solution. Statistically, the prior probability distribution of {\displaystyle x}￼ is sometimes taken to be a multivariate normal distribution. For simplicity here, the following assumptions are made: the means are zero; their components are independent; the components have the same standard deviation {\displaystyle \sigma _{x}}￼. The data are also subject to errors, and the errors in {\displaystyle b}￼ are also assumed to be independent with zero mean and standard deviation {\displaystyle \sigma _{b}}￼. Under these assumptions the Tikhonov-regularized solution is the most probable solution given the data and the a priori distribution of {\displaystyle x}￼, according to Bayes' theorem.[30]
+
+If the assumption of normality is replaced by assumptions of homoscedasticity and uncorrelatedness of errors, and if one still assumes zero mean, then the Gauss–Markov theorem entails that the solution is the minimal unbiased linear estimator.[31]
+

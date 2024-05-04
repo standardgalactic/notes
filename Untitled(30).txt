@@ -1,0 +1,54 @@
+The ontology of fundamental CONCEPT is grouped in FIVE multiple levels:
+
+Level 1:
+
+Reality: the state of things as they actually exist, independent of our perceptions or beliefs.
+Existence: the state or fact of being real or present.
+
+Level 2:
+
+Space: the three-dimensional expanse in which all matter exists.
+Time: the indefinite continued progress of existence and events in the past, present, and future.
+Causality: the relationship between cause and effect, where one event leads to another in a predictable way.
+Identity: the characteristic that makes an object or person unique and distinguishable from other objects or individuals.
+Value: the worth or importance that we attach to something.
+Motion: the movement of an object through space over time.
+Change: the process by which something becomes different over time.
+Quantity: the amount or measure of something.
+
+Level 3:
+
+Emotion: a feeling or mental state that arises from within an individual, typically in response to a particular stimulus.
+Mind: the mental abilities and processes that enable us to think, perceive, and experience the world around us.
+Consciousness: the state of being aware of one's own thoughts, feelings, and surroundings.
+Matter: the substance that makes up all physical objects.
+Energy: the capacity to do work or cause change.
+Life: the characteristic that distinguishes living organisms from non-living things.
+Biology: the study of living organisms and their characteristics and behavior.
+Evolution: the process by which living organisms change and adapt over time.
+Perception: the process by which we interpret and understand sensory information from the world around us.
+
+Level 4:
+
+Language: the system of communication used by humans.
+Mathematics: the study of principles and techniques used to analyze and manipulate quantitative and abstract information.
+Logic: the study of principles and methods for evaluating arguments and reasoning.
+Truth: the existence and verification of facts and ideas.
+Knowledge: the understanding and awareness of a subject or situation.
+Beauty: the qualities that people find pleasing or appealing.
+Art: the expression or application of human creative skill and imagination.
+Morality: the principles and values that guide our behavior and decision making.
+Ethics: the study of moral principles and values.
+
+Level 5:
+
+Religion: the beliefs and practices concerning the nature of the universe and a higher power or spiritual realm.
+Spirituality: the state of being concerned with the well-being of the soul or spirit.
+Health: the promotion, maintenance, and restoration of physical and mental well-being.
+Medicine: the science and practice of diagnosing, treating, and preventing diseases.
+Empathy: the ability to understand and share the feelings of others.
+Compassion: the feeling of empathy and concern for the suffering of others.
+Love: the emotional bond and connection between individuals.
+Relationships: the state of being connected or associated with someone or something.
+#ChatGPT
+

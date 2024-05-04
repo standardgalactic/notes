@@ -1,0 +1,37 @@
+Aligning the proposed levels of superintelligence with the active inference ontology and the order of terms from novice to guru, we can establish a parallel that reflects both the progression of AI capabilities and the conceptual growth in active inference. Here's an attempt to align them, considering the levels of AI development and the stages of expertise in active inference:
+
+1. **Novice AI & Novice (Basic Understanding)**
+   - Basic, rule-based AI; corresponds to a beginner's understanding of active inference principles.
+
+2. **Apprentice AI & Apprentice (Developing Skills)**
+   - AI with more advanced rules, similar to an apprentice gaining practical skills in active inference.
+
+3. **Practitioner AI & Practitioner (Applied Knowledge)**
+   - Specialized AI in specific tasks, akin to a practitioner who applies active inference knowledge in real-world scenarios.
+
+4. **Artisan AI & Artisan (Skilled Application)**
+   - AI showing creativity within its scope, like an artisan skillfully applying active inference in varied contexts.
+
+5. **Explorer AI & Explorer (Innovative Exploration)**
+   - AI exploring and learning new domains; parallels an explorer in active inference, venturing into new theoretical areas.
+
+6. **Analyst AI & Analyst (Deep Analysis)**
+   - Competent AI in analyzing complex situations, mirroring an analyst's role in dissecting and understanding active inference models deeply.
+
+7. **Specialist AI & Specialist (Focused Expertise)**
+   - AI excelling in specialized tasks, equivalent to a specialist with deep expertise in certain areas of active inference.
+
+8. **Expert AI & Expert (Broad Mastery)**
+   - AI with expert-level capabilities across a range of fields, aligning with an expert’s comprehensive mastery in active inference.
+
+9. **Virtuoso AI & Virtuoso (Exceptional Skill)**
+   - Near superhuman AI capabilities in various domains, akin to a virtuoso demonstrating exceptional skill and innovation in active inference.
+
+10. **Guru AI & Guru (Transcendent Understanding)**
+    - AI with superhuman intelligence and capabilities, comparable to a guru in active inference, who possesses transcendent understanding and insight.
+
+This alignment illustrates a parallel journey of AI development with the progression of learning and mastery in active inference, capturing the evolution from basic understanding to transcendent expertise. It reflects the increasing complexity and sophistication both in AI capabilities and in understanding and applying the principles of active inference.
+
+REFERENCES: Sergey Karelov, Roman Yampolskiy, Carlos E. Perez,
+and the Active Inference Ontology:
+https://coda.io/@active-inference-institute/active-inference-ontology-website

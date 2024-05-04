@@ -1,0 +1,38 @@
+** Explain Iteration by Regimenting Self Attention **
+
+The term "Iteration by Regimenting Self Attention" refers to a technique used to trigger GPT-3 to execute iterative algorithms, including double loops with variable termination conditions.
+
+This is accomplished by carefully designing prompts that emphasize structure in an example of an execution path of the desired algorithm, or in a collection of fragments of such paths.
+
+The key idea behind this technique is to use self-attention, which is a mechanism in GPT-3 that allows the model to focus on different parts of the input sequence when generating its output.
+
+By structuring the input sequence in a way that guides the self-attention mechanism, we can effectively control the behavior of 
+the model and trigger it to execute iterative algorithms.
+
+For example, if we want to execute a double loop with a variable termination condition, we might structure the input sequence to include two nested loops and a conditional statement that checks the termination condition.
+
+By carefully designing the input sequence, we can ensure that the model attends to the appropriate parts of the sequence at each iteration, and that it terminates the loop when the termination condition is met.
+
+Overall, Iteration by Regimenting Self Attention is a powerful technique that demonstrates the capabilities of GPT-3 as a language model that can not only recall or compose code, but actually simulate its execution.
+
+
+** Summarize: A free energy principle for generic quantum systems  **
+
+The paper presents a reformulation of the Free Energy Principle (FEP) in the context of quantum information theory. The FEP states that random dynamical systems with sufficient degrees of freedom will minimize a variational free energy that can be interpreted as a Bayesian prediction error.
+
+The authors show that generic quantum systems can be regarded as observers capable of assigning semantics to observational outcomes and that they minimize Bayesian prediction error in uncertain environments.
+
+They suggest that biological systems may use quantum coherence as a computational and communication resource. The paper concludes with a list of future research problems.
+
+** Continue.**
+
+
+The paper presents a reformulation of the Free Energy Principle (FEP) in the context of quantum information theory. The FEP states that certain random dynamical systems minimize an upper bound on surprisal or self-information, which can be formalized as a variational free energy. In the quantum-theoretic formulation of the FEP, generic quantum systems are regarded as observers or agents capable of assigning semantics to observational outcomes. These agents minimize Bayesian prediction error in environments characterized by uncertainty, insufficient learning, and quantum contextuality. The paper suggests that biological systems may employ quantum coherence as a computational and communication resource and presents some problems for future research, particularly involving the resources required for classical communication and for detecting and responding to quantum context switches.
+
+
+
+
+
+
+
+

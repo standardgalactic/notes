@@ -1,0 +1,10 @@
+
+How to Write basic program in Lean Theorem Prover?
+
+Answer
+
+There are a few other related posts on this site, but none that provide an example of how to write simple programs. For instance, this answer talks about writing logic and circuit representations, but not actual code itself. The problem with those answers is that they only show you the outsides, without actually showing you what’s going on behind-the-scenes. (To be fair though, it does look like it takes some time to understand just from looking at them.)
+
+Because I love teaching people programming, and because there’s no reason for someone who doesn’t already know these things to spend any more than necessary learning something new – especially when they can learn it from a much easier source – I want to give you my own little guide here.
+
+The first thing I should mention is that while it looks quite easy compared to most traditional languages such as C++, Java or Python, understanding LEAN isn’t nearly so trivial as you might think. If you have experience using languages similar to those mentioned above, then it will definitely take you some time before you even get close to knowing all the rules that apply to their syntax

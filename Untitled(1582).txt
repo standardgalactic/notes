@@ -1,0 +1,46 @@
+DeepAIAI Chat
+
+Sign Up
+
+⋯
+
+Genetic Programming
+
+‹ Genetic Algorithms
+
+Geometric Distribution›
+
+￼1402￼share￼edit
+
+What is Genetic Programming?
+
+Genetic programming is a technique to create algorithms that can program themselves by simulating biological breeding and Darwinian evolution. Instead of programming a model that can solve a particular problem, genetic programming only provides a general objective and lets the model figure out the details itself. The basic approach is to let the machine automatically test various simple evolutionary algorithms and then “breed” the most successful programs in new generations.
+
+While applying the same natural selection, crossover, mutations and other reproduction approaches as evolutionary and genetic algorithms, gene programming takes the process a step further by automatically creating new models and letting the system select its own goals.
+
+The entire process is still an area of active research. One of the biggest obstacles to widespread adoption of this genetic machine learning approach is quantifying the fitness function, i.e to what degree each new program is contributing to reaching the desired goal.
+
+
+How to Set Up a Genetic Program:
+
+To set up a basic genetic program, a human first needs to define a high-level statement of the problem through several preparatory steps:
+
+Specify terminals – For example, independent variables of the problem, zero-argument functions, or random constants for each branch of program that will be go through evolution.
+
+Define initial “primitive” functions for each branch of the genetic program.
+
+Choose a fitness measure – this measures the fitness of individuals in the population to determine if they should reproduce.
+
+Any special performance parameters for controlling the run.
+
+Select termination criterion and methods for reaching the run’s goals.
+
+From there, the program runs automatically, without requiring any training data.
+
+A random initial population (generation 0) of simple programs will be generated based upon basic functions and terminal defined by the human.
+
+Each program will be executed and its fitness measured from the results. The most successful or “fit” programs will be breeding stock to birth a new generation, with some new population members directly copied (reproduction), some through crossover (randomly breeding parts of the programs) and random mutations. Unlike evolutionary programming, an additional architecture-altering operation is chosen, similar to a species, to control the framework of the new generation.
+
+These generations are repeated as necessary until the termination criterion is reached and the best program is designated as the result of the run.
+
+

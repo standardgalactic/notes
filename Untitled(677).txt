@@ -1,0 +1,18 @@
+∞-former
+
+The Transformer model is a type of neural network architecture used for sequence-to-sequence tasks, such as machine translation or language modeling.
+
+It is composed of multiple layers, including a multi-head self-attention layer, a feed-forward layer, residual connections, and layer normalization.
+
+The input to the model is a sequence of embeddings, and the output is another sequence of embeddings that can be used for downstream tasks.
+
+The multi-head self-attention layer in the Transformer model computes queries, keys, and values for each attention head by linearly projecting the input sequence.
+
+It then computes context representations for each head using a softmax function applied to the dot product of the queries and keys, and uses these representations to obtain a final context representation for the layer.
+
+Continuous attention mechanisms, on the other hand, allow for attention to be computed over continuous signals rather than discrete sequences. To do this, the discrete input sequence is transformed into a continuous signal using basis functions and multivariate ridge regression.
+
+A probability density function is then computed over the continuous signal, which is used to compute the context vector for the attention mechanism.
+
+The continuous attention mechanism was originally introduced for use in RNNs, but can also be applied to the multi-head self-attention layer of the Transformer model.
+

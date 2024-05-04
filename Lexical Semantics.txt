@@ -1,0 +1,53 @@
+Lexical Semantics
+By Kenneth Udut
+
+1. Generative Grammar: feature-based analysis, formal semantics, lexical decomposition
+
+2. Cognitive Linguistics: embodiment, image schemas, metaphor, metonymy, mental spaces
+
+3. Construction Grammar: lexical units, constructional meaning, frame semantics
+
+4. Functional Linguistics: semantic categories, prototypes, semantic networks, systemic networks
+
+5. Distributional Semantics: co-occurrence patterns, distributional similarity, word embeddings, neural networks
+
+6. Pragmatics: context, implicature, presupposition, deixis, speech acts, conversational implicature, politeness theory
+
+7. Psycholinguistics: lexical access, semantic memory, lexical ambiguity, lexical processing
+
+8. Computational Linguistics: word sense disambiguation, semantic role labeling, information extraction, question answering
+
+9. Anthropological Linguistics: ethnosemantics, lexical fields, cultural models, semantic universals
+
+10. Semiotics: signification, denotation, connotation, symbol, icon, index
+
+Systemic Functional Linguistics
+
+In Systemic Functional Linguistics (SFL), lexical semantics is represented through the concept of lexical meaning, which is a key component of the ideational metafunction. The ideational metafunction is concerned with the way in which language is used to represent experience and express meaning, and lexical meaning is a central aspect of this process.
+
+In SFL, lexical meaning is analyzed in terms of the semantic categories that are used to represent different types of experience and meaning. These categories include process types (such as material, mental, and relational), participant types (such as actor, goal, and attribute), and circumstance types (such as time, location, and manner).
+
+The selection of specific semantic categories is determined by the context in which language is used, as well as by the speaker's intentions and goals. For example, the choice of process type may depend on whether the speaker wants to emphasize a physical action (e.g. "John kicked the ball") or a mental process (e.g. "John thought about the problem").
+
+In addition to semantic categories, SFL also incorporates the concept of semantic features, which are the basic building blocks of meaning. Semantic features are used to represent the essential characteristics of entities and events, such as their physical properties, attributes, and relationships to other entities and events. For example, the feature [+animate] might be used to represent the characteristic of being a living organism, while the feature [+round] might be used to represent the characteristic of having a circular shape.
+
+By analyzing lexical meaning in terms of semantic categories and features, SFL provides a powerful framework for understanding the complex ways in which language is used to represent experience and express meaning. This framework can be applied to a wide range of linguistic phenomena, from individual words and phrases to entire texts and discourse genres, and provides a powerful tool for exploring the relationship between language, thought, and culture.
+
+YES! Learning how to ask good questions REALLY helps it give good answers. 
+
+"How is lexical semantics understood in various paradigms, one-liners"
+
+Here are some one-liners that summarize how lexical semantics is understood in various linguistic paradigms:
+
+1. In Generative Grammar, lexical semantics is represented through abstract features and rules that assign meanings to words.
+
+2. In Cognitive Linguistics, lexical semantics is seen as grounded in embodied experience and conceptual structures, and is closely linked to metaphor, metonymy, and image schemas.
+
+3. In Construction Grammar, lexical semantics is seen as part of larger grammatical constructions, which are stored in the mental lexicon as units of meaning.
+
+4. In Functional Linguistics, lexical semantics is analyzed in terms of the semantic categories and features that are used to represent different types of experience and meaning.
+
+5. In Distributional Semantics, lexical semantics is learned from the statistical patterns of co-occurrence between words in large corpora of text.
+
+6. In Pragmatics, lexical semantics is seen as context-dependent and variable, and is analyzed in terms of how meaning is negotiated and co-constructed in social interaction.
+

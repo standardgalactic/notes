@@ -1,0 +1,28 @@
+A dislon is a quantized field associated with the quantization of the lattice displacement in crystalline solids. It is a localized collective excitation of a crystal dislocation.<ref>M. Li, Y. Tsurimaki, Q. Meng, N. Andrejevic, Y. Zhu, G. D. Mahan, and G. Chen, "Theory of electron-phonon-dislon interacting system – toward a quantized theory of dislocations", New J. Phys. (2017) [http://iopscience.iop.org/article/10.1088/1367-2630/aaa383/meta]</ref>
+
+== Description ==
+Dislons are special [[quasiparticles]] that emerge from the quantization of the [[lattice displacement field around a dislocation in a crystal. They exhibit unique particle statistics depending on the dimension of quantization. In one-dimensional quantization, dislons behave as bosonic quasiparticles. However, in three-dimensional quantization, the topological constraint of the dislocation leads to a breakdown of the canonical commutation relation, resulting in the emergence of two independent bosonic fields known as the d-field and f-field.<ref>M. Li, Y. Tsurimaki, Q. Meng, N. Andrejevic, Y. Zhu, G. D. Mahan, and G. Chen, "Theory of electron-phonon-dislon interacting system – toward a quantized theory of dislocations", New J. Phys. (2017)</ref>
+
+== Interaction ==
+Dislons interact with other particles such as electrons and phonons. In the presence of multiple dislocations, the electron-dislon interaction can affect the electrical conductivity of the system. The distance-dependent interaction between electrons and dislocations leads to oscillations in the electron self-energy away from the dislocation core.<ref>M. Li, Y. Tsurimaki, Q. Meng, N. Andrejevic, Y. Zhu, G. D. Mahan, and G. Chen, "Theory of electron-phonon-dislon interacting system – toward a quantized theory of dislocations", New J. Phys. (2017)</ref>
+
+== Applications ==
+The study of dislons provides insights into various phenomena in materials science, including the variation of superconducting transition temperatures in dislocated crystals. Dislons play a role in understanding the interaction between dislocations and phonons, affecting thermal transport properties in the presence of dislocations.<ref>M. Li, Y. Tsurimaki, Q. Meng, N. Andrejevic, Y. Zhu, G. D. Mahan, and G. Chen, "Theory of electron-phonon-dislon interacting system – toward a quantized theory of dislocations", New J. Phys. (2017)</ref>
+
+== References ==
+{{reflist}}
+
+== See also ==
+
+[[Quasiparticle]]
+[[Special theory of relativity]]
+[[List of particles]]
+[[List of quasiparticles]]
+
+
+[[Category:Physical phenomena]]
+[[Category:Condensed matter physics]]
+[[Category:Quantum phases]]
+[[Category:Quasiparticles| ]]
+[[Category:Mesoscopic physics]]
+[[Category:Emerging technologies]]

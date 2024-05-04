@@ -1,0 +1,109 @@
+New Salivary Glands (Maybe)
+
+In 2020, Dutch cancer researchers made a splash when they published a paper in which they described what they believed to be new salivary glands. Being a skeptical peasant, I would like to quality this finding by saying that their dataset was very limited (all cancer patients) and very small, and their conclusion was their best guess based on their imaging technique.
+
+To verify their finding, one would need to comprehensively study a larger and more varied dataset — and to the best of my knowledge, no one has done it yet. Also, please see this interesting letter to the editor in response to the original publication. In any case, here is Live Science:
+
+“This nasopharynx region — behind the nose — was not thought to host anything but microscopic, diffuse, salivary glands; but the newly discovered set are about 1.5 inches (3.9 centimeters) in length on average.
+
+Because of their location over a piece of cartilage called the torus tubarius, the discoverers of these new glands have dubbed them the tubarial salivary glands. The glands probably lubricate and moisten the upper throat behind the nose and mouth, the researchers wrote ... in the journal Radiotherapy and Oncology.
+
+The discovery was accidental. Researchers at the Netherlands Cancer Institute were using a combination of CT scans and positron emission tomography (PET) scans called PSMA PET-CT to study prostate cancer. In PSMA PET-CT scanning, doctors inject a radioactive "tracer" into the patient. This tracer binds well to the protein PSMA, which is elevated in prostate cancer cells.”
+
+Interestingly, the tentative nature of this discovery did not prevent The Scientist from naming their article about it “Scientists Discover New Human Salivary Glands.” That alone demonstrates the fact that “the science” is a funny beast.
+
+Interstitium: A Significant Update
+
+This discovery, too, requires a clarification. In 2018, Nature published a study titled, “Structure and Distribution of an Unrecognized Interstitium in Human Tissues.”
+
+A number of news articles published at the time, such as the Science article here, said that the interstitium itself was discovered. However, the interstitium had been talked about for decades (here is a mention of from 2012, and here is one from 1987, and anecdotally, I know that its existence was discussed in medical schools in Russia much earlier than that).
+
+The 2018 discovery was the fact that it was not a solid mass of connective tissue but instead, it was filled with fluid — and the reason the scientists had not previously noticed the fluid was because they had only been looking at dried slides (doh). Live Science:
+
+“These fluid-filled spaces were discovered in connective tissues all over the body, including below the skin's surface; lining the digestive tract, lungs and urinary systems; and surrounding muscles, according to a new study detailing the findings, published ... in the journal Scientific Reports.
+
+Previously, researchers had thought these tissue layers were a dense ‘wall’ of collagen — a strong structural protein found in connective tissue. But the new finding reveals that, rather than a ‘wall,’ this tissue is more like an ‘open, fluid-filled highway,’ said co-senior study author Dr. Neil Theise, a professor of pathology at New York University Langone School of Medicine.
+
+The tissue contains interconnected, fluid-filled spaces that are supported by a lattice of thick collagen ‘bundles,’ Theise said.
+
+The researchers said these fluid-filled spaces had been missed for decades because they don't show up on the standard microscopic slides that researchers use to peer into the cellular world.
+
+When scientists prepare tissue samples for these slides, they treat the samples with chemicals, cut them into thin slices and dye them to highlight key features. But this fixing process drains away fluid and causes the newfound fluid-filled spaces to collapse.”
+
+Mesentery Redefined as a New Organ
+
+In 2016, the mesentery, that had been previously considered a collection of abdominal tissue, attaching the intestines to the posterior abdominal wall, was reclassified as a new organ, after the discovery was first described in 2012.
+
+This Healthline article makes me a little nervous though. I am very happy that the surgeon who discovered it believed his own eyes over anatomy textbooks and decided to investigate but ... but ... how did it work prior to 2012?
+
+“Coffey, and his colleague Peter O’Leary, Ph.D., first discovered that the mesentery was an organ ... Coffey explained his discovery to Healthline this way, ‘I am primarily a surgeon who operates on the large bowel and rectum. I noticed that the technique we use on the left colon has the same anatomic basis as the techniques we use on the right.
+
+When I looked at this closer I noticed the reason for this was that the right and left colon have an attached mesentery. (In every patient. That is, universally.)’
+
+As a trained surgeon, Coffey is aware that, ‘According to classic anatomic teaching, the right and left colon do not have an attached mesentery and, if a mesentery were present, then this should be considered anomalous.’ ...
+
+He went on to tell Healthline, ‘Some texts suggested that the right and left colon did have a vestigial or rudimentary mesentery, attached immediately behind them. So, what we found surgically was very different to what we were taught anatomically [emphasis mine].’”
+
+“New Brain Cleaning System Discovered”
+
+More about the brain. Up until a few years ago, the consensus was that there was no lymphatic system in the brain. And then suddenly, there was! The NIH (2012):
+
+“Scientists have discovered a system that drains waste products from the brain ... Our bodies remove dead blood cells and other waste through a network of vessels called the lymphatic system. The brain, however, has a different method of keeping clean.
+
+Cerebrospinal fluid cleanses brain tissue. But how the fluid moves through the brain and clears waste wasn't well understood. Until now, scientists could only study brain tissue in animals that were already dead. They thought nutrients and waste were transported through the slow process of diffusion.
+
+In a new study, a research team led by Dr. Jeffrey Iliff and Maiken Nedergaard at the University of Rochester Medical Center used a method called 2-photon laser scanning microscopy to analyze the flow of cerebrospinal fluid in living mouse brains. This new technology allowed the scientists to study the intact brain in real time.
+
+To their surprise, the scientists found that the tracer molecules flowed along a series of channels surrounding blood vessels. In the brain, blood vessels are surrounded by cells called astrocytes. These cells have projections called end feet that wrap around arteries and veins like a layer of piping. It was through this pipeline that the molecules traveled.
+
+The system uses pressure to push fluid through the brain. It's a much faster and more efficient way to carry away waste than diffusion.”
+
+Exosomes
+
+I am well aware of the fact that the topic of exosomes is a heated one. On my end, I am not interested in the heat. I feel humble about this topic (and many other topics as well). I believe that life is mysterious, and that there are many ways in which living beings communicate and exchange energy. Whatever the current understanding is on either side of the virus / exosome debate, it will likely change. As of this second, I like J.J. Couey’s take.
+
+With that out of the way, it is completely fascinating to me that as important as exosomes are, up until a few decades ago, the scientists didn’t know they existed at all. Today, exosomes are an in-demand area of research — but even so, researchers are mostly making guesses, and the mystery remains:
+
+“Cells in vivo and ex vivo release membrane vesicles. These extracellular vesicles (EVs) are 50- to 100-nm-sized lipid bilayer-enclosed entities containing proteins and RNA. Not long ago, EVs were considered to be “cellular dust” or garbage and did not attract much attention. However, it has recently been found that EVs can have important biological functions and that in both structural and functional aspects they resemble viruses.
+
+This resemblance becomes even more evident with EVs produced by cells productively infected with viruses. Such EVs contain viral proteins and parts of viral genetic material ... we emphasize that in the specific case of virus-infected cells, it is almost impossible to distinguish EVs from (noninfectious) viruses and to separate them.”
+
+Maybe, if we are lucky, a hundred years from now, we will have a better clarity about all this. If we are still around, that is!
+
+Cocoa and the Good Bacteria in the Gut
+
+It is hard to believe it but it seems like it was in 2014 when the American scientists first reported that cocoa supported the beneficial bacteria in the gut. As reported by the American Chemical Society [!!]:
+
+“The health benefits of eating dark chocolate have been extolled for centuries, but the exact reason has remained a mystery — until now. Researchers reported ... that certain bacteria in the stomach gobble the chocolate and ferment it into anti-inflammatory compounds that are good for the heart.
+
+The good microbes, such as Bifidobacterium and lactic acid bacteria, feast on chocolate ... When you eat dark chocolate, they grow and ferment it, producing compounds that are anti-inflammatory. The other bacteria in the gut are associated with inflammation and can cause gas, bloating, diarrhea and constipation. These include some Clostridia and some E. coli.
+
+“When these compounds are absorbed by the body, they lessen the inflammation of cardiovascular tissue, reducing the long-term risk of stroke,” said John Finley, Ph.D., who led the work. He said that this study is the first to look at the effects of dark chocolate on the various types of bacteria in the stomach.
+
+He explained that cocoa powder, an ingredient in chocolate, contains several polyphenolic, or antioxidant, compounds such as catechin and epicatechin, and a small amount of dietary fiber. Both components are poorly digested and absorbed, but when they reach the colon, the desirable microbes take over.
+
+“In our study we found that the fiber is fermented and the large polyphenolic polymers are metabolized to smaller molecules, which are more easily absorbed. These smaller polymers exhibit anti-inflammatory activity,” he said.
+
+Finley also noted that combining the fiber in cocoa with prebiotics is likely to improve a person’s overall health and help convert polyphenolics in the stomach into anti-inflammatory compounds.”
+
+On a fun note, there is talk of using cocoa butter (2013) and chocolate (2017) to encapsulate probiotics. Yum.
+
+Infectious Theory of Dementia
+
+That’s a big one. Personally, I am inclined to believe that a lot of dementia-like and neurological symptoms are caused at least in part by infectious agents and the inflammation that ensues when they overwhelm the brain and the CNS at large (assisted by the environmental toxicity, the EMFs, etc.).
+
+I believe that we in the West have been kind of embarrassed to look into it in depth and face the fact that our idea of “western cleanliness” is a myth. Earlier this year, I wrote about the infectious theory of Alzheimer’s disease. Here is the summary:
+
+Until very recently, it was considered official and proven that Alzheimer’s Disease is non-infectious and caused by amyloid plaques
+
+Last year, the news came out that the foundational study on Alzheimer’s that had been driving the overall direction of research in the past two decades had been based on fraud
+
+The new emerging theory proposes that Alzheimer’s Disease may be triggered by pathogens, and amyloid plaques may form as an immune response
+
+However, it is important to the remember that even if a pathogen or a group of pathogens is truly involved in triggering the symptoms of Alzheimer’s Disease, the mainstream narrative will be inevitably twisted in favor of pushing for more vaccines
+
+Conclusion
+
+This list of new hypotheses and discoveries goes on, and on, and on. Science is a beautiful thing. It is also a humbling thing, no matter how much we know, there is always more that we don’t. As we can see from just a few examples of recent discoveries, modern scientists are babies, and modern science, even when honest, has only a very approximate understanding of the world.
+
+So next time a pundit tells you to “just trust the science,” ask him how many layers there are in the membrane protecting the brain. :) Or, even better, shut down the TV and take a walk outside. You’ll probably learn more.

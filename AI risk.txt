@@ -1,0 +1,444 @@
+Skip to content
+
+musings and rough drafts
+
+unpolished, semi-edited, streams of thought
+
+ Menu
+
+My current summary of the state of AI risk
+
+FEBRUARY 17, 2023 ~ ELITYRE
+
+Here’s the current, gloomy, state of AI risk:
+
+Scaling
+
+AI capabilities has made impressive progress in the past decade, and particularly in the past 3 years. Deep Learning has passed over the threshold from “interesting and impressive technical achievement” (AlphaGo), to “practically and commercially useful” (DALLE-2, ChatGPT).
+
+Not only is AI capabilities out of the “interesting demonstration” phase, it has been getting more general. Large Language Models are capable of a wide range of cognitive tasks, while AlphaGo only plays go.
+
+That progress has been driven almost entirely by more data and more compute. We mostly didn’t come up with clever insights. We just took out old algorithms, and made them bigger. That you can get increasing capability and increasing generality this way is suggestive that you can get transformative, or superhuman, AI systems, by just continuing to turn up the “size” and “training time” dials.
+
+And because of this dynamic, there is no one, in the whole world, who knows how these systems work.
+
+Misalignment
+
+Modern systems display many of the specific, alignment-failure phenomena that were discussed as theoretical ideas in the AI x-risk community before there were real systems to look at.
+
+I think that is worth emphasizing: The people who thought in 2010 that AGI would most likely destroy the world, predicted specific error modes of AI systems. We can see those error modes in our current systems.
+
+Currently, no one on earth has working solutions for these error modes.
+
+One of the leading AI labs has published an alignment plan. It makes no mention of many the most significant specific problems. It also relies heavily-to-exclusively on a training method that is possibly worse than useless, because it incentivizes deception and manipulation.
+
+Indeed the document might be uncharitably(?) summarized as “We agree that we’re playing with an extremely dangerous technology that could destroy the world. Our plan is to cross our fingers and hope that our single safety technique will scale well enough that we can have the powerful AI systems themselves help us solve most of the hard parts of the problem”, without giving any argument at all for why that is a reasonable assumption, much less an assumption worth risking the whole world on.
+
+￼
+
+A related take.
+
+Most AI labs have no published alignment plan at all.
+
+MIRI, the original AI alignment group, the one that first pointed out the problem, that has been working on it the longest, and who (according to some voices) took the problems most seriously, have all but given up, and urge us not to set our hopes on survival.
+
+They say that they made a desperate effort to solve the core technical problems of alignment, failed, and don’t have any plan for how to proceed. The organization has largely dispersed: a majority of the technical staff have left the org, and most of the senior researchers are not currently working on any technical agenda.
+
+There are around 100 to 200 people working seriously on the technical problems of alignment (compared to ~1500 technical researchers at the current leading AI labs, and the ~50,000 people working on Machine learning more generally). Some of them have research trajectories that they consider promising, and are more optimistic than MIRI. But none of them currently have anything like complete, non-speculative alignment plan.
+
+To my knowledge, the most optimistic people who work full time on alignment have at least a double digit probability that AI will destroy the world. [Do note the obvious selection effect, here, though. If a person thinks the risks are sufficiently low, they probably don’t think much about the topic.]
+
+Recent AI advances have opened up new kinds of more empirical research. Partly because Large Language Models are enough like AGI that they can be a toy model for trying some alignment strategies.
+
+There’s 100x the effort going into adversarial training and interpretability research than there was 5 years ago. Maybe that will bear practically-relevant fruit.
+
+(This market thinks that there’s a 37% chance that interpretability tools will give us any understanding of how Large Language Models do the any of the magic that we can’t get with other algorithms by the end of 2026.)
+
+Policy
+
+There are a handful of people working on “AI policy”, or attempting to get into positions of power in government to guide public policy. The most important thing about AI policy is that there are currently approximately no workable AI policy ideas that both help with the biggest problems, and are at all politically feasible.
+
+Maybe we could set up a HUGE tax on training AI systems that slows down progress a lot, to buy us time? Or slow things down with regulations?
+
+You might like to make advanced AI research straight up illegal, but on my models, there are a bunch problems in the implementation details of a policy like that. If AI progress mostly comes from more compute…then we would have to put a put a global ban on making more computer chips? Or using too big of a computing cluster?
+
+Something like that probably would put Earth in a better position (though it doesn’t solve the problem, only buys us time). But a policy like that requires both enormous political might (you’re just going to end a bunch of industries, by fiat) and a kind of technical precision that law-makers virtually never have.
+
+And as Eliezer points out, we just had a global pandemic that was probably the result of gain of function research. Gain of function research entails making diseases more virulent or dangerous on purpose. It doesn’t have big benefits, and is supported mostly by a handful of scientists who do that work, for reasons that egregiously fail cost-benefit analysis.
+
+But the world has not banned gain-of-function research, as obvious as that would be to do.
+
+If that doesn’t happen, it seems utterly implausible that the government will successfully ban making or using big computers, given that the whole world uses computers, and there are enormous economic forces opposing them.
+
+Field expansion
+
+Over the past 10 years, an increasing number of people have started treating AI safety as a real subject of concern. That’s arguably good, but more people who agree the problem is important is not helpful if there are not tractable solutions to the problems to contribute to.
+
+This has caused many more new, young, researchers to enter the field. Mostly these new people are retreading old ideas, without realizing it, and accordingly more optimistic. The MIRI old guard say that almost every one of these people (with a small number of exceptions that can be counted on one hand), are dodging the hard part of the problem. Despite the influx of new people, no one is actually engaging with the actual, hard problem of alignment, at all, they say. It’s not that they’re trying and failing. They’re not even doing the kind of work that could make progress.
+
+The influx of people has so far not lead to many new insights. Perhaps we only need to give it time, and some of those people will blossom, but I’ll also note that 4 of the top 5 most promising/impressive alignment researchers had already gotten into the field by 2015. I think that there is a strong correlation between doing good work and having identified the problem early / being compelled by chains of technical and abstract moral reasoning. I think it is likely that there will not be another researcher who produces alignment ideas of the quality of Paul Christiano’s in the next 10 years. I think Paul is likely the best we’re going to get.
+
+I can think of exactly one up-and-coming person who might to be grow to be that caliber of researcher. (Though the space is so empty that one more person like that is something like a multiplier of 20 or 30% on our planet’s total serious effort on the hard problems that MIRI claims almost everyone fails to engage with.)
+
+There is now explicit infrastructure to teach and mentor these new people though, and that seems great. It had seemed for a while that the bottleneck for people coming to do good safety research was mentorship from people that already have some amount of traction on the problem. Someone noticed this and, and set up a system to make it as easy as possible for experienced alignment researchers to mentor as many junior researchers as they want to, without needing to do a bunch of assessment of candidates or deal with logistics. Given the state of the world, this seems like an obvious thing to do.
+
+I don’t know that this will actually work (especially if most of the existing researchers are themselves doing work that dodges the core problem), but it is absolutely the thing to try for making more excellent alignment researchers doing real work. And it might turn out that this is just a scalable way to build a healthy field.I’m grateful for and impressed by the SERI MATS team for making this happen.
+
+A sizable fraction of these new people, sincerely motivated by AI safety concerns, go to work on AI capabilities at AGI labs. Many of the biggest improvements in AI capabilities over the past year (RLHF enabling ChatGPT, in particular) have been the direct result of work done by people motivated by AI safety. It is a regular occurrence that I talk to someone who wants to help, and their plan is to go work for one of the AGI labs actively rushing to build AGI. Usually this is with the intention of “nudging” things toward safety, with no more detailed plan than that. Sometimes people have a more detailed model that involves doing specific research that they believe will help (often research in an ambiguous zone that is regarded as “capabilities” by some, and “safety” by others).
+
+All three of the leading AI labs are directly causally downstream of intervention from AI safety folk. Two of the labs would definitely not have been started without our action, and remaining one is ambiguous. It continues to be the case that the AI safety movement drives interest, investment, and talent into developing more and more advanced AI systems, with the explicit goal of building AGI.
+
+The future
+
+As AI capabilities grow, the hype around AI increases. More money, compute, and smart research effort is spent on making more and better AI every year.
+
+(I hear that ChatGTP caused Google Brain to go “code red”. My understanding is that, previously the culture of Google Brain had been skeptical of AGI, treating it as pie-in-the-sky fantasy by unserious people. But the release of ChatGPT, caused them have emergency meetings to pivot to discuss their strategy.) 
+
+No one knows when transformative AI will arrive. But I don’t know a single person who’s estimated timeline got longer, in the past 3 years. But I can think of dozens of people who’s timeline shrank. And of those that didn’t change, their timelines were already short.
+
+The trend has definitely been taking nearer-term possibilities more seriously.
+
+5 years is possible. 10 years is pretty plausible. 30 years would be surprising.
+
+The world is just starting to take an extremely wild ride. We’re really unprepared for it, in terms of technical safety and in terms of our society’s ability to adapt gracefully to the shock.
+
+15 years ago, some people first started pointing out that this trajectory would likely end in extinction. It seems like in almost every respect, the situation has gotten worse since then, not better.
+
+I expect it to situation to continue to worsen, as the AI capabilities -> AI hype -> AI capabilities cycle accelerates, and as a garbled lowest-common-denominator version of AI safety becomes a talking point on Fox News, etc., and a tribal battleground of the culture war.
+
+The situation does not look good.
+
+Share this:
+
+Twitter
+
+Facebook
+
+Related
+
+Capability testing as a pseudo fire alarmSeptember 7, 2019In "Thinking about AI alignment"
+
+A view of the main kinds of problems facing usAugust 14, 2020In "Macro-strategy"
+
+My current high-level strategic picture of the worldMarch 24, 2021In "Macro-strategy"
+
+POSTED IN UNCATEGORIZED
+
+￼
+
+Published by elityre
+
+View all posts by elityre
+
+Post navigation
+
+‹ PREVIOUSA note on “instrumental rationality”
+
+3 thoughts on “My current summary of the state of AI risk”
+
+￼Metastable
+
+FEBRUARY 18, 2023 AT 12:20 PM
+
+Good summary.
+I disagree with Google being sceptical of AGI, see this https://twitter.com/XiXiDu/status/1481282112208703489?t=i-mWa_rLtBiB8EsM3X_Dmw&s=19
+from January 2022.
+
+[Some typos: “The the MIRI old guard”; “person who might be grow to be that”]
+
+Like
+
+Reply
+
+￼vipulnaik
+
+FEBRUARY 18, 2023 AT 4:39 PM
+
+The MIRI post you link to (where they say they’ve given up) is an April Fool’s post.
+
+Like
+
+Reply
+
+￼elityre
+
+FEBRUARY 18, 2023 AT 6:58 PM
+
+I said “all but given up”, which is importantly different than “given up”.
+
+And…I have reason to think that this is Eliezer’s serious state of belief. For one thing, he has shared the same view in person.
+
+Like
+
+Reply
+
+Leave a Reply
+
+Your email address will not be published. Required fields are marked *
+
+COMMENT *
+
+NAME *
+
+EMAIL *
+
+WEBSITE
+
+ Notify me of new comments via email.
+
+ Notify me of new posts via email.
+
+Search for: 
+
+Recent Posts
+
+My current summary of the state of AI risk
+
+A note on “instrumental rationality”
+
+What is of increasing marginal value, and what is of decreasing?
+
+My policy on attempting to get people crypreserved
+
+Disembodied materialists and embodied hippies?
+
+Recent Comments
+
+￼elityre on My current summary of the stat…￼vipulnaik on My current summary of the stat…￼Metastable on My current summary of the stat…￼Daniel Filan on What is of increasing marginal…￼Daniel Filan on What is of increasing marginal…
+
+Archives
+
+February 2023
+
+October 2022
+
+July 2022
+
+April 2022
+
+March 2022
+
+January 2022
+
+September 2021
+
+April 2021
+
+March 2021
+
+December 2020
+
+August 2020
+
+July 2020
+
+May 2020
+
+April 2020
+
+March 2020
+
+February 2020
+
+January 2020
+
+December 2019
+
+November 2019
+
+October 2019
+
+September 2019
+
+August 2019
+
+July 2019
+
+June 2019
+
+May 2019
+
+March 2019
+
+February 2019
+
+January 2019
+
+December 2018
+
+November 2018
+
+August 2018
+
+July 2018
+
+June 2018
+
+January 2017
+
+March 2016
+
+February 2016
+
+Categories
+
+Applied Philosophy and Decision Theory of Saving the World
+
+Conversational Faciliation
+
+History and Sociology of Intellectual Lineages
+
+Learning Theory
+
+Macro-strategy
+
+Modeling the Social World
+
+Personal Productivity
+
+Psychological and Principles of Productivity
+
+Thinking about AI alignment
+
+Uncategorized
+
+Meta
+
+Register
+
+Log in
+
+Entries feed
+
+Comments feed
+
+WordPress.com
+
+Search for: 
+
+Recent Posts
+
+My current summary of the state of AI risk
+
+A note on “instrumental rationality”
+
+What is of increasing marginal value, and what is of decreasing?
+
+My policy on attempting to get people crypreserved
+
+Disembodied materialists and embodied hippies?
+
+Recent Comments
+
+￼elityre on My current summary of the stat…￼vipulnaik on My current summary of the stat…￼Metastable on My current summary of the stat…￼Daniel Filan on What is of increasing marginal…￼Daniel Filan on What is of increasing marginal…
+
+Archives
+
+February 2023
+
+October 2022
+
+July 2022
+
+April 2022
+
+March 2022
+
+January 2022
+
+September 2021
+
+April 2021
+
+March 2021
+
+December 2020
+
+August 2020
+
+July 2020
+
+May 2020
+
+April 2020
+
+March 2020
+
+February 2020
+
+January 2020
+
+December 2019
+
+November 2019
+
+October 2019
+
+September 2019
+
+August 2019
+
+July 2019
+
+June 2019
+
+May 2019
+
+March 2019
+
+February 2019
+
+January 2019
+
+December 2018
+
+November 2018
+
+August 2018
+
+July 2018
+
+June 2018
+
+January 2017
+
+March 2016
+
+February 2016
+
+Categories
+
+Applied Philosophy and Decision Theory of Saving the World
+
+Conversational Faciliation
+
+History and Sociology of Intellectual Lineages
+
+Learning Theory
+
+Macro-strategy
+
+Modeling the Social World
+
+Personal Productivity
+
+Psychological and Principles of Productivity
+
+Thinking about AI alignment
+
+Uncategorized
+
+Meta
+
+Register
+
+Log in
+
+Entries feed
+
+Comments feed
+
+WordPress.com
+
+BLOG AT WORDPRESS.COM.
+

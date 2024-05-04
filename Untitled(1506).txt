@@ -1,0 +1,58 @@
+Regulatory Motif Discovery using Genome-Wide Conservation Criteria
+Manolis Kellis, Bruce Birren, Eric Lander
+MIT/Whitehead Center for Genome Research
+
+Motif Discovery
+I also developed new computational methods to address the greater challenge of de novo regulatory motif discovery. Regulatory motifs are short 6-8 nucleotide sequence tags recognized by specific proteins that control gene expression, dictating when the associated genes will be turned on or off. Regulatory motif discovery has typically relied on extensive experimentation, evaluating gene expression of thousands of genes across dozens of experimental conditions, then constructing clusters of genes that show similar patterns of expression and searching their upstream sequences for over-represented sequence tags. In absence of biological knowledge of functionally related sets of genes, the identification or regulatory motifs has remained an open problem. Previous comparative studies have focused on individual instances of regulatory motifs, searching for conservation islands in intergenic regions. Such methods lack the power to discover the true motifs within these islands, since additional bases surrounding the motifs are spuriously conserved, not by natural selection but due to lack of divergence time between the species compared.
+
+I approached regulatory motif discovery using genome-wide methods, evaluating motif conservation simultaneously across the entire genome. I found that the spuriously conserved bases surrounding a motif varied across its different instances, allowing the signal of the true motifs to stand out. Computationally, the algorithm started with an exhaustive enumeration of short sequence seeds with non-random genome-wide conservation, followed by a motif refinement and collapsing step, leading to a small dictionary of discovered motifs. These included nearly all previously known regulatory motifs, and a similar number of novel motifs, most of which showed functional specificities. Overall, the purely computational method showed unprecedented power in extracting signal from noise. The discovery of such genome-wide signals would have been impossible using traditional gene-by-gene experimental approaches, regardless of the time and effort invested.
+
+Genome Evolution
+Manolis Kellis, Bruce Birren, Eric Lander
+MIT/Whitehead Center for Genome Research
+
+Genome Duplication and Emergence of New Functions
+Manolis Kellis, Bruce Birren, Eric Lander
+MIT/Whitehead Institute Center for Genome Research
+
+I have additionally applied computational methods to understand mechanisms of evolutionary innovation. It is generally thought that new functions arise by duplication of existing genes, but the mechanisms of duplication have been poorly understood. For example, the ancestry of hundreds of duplicated human and yeast genes has been under debate, some scientist arguing for complete genome duplication and others for independent duplication events. Previous comparative work has focused on divergence of individual gene families or regions, and the analyses have remained inconclusive.
+
+I have taken a genome-wide approach to address this question in yeast. Instead of using divergence rates of individual genes, I have focused on the conservation of gene order across the entire genome. My approach relied on a key dataset: the sequence of yeast species that diverged prior to the estimated time of duplication. My genome alignment methods provided definitive proof of complete genome duplication: every region of the newly sequenced relative corresponded to exactly two regions of the yeast genome. More than 90% of duplicated genes were lost in one copy or the other, but the remaining genes provided a sufficient signal to show complete duplication. This work has put an end to a long debate on the ancestry of the yeast genome that started nearly seven years ago with the completion of its sequencing. Additionally, the analysis led to the first genome-wide study of the emergence of new gene functions after duplication, with important revelations on the emergence of anti-viral defense mechanisms, environmental stress response, gene silencing and transcriptional regulation.
+
+Genomic Analysis of the Hox developmental genes
+Ken Dewar, Manolis Kellis, Eric Lander
+MIT/Whitehead Center for Genome Research
+
+Hox genes control the anterior-posterior axis of embryo formation during development. By comparing the intergenic regions of human, baboon, mouse, and rat hox clusters, we are trying to understand the reasons behind the preservation of sequence and spacing.
+
+Machine Learning
+Sketch based image retrieval
+Manolis Kellis, Ovidiu Marina, Patrick Winston
+MIT AI Lab
+Imagina
+My masters thesis was on Computer Vision, more precisely, sketch-based image retrieval. The project involved image understanding, segmentation, representation and learning (more about Imagina)
+
+Understanding Primitives in Human Motion
+Manolis Kellis, Michael Black
+Digital Video Analysis group (DiVA), Xerox PARC
+Human Motion
+Developped a new represenation for full-body 3D motion data. The goal is to find lower-dimensional manifolds that contain motion patterns for different activities, embedded in a 27-dimensional space defined by the angles of joints. Finding such structure in human motion would allow to describe activities much more compactly for recognition or generation of 3D motion in terms of primitives intrinsic to the dynamics of human anatomy.
+
+Handwritten character recognition
+Manolis Kellis, Paul Viola
+MIT AI Lab
+Character Recognition
+Presented a compact angle representation for handwritten characters based on online data that filters noise and facilitates recognition. Wavelet decopmosition of the character signal in derivative angle space is invariant to scaling or rotation and remains preserved within samples of the same character. Code in Matlab. Supervised by Paul Viola from the Learning and Vision group of the AI Lab at MIT.
+
+Learning Musical Patterns
+Manolis Kellis, Ovidiu Marina, Hooman Vassef, Dedric Carter, Patrick Winston
+MIT AI Lab
+Mood Project
+Under the supervision of Patrick Winston, more interested in understanding the human I/O channels, I wrote a program to recognize music by learning patterns of attentional state. Instead of observing the notes directly, we were more interested in watching the states that a note observer would go through. In other words, the succession of primitive routines that a note pattern-matcher uses in observing a note sequence should tell us more about a musical piece than the patterns extracted themselves. The strength of this project was a clean architecture for using meta-information about an observed phenomenon. It separated the low-level primitive routines (that match patterns, change the focus of attention to salient points, and establish properties about the observed events) from an attentional state observer of those low-level routines (that records and analyzes series of states the pattern matcher enters). This separation that the program exhibited is suggested by Minsky's notion of a B-brain that monitors the activity of our A-brain. (visit the MOOD team)
+
+Computational Geometry
+Surface Reconstruction
+Nina Amenta, Marshall Bern, Manolis Kellis
+Xerox PARC, CSL
+Crust Project
+My involvement in graphics also grew out of mathematical interest, in computational geometry. At Xerox PARC, I worked with Marshall Bern and Nina Amenta on a surface reconstruction algorithm. The algorithm relies on Voronoi diagrams and Delaunay triangulations to compute a provably correct reconstruction of the connectivity of a set of scattered sample points in space. Furthermore, the sampling density requirement is proportional to the curvature and proximity of other surface patches, which allows less dense sampling in those parts of the figure with fewer features. Our implementation reached speed and correctness benchmarks that were state of the art, and our work was published the subsequent summer at ACM Siggraph 1998, the largest graphics conference. (learn more about the Crust algorithm). Computer graphics was my new passion.

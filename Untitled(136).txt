@@ -1,0 +1,16 @@
+A Bubble Bath
+
+The bubble rejoin period is the same for the bubble, it's the total delay of the ring bubble path, and that's how long it takes a bubble to propagate around the ring, if it doesn't encounter any delays.
+
+A ring is a pipeline of oscillations that closes in on itself.
+
+Logically Determined Design
+according to the 
+
+Invocation Model of Process Expression using Null Convention Logic.
+
+Sincerely yours,
+Maybe someone out there gets this,
+And can explain it to me.
+
+— Notes from North Statespace
